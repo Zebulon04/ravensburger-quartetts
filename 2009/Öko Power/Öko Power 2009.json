@@ -1,0 +1,475 @@
+{
+  "year": 2009,
+  "collection": "Öko Power",
+  "cards": [
+    {
+      "card": "1A",
+      "category": "Elektro Future",
+      "name": "Evisol ThoRR 1",
+      "leistung_kw": "200",
+      "geschwindigkeit_km_h": "230",
+      "verbrauch_ca.-wert_l_": "1,6",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "200",
+      "country": "NL",
+      "info_right": "Prototyp"
+    },
+    {
+      "card": "1B",
+      "category": "Elektro Future",
+      "name": "Mindset",
+      "leistung_kw": "70",
+      "geschwindigkeit_km_h": "140",
+      "verbrauch_ca.-wert_l_": "1,2",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "200",
+      "country": "CH",
+      "info_right": "Prototyp"
+    },
+    {
+      "card": "1C",
+      "category": "Elektro Future",
+      "name": "AC Propulsion tzero",
+      "leistung_kw": "165",
+      "geschwindigkeit_km_h": "145",
+      "verbrauch_ca.-wert_l_": "1,2",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "480",
+      "country": "USA",
+      "info_right": "Prototyp"
+    },
+    {
+      "card": "1D",
+      "category": "Elektro Future",
+      "name": "Tesla Motors Roadster",
+      "leistung_kw": "185",
+      "geschwindigkeit_km_h": "200",
+      "verbrauch_ca.-wert_l_": "1,5",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "392",
+      "country": "USA",
+      "info_right": "Serie"
+    },
+    {
+      "card": "2A",
+      "category": "Benzin",
+      "name": "Citroen C1 1.0i",
+      "leistung_kw": "50",
+      "geschwindigkeit_km_h": "157",
+      "verbrauch_ca.-wert_l_": "4,6",
+      "co2-auustoß_g_km_": "109",
+      "reichweite_km": "760",
+      "country": "F"
+    },
+    {
+      "card": "2B",
+      "category": "Benzin",
+      "name": "Daihatsu Cuore 1.0",
+      "leistung_kw": "51",
+      "geschwindigkeit_km_h": "160",
+      "verbrauch_ca.-wert_l_": "4,4",
+      "co2-auustoß_g_km_": "104",
+      "reichweite_km": "818",
+      "country": "J"
+    },
+    {
+      "card": "2C",
+      "category": "Benzin",
+      "name": "Smart Fortwo micro hybrid drive",
+      "leistung_kw": "52",
+      "geschwindigkeit_km_h": "145",
+      "verbrauch_ca.-wert_l_": "4,3",
+      "co2-auustoß_g_km_": "103",
+      "reichweite_km": "767",
+      "country": "D"
+    },
+    {
+      "card": "2D",
+      "category": "Benzin",
+      "name": "Peugeot 107-70",
+      "leistung_kw": "50",
+      "geschwindigkeit_km_h": "157",
+      "verbrauch_ca.-wert_l_": "4,6",
+      "co2-auustoß_g_km_": "108",
+      "reichweite_km": "760",
+      "country": "F"
+    },
+    {
+      "card": "3A",
+      "category": "Diesel",
+      "name": "VW Polo 1.4 TDI BlueMotion",
+      "leistung_kw": "59",
+      "geschwindigkeit_km_h": "176",
+      "verbrauch_ca.-wert_l_": "4",
+      "co2-auustoß_g_km_": "104",
+      "reichweite_km": "1100",
+      "country": "D"
+    },
+    {
+      "card": "3B",
+      "category": "Diesel",
+      "name": "Smart Fortwo cdi",
+      "leistung_kw": "33",
+      "geschwindigkeit_km_h": "135",
+      "verbrauch_ca.-wert_l_": "3,3",
+      "co2-auustoß_g_km_": "88",
+      "reichweite_km": "1000",
+      "country": "D"
+    },
+    {
+      "card": "3C",
+      "category": "Diesel",
+      "name": "Citroen C2 1.4 Hdi",
+      "leistung_kw": "50",
+      "geschwindigkeit_km_h": "166",
+      "verbrauch_ca.-wert_l_": "4,2",
+      "co2-auustoß_g_km_": "111",
+      "reichweite_km": "870",
+      "country": "F"
+    },
+    {
+      "card": "3D",
+      "category": "Diesel",
+      "name": "Mini Cooper D",
+      "leistung_kw": "80",
+      "geschwindigkeit_km_h": "195",
+      "verbrauch_ca.-wert_l_": "4,4",
+      "co2-auustoß_g_km_": "104",
+      "reichweite_km": "1025",
+      "country": "GB"
+    },
+    {
+      "card": "4A",
+      "category": "Erdgas",
+      "name": "Fiat Punto 1.2 8V Natural Power",
+      "leistung_kw": "38",
+      "geschwindigkeit_km_h": "145",
+      "verbrauch_ca.-wert_l_": "6,1",
+      "co2-auustoß_g_km_": "119",
+      "reichweite_km": "1005",
+      "country": "I",
+      "info_right": "Bivalenter Antrieb mit Benzin"
+    },
+    {
+      "card": "4B",
+      "category": "Erdgas",
+      "name": "Opel Combo Tour 1.6 CNG",
+      "leistung_kw": "71",
+      "geschwindigkeit_km_h": "166",
+      "verbrauch_ca.-wert_l_": "7",
+      "co2-auustoß_g_km_": "133",
+      "reichweite_km": "370",
+      "country": "D",
+      "info_right": "Monovalent-Plus Antrieb"
+    },
+    {
+      "card": "4C",
+      "category": "Erdgas",
+      "name": "Mercedes E 200 NGT",
+      "leistung_kw": "120",
+      "geschwindigkeit_km_h": "227",
+      "verbrauch_ca.-wert_l_": "8,7",
+      "co2-auustoß_g_km_": "168",
+      "reichweite_km": "1017",
+      "country": "D",
+      "info_right": "Bivalenter Antrieb mit Benzin"
+    },
+    {
+      "card": "4D",
+      "category": "Erdgas",
+      "name": "VW Touran EcoFuel",
+      "leistung_kw": "80",
+      "geschwindigkeit_km_h": "180",
+      "verbrauch_ca.-wert_l_": "8",
+      "co2-auustoß_g_km_": "154",
+      "reichweite_km": "520",
+      "country": "D",
+      "info_right": "Monovalenter Antrieb"
+    },
+    {
+      "card": "5A",
+      "category": "Hybrid",
+      "name": "Mercedes S 400 Hybrid",
+      "leistung_kw": "220",
+      "geschwindigkeit_km_h": "250",
+      "verbrauch_ca.-wert_l_": "7,9",
+      "co2-auustoß_g_km_": "190",
+      "reichweite_km": "1139",
+      "country": "D"
+    },
+    {
+      "card": "5B",
+      "category": "Hybrid",
+      "name": "Toyota Prius Hybrid",
+      "leistung_kw": "82",
+      "geschwindigkeit_km_h": "170",
+      "verbrauch_ca.-wert_l_": "4,3",
+      "co2-auustoß_g_km_": "104",
+      "reichweite_km": "1070",
+      "country": "J"
+    },
+    {
+      "card": "5C",
+      "category": "Hybrid",
+      "name": "Lexus GS 450h",
+      "leistung_kw": "245",
+      "geschwindigkeit_km_h": "250",
+      "verbrauch_ca.-wert_l_": "7,9",
+      "co2-auustoß_g_km_": "186",
+      "reichweite_km": "820",
+      "country": "J"
+    },
+    {
+      "card": "5D",
+      "category": "Hybrid",
+      "name": "Peugeot 308 Hybrid HDI",
+      "leistung_kw": "80",
+      "geschwindigkeit_km_h": "180",
+      "verbrauch_ca.-wert_l_": "3,4",
+      "co2-auustoß_g_km_": "90",
+      "reichweite_km": "1600",
+      "country": "F"
+    },
+    {
+      "card": "6A",
+      "category": "Wasserstoff",
+      "name": "Nissan X-Trail FCV",
+      "leistung_kw": "90",
+      "geschwindigkeit_km_h": "150",
+      "verbrauch_ca.-wert_l_": "3,8",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "370",
+      "country": "J",
+      "info_right": "Prototyp / Antrieb Brennstoffzelle"
+    },
+    {
+      "card": "6B",
+      "category": "Wasserstoff",
+      "name": "Mercedes F 600 HYGENIUS",
+      "leistung_kw": "85",
+      "geschwindigkeit_km_h": "170",
+      "verbrauch_ca.-wert_l_": "3,3",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "400",
+      "country": "D",
+      "info_right": "Prototyp / Antrieb Brennstoffzelle"
+    },
+    {
+      "card": "6C",
+      "category": "Wasserstoff",
+      "name": "BMW H2R",
+      "leistung_kw": "210",
+      "geschwindigkeit_km_h": "300",
+      "verbrauch_ca.-wert_l_": "13,6",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "140",
+      "country": "D",
+      "info_right": "Prototyp / Verbrennungsmotor"
+    },
+    {
+      "card": "6D",
+      "category": "Wasserstoff",
+      "name": "BMW Hydrogen 7",
+      "leistung_kw": "192",
+      "geschwindigkeit_km_h": "230",
+      "verbrauch_ca.-wert_l_": "13,6",
+      "co2-auustoß_g_km_": "5",
+      "reichweite_km": "700",
+      "country": "D",
+      "info_right": "Prototyp / Verbrennungsmotor / Bivalenter Antrieb mit Benzin"
+    },
+    {
+      "card": "7A",
+      "category": "Elektro City Flitzer",
+      "name": "Nice Car Ze-0",
+      "leistung_kw": "18",
+      "geschwindigkeit_km_h": "80",
+      "verbrauch_ca.-wert_l_": "2",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "80",
+      "country": "GB"
+    },
+    {
+      "card": "7B",
+      "category": "Elektro City Flitzer",
+      "name": "Nice Car MyCar",
+      "leistung_kw": "4",
+      "geschwindigkeit_km_h": "64",
+      "verbrauch_ca.-wert_l_": "1",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "65",
+      "country": "GB"
+    },
+    {
+      "card": "7C",
+      "category": "Elektro City Flitzer",
+      "name": "Reva Greeny",
+      "leistung_kw": "6",
+      "geschwindigkeit_km_h": "80",
+      "verbrauch_ca.-wert_l_": "1,1",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "80",
+      "country": "IND"
+    },
+    {
+      "card": "7D",
+      "category": "Elektro City Flitzer",
+      "name": "Smart Fortwo ed",
+      "leistung_kw": "30",
+      "geschwindigkeit_km_h": "112",
+      "verbrauch_ca.-wert_l_": "1,4",
+      "co2-auustoß_g_km_": "0",
+      "reichweite_km": "115",
+      "country": "D"
+    },
+    {
+      "card": "8A",
+      "category": "Bioethanol E 85",
+      "name": "Saab 9-3 1.8t Biopower",
+      "leistung_kw": "129",
+      "geschwindigkeit_km_h": "215",
+      "verbrauch_ca.-wert_l_": "7,6",
+      "co2-auustoß_g_km_": "184",
+      "reichweite_km": "810",
+      "country": "S",
+      "info_right": "Flexi-Fuel Antrieb"
+    },
+    {
+      "card": "8B",
+      "category": "Bioethanol E 85",
+      "name": "Ford C-Max flexifuel",
+      "leistung_kw": "92",
+      "geschwindigkeit_km_h": "193",
+      "verbrauch_ca.-wert_l_": "7,2",
+      "co2-auustoß_g_km_": "169",
+      "reichweite_km": "530",
+      "country": "D",
+      "info_right": "Flexi-Fuel Antrieb"
+    },
+    {
+      "card": "8C",
+      "category": "Bioethanol E 85",
+      "name": "Koenigsegg CCXR Edition",
+      "leistung_kw": "749",
+      "geschwindigkeit_km_h": "400",
+      "verbrauch_ca.-wert_l_": "13",
+      "co2-auustoß_g_km_": "370",
+      "reichweite_km": "440",
+      "country": "S",
+      "info_right": "Flexi-Fuel Antrieb"
+    },
+    {
+      "card": "8D",
+      "category": "Bioethanol E 85",
+      "name": "Elia/Renault Megane RS Biofuel24",
+      "leistung_kw": "188",
+      "geschwindigkeit_km_h": "240",
+      "verbrauch_ca.-wert_l_": "8,9",
+      "co2-auustoß_g_km_": "207",
+      "reichweite_km": "670",
+      "country": "D/F",
+      "info_right": "Prototyp / Elia-Biofuel24 Technik"
+    },
+    {},
+    {
+      "verbrauch_ca.-wert_l_": "*1A - Benzin-Äquivalent",
+      "co2-auustoß_g_km_": "*8A - nur E 85: minus 80%"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*1B - Benzin-Äquivalent",
+      "co2-auustoß_g_km_": "*8B - nur E 85: minus 80%"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*1C - Benzin-Äquivalent",
+      "co2-auustoß_g_km_": "*8C - nur E 85: minus 80%"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*1D - Benzin-Äquivalent",
+      "co2-auustoß_g_km_": "*8D - nur E 85: minus 80%"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*2A - Benzin"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*2B - Benzin"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*2C - Benzin"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*2D - Benzin"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*3A - Diesel"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*3B - Diesel"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*3C - Diesel"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*3D - Diesel"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*4A - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*4B - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*4C - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*4D - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*5A - Benzin"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*5B - Benzin"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*5C - Benzin"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*5D - Diesel"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*6A - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*6B - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*6C - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*6D - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*7A - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*7B - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*7C - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*7D - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*8A - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*8B - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*8C - Benzin-Äquivalent"
+    },
+    {
+      "verbrauch_ca.-wert_l_": "*8D - Benzin-Äquivalent"
+    }
+  ]
+}

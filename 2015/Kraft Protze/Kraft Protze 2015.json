@@ -1,0 +1,506 @@
+{
+  "year": 2015,
+  "collection": "Kraft Protze",
+  "cards": [
+    {
+      "card": "1A",
+      "category": "Muldenkipper",
+      "name": "Liebherr T-284",
+      "kraft_t": "363",
+      "hubraum_ccm": "95400",
+      "leistung_kw": "3000",
+      "länge_m": "15,7",
+      "gewicht_t_": "600",
+      "country": "USA"
+    },
+    {
+      "card": "1B",
+      "category": "Muldenkipper",
+      "name": "Caterpillar CAT 797 F",
+      "kraft_t": "354",
+      "hubraum_ccm": "117100",
+      "leistung_kw": "2468",
+      "länge_m": "14,53",
+      "gewicht_t_": "623,7",
+      "country": "USA"
+    },
+    {
+      "card": "1C",
+      "category": "Muldenkipper",
+      "name": "Terex MT 6300 AC",
+      "kraft_t": "363",
+      "hubraum_ccm": "90000",
+      "leistung_kw": "2797",
+      "länge_m": "15,57",
+      "gewicht_t_": "325,8",
+      "country": "USA"
+    },
+    {
+      "card": "1D",
+      "category": "Muldenkipper",
+      "name": "Komatsu 960E-2K",
+      "kraft_t": "327",
+      "hubraum_ccm": "78000",
+      "leistung_kw": "2610",
+      "länge_m": "15,34",
+      "gewicht_t_": "576,7",
+      "country": "USA"
+    },
+    {
+      "card": "2A",
+      "category": "Bagger",
+      "name": "Hyundai R800LC-7A",
+      "kraft_t": "45,2",
+      "hubraum_ccm": "15000",
+      "leistung_kw": "380",
+      "länge_m": "13,1",
+      "gewicht_t_": "82,3",
+      "country": "ROK"
+    },
+    {
+      "card": "2B",
+      "category": "Bagger",
+      "name": "Doosan DX520 LC",
+      "kraft_t": "30,6",
+      "hubraum_ccm": "10964",
+      "leistung_kw": "245",
+      "länge_m": "11,43",
+      "gewicht_t_": "52",
+      "country": "ROK"
+    },
+    {
+      "card": "2C",
+      "category": "Bagger",
+      "name": "Case Construction CX 800 B",
+      "kraft_t": "33,7",
+      "hubraum_ccm": "15700",
+      "leistung_kw": "397",
+      "länge_m": "14,3",
+      "gewicht_t_": "80,4",
+      "country": "J"
+    },
+    {
+      "card": "2D",
+      "category": "Bagger",
+      "name": "Liebherr R 980 SME",
+      "kraft_t": "51,8",
+      "hubraum_ccm": "16160",
+      "leistung_kw": "420",
+      "länge_m": "13,8",
+      "gewicht_t_": "102,3",
+      "country": "F"
+    },
+    {
+      "card": "3A",
+      "category": "Kompakt-Raupenlader",
+      "name": "Case Construction TV 380",
+      "kraft_t": "3,5",
+      "hubraum_ccm": "3400",
+      "leistung_kw": "66",
+      "länge_m": "3,6",
+      "gewicht_t_": "4,6",
+      "country": "USA"
+    },
+    {
+      "card": "3B",
+      "category": "Kompakt-Raupenlader",
+      "name": "Bobcat T870",
+      "kraft_t": "4,5",
+      "hubraum_ccm": "3409",
+      "leistung_kw": "76",
+      "länge_m": "3,91",
+      "gewicht_t_": "5,7",
+      "country": "USA"
+    },
+    {
+      "card": "3C",
+      "category": "Kompakt-Raupenlader",
+      "name": "Takeuchi TL 250",
+      "kraft_t": "3,2",
+      "hubraum_ccm": "3769",
+      "leistung_kw": "68",
+      "länge_m": "3,99",
+      "gewicht_t_": "5,2",
+      "country": "J"
+    },
+    {
+      "card": "3D",
+      "category": "Kompakt-Raupenlader",
+      "name": "Gehl SL 7810 VTS",
+      "kraft_t": "3,6",
+      "hubraum_ccm": "4500",
+      "leistung_kw": "75",
+      "länge_m": "4,01",
+      "gewicht_t_": "4,8",
+      "country": "USA"
+    },
+    {
+      "card": "4A",
+      "category": "Radlader",
+      "name": "Weidemann 4070 CX100",
+      "kraft_t": "3,8",
+      "hubraum_ccm": "4400",
+      "leistung_kw": "75",
+      "länge_m": "5,95",
+      "gewicht_t_": "5,7",
+      "country": "D"
+    },
+    {
+      "card": "4B",
+      "category": "Radlader",
+      "name": "Schopf SFL 180",
+      "kraft_t": "44",
+      "hubraum_ccm": "10600",
+      "leistung_kw": "336",
+      "länge_m": "12",
+      "gewicht_t_": "50",
+      "country": "D"
+    },
+    {
+      "card": "4C",
+      "category": "Radlader",
+      "name": "Case Construction 1121 F",
+      "kraft_t": "20,7",
+      "hubraum_ccm": "8700",
+      "leistung_kw": "259",
+      "länge_m": "9,83",
+      "gewicht_t_": "27,3",
+      "country": "I"
+    },
+    {
+      "card": "4D",
+      "category": "Radlader",
+      "name": "Doosan DL 500",
+      "kraft_t": "23",
+      "hubraum_ccm": "10800",
+      "leistung_kw": "265",
+      "länge_m": "9,53",
+      "gewicht_t_": "30,7",
+      "country": "ROK"
+    },
+    {
+      "card": "5A",
+      "category": "Planierraupen",
+      "name": "Komatsu D 475",
+      "kraft_t": "73",
+      "hubraum_ccm": "30480",
+      "leistung_kw": "671",
+      "länge_m": "10,53",
+      "gewicht_t_": "112,2",
+      "country": "USA"
+    },
+    {
+      "card": "5B",
+      "category": "Planierraupen",
+      "name": "Liugong Dressta TD-40E EXTRA",
+      "kraft_t": "112,2",
+      "hubraum_ccm": "19000",
+      "leistung_kw": "418",
+      "länge_m": "9,8",
+      "gewicht_t_": "67,7",
+      "country": "PL"
+    },
+    {
+      "card": "5C",
+      "category": "Planierraupen",
+      "name": "Caterpillar D 11 T CD",
+      "kraft_t": "90",
+      "hubraum_ccm": "32110",
+      "leistung_kw": "634",
+      "länge_m": "10,92",
+      "gewicht_t_": "113",
+      "country": "USA"
+    },
+    {
+      "card": "5D",
+      "category": "Planierraupen",
+      "name": "Liebherr PR 764",
+      "kraft_t": "62,2",
+      "hubraum_ccm": "16200",
+      "leistung_kw": "310",
+      "länge_m": "10",
+      "gewicht_t_": "52,7",
+      "country": "A"
+    },
+    {
+      "card": "6A",
+      "category": "Mobil-Krane",
+      "name": "Hubel Fotma QY100K",
+      "kraft_t": "100",
+      "hubraum_ccm": "14000",
+      "leistung_kw": "324",
+      "länge_m": "15,23",
+      "gewicht_t_": "65",
+      "country": "CN"
+    },
+    {
+      "card": "6B",
+      "category": "Mobil-Krane",
+      "name": "Terex AC1000",
+      "kraft_t": "1200",
+      "hubraum_ccm": "15930",
+      "leistung_kw": "480",
+      "länge_m": "20,31",
+      "gewicht_t_": "108",
+      "country": "D"
+    },
+    {
+      "card": "6C",
+      "category": "Mobil-Krane",
+      "name": "Manitovoc Grove GMK 7450",
+      "kraft_t": "450",
+      "hubraum_ccm": "15900",
+      "leistung_kw": "420",
+      "länge_m": "19,62",
+      "gewicht_t_": "84",
+      "country": "D"
+    },
+    {
+      "card": "6D",
+      "category": "Mobil-Krane",
+      "name": "Liebherr LTM 11200-9.1",
+      "kraft_t": "1200",
+      "hubraum_ccm": "16200",
+      "leistung_kw": "500",
+      "länge_m": "26,42",
+      "gewicht_t_": "108",
+      "country": "D"
+    },
+    {
+      "card": "7A",
+      "category": "Flugzeugschlepper",
+      "name": "Trepel Challenger 700",
+      "kraft_t": "50,8",
+      "hubraum_ccm": "11900",
+      "leistung_kw": "330",
+      "länge_m": "8,7",
+      "gewicht_t_": "70",
+      "country": "D"
+    },
+    {
+      "card": "7B",
+      "category": "Flugzeugschlepper",
+      "name": "Shenzen Techking Ind. TK-QY400",
+      "kraft_t": "40",
+      "hubraum_ccm": "11904",
+      "leistung_kw": "300",
+      "länge_m": "9,58",
+      "gewicht_t_": "55",
+      "country": "CN"
+    },
+    {
+      "card": "7C",
+      "category": "Flugzeugschlepper",
+      "name": "Schopf F396P",
+      "kraft_t": "46,9",
+      "hubraum_ccm": "11900",
+      "leistung_kw": "330",
+      "länge_m": "9,6",
+      "gewicht_t_": "70",
+      "country": "D"
+    },
+    {
+      "card": "7D",
+      "category": "Flugzeugschlepper",
+      "name": "Bliss-Fox FI 500",
+      "kraft_t": "56",
+      "hubraum_ccm": "14000",
+      "leistung_kw": "450",
+      "länge_m": "9,4",
+      "gewicht_t_": "70",
+      "country": "AUS"
+    },
+    {
+      "card": "8A",
+      "category": "Großbagger",
+      "name": "Caterpillar CAT 6090",
+      "kraft_t": "367,1",
+      "hubraum_ccm": "120400",
+      "leistung_kw": "3360",
+      "länge_m": "25,5",
+      "gewicht_t_": "980",
+      "country": "D"
+    },
+    {
+      "card": "8B",
+      "category": "Großbagger",
+      "name": "Liebherr R 9800",
+      "kraft_t": "179,4",
+      "hubraum_ccm": "120000",
+      "leistung_kw": "2984",
+      "länge_m": "29,8",
+      "gewicht_t_": "793",
+      "country": "D"
+    },
+    {
+      "card": "8C",
+      "category": "Großbagger",
+      "name": "Hitachi EX8000-6",
+      "kraft_t": "292,7",
+      "hubraum_ccm": "120000",
+      "leistung_kw": "2900",
+      "länge_m": "25",
+      "gewicht_t_": "811",
+      "country": "J"
+    },
+    {
+      "card": "8D",
+      "category": "Großbagger",
+      "name": "Komatsu PC8000",
+      "kraft_t": "236,6",
+      "hubraum_ccm": "120000",
+      "leistung_kw": "3000",
+      "länge_m": "18,55",
+      "gewicht_t_": "737",
+      "country": "D"
+    },
+    {},
+    {
+      "card": "1A",
+      "kraft_t": "Nutzlast"
+    },
+    {
+      "card": "1B",
+      "kraft_t": "Nutzlast"
+    },
+    {
+      "card": "1C",
+      "kraft_t": "Nutzlast"
+    },
+    {
+      "card": "1D",
+      "kraft_t": "Nutzlast"
+    },
+    {
+      "card": "2A",
+      "kraft_t": "Losbrechkraft"
+    },
+    {
+      "card": "2B",
+      "kraft_t": "Losbrechkraft"
+    },
+    {
+      "card": "2C",
+      "kraft_t": "Losbrechkraft"
+    },
+    {
+      "card": "2D",
+      "kraft_t": "Losbrechkraft"
+    },
+    {
+      "card": "3A",
+      "kraft_t": "Kipplast"
+    },
+    {
+      "card": "3B",
+      "kraft_t": "Kipplast"
+    },
+    {
+      "card": "3C",
+      "kraft_t": "Kipplast"
+    },
+    {
+      "card": "3D",
+      "kraft_t": "Kipplast"
+    },
+    {
+      "card": "4A",
+      "kraft_t": "Kipplast"
+    },
+    {
+      "card": "4B",
+      "kraft_t": "Kipplast"
+    },
+    {
+      "card": "4C",
+      "kraft_t": "Kipplast"
+    },
+    {
+      "card": "4D",
+      "kraft_t": "Kipplast"
+    },
+    {
+      "card": "5A",
+      "kraft_t": "Zugkraft"
+    },
+    {
+      "card": "5B",
+      "kraft_t": "Zugkraft"
+    },
+    {
+      "card": "5C",
+      "kraft_t": "Zugkraft"
+    },
+    {
+      "card": "5D",
+      "kraft_t": "Zugkraft"
+    },
+    {
+      "card": "6A",
+      "kraft_t": "Traglast"
+    },
+    {
+      "card": "6B",
+      "kraft_t": "Traglast"
+    },
+    {
+      "card": "6C",
+      "kraft_t": "Traglast"
+    },
+    {
+      "card": "6D",
+      "kraft_t": "Traglast"
+    },
+    {
+      "card": "7A",
+      "kraft_t": "Zugkraft"
+    },
+    {
+      "card": "7B",
+      "kraft_t": "Zugkraft"
+    },
+    {
+      "card": "7C",
+      "kraft_t": "Zugkraft"
+    },
+    {
+      "card": "7D",
+      "kraft_t": "Zugkraft"
+    },
+    {
+      "card": "8A",
+      "kraft_t": "Lobrechkraft"
+    },
+    {
+      "card": "8B",
+      "kraft_t": "Lobrechkraft"
+    },
+    {
+      "card": "8C",
+      "kraft_t": "Lobrechkraft"
+    },
+    {
+      "card": "8D",
+      "kraft_t": "Lobrechkraft"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ]
+}

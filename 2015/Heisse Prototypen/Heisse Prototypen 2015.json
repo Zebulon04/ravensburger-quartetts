@@ -1,0 +1,424 @@
+{
+  "year": 2015,
+  "collection": "Heisse Prototypen",
+  "cards": [
+    {
+      "card": "1A",
+      "category": "Freizeit-Cracks",
+      "name": "Audi TT offroad concept",
+      "hubraum_ccm": "1984",
+      "leistung_kw": "300",
+      "zylinder": "4",
+      "gewicht_kg_": "1790",
+      "länge_m": "4,39",
+      "country": "D",
+      "info_right": "Im Jahr 2014 vorgestellt"
+    },
+    {
+      "card": "1B",
+      "category": "Freizeit-Cracks",
+      "name": "Seat IBX",
+      "hubraum_ccm": "1390",
+      "leistung_kw": "175",
+      "zylinder": "4",
+      "gewicht_kg_": "1480",
+      "länge_m": "4,26",
+      "country": "E",
+      "info_right": "Im Jahr 2011 vorgestellt"
+    },
+    {
+      "card": "1C",
+      "category": "Freizeit-Cracks",
+      "name": "Mitsubishi Sport Truck",
+      "hubraum_ccm": "4700",
+      "leistung_kw": "173",
+      "zylinder": "8",
+      "gewicht_kg_": "2000",
+      "länge_m": "5,25",
+      "country": "J",
+      "info_right": "Im Jahr 2004 vorgestellt"
+    },
+    {
+      "card": "1D",
+      "category": "Freizeit-Cracks",
+      "name": "Toyota C-HR Concept",
+      "hubraum_ccm": "2494",
+      "leistung_kw": "145",
+      "zylinder": "4",
+      "gewicht_kg_": "1600",
+      "länge_m": "4,35",
+      "country": "J",
+      "info_right": "Im Jahr 2014 vorgestellt"
+    },
+    {
+      "card": "2A",
+      "category": "Frischluft-Visionen",
+      "name": "Nissan Urge",
+      "hubraum_ccm": "3498",
+      "leistung_kw": "206",
+      "zylinder": "6",
+      "gewicht_kg_": "1090",
+      "länge_m": "3,98",
+      "country": "J",
+      "info_right": "Im Jahr 2006 vorgestellt"
+    },
+    {
+      "card": "2B",
+      "category": "Frischluft-Visionen",
+      "name": "Peugeot 20Cup",
+      "hubraum_ccm": "1600",
+      "leistung_kw": "125",
+      "zylinder": "4",
+      "gewicht_kg_": "498",
+      "länge_m": "3,63",
+      "country": "F",
+      "info_right": "Im Jahr 2005 vorgestellt"
+    },
+    {
+      "card": "2C",
+      "category": "Frischluft-Visionen",
+      "name": "Mazda MX-5 Superlight",
+      "hubraum_ccm": "1798",
+      "leistung_kw": "93",
+      "zylinder": "4",
+      "gewicht_kg_": "975",
+      "länge_m": "4,02",
+      "country": "J",
+      "info_right": "Im Jahr 2009 vorgestellt"
+    },
+    {
+      "card": "2D",
+      "category": "Frischluft-Visionen",
+      "name": "SEAT Ibiza CUPSTER",
+      "hubraum_ccm": "1390",
+      "leistung_kw": "132",
+      "zylinder": "4",
+      "gewicht_kg_": "1198",
+      "länge_m": "4,04",
+      "country": "E",
+      "info_right": "Im Jahr 2014 vorgestellt"
+    },
+    {
+      "card": "3A",
+      "category": "American Stars",
+      "name": "Hydra Spyder",
+      "hubraum_ccm": "6000",
+      "leistung_kw": "298",
+      "zylinder": "8",
+      "gewicht_kg_": "1496",
+      "länge_m": "4,72",
+      "country": "USA",
+      "info_right": "Im Jahr 2010 vorgestellt"
+    },
+    {
+      "card": "3B",
+      "category": "American Stars",
+      "name": "SSC Ultimate Aero",
+      "hubraum_ccm": "3872",
+      "leistung_kw": "946",
+      "zylinder": "8",
+      "gewicht_kg_": "1247",
+      "länge_m": "4,48",
+      "country": "USA",
+      "info_right": "Im Jahr 2010 vorgestellt"
+    },
+    {
+      "card": "3C",
+      "category": "American Stars",
+      "name": "Saleen S5S Raptor",
+      "hubraum_ccm": "4990",
+      "leistung_kw": "478",
+      "zylinder": "8",
+      "gewicht_kg_": "1526",
+      "länge_m": "4,45",
+      "country": "USA",
+      "info_right": "Im Jahr 2008 vorgestellt"
+    },
+    {
+      "card": "3D",
+      "category": "American Stars",
+      "name": "Callaway C16",
+      "hubraum_ccm": "6195",
+      "leistung_kw": "485",
+      "zylinder": "8",
+      "gewicht_kg_": "1531",
+      "länge_m": "4,1",
+      "country": "USA",
+      "info_right": "Im Jahr 2010 vorgestellt"
+    },
+    {
+      "card": "4A",
+      "category": "Just for Fun",
+      "name": "Jeep Renegade",
+      "hubraum_ccm": "1500",
+      "leistung_kw": "85",
+      "zylinder": "3",
+      "gewicht_kg_": "1400",
+      "länge_m": "3,88",
+      "country": "USA",
+      "info_right": "Im Jahr 2008 vorgestellt"
+    },
+    {
+      "card": "4B",
+      "category": "Just for Fun",
+      "name": "Kia provo",
+      "hubraum_ccm": "1600",
+      "leistung_kw": "183",
+      "zylinder": "4",
+      "gewicht_kg_": "1200",
+      "länge_m": "3,88",
+      "country": "ROK",
+      "info_right": "Im Jahr 2013 vorgestellt"
+    },
+    {
+      "card": "4C",
+      "category": "Just for Fun",
+      "name": "VW GX3",
+      "hubraum_ccm": "1598",
+      "leistung_kw": "92",
+      "zylinder": "4",
+      "gewicht_kg_": "570",
+      "länge_m": "3,75",
+      "country": "D",
+      "info_right": "Im Jahr 2006 vorgestellt"
+    },
+    {
+      "card": "4D",
+      "category": "Just for Fun",
+      "name": "Mini Coupé",
+      "hubraum_ccm": "1598",
+      "leistung_kw": "155",
+      "zylinder": "4",
+      "gewicht_kg_": "1170",
+      "länge_m": "3,71",
+      "country": "GB",
+      "info_right": "Im Jahr 2009 vorgestellt"
+    },
+    {
+      "card": "5A",
+      "category": "Superlativos",
+      "name": "Infiniti Q80 Inspiration",
+      "hubraum_ccm": "3000",
+      "leistung_kw": "410",
+      "zylinder": "6",
+      "gewicht_kg_": "k.A.",
+      "länge_m": "5,06",
+      "country": "J",
+      "info_right": "Im Jahr 2014 vorgestellt"
+    },
+    {
+      "card": "5B",
+      "category": "Superlativos",
+      "name": "BMW i8 concept",
+      "hubraum_ccm": "1500",
+      "leistung_kw": "260",
+      "zylinder": "3",
+      "gewicht_kg_": "1480",
+      "länge_m": "4,63",
+      "country": "D",
+      "info_right": "Im Jahr 2011 vorgestellt"
+    },
+    {
+      "card": "5C",
+      "category": "Superlativos",
+      "name": "GT by Citroën",
+      "hubraum_ccm": "4200",
+      "leistung_kw": "404",
+      "zylinder": "8",
+      "gewicht_kg_": "1400",
+      "länge_m": "4,96",
+      "country": "F",
+      "info_right": "Im Jahr 2008 vorgestellt"
+    },
+    {
+      "card": "5D",
+      "category": "Superlativos",
+      "name": "Mercedes Concept S-Class Coupé",
+      "hubraum_ccm": "4663",
+      "leistung_kw": "335",
+      "zylinder": "8",
+      "gewicht_kg_": "1750",
+      "länge_m": "5,05",
+      "country": "D",
+      "info_right": "Im Jahr 2013 vorgestellt"
+    },
+    {
+      "card": "6A",
+      "category": "Classic-Future",
+      "name": "Kia GT",
+      "hubraum_ccm": "3342",
+      "leistung_kw": "291",
+      "zylinder": "6",
+      "gewicht_kg_": "1500",
+      "länge_m": "4,69",
+      "country": "ROK",
+      "info_right": "Im Jahr 2011 vorgestellt"
+    },
+    {
+      "card": "6B",
+      "category": "Classic-Future",
+      "name": "Mercedes F800",
+      "hubraum_ccm": "3498",
+      "leistung_kw": "300",
+      "zylinder": "6",
+      "gewicht_kg_": "1700",
+      "länge_m": "4,74",
+      "country": "D",
+      "info_right": "Im Jahr 2010 vorgestellt"
+    },
+    {
+      "card": "6C",
+      "category": "Classic-Future",
+      "name": "Renault EOLAB",
+      "hubraum_ccm": "1000",
+      "leistung_kw": "97",
+      "zylinder": "3",
+      "gewicht_kg_": "955",
+      "länge_m": "4,07",
+      "country": "F",
+      "info_right": "Im Jahr 2014 vorgestellt"
+    },
+    {
+      "card": "6D",
+      "category": "Classic-Future",
+      "name": "Volvo Concept Universe",
+      "hubraum_ccm": "2000",
+      "leistung_kw": "257",
+      "zylinder": "4",
+      "gewicht_kg_": "1600",
+      "länge_m": "4,95",
+      "country": "S",
+      "info_right": "Im Jahr 2011 vorgestellt"
+    },
+    {
+      "card": "7A",
+      "category": "Coupé-Konzepte",
+      "name": "Lexus LF-LC",
+      "hubraum_ccm": "3500",
+      "leistung_kw": "368",
+      "zylinder": "6",
+      "gewicht_kg_": "1480",
+      "länge_m": "4,6",
+      "country": "J",
+      "info_right": "Im Jahr 2012 vorgestellt"
+    },
+    {
+      "card": "7B",
+      "category": "Coupé-Konzepte",
+      "name": "Seat Bocanegra",
+      "hubraum_ccm": "1390",
+      "leistung_kw": "125",
+      "zylinder": "4",
+      "gewicht_kg_": "1170",
+      "länge_m": "4,06",
+      "country": "E",
+      "info_right": "Im Jahr 2008 vorgestellt"
+    },
+    {
+      "card": "7C",
+      "category": "Coupé-Konzepte",
+      "name": "Citroën Divine DS",
+      "hubraum_ccm": "1598",
+      "leistung_kw": "199",
+      "zylinder": "4",
+      "gewicht_kg_": "1420",
+      "länge_m": "4,2",
+      "country": "F",
+      "info_right": "Im Jahr 2014 vorgestellt"
+    },
+    {
+      "card": "7D",
+      "category": "Coupé-Konzepte",
+      "name": "Mercedes Concept Style Coupé",
+      "hubraum_ccm": "1991",
+      "leistung_kw": "155",
+      "zylinder": "4",
+      "gewicht_kg_": "1495",
+      "länge_m": "4,63",
+      "country": "D",
+      "info_right": "Im Jahr 2012 vorgestellt"
+    },
+    {
+      "card": "8A",
+      "category": "Bella Italia",
+      "name": "Bertone Alfa Romeo Pandion",
+      "hubraum_ccm": "4700",
+      "leistung_kw": "331",
+      "zylinder": "8",
+      "gewicht_kg_": "1000",
+      "länge_m": "4,62",
+      "country": "I",
+      "info_right": "Im Jahr 2010 vorgestellt"
+    },
+    {
+      "card": "8B",
+      "category": "Bella Italia",
+      "name": "Lamborghini Egoista",
+      "hubraum_ccm": "5200",
+      "leistung_kw": "441",
+      "zylinder": "10",
+      "gewicht_kg_": "-",
+      "länge_m": "-",
+      "country": "I",
+      "info_right": "Im Jahr 2013 vorgestellt"
+    },
+    {
+      "card": "8C",
+      "category": "Bella Italia",
+      "name": "Italdesign Giugiaro Quaranta",
+      "hubraum_ccm": "3311",
+      "leistung_kw": "200",
+      "zylinder": "6",
+      "gewicht_kg_": "1400",
+      "länge_m": "4,45",
+      "country": "I",
+      "info_right": "Im Jahr 2008 vorgestellt"
+    },
+    {
+      "card": "8D",
+      "category": "Bella Italia",
+      "name": "Touring A8GCS Berlinetta",
+      "hubraum_ccm": "4244",
+      "leistung_kw": "294",
+      "zylinder": "8",
+      "gewicht_kg_": "1150",
+      "länge_m": "4,15",
+      "country": "I",
+      "info_right": "Im Jahr 2008 vorgestellt"
+    },
+    {},
+    {
+      "leistung_kw": "* 1A - Hybridsystem"
+    },
+    {
+      "leistung_kw": "* 1B - Hybridsystem"
+    },
+    {
+      "leistung_kw": "* 1D - Hybridsystem"
+    },
+    {
+      "leistung_kw": "* 4B - Hybridsystem"
+    },
+    {
+      "leistung_kw": "* 5A - Hybridsystem"
+    },
+    {
+      "leistung_kw": "* 5B - Hybridsystem"
+    },
+    {
+      "leistung_kw": "* 6B - Hybridsystem"
+    },
+    {
+      "leistung_kw": "* 6C - Hybridsystem"
+    },
+    {
+      "leistung_kw": "* 6D - Hybridsystem"
+    },
+    {
+      "leistung_kw": "* 7A - Hybridsystem"
+    },
+    {
+      "leistung_kw": "* 8C - Hybridsystem"
+    }
+  ]
+}

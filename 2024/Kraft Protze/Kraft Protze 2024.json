@@ -355,175 +355,43 @@
       "country": "GB"
     },
     {},
-    {
-      "card": "1A",
-      "kraft_t": "Lobrechkraft"
-    },
-    {
-      "card": "1B",
-      "kraft_t": "Lobrechkraft"
-    },
-    {
-      "card": "1C",
-      "kraft_t": "Lobrechkraft"
-    },
-    {
-      "card": "1D",
-      "kraft_t": "Lobrechkraft"
-    },
-    {
-      "card": "2A",
-      "kraft_t": "Losbrechkraft"
-    },
-    {
-      "card": "2B",
-      "kraft_t": "Losbrechkraft"
-    },
-    {
-      "card": "2C",
-      "kraft_t": "Losbrechkraft"
-    },
-    {
-      "card": "2D",
-      "kraft_t": "Losbrechkraft"
-    },
-    {
-      "card": "3A",
-      "kraft_t": "Losbrechkraft"
-    },
-    {
-      "card": "3B",
-      "kraft_t": "Losbrechkraft"
-    },
-    {
-      "card": "3C",
-      "kraft_t": "Losbrechkraft"
-    },
-    {
-      "card": "3D",
-      "kraft_t": "Losbrechkraft"
-    },
-    {
-      "card": "4A",
-      "kraft_t": "Kipplast"
-    },
-    {
-      "card": "4B",
-      "kraft_t": "Kipplast"
-    },
-    {
-      "card": "4C",
-      "kraft_t": "Kipplast"
-    },
-    {
-      "card": "4D",
-      "kraft_t": "Kipplast"
-    },
-    {
-      "card": "5A",
-      "kraft_t": "Zugkraft"
-    },
-    {
-      "card": "5B",
-      "kraft_t": "Zugkraft"
-    },
-    {
-      "card": "5C",
-      "kraft_t": "Zugkraft"
-    },
-    {
-      "card": "5D",
-      "kraft_t": "Zugkraft"
-    },
-    {
-      "card": "6A",
-      "kraft_t": "Traglast"
-    },
-    {
-      "card": "6B",
-      "kraft_t": "Traglast"
-    },
-    {
-      "card": "6C",
-      "kraft_t": "Traglast"
-    },
-    {
-      "card": "6D",
-      "kraft_t": "Traglast"
-    },
-    {
-      "card": "7A",
-      "kraft_t": "Zugkraft"
-    },
-    {
-      "card": "7B",
-      "kraft_t": "Zugkraft"
-    },
-    {
-      "card": "7C",
-      "kraft_t": "Zugkraft"
-    },
-    {
-      "card": "7D",
-      "kraft_t": "Zugkraft"
-    },
-    {
-      "card": "8A",
-      "kraft_t": "Nutzlast"
-    },
-    {
-      "card": "8B",
-      "kraft_t": "Nutzlast"
-    },
-    {
-      "card": "8C",
-      "kraft_t": "Nutzlast"
-    },
-    {
-      "card": "8D",
-      "kraft_t": "Nutzlast"
-    },
     {},
-    {
-      "category": "Kompakt-Raupenlader",
-      "name": "Case Construction TV 380",
-      "kraft_t": "3,5",
-      "hubraum_ccm": "3400",
-      "leistung_kw": "66",
-      "länge_m": "3,6",
-      "gewicht_t_": "4,6",
-      "country": "USA"
-    },
-    {
-      "category": "Kompakt-Raupenlader",
-      "name": "Bobcat T870",
-      "kraft_t": "4,5",
-      "hubraum_ccm": "3409",
-      "leistung_kw": "76",
-      "länge_m": "3,91",
-      "gewicht_t_": "5,7",
-      "country": "USA"
-    },
-    {
-      "category": "Kompakt-Raupenlader",
-      "name": "Takeuchi TL 12 V2",
-      "kraft_t": "5,3",
-      "hubraum_ccm": "3769",
-      "leistung_kw": "78",
-      "länge_m": "4,05",
-      "gewicht_t_": "5,9",
-      "country": "J"
-    },
-    {
-      "category": "Kompakt-Raupenlader",
-      "name": "Gehl SL 7810 VTS",
-      "kraft_t": "3,6",
-      "hubraum_ccm": "4500",
-      "leistung_kw": "75",
-      "länge_m": "4,01",
-      "gewicht_t_": "4,8",
-      "country": "USA"
-    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {},
     {},
     {},

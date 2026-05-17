@@ -3,7 +3,7 @@ import json
 from collections import defaultdict
 
 # Output file
-OUTPUT_FILE = "grouped_card_info.json"
+OUTPUT_FILE = "grouped_cards_extended.json"
 
 # Dictionary for grouping
 grouped_data = defaultdict(list)
@@ -26,12 +26,28 @@ for root, dirs, files in os.walk("."):
 
                 # Add cards
                 for card in data.get("cards", []):
-                    grouped_data[key].append({
+
+                    # Start with required fields
+                    extracted_card = {
                         "card": card.get("card"),
-                        "info_left": card.get("info_left"),
-                        "info_right": card.get("info_right"),
-                        "info_image": card.get("info_image")
-                    })
+                        "name": card.get("name")
+                    }
+
+                    # Optional fields (only add if not empty)
+                    optional_fields = [
+                        "info_left",
+                        "info_right",
+                        "info_image"
+                    ]
+
+                    for field in optional_fields:
+                        value = card.get(field)
+
+                        # Ignore None, empty strings, whitespace-only strings
+                        if value is not None and str(value).strip() != "":
+                            extracted_card[field] = value
+
+                    grouped_data[key].append(extracted_card)
 
             except Exception as e:
                 print(f"Error reading {filepath}: {e}")

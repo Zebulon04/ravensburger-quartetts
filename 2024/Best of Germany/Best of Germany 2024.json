@@ -385,23 +385,6 @@
       "verbrauch_ece_l_100_km_": "13",
       "country": "D",
       "info_right": "Kaufpreis ab 177.000,- EUR"
-    },
-    {},
-    {
-      "leistung_kw": "*3A - Hybridsystem",
-      "max._drehmoment_nm": "*3A - Hybridsystem"
-    },
-    {
-      "leistung_kw": "*5A - Hybridsystem",
-      "max._drehmoment_nm": "*5A - Hybridsystem"
-    },
-    {
-      "leistung_kw": "*5C - Hybridsystem",
-      "max._drehmoment_nm": "*5C - Hybridsystem"
-    },
-    {
-      "leistung_kw": "*6A - Hybridsystem",
-      "max._drehmoment_nm": "*6A - Hybridsystem"
     }
   ]
 }

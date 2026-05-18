@@ -35,6 +35,7 @@ for root, dirs, files in os.walk("."):
 
                     # Optional fields (only add if not empty)
                     optional_fields = [
+                        "country",
                         "info_left",
                         "info_right",
                         "info_image"

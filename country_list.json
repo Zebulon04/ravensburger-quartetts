@@ -1,0 +1,426 @@
+[
+  {
+    "Code": "A",
+    "Country": "Austria"
+  },
+  {
+    "Code": "AG",
+    "Country": "Antigua and Barbuda"
+  },
+  {
+    "Code": "ANT",
+    "Country": "Antigua and Barbuda"
+  },
+  {
+    "Code": "AUS",
+    "Country": "Australia"
+  },
+  {
+    "Code": "B",
+    "Country": "Belgium"
+  },
+  {
+    "Code": "BLR",
+    "Country": "Belarus"
+  },
+  {
+    "Code": "BM",
+    "Country": "Bermuda"
+  },
+  {
+    "Code": "BR",
+    "Country": "Brazil"
+  },
+  {
+    "Code": "BRN",
+    "Country": "Bahrain"
+  },
+  {
+    "Code": "BS",
+    "Country": "Bahamas"
+  },
+  {
+    "Code": "CAN",
+    "Country": "Canada"
+  },
+  {
+    "Code": "CDN",
+    "Country": "Canada"
+  },
+  {
+    "Code": "CDN/D",
+    "Country": "Canada/Germany"
+  },
+  {
+    "Code": "CH",
+    "Country": "Switzerland"
+  },
+  {
+    "Code": "CN",
+    "Country": "China"
+  },
+  {
+    "Code": "CY",
+    "Country": "Cyprus"
+  },
+  {
+    "Code": "CZ",
+    "Country": "Czechia"
+  },
+  {
+    "Code": "D",
+    "Country": "Germany"
+  },
+  {
+    "Code": "D/F",
+    "Country": "Germany/France"
+  },
+  {
+    "Code": "D/J",
+    "Country": "Germany/Japan"
+  },
+  {
+    "Code": "D/NL",
+    "Country": "Germany/Netherlands"
+  },
+  {
+    "Code": "D/RA",
+    "Country": "Germany/Argentina"
+  },
+  {
+    "Code": "D/USA",
+    "Country": "Germany/USA"
+  },
+  {
+    "Code": "DDR",
+    "Country": "German Democratic Republic"
+  },
+  {
+    "Code": "DK",
+    "Country": "Denmark"
+  },
+  {
+    "Code": "E",
+    "Country": "Spain"
+  },
+  {
+    "Code": "EST",
+    "Country": "Estonia"
+  },
+  {
+    "Code": "ET",
+    "Country": "Egypt"
+  },
+  {
+    "Code": "EU",
+    "Country": "European Union"
+  },
+  {
+    "Code": "F",
+    "Country": "France"
+  },
+  {
+    "Code": "FIN",
+    "Country": "Finland"
+  },
+  {
+    "Code": "FL",
+    "Country": "Lichtenstein"
+  },
+  {
+    "Code": "GB",
+    "Country": "Great Britain"
+  },
+  {
+    "Code": "GB/F",
+    "Country": "Great Britain/France"
+  },
+  {
+    "Code": "GBZ",
+    "Country": "Gibraltar"
+  },
+  {
+    "Code": "GH",
+    "Country": "Ghana"
+  },
+  {
+    "Code": "GR",
+    "Country": "Greece"
+  },
+  {
+    "Code": "H",
+    "Country": "Hungary"
+  },
+  {
+    "Code": "HK",
+    "Country": "Hong Kong"
+  },
+  {
+    "Code": "HR",
+    "Country": "Croatia"
+  },
+  {
+    "Code": "I",
+    "Country": "Italy"
+  },
+  {
+    "Code": "I/F",
+    "Country": "Italy/France"
+  },
+  {
+    "Code": "I/GB",
+    "Country": "Italy/Great Britain"
+  },
+  {
+    "Code": "IL",
+    "Country": "Israel"
+  },
+  {
+    "Code": "IND",
+    "Country": "India"
+  },
+  {
+    "Code": "IS",
+    "Country": "Iceland"
+  },
+  {
+    "Code": "J",
+    "Country": "Japan"
+  },
+  {
+    "Code": "J/D",
+    "Country": "Japan/Germany"
+  },
+  {
+    "Code": "J/USA",
+    "Country": "Japan/USA"
+  },
+  {
+    "Code": "KSA",
+    "Country": "Saudi Arabia"
+  },
+  {
+    "Code": "KY",
+    "Country": "Cayman Islands"
+  },
+  {
+    "Code": "L",
+    "Country": "Luxembourg"
+  },
+  {
+    "Code": "LAO",
+    "Country": "Laos"
+  },
+  {
+    "Code": "LB",
+    "Country": "Libya"
+  },
+  {
+    "Code": "LT",
+    "Country": "Lithuania"
+  },
+  {
+    "Code": "LV",
+    "Country": "Latvua"
+  },
+  {
+    "Code": "M",
+    "Country": "Malta"
+  },
+  {
+    "Code": "MA",
+    "Country": "Morocco"
+  },
+  {
+    "Code": "MAL",
+    "Country": "Malaysia"
+  },
+  {
+    "Code": "MC",
+    "Country": "Monaco"
+  },
+  {
+    "Code": "N",
+    "Country": "Norway"
+  },
+  {
+    "Code": "NAM",
+    "Country": "Namibia"
+  },
+  {
+    "Code": "NL",
+    "Country": "Netherlands"
+  },
+  {
+    "Code": "NZ",
+    "Country": "New Zealand"
+  },
+  {
+    "Code": "NZL",
+    "Country": "New Zealand"
+  },
+  {
+    "Code": "P",
+    "Country": "Portugal"
+  },
+  {
+    "Code": "PA",
+    "Country": "Panama"
+  },
+  {
+    "Code": "PE",
+    "Country": "Peru"
+  },
+  {
+    "Code": "PK",
+    "Country": "Pakistan"
+  },
+  {
+    "Code": "PL",
+    "Country": "Poland"
+  },
+  {
+    "Code": "Q",
+    "Country": "Qatar"
+  },
+  {
+    "Code": "RA",
+    "Country": "Argentina"
+  },
+  {
+    "Code": "RC",
+    "Country": "China"
+  },
+  {
+    "Code": "RCH",
+    "Country": "Chile"
+  },
+  {
+    "Code": "RF",
+    "Country": "Russia"
+  },
+  {
+    "Code": "RI",
+    "Country": "Indonesia"
+  },
+  {
+    "Code": "RF/USB",
+    "Country": "Russia/Uzbekistan"
+  },
+  {
+    "Code": "RO",
+    "Country": "Romania"
+  },
+  {
+    "Code": "ROK",
+    "Country": "South Korea"
+  },
+  {
+    "Code": "RP",
+    "Country": "Phillipines"
+  },
+  {
+    "Code": "RSM",
+    "Country": "San Marino"
+  },
+  {
+    "Code": "RUS",
+    "Country": "Russia"
+  },
+  {
+    "Code": "RUS/USB",
+    "Country": "Russia/Uzbekistan"
+  },
+  {
+    "Code": "S",
+    "Country": "Sweden"
+  },
+  {
+    "Code": "S/CN",
+    "Country": "Sweden/China"
+  },
+  {
+    "Code": "S/USA",
+    "Country": "Sweden/USA"
+  },
+  {
+    "Code": "SF",
+    "Country": "Finland"
+  },
+  {
+    "Code": "SG",
+    "Country": "Singapore"
+  },
+  {
+    "Code": "SGP",
+    "Country": "Singapore"
+  },
+  {
+    "Code": "SK",
+    "Country": "Slovakia"
+  },
+  {
+    "Code": "SLO",
+    "Country": "Slovenia"
+  },
+  {
+    "Code": "TN",
+    "Country": "Tunisia"
+  },
+  {
+    "Code": "TR",
+    "Country": "Turkey"
+  },
+  {
+    "Code": "TW",
+    "Country": "Taiwan"
+  },
+  {
+    "Code": "UA",
+    "Country": "Ukraine"
+  },
+  {
+    "Code": "UAE",
+    "Country": "United Arab Emirates"
+  },
+  {
+    "Code": "UKR",
+    "Country": "Ukraine"
+  },
+  {
+    "Code": "USA",
+    "Country": "USA"
+  },
+  {
+    "Code": "USA/CDN",
+    "Country": "USA/Canada"
+  },
+  {
+    "Code": "USA/D",
+    "Country": "USA/Germany"
+  },
+  {
+    "Code": "USA/F",
+    "Country": "USA/France"
+  },
+  {
+    "Code": "USA/GB",
+    "Country": "USA/Great Britain"
+  },
+  {
+    "Code": "UZ",
+    "Country": "Uzbekistan"
+  },
+  {
+    "Code": "VN",
+    "Country": "Vietnam"
+  },
+  {
+    "Code": "WV",
+    "Country": "Saint Vincent and the Grenadines"
+  },
+  {
+    "Code": "ZA",
+    "Country": "South Africa"
+  }
+]

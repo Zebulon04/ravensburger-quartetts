@@ -115,17 +115,6 @@ function _renderQuartettOverlay(group, set) {
     gap:10px;
   `;
 
-  // Name bar at bottom
-  const nameBar = document.createElement('div');
-  nameBar.style.cssText = isMobile ? `
-    position:absolute;bottom:0;left:0;right:0;
-    display:grid;grid-template-columns:1fr 1fr;
-    z-index:5;pointer-events:none;
-  ` : `
-    position:absolute;bottom:0;left:0;right:0;
-    display:flex;z-index:5;pointer-events:none;
-  `;
-
   siblings.slice(0, 4).forEach((card, i) => {
     const imgKey = `${set.year}::${set.collection}::${card.card}`;
     const url = imageMap[imgKey];
@@ -183,18 +172,6 @@ function _renderQuartettOverlay(group, set) {
     }
 
     strip.appendChild(panel);
-
-    // Name label
-    const n = document.createElement('div');
-    n.style.cssText = `
-      flex:1;text-align:center;padding:10px 4px;
-      font-family:var(--font-ui);font-size:.72rem;font-weight:600;letter-spacing:.06em;
-      color:rgba(255,255,255,.55);
-      background:linear-gradient(transparent, rgba(0,0,0,.7));
-      white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
-    `;
-    n.textContent = card.name || '';
-    nameBar.appendChild(n);
   });
 
   overlay.appendChild(closeBtn);
@@ -202,7 +179,6 @@ function _renderQuartettOverlay(group, set) {
   overlay.appendChild(makeNavArrow('prev'));
   overlay.appendChild(makeNavArrow('next'));
   overlay.appendChild(strip);
-  overlay.appendChild(nameBar);
   document.body.appendChild(overlay);
 
   // Keyboard navigation

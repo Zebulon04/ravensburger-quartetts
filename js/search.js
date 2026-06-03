@@ -173,9 +173,9 @@ async function renderCombinedSearch(nameTerm, infoTerm) {
           <img alt="${card.name}">
           <div class="qcard-placeholder">🚗<span>No Image</span></div>
           <div class="grade-badge">${card.card}</div>
-          <div class="qcard-set-label"><span class="qcard-set-name">${setMeta.collection}</span><span class="qcard-set-year">${setMeta.year}</span></div>
         </div>
         <div class="qcard-body">
+          <div class="qcard-set-label"><span class="qcard-set-name">${setMeta.collection}</span><span class="qcard-set-year">${setMeta.year}</span></div>
           <div class="qcard-name">${card.name}</div>
         </div>`;
       const img = el.querySelector('.qcard-img img');
@@ -278,9 +278,9 @@ async function renderSlowCombinedSearch(qName, qInfo) {
         <img alt="${card.name}">
         <div class="qcard-placeholder">🚗<span>No Image</span></div>
         <div class="grade-badge">${card.card}</div>
-        <div class="qcard-set-label"><span class="qcard-set-name">${set.collection}</span><span class="qcard-set-year">${set.year}</span></div>
       </div>
       <div class="qcard-body">
+        <div class="qcard-set-label"><span class="qcard-set-name">${set.collection}</span><span class="qcard-set-year">${set.year}</span></div>
         <div class="qcard-name">${card.name}</div>
       </div>`;
     const img = el.querySelector('.qcard-img img');

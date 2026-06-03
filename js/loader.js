@@ -4,7 +4,11 @@
 //  2. All JSON data fetched from raw.githubusercontent.com (no API quota used)
 //  3. Image URLs built directly from raw.githubusercontent.com (no extra calls)
 //  4. Full dataset cached in localStorage so reloads cost 0 API calls
-//  5. Optional personal access token raises the limit from 60 → 5000 req/hr
+//  5. GitHub API calls go through a Cloudflare Worker proxy (token stored server-side)
+
+// Proxy worker URL — GitHub API calls are routed here instead of api.github.com directly.
+// The worker holds the auth token as an encrypted env variable and forwards requests.
+const GH_API_BASE = 'https://gh-proxy.zebulon04.workers.dev';
 
 const imageMap = {};
 const yearImageMap = {}; // year → raw URL, from files named like "2005_year.jpg"
@@ -13,13 +17,6 @@ let cardInfosIndex = [];
 let loadedCount = 0;
 
 const CACHE_KEY_PREFIX = 'qCache_v2_';
-
-function ghHeaders() {
-  const token = (document.getElementById('githubToken')?.value || localStorage.getItem('qGhToken') || '').trim();
-  if (!token) return {};
-  // Fine-grained tokens (github_pat_…) require Bearer; classic tokens work with both
-  return { Authorization: `Bearer ${token}` };
-}
 
 function clearRepoCache() {
   Object.keys(localStorage).filter(k => k.startsWith(CACHE_KEY_PREFIX)).forEach(k => localStorage.removeItem(k));
@@ -75,19 +72,19 @@ async function loadEntireRepo() {
   try {
     document.getElementById('progressText').textContent = 'Fetching repo tree (1 API call)…';
 
-    // Step 1: resolve branch → commit SHA
-    const branchUrl = `https://api.github.com/repos/${user}/${repo}/branches/${branch}`;
-    const branchRes = await fetchWithRetry(branchUrl, { headers: ghHeaders() });
+    // Step 1: resolve branch → commit SHA (via proxy — token lives server-side)
+    const branchUrl = `${GH_API_BASE}/repos/${user}/${repo}/branches/${branch}`;
+    const branchRes = await fetchWithRetry(branchUrl);
     if (!branchRes.ok) {
-      const msg = branchRes.status === 403 ? 'Rate limited! Add a GitHub token to raise the limit to 5000/hr.' : `Failed to fetch branch info (${branchRes.status})`;
+      const msg = branchRes.status === 429 ? 'Rate limited! Please try again in a moment.' : `Failed to fetch branch info (${branchRes.status})`;
       throw new Error(msg);
     }
     const branchData = await branchRes.json();
     const treeSha = branchData.commit.commit.tree.sha;
 
-    // Step 2: get the full recursive tree — this is the ONLY api.github.com call needed
-    const treeUrl = `https://api.github.com/repos/${user}/${repo}/git/trees/${treeSha}?recursive=1`;
-    const treeRes = await fetchWithRetry(treeUrl, { headers: ghHeaders() });
+    // Step 2: get the full recursive tree via proxy — this is the ONLY API call needed
+    const treeUrl = `${GH_API_BASE}/repos/${user}/${repo}/git/trees/${treeSha}?recursive=1`;
+    const treeRes = await fetchWithRetry(treeUrl);
     if (!treeRes.ok) throw new Error(`Failed to fetch tree (${treeRes.status})`);
     const { tree } = await treeRes.json();
 

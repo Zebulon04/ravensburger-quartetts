@@ -93,20 +93,35 @@ function _renderQuartettOverlay(group, set) {
     return btn;
   }
 
-  // Image strip — flex row, centered so join of img[1] and img[2] is at screen center
+  // Image strip — flex row on desktop, 2x2 grid on mobile
+  const isMobile = window.innerWidth <= 600;
   const strip = document.createElement('div');
-  strip.style.cssText = `
+  strip.style.cssText = isMobile ? `
+    position:absolute;
+    top:50%;left:50%;
+    transform:translate(-50%,-50%);
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-template-rows:1fr 1fr;
+    gap:6px;
+    width:calc(100vw - 16px);
+    max-height:calc(100vh - 80px);
+  ` : `
     position:absolute;
     top:50%;left:50%;
     transform:translate(-50%,-50%);
     display:flex;
     align-items:center;
-    gap:0;
+    gap:10px;
   `;
 
   // Name bar at bottom
   const nameBar = document.createElement('div');
-  nameBar.style.cssText = `
+  nameBar.style.cssText = isMobile ? `
+    position:absolute;bottom:0;left:0;right:0;
+    display:grid;grid-template-columns:1fr 1fr;
+    z-index:5;pointer-events:none;
+  ` : `
     position:absolute;bottom:0;left:0;right:0;
     display:flex;z-index:5;pointer-events:none;
   `;
@@ -126,9 +141,16 @@ function _renderQuartettOverlay(group, set) {
       const img = document.createElement('img');
       img.src = url;
       img.alt = card.name || card.card || '';
-      img.style.cssText = `
-        max-height:90vh;
-        max-width:calc(50vw / 2);
+      img.style.cssText = isMobile ? `
+        width:100%;height:100%;
+        object-fit:contain;
+        border-radius:4px;
+        box-shadow:0 4px 20px rgba(0,0,0,.7);
+        display:block;
+        cursor:zoom-in;
+      ` : `
+        max-height:72vh;
+        max-width:calc((100vw - 180px) / 4);
         width:auto;height:auto;
         object-fit:contain;
         border-radius:4px;
@@ -143,14 +165,20 @@ function _renderQuartettOverlay(group, set) {
       panel.appendChild(img);
     } else {
       const ph = document.createElement('div');
-      ph.style.cssText = `
-        width:calc(50vw / 2);max-height:90vh;
+      ph.style.cssText = isMobile ? `
+        width:100%;
+        display:flex;flex-direction:column;align-items:center;justify-content:center;
+        color:var(--text-dim);font-size:2rem;gap:6px;
+        border:1px solid var(--border-subtle);border-radius:4px;
+        aspect-ratio:670/1068;
+      ` : `
+        width:calc((100vw - 180px) / 4);max-height:72vh;
         display:flex;flex-direction:column;align-items:center;justify-content:center;
         color:var(--text-dim);font-size:2.5rem;gap:8px;
         border:1px solid var(--border-subtle);border-radius:4px;
-        aspect-ratio:5/7;
+        aspect-ratio:670/1068;
       `;
-      ph.innerHTML = '\ud83d\ude97<span style="font-family:var(--font-ui);font-size:.6rem;letter-spacing:.15em;color:var(--text-dim)">' + (card.card||'') + '</span>';
+      ph.innerHTML = '🚗<span style="font-family:var(--font-ui);font-size:.6rem;letter-spacing:.15em;color:var(--text-dim)">' + (card.card||'') + '</span>';
       panel.appendChild(ph);
     }
 

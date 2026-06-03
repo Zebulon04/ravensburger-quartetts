@@ -8,7 +8,7 @@
 
 // Proxy worker URL — GitHub API calls are routed here instead of api.github.com directly.
 // The worker holds the auth token as an encrypted env variable and forwards requests.
-const GH_API_BASE = 'https://gh-proxy.zebulon04.workers.dev';
+const GH_API_BASE = 'https://gh-proxy.andreaszlatic04.workers.dev';
 
 const imageMap = {};
 const yearImageMap = {}; // year → raw URL, from files named like "2005_year.jpg"

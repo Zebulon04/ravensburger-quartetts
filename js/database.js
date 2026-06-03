@@ -352,10 +352,6 @@ function renderCards(set) {
 }
 
 // ── MODAL ─────────────────────────────────────────────────
-let _modalCards = [];   // current ordered card list shown in the grid
-let _modalIdx   = 0;    // index of open card within _modalCards
-let _modalSet   = null; // current set (for single-set views)
-let _modalSets  = null; // per-card sets array (for search results; null = use _modalSet for all)
 
 function openModal(card, set, cardList) {
   _modalSet   = set;

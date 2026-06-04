@@ -48,7 +48,7 @@ function _renderModal(card, set) {
 
   const metaItems = [
     { label: t('metaYear'),       val: set.year,       onclick: `closeModal();showSection('database');(function(){currentYear=${JSON.stringify(set.year)};currentColl=null;renderSidebar();renderCollections(${JSON.stringify(set.year)});setBC([{label:String(${JSON.stringify(set.year)}),year:${JSON.stringify(set.year)}}]);})()` },
-    { label: t('metaCollection'), val: set.collection, onclick: `closeModal();showSection('database');(function(){currentYear=${JSON.stringify(set.year)};currentColl=${JSON.stringify(set.collection)};renderSidebar();var s=allData[${JSON.stringify(set.year+'::'+set.collection)}];if(s)renderCards(s);setBC([{label:String(${JSON.stringify(set.year)}),year:${JSON.stringify(set.year)}},{label:${JSON.stringify(set.collection)},setKey:${JSON.stringify(set.year+'::'+set.collection)}}]);})()` },
+    { label: t('metaCollection'), val: set.collection, onclick: `closeModal();_navToSet(${JSON.stringify(set.year+'::'+set.collection)})` },
     ...(card.country  ? [{ label: t('metaCountry'),  val: card.country }] : []),
     ...(card.category ? [{ label: t('metaCategory'), val: card.category }] : []),
   ].map(m => {
@@ -105,3 +105,43 @@ function _renderModal(card, set) {
   });
 }
 
+// Navigate to a set by key (year::collection), handling stub lazy-load.
+// Used by the clickable Collection meta-val in the modal.
+async function _navToSet(setKey) {
+  closeModal();
+  showSection('database');
+  const set = allData[setKey];
+  if (!set) return;
+  const year = set.year;
+  const coll = set.collection;
+  currentYear = year;
+  currentColl = coll;
+  renderSidebar();
+  if (set._stub || !set.cards) {
+    const content = document.getElementById('dbContent');
+    content.innerHTML = `<div class="empty-state"><div class="big">⏳</div><h3>Loading ${coll}…</h3></div>`;
+    try {
+      const jsonText = await fetchWithRetry(set._jsonUrl).then(r => r.text());
+      const jsonData = JSON.parse(jsonText);
+      set.cards = jsonData.cards;
+      set._stub = false;
+      const cacheKey = Object.keys(localStorage).find(k => k.startsWith('qCache_v2_'));
+      if (cacheKey) {
+        try {
+          const cached = JSON.parse(localStorage.getItem(cacheKey));
+          cached.data[setKey] = set;
+          localStorage.setItem(cacheKey, JSON.stringify(cached));
+        } catch(e) {}
+      }
+    } catch(e) {
+      document.getElementById('dbContent').innerHTML =
+        `<div class="empty-state"><div class="big">❌</div><h3>${t('failedToLoad')}</h3><p>${e.message}</p></div>`;
+      return;
+    }
+  }
+  renderCards(set);
+  setBC([
+    { label: String(year), year },
+    { label: coll, setKey }
+  ]);
+}

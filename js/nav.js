@@ -114,7 +114,7 @@ function renderSidebar() {
         renderSidebar();
         renderYearsOverview();
         setBC([]);
-        if (window._pushNav) window._pushNav('db');
+        if (window._pushNav) window._pushNav('db', window._navHash && window._navHash());
         return;
       }
       clearSearch();
@@ -122,7 +122,7 @@ function renderSidebar() {
       renderSidebar();
       renderCollections(year);
       setBC([{ label: String(year), year }]);
-      if (window._pushNav) window._pushNav(String(year));
+      if (window._pushNav) window._pushNav(String(year), window._navHash && window._navHash());
     };
     sidebar.appendChild(btn);
 
@@ -159,7 +159,7 @@ function renderSidebar() {
         }
         renderCards(set);
         setBC([{ label: String(year), year }, { label: set.collection, setKey: `${year}::${set.collection}` }]);
-        if (window._pushNav) window._pushNav(set.collection);
+        if (window._pushNav) window._pushNav(set.collection, window._navHash && window._navHash());
       };
       div.appendChild(cb);
     });

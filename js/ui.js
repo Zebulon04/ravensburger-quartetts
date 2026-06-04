@@ -66,7 +66,7 @@ function openLightbox(src) {
   const img = document.getElementById('imgLightboxImg');
   img.src = src;
   lb.classList.add('open');
-  if (window._pushNav) window._pushNav('lightbox');
+  if (window._pushNav) window._pushNav('lightbox', location.hash || '');
 }
 function closeLightbox() {
   document.getElementById('imgLightbox').classList.remove('open');
@@ -74,33 +74,36 @@ function closeLightbox() {
 
 // ── BACK BUTTON (mobile history) ─────────────────────────
 (function() {
-  // Push a history entry, preserving the current hash so the URL stays in sync.
-  // We include the hash so that pushState never strips it from the address bar.
-  function pushNav(label) {
-    const hash = location.hash || '';
+  // Push a history entry using an explicit hash computed AFTER state mutation,
+  // so we never accidentally capture the stale location.hash.
+  function pushNav(label, explicitHash) {
+    const hash = (explicitHash != null) ? explicitHash : (location.hash || '');
     history.pushState({ qNav: true, label }, '', location.pathname + location.search + hash);
   }
 
-  // After each popstate navigation, let the router re-encode the new state into the hash.
-  function syncAfterNav() {
-    if (typeof window._routerSync === 'function') {
-      requestAnimationFrame(window._routerSync);
+  // Ask the router to encode the current app state synchronously.
+  // This is called AFTER mutating state (currentYear/currentColl/modal) so the
+  // resulting hash correctly reflects the new navigation level.
+  function navHash() {
+    if (window._router && typeof window._router.encode === 'function') {
+      return window._router.encode();
     }
+    return location.hash || '';
   }
 
   window.addEventListener('popstate', () => {
     // Priority 1: lightbox open → close lightbox, stay in modal
     if (document.getElementById('imgLightbox').classList.contains('open')) {
       closeLightbox();
-      pushNav('modal'); // re-push so next back closes modal
-      syncAfterNav();
+      // Modal is still open; hash should still point to it
+      pushNav('modal', navHash());
       return;
     }
     // Priority 2: modal open → close modal, stay in current collection
     if (document.getElementById('cardModal').classList.contains('open')) {
       closeModal();
-      pushNav(currentColl || currentYear || 'db'); // re-push so next back goes up a level
-      syncAfterNav();
+      // closeModal has run; encode state now (no modal → coll/year hash)
+      pushNav(currentColl || currentYear || 'db', navHash());
       return;
     }
     // Priority 3: inside a collection → go to year
@@ -110,8 +113,7 @@ function closeLightbox() {
       renderSidebar();
       renderCollections(currentYear);
       setBC([{label:String(currentYear), year:currentYear}]);
-      pushNav(String(currentYear));
-      syncAfterNav();
+      pushNav(String(currentYear), navHash());
       return;
     }
     // Priority 4: inside a year → go to all years
@@ -121,15 +123,13 @@ function closeLightbox() {
       renderSidebar();
       renderYearsOverview();
       setBC([]);
-      pushNav('db');
-      syncAfterNav();
+      pushNav('db', navHash());
       return;
     }
     // Priority 5: database root → go to home
     if (document.getElementById('database').classList.contains('active')) {
       showSection('home');
-      pushNav('home');
-      syncAfterNav();
+      pushNav('home', navHash());
       return;
     }
     // Priority 6: home — allow browser to actually go back (exit page)
@@ -141,6 +141,8 @@ function closeLightbox() {
 
   // Expose pusher for use by navigation functions
   window._pushNav = pushNav;
+  // Expose hash encoder for callers that need the correct current hash
+  window._navHash = navHash;
 })();
 renderEmpty();
 updateHomeStats();

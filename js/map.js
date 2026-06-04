@@ -332,6 +332,8 @@ async function selectCountry(iso) {
 
   renderCountryResults(iso, name, results);
   setBC([{ label: `${isoToFlag(iso)} ${name}` }]);
+  // Sync URL here (not via wrapper) so ALL call sites — including internal ones — update the hash
+  if (typeof window._routerSync === 'function') setTimeout(window._routerSync, 150);
 }
 
 // Mobile two-tap: first tap shows name label, second tap opens cards

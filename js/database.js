@@ -38,7 +38,7 @@ function renderYearsOverview() {
       renderSidebar();
       renderCollections(year);
       setBC([{label:String(year), year}]);
-      if (window._pushNav) window._pushNav(String(year));
+      if (window._pushNav) window._pushNav(String(year), window._navHash && window._navHash());
     };
     grid.appendChild(el);
   });
@@ -98,7 +98,7 @@ function renderCollections(year) {
         {label:String(year), year},
         {label:set.collection, setKey:`${year}::${set.collection}`}
       ]);
-      if (window._pushNav) window._pushNav(set.collection);
+      if (window._pushNav) window._pushNav(set.collection, window._navHash && window._navHash());
     };
     grid.appendChild(el);
   });
@@ -364,7 +364,7 @@ function openModal(card, set, cardList) {
   document.getElementById('cardModal').classList.add('open');
   document.body.style.overflow = 'hidden';
   window.dispatchEvent(new Event('scroll'));
-  if (window._pushNav) window._pushNav('modal');
+  if (window._pushNav) window._pushNav('modal', window._navHash && window._navHash());
 }
 
 function _renderModal(card, set) {
@@ -512,6 +512,6 @@ async function openRandomCard() {
   _renderModal(fullCard, set);
   document.getElementById('cardModal').classList.add('open');
   document.body.style.overflow = 'hidden';
-  if (window._pushNav) window._pushNav('modal');
+  if (window._pushNav) window._pushNav('modal', window._navHash && window._navHash());
 }
 

@@ -92,48 +92,21 @@ function closeLightbox() {
   }
 
   window.addEventListener('popstate', () => {
-    // Priority 1: lightbox open → close lightbox, stay in modal
+    // Close any open overlays first (lightbox, modal) without pushing history
     if (document.getElementById('imgLightbox').classList.contains('open')) {
       closeLightbox();
-      // Modal is still open; hash should still point to it
-      pushNav('modal', navHash());
-      return;
     }
-    // Priority 2: modal open → close modal, stay in current collection
     if (document.getElementById('cardModal').classList.contains('open')) {
       closeModal();
-      // closeModal has run; encode state now (no modal → coll/year hash)
-      pushNav(currentColl || currentYear || 'db', navHash());
-      return;
     }
-    // Priority 3: inside a collection → go to year
-    if (currentColl && currentYear) {
-      clearSearch();
-      currentColl = null;
-      renderSidebar();
-      renderCollections(currentYear);
-      setBC([{label:String(currentYear), year:currentYear}]);
-      pushNav(String(currentYear), navHash());
-      return;
-    }
-    // Priority 4: inside a year → go to all years
-    if (currentYear) {
-      clearSearch();
-      currentYear = null;
-      renderSidebar();
-      renderYearsOverview();
-      setBC([]);
-      pushNav('db', navHash());
-      return;
-    }
-    // Priority 5: database root → go to home
-    if (document.getElementById('database').classList.contains('active')) {
+    // Restore app state to match the hash we just landed on.
+    // restoreHash is the single source of truth for hash→state mapping.
+    const hash = location.hash || '#home';
+    if (hash === '#home' || hash === '#' || hash === '') {
       showSection('home');
-      pushNav('home', navHash());
-      return;
+    } else if (window._router && typeof window._router.restore === 'function') {
+      window._router.restore(hash, true); // true = skipHistoryPush
     }
-    // Priority 6: home — allow browser to actually go back (exit page)
-    // Don't push anything; let the browser handle it
   });
 
   // Replace initial state so first popstate is catchable, preserving any existing hash.

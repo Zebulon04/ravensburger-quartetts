@@ -273,6 +273,8 @@ function closeCountryMap() {
 
 async function selectCountry(iso) {
   _cmapSelectedIso = iso;
+  // Sync URL immediately — _cmapSelectedIso is now set so encodeState can read it
+  if (typeof window._routerSync === 'function') window._routerSync();
   closeCountryMap();
   const name = (iso && (_cmapIsoToNames[iso] || iso)) || '?';
 

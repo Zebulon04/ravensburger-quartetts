@@ -47,11 +47,15 @@ function _renderModal(card, set) {
   }).join('');
 
   const metaItems = [
-    { label: 'Year',       val: set.year },
-    { label: 'Collection', val: set.collection },
-    ...(card.country  ? [{ label: 'Country',  val: card.country }] : []),
-    ...(card.category ? [{ label: 'Category', val: card.category }] : []),
-  ].map(m => `<div class="meta-item"><span class="meta-label">${m.label}</span><span class="meta-val">${m.val}</span></div>`).join('');
+    { label: t('metaYear'),       val: set.year,       onclick: `closeModal();showSection('database');(function(){currentYear=${JSON.stringify(set.year)};currentColl=null;renderSidebar();renderCollections(${JSON.stringify(set.year)});setBC([{label:String(${JSON.stringify(set.year)}),year:${JSON.stringify(set.year)}}]);})()` },
+    { label: t('metaCollection'), val: set.collection, onclick: `closeModal();showSection('database');(function(){currentYear=${JSON.stringify(set.year)};currentColl=${JSON.stringify(set.collection)};renderSidebar();var s=allData[${JSON.stringify(set.year+'::'+set.collection)}];if(s)renderCards(s);setBC([{label:String(${JSON.stringify(set.year)}),year:${JSON.stringify(set.year)}},{label:${JSON.stringify(set.collection)},setKey:${JSON.stringify(set.year+'::'+set.collection)}}]);})()` },
+    ...(card.country  ? [{ label: t('metaCountry'),  val: card.country }] : []),
+    ...(card.category ? [{ label: t('metaCategory'), val: card.category }] : []),
+  ].map(m => {
+    const cls = m.onclick ? 'meta-val meta-val--link' : 'meta-val';
+    const handler = m.onclick ? `onclick="${m.onclick.replace(/"/g, '&quot;')}"` : '';
+    return `<div class="meta-item"><span class="meta-label">${m.label}</span><span class="${cls}" ${handler}>${m.val}</span></div>`;
+  }).join('');
 
   // Derive quartett group (e.g. "3B" → group "3", or "1A" → "1")
   const gradeStr = (card.card || '').trim();

@@ -103,5 +103,11 @@
   "showQuartett": "Quartett anzeigen",
   "inYear": "in {year}",
   "acrossAllSets": "in allen Sets",
-  "noResultsFor": "Keine Karten für {term} gefunden {scope}"
+  "noResultsFor": "Keine Karten für {term} gefunden {scope}",
+  "metaYear": "Jahr",
+  "metaCollection": "Kollektion",
+  "metaCountry": "Land",
+  "metaCategory": "Kategorie",
+  "settingsLabel": "Optionen",
+  "startInDatabase": "In Datenbank starten"
 }

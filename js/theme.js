@@ -87,3 +87,15 @@ let _langReady;
   // Await the fetch so applyLang() runs only after _translations is populated.
   _langReady = loadLang(saved);
 })();
+
+// ── START IN DATABASE ─────────────────────────────────────
+function toggleStartInDatabase(val) {
+  if (val) localStorage.setItem('qStartInDatabase', '1');
+  else localStorage.removeItem('qStartInDatabase');
+}
+
+// Init checkbox state + apply setting on load
+(function() {
+  const el = document.getElementById('startInDbCheck');
+  if (el && localStorage.getItem('qStartInDatabase')) el.checked = true;
+})();

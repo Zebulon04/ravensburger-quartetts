@@ -103,5 +103,11 @@
   "showQuartett": "prikaži quartett",
   "inYear": "u godini {year}",
   "acrossAllSets": "u svim setovima",
-  "noResultsFor": "Nisu pronađene karte za {term} {scope}"
+  "noResultsFor": "Nisu pronađene karte za {term} {scope}",
+  "metaYear": "Godina",
+  "metaCollection": "Kolekcija",
+  "metaCountry": "Zemlja",
+  "metaCategory": "Kategorija",
+  "settingsLabel": "Opcije",
+  "startInDatabase": "Otvori Bazu podataka"
 }

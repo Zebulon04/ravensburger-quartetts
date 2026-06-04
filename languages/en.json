@@ -103,5 +103,11 @@
   "showQuartett": "show quartett",
   "inYear": "in {year}",
   "acrossAllSets": "across all sets",
-  "noResultsFor": "No cards matching {term} found {scope}"
+  "noResultsFor": "No cards matching {term} found {scope}",
+  "metaYear": "Year",
+  "metaCollection": "Collection",
+  "metaCountry": "Country",
+  "metaCategory": "Category",
+  "settingsLabel": "Options",
+  "startInDatabase": "Start in Database"
 }

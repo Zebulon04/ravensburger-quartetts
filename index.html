@@ -52,6 +52,15 @@
       <button class="theme-option" id="lang-de" onclick="setLang('de',event)" style="flex:1;justify-content:center;">🇩🇪 DE</button>
       <button class="theme-option" id="lang-hr" onclick="setLang('hr',event)" style="flex:1;justify-content:center;">🇭🇷 HR</button>
     </div>
+
+    <div class="theme-panel-label" style="margin-top:12px;" data-i18n="settingsLabel">Options</div>
+    <label class="settings-toggle-row" onclick="event.stopPropagation()">
+      <span class="settings-toggle-label" data-i18n="startInDatabase">Start in Database</span>
+      <input type="checkbox" class="settings-toggle-check" id="startInDbCheck" onchange="toggleStartInDatabase(this.checked)">
+    </label>
+    <button class="settings-report-btn" onclick="event.stopPropagation();document.getElementById('themePanel').classList.remove('open');openReportModal()">
+      🐛 <span data-i18n="reportBug">Report Bug</span>
+    </button>
   </div>
 </nav>
 
@@ -248,8 +257,6 @@
 <script src="js/report.js"></script>
 <script src="js/map.js"></script>
 <script src="js/game.js"></script>
-
-<button id="reportBugBtn" onclick="openReportModal()" data-i18n="reportBug">🐛 Report Bug</button>
 
 </body>
 </html>

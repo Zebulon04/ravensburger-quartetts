@@ -188,7 +188,28 @@ function initGame(setKey) {
   _gAnimating  = false;
 
   _renderGameBoard();
-  setTimeout(_startTurn, 400);
+
+  // Preload all card images + the back image so they're browser-cached before play starts
+  _preloadGameImages(() => setTimeout(_startTurn, 400));
+}
+
+function _preloadGameImages(cb) {
+  const urls = new Set();
+  // Back image
+  const backUrl = typeof imageMap !== "undefined" && imageMap[`${_gSetKey}::__BACK__`];
+  if (backUrl) urls.add(backUrl);
+  // All card images
+  for (const card of _gCards) {
+    const url = _getCardImage(card);
+    if (url) urls.add(url);
+  }
+  let remaining = urls.size;
+  if (!remaining) { cb(); return; }
+  for (const url of urls) {
+    const img = new Image();
+    img.onload = img.onerror = () => { if (--remaining === 0) cb(); };
+    img.src = url;
+  }
 }
 
 function cleanupGame() {
@@ -261,6 +282,16 @@ function _renderGameBoard() {
     </div>`;
 
   section.appendChild(board);
+
+  // Apply the set's back-of-card image if available
+  const backUrl = typeof imageMap !== "undefined" && imageMap[`${_gSetKey}::__BACK__`];
+  const backEl  = document.getElementById("card-ai-back");
+  if (backEl && backUrl) {
+    backEl.style.backgroundImage = `url(${backUrl})`;
+    backEl.style.backgroundSize  = "contain";
+    backEl.style.backgroundRepeat = "no-repeat";
+    backEl.style.backgroundPosition = "center";
+  }
 }
 
 // ═══════════════════════════════════════════════
@@ -492,7 +523,16 @@ function _clearArena() {
   const aiFront = document.getElementById("card-ai-front");
   const aiBack  = document.getElementById("card-ai-back");
   if (aiFront) { aiFront.innerHTML = ""; aiFront.style.display = "none"; }
-  if (aiBack)  { aiBack.style.display = ""; aiBack.style.opacity = "1"; aiBack.style.transition = ""; }
+  if (aiBack)  {
+    aiBack.style.display = ""; aiBack.style.opacity = "1"; aiBack.style.transition = "";
+    const backUrl = typeof imageMap !== "undefined" && imageMap[`${_gSetKey}::__BACK__`];
+    if (backUrl) {
+      aiBack.style.backgroundImage = `url(${backUrl})`;
+      aiBack.style.backgroundSize  = "contain";
+      aiBack.style.backgroundRepeat = "no-repeat";
+      aiBack.style.backgroundPosition = "center";
+    }
+  }
   _gAnimating = false;
 }
 

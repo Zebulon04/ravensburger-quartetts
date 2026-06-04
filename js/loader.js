@@ -152,6 +152,8 @@ async function loadEntireRepo() {
         const nameLower = img.name.toLowerCase();
         if (nameLower.includes('titlecard')) {
           imageMap[`${year}::${collection}::__TITLE__`] = img.url;
+        } else if (nameLower.endsWith('back')) {
+          imageMap[`${year}::${collection}::__BACK__`] = img.url;
         } else {
           // Only map as a card image if the last 2 chars look like a grade (e.g. 1A, 8D)
           const grade = img.name.slice(-2).toUpperCase();

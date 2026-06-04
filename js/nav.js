@@ -179,4 +179,12 @@ function findTitleCardUrl(set) {
   return null;
 }
 
+// ── START IN DATABASE ─────────────────────────────────────
+// Applied after all scripts load so showSection/renderYearsOverview are defined
+window.addEventListener('DOMContentLoaded', () => {
+  if (localStorage.getItem('qStartInDatabase')) {
+    showSection('database');
+  }
+});
+
 // ── GAME — see game.js ──────────────────────────────────

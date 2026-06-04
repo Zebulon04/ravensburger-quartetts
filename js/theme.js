@@ -1,25 +1,3 @@
-// ── THEME ─────────────────────────────────────────────────
-function toggleThemePanel(e) {
-  e.stopPropagation();
-  document.getElementById('themePanel').classList.toggle('open');
-}
-function setTheme(name) {
-  const html = document.documentElement;
-  html.removeAttribute('data-theme');
-  if (name !== 'default') html.setAttribute('data-theme', name);
-  document.querySelectorAll('.theme-option[id^="t-"]').forEach(b => b.classList.remove('active'));
-  document.getElementById('t-' + name).classList.add('active');
-  document.getElementById('themePanel').classList.remove('open');
-  localStorage.setItem('qTheme', name);
-}
-// Close panel when clicking elsewhere
-document.addEventListener('click', () => document.getElementById('themePanel').classList.remove('open'));
-// Restore saved theme
-(function() {
-  const saved = localStorage.getItem('qTheme');
-  if (saved && saved !== 'default') setTheme(saved);
-})();
-
 // ── i18n ──────────────────────────────────────────────────
 // Translations are loaded from languages/{lang}.json files.
 // Each file is a flat JSON object: { "key": "translated string" }
@@ -59,10 +37,19 @@ function applyLang() {
   if (sii) sii.placeholder = t('searchCardInfo');
 }
 
-// Load a language file from languages/{lang}.json, then apply
+// Resolve a languages/ path relative to the HTML document, not the current URL.
+// This fixes failures when the page is served from a sub-path.
+function _langUrl(lang) {
+  const base = document.querySelector('base[href]')?.href
+    || (location.origin + location.pathname.substring(0, location.pathname.lastIndexOf('/') + 1));
+  return new URL(`languages/${lang}.json`, base).href;
+}
+
+// Load a language file from languages/{lang}.json, then apply.
+// Returns a Promise so callers can await it.
 async function loadLang(lang) {
   try {
-    const res = await fetch(`languages/${lang}.json`);
+    const res = await fetch(_langUrl(lang));
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     _translations = await res.json();
   } catch (e) {
@@ -70,7 +57,7 @@ async function loadLang(lang) {
     if (lang !== 'en') {
       // Fallback to English
       try {
-        const res = await fetch('languages/en.json');
+        const res = await fetch(_langUrl('en'));
         _translations = await res.json();
       } catch (_) {}
     }
@@ -89,25 +76,14 @@ function setLang(lang, e) {
 }
 
 // Initialise on page load — load saved language (or English)
+// We expose a promise so any code that needs translations to be ready can await it.
+let _langReady;
 (function() {
   const saved = localStorage.getItem('qLang') || 'en';
   currentLang = saved;
   document.querySelectorAll('.theme-option[id^="lang-"]').forEach(b => b.classList.remove('active'));
   const btn = document.getElementById('lang-' + saved);
   if (btn) btn.classList.add('active');
-  // loadLang is async — translations arrive before user interaction in practice
-  loadLang(saved);
+  // Await the fetch so applyLang() runs only after _translations is populated.
+  _langReady = loadLang(saved);
 })();
-
-// ── KEYBOARD / INIT ───────────────────────────────────────
-window.addEventListener('keydown', e => {
-  const lbOpen    = document.getElementById('imgLightbox').classList.contains('open');
-  const modalOpen = document.getElementById('cardModal').classList.contains('open');
-
-  if (e.key === 'Escape') {
-    if (lbOpen) { closeLightbox(); return; }
-    closeModal(); return;
-  }
-  if (e.key === 'ArrowLeft')  { if (lbOpen || modalOpen) { modalNav(-1); e.preventDefault(); } }
-  if (e.key === 'ArrowRight') { if (lbOpen || modalOpen) { modalNav(+1); e.preventDefault(); } }
-});

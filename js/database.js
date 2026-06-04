@@ -411,7 +411,7 @@ function _renderModal(card, set) {
         .sort((a, b) => (a.card || '').localeCompare(b.card || ''))
     : [];
   const showQuartettBtn = quartettSiblings.length > 1
-    ? `<button class="sort-btn" id="showQuartettBtn" style="margin-top:12px;width:100%;justify-content:center;font-size:.72rem;" onclick="openQuartettView('${quartettGroup}')">show quartett</button>`
+    ? `<button class="sort-btn" id="showQuartettBtn" style="margin-top:12px;width:100%;justify-content:center;font-size:.72rem;" onclick="openQuartettView('${quartettGroup}')">${t('showQuartett')}</button>`
     : '';
 
   document.getElementById('mBody').innerHTML = `

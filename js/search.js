@@ -88,8 +88,8 @@ async function renderCombinedSearch(nameTerm, infoTerm) {
     content.innerHTML = '';
     const termLabel = [nameTerm && `name "${nameTerm}"`, infoTerm && `info "${infoTerm}"`].filter(Boolean).join(' + ');
     if (!results.length) {
-      const scope = currentYear ? `in ${currentYear}` : 'across all sets';
-      content.innerHTML = `<div class="empty-state"><div class="big">🔍</div><h3>No results</h3><p>No cards matching ${termLabel} found ${scope}</p></div>`;
+      const scope = currentYear ? t('inYear', { year: currentYear }) : t('acrossAllSets');
+      content.innerHTML = `<div class="empty-state"><div class="big">🔍</div><h3>${t('noResults')}</h3><p>${t('noResultsFor', { term: termLabel, scope })}</p></div>`;
       return;
     }
 
@@ -202,7 +202,7 @@ async function renderSlowCombinedSearch(qName, qInfo) {
   const setsToSearch = Object.values(allData).filter(s => currentYear ? String(s.year) === String(currentYear) : true);
   const stubs = setsToSearch.filter(s => s._stub || !s.cards);
   if (stubs.length) {
-    content.innerHTML = `<div class="empty-state"><div class="big">⏳</div><h3>Loading data…</h3><p>Fetching ${stubs.length} unloaded set${stubs.length !== 1 ? 's' : ''}</p></div>`;
+    content.innerHTML = `<div class="empty-state"><div class="big">⏳</div><h3>${t('loadingData')}</h3></div>`;
     await Promise.all(stubs.map(async set => {
       try {
         const jsonText = await fetchWithRetry(set._jsonUrl).then(r => r.text());
@@ -244,8 +244,8 @@ async function renderSlowCombinedSearch(qName, qInfo) {
   content.innerHTML = '';
   const termLabel = [qName && `name "${qName}"`, qInfo && `info "${qInfo}"`].filter(Boolean).join(' + ');
   if (!results.length) {
-    const scope = currentYear ? `in ${currentYear}` : 'across all sets';
-    content.innerHTML = `<div class="empty-state"><div class="big">🔍</div><h3>No results</h3><p>No cards matching ${termLabel} found ${scope}</p></div>`;
+    const scope = currentYear ? t('inYear', { year: currentYear }) : t('acrossAllSets');
+    content.innerHTML = `<div class="empty-state"><div class="big">🔍</div><h3>${t('noResults')}</h3><p>${t('noResultsFor', { term: termLabel, scope })}</p></div>`;
     return;
   }
 

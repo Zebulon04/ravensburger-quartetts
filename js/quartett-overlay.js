@@ -233,7 +233,7 @@ function setBC(crumbs) {
     if (i === crumbs.length - 1) {
       html += `<span class="current">${c.label}</span>`;
       if (c.setKey) {
-        html += `<button class="bc-play-btn" data-setkey="${c.setKey}" onclick="bcPlaySet(this)" title="Play this set">▶ Play</button>`;
+        html += `<button class="bc-play-btn" data-setkey="${c.setKey}" onclick="bcPlaySet(this)" title="${t('play_btn')} ${c.label}">▶ ${t('play_btn')}</button>`;
       }
     } else {
       // Use data-year attribute for safe year navigation — avoids closure serialization bug

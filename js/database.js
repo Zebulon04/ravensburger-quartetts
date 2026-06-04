@@ -51,7 +51,7 @@ function renderCollections(year) {
   const cols = Object.values(allData).filter(s => s.year == year);
   const content = document.getElementById('dbContent');
   content.innerHTML = '';
-  if (!cols.length) { content.innerHTML = `<div class="empty-state"><div class="big">🗂</div><h3>No data for ${year}</h3><p>Load a JSON for this year.</p></div>`; return; }
+  if (!cols.length) { content.innerHTML = `<div class="empty-state"><div class="big">🗂</div><h3>${t('noDataForYear', { year })}</h3></div>`; return; }
 
   const grid = document.createElement('div'); grid.className = 'coll-grid';
   cols.forEach(set => {
@@ -89,7 +89,7 @@ function renderCollections(year) {
             } catch(e) {}
           }
         } catch(e) {
-          content.innerHTML = `<div class="empty-state"><div class="big">❌</div><h3>Failed to load</h3><p>${e.message}</p></div>`;
+          content.innerHTML = `<div class="empty-state"><div class="big">❌</div><h3>${t('failedToLoad')}</h3><p>${e.message}</p></div>`;
           return;
         }
       }
@@ -122,7 +122,7 @@ function setToolbarMode(mode) {
 
   // Update mobile year sort button label
   if (yearSortMob) {
-    yearSortMob.textContent = yearSortAsc ? 'Jahr ↑' : 'Jahr ↓';
+    yearSortMob.textContent = yearSortAsc ? `${t('years')} ↑` : `${t('years')} ↓`;
   }
 
   if (mode === 'years') {
@@ -170,7 +170,8 @@ function renderCards(set) {
     sortByBtn.id = 'cardSortByBtn';
     sortByBtn.className = 'sort-btn';
     sortByBtn.style.cssText = 'display:none;';
-    sortByBtn.textContent = 'Sort By';
+    sortByBtn.textContent = t('sortBy');
+    sortByBtn.dataset.defaultLabel = t('sortBy');
     sortByBtn.onclick = () => openCardSortPanel(set);
     toolbar.appendChild(sortByBtn);
   }
@@ -183,7 +184,7 @@ function renderCards(set) {
       : cardSetSortKey
         ? (FIELDS.find(f=>f.key===cardSetSortKey)?.label || cardSetSortKey)
         : null;
-    sortByBtn.textContent = activeLabel ? `${activeLabel} ${cardSetSortRev?'↓':'↑'}` : 'Sort By';
+    sortByBtn.textContent = activeLabel ? `${activeLabel} ${cardSetSortRev?'↓':'↑'}` : t('sortBy');
     sortByBtn.classList.toggle('on', !!cardSetSortKey);
   }
 
@@ -226,7 +227,7 @@ function renderCards(set) {
 
   const content = document.getElementById('dbContent');
   content.innerHTML = '';
-  if (!cards.length) { content.innerHTML = `<div class="empty-state"><div class="big">🔍</div><h3>No cards match</h3><p>Try a different search or filter</p></div>`; return; }
+  if (!cards.length) { content.innerHTML = `<div class="empty-state"><div class="big">🔍</div><h3>${t('noCardsMatch')}</h3><p>${t('tryDifferentSearch')}</p></div>`; return; }
 
   // ── QUARTETT LAYOUT ──────────────────────────────────────
   // When a custom sort is active, use a simple flat grid instead

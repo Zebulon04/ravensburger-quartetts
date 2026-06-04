@@ -257,7 +257,7 @@ async function openCountryMap() {
   const sub = document.getElementById('cmap-subtitle');
   if (sub) {
     const total = Object.values(_cmapCardCounts).reduce((a,b)=>a+b,0);
-    sub.textContent = `${Object.keys(_cmapCardCounts).length} countries · ${total} cards`;
+    sub.textContent = `${Object.keys(_cmapCardCounts).length} ${t('byCountry').toLowerCase()} · ${total} ${t('cardsWord')}`;
   }
 
   // Load D3 + TopoJSON + render map
@@ -277,7 +277,7 @@ async function selectCountry(iso) {
 
   showSection('database');
   const content = document.getElementById('dbContent');
-  content.innerHTML = `<div class="empty-state"><div class="big">${isoToFlag(iso)}</div><h3>Loading ${name}…</h3></div>`;
+  content.innerHTML = `<div class="empty-state"><div class="big">${isoToFlag(iso)}</div><h3>${t('loadingCountry', { name })}</h3></div>`;
   setToolbarMode('sets');
 
   // Collect matching entries from cardNamesIndex (always available)
@@ -295,7 +295,7 @@ async function selectCountry(iso) {
   }
 
   if (!hits.length) {
-    content.innerHTML = `<div class="empty-state"><div class="big">${isoToFlag(iso)}</div><h3>${name}</h3><p>No cards found for this country.</p></div>`;
+    content.innerHTML = `<div class="empty-state"><div class="big">${isoToFlag(iso)}</div><h3>${name}</h3><p>${t('noCardsForCountry')}</p></div>`;
     return;
   }
 
@@ -304,7 +304,7 @@ async function selectCountry(iso) {
   const stubs = neededKeys.filter(k => { const s = allData[k]; return !s || s._stub || !s.cards; });
 
   if (stubs.length) {
-    content.innerHTML = `<div class="empty-state"><div class="big">${isoToFlag(iso)}</div><h3>Loading ${stubs.length} set${stubs.length!==1?'s':''}…</h3></div>`;
+    content.innerHTML = `<div class="empty-state"><div class="big">${isoToFlag(iso)}</div><h3>${t('loadingData')}</h3></div>`;
     await Promise.all(stubs.map(async key => {
       const s = allData[key];
       if (!s || !s._jsonUrl) return;
@@ -348,7 +348,7 @@ function cmapHandleTap(iso) {
     _cmapTappedIso = iso;
     if (label) {
       label.style.display = 'block';
-      label.innerHTML = `${isoToFlag(iso)} <strong>${name}</strong> · ${count} card${count!==1?'s':''}<span style="display:block;font-size:.68rem;opacity:.6;margin-top:2px;">tap again to browse cards</span>`;
+      label.innerHTML = `${isoToFlag(iso)} <strong>${name}</strong> · ${count} ${t('cardsWord')}<span style="display:block;font-size:.68rem;opacity:.6;margin-top:2px;">${t('tapAgainBrowse')}</span>`;
       // Auto-hide after 3s if no second tap
       clearTimeout(label._hideTimer);
       label._hideTimer = setTimeout(() => {
@@ -461,7 +461,7 @@ async function loadAndRenderMap() {
     const res = await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json');
     world = await res.json();
   } catch(e) {
-    loading.textContent = 'Failed to load map data.';
+    loading.textContent = t('failedLoadMap');
     return;
   }
 

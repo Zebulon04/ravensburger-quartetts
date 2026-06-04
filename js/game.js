@@ -62,7 +62,7 @@ function _renderPickerYears(picker) {
     <div class="game-picker-header">
       <div class="coming-badge">Choose a Set</div>
       <h2>PLAY</h2>
-      <p>Pick a year to start a Higher / Lower game against the AI.</p>
+      <p>${t('pickYearFull')}</p>
     </div>
     <div class="coll-grid" id="game-year-grid"></div>`;
 
@@ -217,19 +217,19 @@ function _renderGameBoard() {
   board.id = "game-wrap";
   board.className = "game-wrap";
   board.innerHTML = `
-    <button class="game-back-btn" onclick="cleanupGame();showPlayPicker();">← Change Set</button>
+    <button class="game-back-btn" onclick="cleanupGame();showPlayPicker();">${t('changeSetArrow')}</button>
 
     <div class="game-scorebar">
       <div class="game-score-side">
-        <span class="game-score-label">AI</span>
+        <span class="game-score-label">${t('aiLabel')}</span>
         <span class="game-score-num" id="ai-count">${_gAiDeck.length}</span>
-        <span class="game-score-cards">cards</span>
+        <span class="game-score-cards">${t('cardsLabel')}</span>
       </div>
-      <div class="game-score-mid" id="game-round-msg">Your turn — tap an attribute</div>
+      <div class="game-score-mid" id="game-round-msg">${t('yourTurnShort')}</div>
       <div class="game-score-side">
-        <span class="game-score-label">You</span>
+        <span class="game-score-label">${t('youLabel')}</span>
         <span class="game-score-num" id="player-count">${_gPlayerDeck.length}</span>
-        <span class="game-score-cards">cards</span>
+        <span class="game-score-cards">${t('cardsLabel')}</span>
       </div>
     </div>
 
@@ -252,8 +252,8 @@ function _renderGameBoard() {
 
     <div class="game-hl-row" id="game-hl-row" style="display:none;">
       <span class="game-chosen-attr" id="game-chosen-attr"></span>
-      <button class="game-btn game-btn--high" onclick="resolveRound('H')">▲ Higher</button>
-      <button class="game-btn game-btn--low"  onclick="resolveRound('L')">▼ Lower</button>
+      <button class="game-btn game-btn--high" onclick="resolveRound('H')">▲ ${t('higher')}</button>
+      <button class="game-btn game-btn--low"  onclick="resolveRound('L')">▼ ${t('lower')}</button>
     </div>
 
     <div class="game-result-overlay" id="game-result-overlay" style="display:none;">
@@ -280,7 +280,7 @@ function _doPlayerTurn() {
   _gChosenField = null;
   _gAnimating   = false;
 
-  _setMsg("Your turn — tap an attribute on your card");
+  _setMsg(t('yourTurn'));
   _hideHLButtons();
 
   const aiFront = document.getElementById("card-ai-front");
@@ -417,7 +417,7 @@ function _doAiTurn() {
   const hl = bestField ? bestHl : (Math.random() < 0.5 ? "H" : "L");
 
   setTimeout(() => {
-    _setMsg(`AI chose: <strong>${_gChosenField}</strong> — ${hl === "H" ? "Higher ▲" : "Lower ▼"}`);
+    _setMsg(t('aiChose', { field: _gChosenField, hl: hl === "H" ? t('higherArrow') : t('lowerArrow') }));
     // ① Show AI card after 0.8s
     setTimeout(() => {
       _gAnimating = true;
@@ -477,7 +477,7 @@ function _updateCounts() {
 function _showHLButtons(field) {
   const row = document.getElementById("game-hl-row");
   const lbl = document.getElementById("game-chosen-attr");
-  if (lbl) lbl.textContent = `Attribute: ${field}`;
+  if (lbl) lbl.textContent = t('attribute', { field });
   if (row) row.style.display = "flex";
 }
 
@@ -516,7 +516,7 @@ function _showResult(playerWins, field, pVal, aVal, cb) {
 function _checkGameOver() {
   if (_gPlayerDeck.length && _gAiDeck.length) return false;
   const playerWon = _gAiDeck.length === 0;
-  _setMsg(playerWon ? "You win the game! 🎉" : "AI wins the game.");
+  _setMsg(playerWon ? t('winGame') : t('loseGame'));
   const overlay = document.getElementById("game-result-overlay");
   const box     = document.getElementById("game-result-box");
   if (overlay && box) {
@@ -524,12 +524,12 @@ function _checkGameOver() {
       <div class="game-result-icon ${playerWon ? 'game-result-win' : 'game-result-lose'}"
            style="font-size:3rem">${playerWon ? "🏆" : "💀"}</div>
       <div class="game-result-title" style="font-size:1.4rem">
-        ${playerWon ? "You win the game!" : "AI wins the game!"}
+        ${playerWon ? t('winGameTitle') : t('loseGameTitle')}
       </div>
       <div style="display:flex;gap:.75rem;margin-top:1.2rem;justify-content:center;">
-        <button class="game-btn game-btn--high" onclick="initGame('${_gSetKey}')">Play Again</button>
+        <button class="game-btn game-btn--high" onclick="initGame('${_gSetKey}')">${t('playAgain')}</button>
         <button class="game-btn" style="background:rgba(255,255,255,.1);color:var(--text-primary);"
-                onclick="cleanupGame();showPlayPicker();">Change Set</button>
+                onclick="cleanupGame();showPlayPicker();">${t('changeSet')}</button>
       </div>`;
     overlay.style.display = "flex";
   }

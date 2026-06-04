@@ -20,7 +20,7 @@ const CACHE_KEY_PREFIX = 'qCache_v2_';
 
 function clearRepoCache() {
   Object.keys(localStorage).filter(k => k.startsWith(CACHE_KEY_PREFIX)).forEach(k => localStorage.removeItem(k));
-  alert('Cache cleared. Next load will fetch fresh data from GitHub.');
+  alert(t('cacheCleared'));
 }
 
 async function loadEntireRepo() {
@@ -42,7 +42,7 @@ async function loadEntireRepo() {
   loadedCount = 0;
   document.getElementById('loadedTags').innerHTML = '';
   document.getElementById('loadProgress').style.display = 'block';
-  document.getElementById('progressText').textContent = 'Checking cache…';
+  document.getElementById('progressText').textContent = t('checkingCache');
 
   // ── Try cache first ──────────────────────────────────────
   try {
@@ -55,7 +55,7 @@ async function loadEntireRepo() {
         throw new Error('cache bust: no cardNames');
       }
       const ageMin = (Date.now() - ts) / 60000;
-      document.getElementById('progressText').textContent = `Loading from cache (${Math.round(ageMin)} min old)…`;
+      document.getElementById('progressText').textContent = t('loadingFromCache', { age: Math.round(ageMin) });
       Object.assign(allData, data);
       Object.assign(imageMap, images);
       if (yearImages) Object.assign(yearImageMap, yearImages);
@@ -70,13 +70,13 @@ async function loadEntireRepo() {
 
   // ── Fetch fresh via Git Trees API (1 API call for the whole tree) ──
   try {
-    document.getElementById('progressText').textContent = 'Fetching repo tree (1 API call)…';
+    document.getElementById('progressText').textContent = t('fetchingTree');
 
     // Step 1: resolve branch → commit SHA (via proxy — token lives server-side)
     const branchUrl = `${GH_API_BASE}/repos/${user}/${repo}/branches/${branch}`;
     const branchRes = await fetchWithRetry(branchUrl);
     if (!branchRes.ok) {
-      const msg = branchRes.status === 429 ? 'Rate limited! Please try again in a moment.' : `Failed to fetch branch info (${branchRes.status})`;
+      const msg = branchRes.status === 429 ? t('rateLimited') : `${t('failedToLoad')} branch info (${branchRes.status})`;
       throw new Error(msg);
     }
     const branchData = await branchRes.json();
@@ -175,7 +175,7 @@ async function loadEntireRepo() {
     });
 
     loadedCount = Object.keys(collectionMeta).length;
-    document.getElementById('progressText').textContent = `${loadedCount} collections discovered`;
+    document.getElementById('progressText').textContent = t('collectionsDiscovered', { count: loadedCount });
 
     // Step 6: fetch grouped_cards_extended.json — single source for fast name + info search
     const groupedFile = tree.find(f => {
@@ -192,7 +192,7 @@ async function loadEntireRepo() {
         // Both indexes point to the same data; searches filter by name vs info fields respectively
         cardNamesIndex = gcData;
         cardInfosIndex = gcData;
-        document.getElementById('progressText').textContent = `${loadedCount} collections + search index loaded`;
+        document.getElementById('progressText').textContent = t('searchIndexLoaded', { count: loadedCount });
         console.log(`[grouped_cards_extended] Loaded ${gcData.length} entries from ${groupedFile.path}`);
       } catch(e) {
         console.warn('grouped_cards_extended.json fetch failed:', e);
@@ -227,7 +227,7 @@ function finishLoad() {
   renderYearsOverview();
   updateHomeStats();
   const cached = Object.keys(allData).length;
-  document.getElementById('progressText').textContent = `${cached} collections loaded`;
+  document.getElementById('progressText').textContent = t('collectionsLoaded', { count: cached });
 }
 
 // Load image: uses composite key year::collection::grade

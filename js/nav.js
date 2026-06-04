@@ -81,7 +81,7 @@ function renderSidebar() {
 
   const labelEl = document.createElement('div');
   labelEl.className = 'sidebar-label';
-  labelEl.innerHTML = `<span>Years</span>`;
+  labelEl.innerHTML = `<span>${t('years')}</span>`;
   const sortBtn = document.createElement('button');
   sortBtn.className = 'sidebar-sort-btn';
   sortBtn.title = yearSortAsc ? 'Sort: oldest first — click for newest first' : 'Sort: newest first — click for oldest first';
@@ -95,7 +95,7 @@ function renderSidebar() {
     }
   };
   const mobYearBtn = document.getElementById('yearSortMobileBtn');
-  if (mobYearBtn) mobYearBtn.textContent = yearSortAsc ? 'Jahr ↑' : 'Jahr ↓';
+  if (mobYearBtn) mobYearBtn.textContent = yearSortAsc ? `${t('years')} ↑` : `${t('years')} ↓`;
   labelEl.appendChild(sortBtn);
   sidebar.innerHTML = '';
   sidebar.appendChild(labelEl);
@@ -153,7 +153,7 @@ function renderSidebar() {
               } catch (e) {}
             }
           } catch (e) {
-            document.getElementById('dbContent').innerHTML = `<div class="empty-state"><div class="big">❌</div><h3>Failed to load</h3><p>${e.message}</p></div>`;
+            document.getElementById('dbContent').innerHTML = `<div class="empty-state"><div class="big">❌</div><h3>${t('failedToLoad')}</h3><p>${e.message}</p></div>`;
             return;
           }
         }

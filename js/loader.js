@@ -82,11 +82,54 @@ async function loadEntireRepo() {
     const branchData = await branchRes.json();
     const treeSha = branchData.commit.commit.tree.sha;
 
-    // Step 2: get the full recursive tree via proxy — this is the ONLY API call needed
+    // Step 2: get the full file tree.
+    // First try recursive=1 (1 API call). If GitHub returns 500 or truncated=true
+    // (repo > 7 MB tree), fall back to a two-level walk: root → year dirs → collection dirs.
+    let tree = [];
     const treeUrl = `${GH_API_BASE}/repos/${user}/${repo}/git/trees/${treeSha}?recursive=1`;
     const treeRes = await fetchWithRetry(treeUrl);
-    if (!treeRes.ok) throw new Error(`Failed to fetch tree (${treeRes.status})`);
-    const { tree } = await treeRes.json();
+
+    if (treeRes.ok) {
+      const treeJson = await treeRes.json();
+      if (!treeJson.truncated) {
+        tree = treeJson.tree;
+      }
+    }
+
+    if (!tree.length) {
+      // Fallback: walk the tree level by level (handles repos > 7 MB)
+      document.getElementById('progressText').textContent = t('fetchingTree') + ' (large repo…)';
+
+      // Get root level — find year-named directories (4-digit numbers)
+      const rootRes = await fetchWithRetry(`${GH_API_BASE}/repos/${user}/${repo}/git/trees/${treeSha}`);
+      if (!rootRes.ok) throw new Error(`Failed to fetch root tree (${rootRes.status})`);
+      const rootJson = await rootRes.json();
+
+      // Collect top-level entries for the tree (files at root level)
+      rootJson.tree.forEach(e => {
+        const rel = rootPath ? (e.path || '') : e.path;
+        tree.push({ ...e, path: rootPath ? `${rootPath}/${e.path}` : e.path });
+      });
+
+      // Find year directories (either at root or under rootPath)
+      const yearDirs = rootJson.tree.filter(e => {
+        const name = e.path.split('/').pop();
+        return e.type === 'tree' && /^\d{4}$/.test(name);
+      });
+
+      // For each year dir, fetch its subtree recursively (each year << 7MB)
+      await Promise.all(yearDirs.map(async yearDir => {
+        const yearPath = rootPath ? `${rootPath}/${yearDir.path}` : yearDir.path;
+        const yearRes = await fetchWithRetry(
+          `${GH_API_BASE}/repos/${user}/${repo}/git/trees/${yearDir.sha}?recursive=1`
+        );
+        if (!yearRes.ok) return;
+        const yearJson = await yearRes.json();
+        yearJson.tree.forEach(e => {
+          tree.push({ ...e, path: `${yearPath}/${e.path}` });
+        });
+      }));
+    }
 
     // Step 3: discover all collection folders from the tree
     // A collection folder contains a .json file — we just need to know where they are

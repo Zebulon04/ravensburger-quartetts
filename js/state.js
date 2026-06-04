@@ -35,17 +35,23 @@ function extractUnit(parts) {
 }
 
 // Retry fetch up to 3 times with exponential backoff — handles transient GitHub 500s
-async function fetchWithRetry(url, options = {}, retries = 3) {
+async function fetchWithRetry(url, options = {}, retries = 6) {
   let lastErr;
   for (let i = 0; i < retries; i++) {
     try {
       const res = await fetch(url, options);
       if (res.ok) return res;
-      // Don't retry on auth/client errors
+      // Never retry auth/client errors — they won't fix themselves
       if (res.status === 401 || res.status === 403 || res.status === 404) return res;
+      // 500/502/503/504 are transient server errors — worth retrying
       lastErr = new Error(`HTTP ${res.status}`);
     } catch(e) { lastErr = e; }
-    if (i < retries - 1) await new Promise(r => setTimeout(r, 600 * Math.pow(2, i)));
+    if (i < retries - 1) {
+      // Exponential backoff with jitter: 800ms, ~1.6s, ~3.2s, ~6.4s, ~12.8s
+      const base = 800 * Math.pow(2, i);
+      const jitter = Math.random() * base * 0.3; // ±30% jitter
+      await new Promise(r => setTimeout(r, base + jitter));
+    }
   }
   throw lastErr;
 }

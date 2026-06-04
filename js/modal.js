@@ -110,6 +110,7 @@ function _renderModal(card, set) {
 async function _navToSet(setKey) {
   closeModal();
   showSection('database');
+  clearSearch();
   const set = allData[setKey];
   if (!set) return;
   const year = set.year;

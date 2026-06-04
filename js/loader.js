@@ -210,6 +210,11 @@ async function loadEntireRepo() {
       localStorage.setItem(cacheKey, JSON.stringify({ data: allData, images: imageMap, yearImages: yearImageMap, cardNames: cardNamesIndex, cardInfos: cardInfosIndex, ts: Date.now() }));
     } catch(e) { console.warn('Cache write failed:', e); }
 
+    // Preload all back-of-card images in the background so they're browser-cached before game starts
+    Object.entries(imageMap).forEach(([key, url]) => {
+      if (key.endsWith('::__BACK__')) { const img = new Image(); img.src = url; }
+    });
+
     finishLoad();
 
   } catch (err) {

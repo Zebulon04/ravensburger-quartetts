@@ -212,6 +212,13 @@
         if (cardId && set.cards) {
           const target = set.cards.find(c => c.card === cardId);
           if (target) {
+            // Push history entries for each level so back works step by step:
+            // [replaceState(card)] → after pushes: [replaceState(db), push(year), push(coll), push(card)]
+            // The initial replaceState at boot already has the card hash; we replace it with
+            // the database root, then push year → coll → card so each back press goes up one level.
+            history.replaceState({ qNav: true, root: true }, '', location.pathname + '#database');
+            history.pushState({ qNav: true, label: String(year) }, '', location.pathname + '#database/' + year);
+            history.pushState({ qNav: true, label: coll }, '', location.pathname + '#database/' + year + '/' + encodeURIComponent(coll));
             setTimeout(() => {
               FIELDS = deriveFields(set);
               _modalSet   = set;
@@ -222,13 +229,23 @@
               _renderModal(target, set);
               document.getElementById('cardModal').classList.add('open');
               document.body.style.overflow = 'hidden';
-              // Don't call _pushNav — back button is already set up by ui.js
+              // Push the card level entry last (after modal is open so navHash encodes card)
+              const cardHash = '#database/' + year + '/' + encodeURIComponent(coll) + '/' + encodeURIComponent(cardId);
+              history.pushState({ qNav: true, label: cardId }, '', location.pathname + cardHash);
             }, 80);
           }
+        } else {
+          // No card: deep-link to collection view — push year entry so back goes to year list
+          history.replaceState({ qNav: true, root: true }, '', location.pathname + '#database');
+          history.pushState({ qNav: true, label: String(year) }, '', location.pathname + '#database/' + year);
+          history.pushState({ qNav: true, label: coll }, '', location.pathname + '#database/' + year + '/' + encodeURIComponent(coll));
         }
       } else {
         renderCollections(year);
         setBC([{ label: String(year), year }]);
+        // Push a year-level entry so back goes to the database root
+        history.replaceState({ qNav: true, root: true }, '', location.pathname + '#database');
+        history.pushState({ qNav: true, label: String(year) }, '', location.pathname + '#database/' + year);
         if (q || iq) renderCombinedSearch(q || null, iq || null);
       }
     } else if (q || iq) {

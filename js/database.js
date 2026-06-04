@@ -459,20 +459,23 @@ async function openRandomCard() {
   if (typeof cardNamesIndex !== 'undefined' && cardNamesIndex.length) {
     cardNamesIndex.forEach(entry => {
       (entry.cards || []).forEach(card => {
-        allCards.push({ card, setMeta: entry });
+        // Only include cards that have a valid grade (card field) — skip malformed entries
+        if (card.card) allCards.push({ card, setMeta: entry });
       });
     });
   } else {
     // Fallback: only sets already fully loaded
     Object.values(allData).forEach(set => {
-      if (set.cards) set.cards.forEach(card => allCards.push({ card, set }));
+      if (set.cards) set.cards.forEach(card => { if (card.card) allCards.push({ card, set }); });
     });
   }
 
   if (!allCards.length) return;
 
   const pick = allCards[Math.floor(Math.random() * allCards.length)];
-  const setKey = `${pick.setMeta ? pick.setMeta.year : pick.set.year}::${pick.setMeta ? pick.setMeta.collection : pick.set.collection}`;
+  const year = pick.setMeta ? pick.setMeta.year : pick.set.year;
+  const coll = pick.setMeta ? pick.setMeta.collection : pick.set.collection;
+  const setKey = `${year}::${coll}`;
   let set = allData[setKey];
 
   // Lazy-load if stub
@@ -487,10 +490,16 @@ async function openRandomCard() {
 
   if (!set || !set.cards) return;
 
-  // Find the full card data
-  const fullCard = set.cards.find(c =>
-    (c.card || '').toUpperCase() === (pick.card.card || '').toUpperCase()
-  ) || pick.card;
+  // Find the full card data — match by grade first, then fall back to name
+  const pickGrade = (pick.card.card || '').toUpperCase();
+  const pickName  = (pick.card.name || '').toLowerCase();
+  let fullCard = set.cards.find(c => (c.card || '').toUpperCase() === pickGrade);
+  if (!fullCard && pickName) {
+    fullCard = set.cards.find(c => (c.name || '').toLowerCase() === pickName);
+  }
+  // If still not found, pick any valid card from the set rather than show a broken one
+  if (!fullCard) fullCard = set.cards.find(c => c.card && c.name) || set.cards[0];
+  if (!fullCard) return;
 
   // Navigate to database section and open modal
   showSection('database');

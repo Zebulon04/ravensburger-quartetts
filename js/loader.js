@@ -277,6 +277,11 @@ function finishLoad() {
   updateHomeStats();
   const cached = Object.keys(allData).length;
   document.getElementById('progressText').textContent = t('collectionsLoaded', { count: cached });
+  // Restore URL-encoded state if the router was waiting for data to load
+  if (typeof window._routerRestore === 'function') {
+    window._routerRestore();
+    window._routerRestore = null;
+  }
 }
 
 // Load image: uses composite key year::collection::grade

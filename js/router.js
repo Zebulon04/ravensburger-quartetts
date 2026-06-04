@@ -26,7 +26,7 @@
     const iqVal = (document.getElementById('searchInfoInput')?.value || '').trim();
 
     // Country filter active?
-    const countryIso = (typeof _cmapSelectedIso !== 'undefined' && _cmapSelectedIso) ? _cmapSelectedIso : null;
+    const countryIso = (typeof window._getCmapSelectedIso === 'function' && window._getCmapSelectedIso()) || null;
 
     let hash = '#database';
 

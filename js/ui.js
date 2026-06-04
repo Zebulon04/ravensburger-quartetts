@@ -74,8 +74,18 @@ function closeLightbox() {
 
 // ── BACK BUTTON (mobile history) ─────────────────────────
 (function() {
+  // Push a history entry, preserving the current hash so the URL stays in sync.
+  // We include the hash so that pushState never strips it from the address bar.
   function pushNav(label) {
-    history.pushState({ qNav: true, label }, '', location.pathname + location.search);
+    const hash = location.hash || '';
+    history.pushState({ qNav: true, label }, '', location.pathname + location.search + hash);
+  }
+
+  // After each popstate navigation, let the router re-encode the new state into the hash.
+  function syncAfterNav() {
+    if (typeof window._routerSync === 'function') {
+      requestAnimationFrame(window._routerSync);
+    }
   }
 
   window.addEventListener('popstate', () => {
@@ -83,12 +93,14 @@ function closeLightbox() {
     if (document.getElementById('imgLightbox').classList.contains('open')) {
       closeLightbox();
       pushNav('modal'); // re-push so next back closes modal
+      syncAfterNav();
       return;
     }
     // Priority 2: modal open → close modal, stay in current collection
     if (document.getElementById('cardModal').classList.contains('open')) {
       closeModal();
       pushNav(currentColl || currentYear || 'db'); // re-push so next back goes up a level
+      syncAfterNav();
       return;
     }
     // Priority 3: inside a collection → go to year
@@ -99,6 +111,7 @@ function closeLightbox() {
       renderCollections(currentYear);
       setBC([{label:String(currentYear), year:currentYear}]);
       pushNav(String(currentYear));
+      syncAfterNav();
       return;
     }
     // Priority 4: inside a year → go to all years
@@ -109,20 +122,22 @@ function closeLightbox() {
       renderYearsOverview();
       setBC([]);
       pushNav('db');
+      syncAfterNav();
       return;
     }
     // Priority 5: database root → go to home
     if (document.getElementById('database').classList.contains('active')) {
       showSection('home');
       pushNav('home');
+      syncAfterNav();
       return;
     }
     // Priority 6: home — allow browser to actually go back (exit page)
     // Don't push anything; let the browser handle it
   });
 
-  // Replace initial state so first popstate is catchable
-  history.replaceState({ qNav: true, root: true }, '', location.pathname + location.search);
+  // Replace initial state so first popstate is catchable, preserving any existing hash.
+  history.replaceState({ qNav: true, root: true }, '', location.pathname + location.search + (location.hash || ''));
 
   // Expose pusher for use by navigation functions
   window._pushNav = pushNav;

@@ -273,7 +273,11 @@ function addLoadedTag(year, collection) {
 function finishLoad() {
   document.getElementById('loadProgress').style.display = 'none';
   renderSidebar();
-  renderYearsOverview();
+  // Only render the default years overview when there's no deep-link hash waiting
+  // to be restored — otherwise _routerRestore() will render the correct view instead.
+  const hasPendingHash = !!(window._routerPendingHash ||
+    (location.hash && location.hash !== '#' && location.hash !== '#home' && location.hash !== '#database'));
+  if (!hasPendingHash) renderYearsOverview();
   updateHomeStats();
   const cached = Object.keys(allData).length;
   document.getElementById('progressText').textContent = t('collectionsLoaded', { count: cached });

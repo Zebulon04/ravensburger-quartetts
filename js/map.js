@@ -7,6 +7,7 @@ let _cmapTopoReady   = false;
 let _cmapCardCounts  = {};     // ISO-alpha2 → card count (computed once)
 let _cmapIsoToNames  = {};     // ISO-alpha2 → display country name
 let _cmapSelectedIso = null;
+window._getCmapSelectedIso = () => _cmapSelectedIso;
 let _cmapSelectedCards = [];
 let _cmapGeoLoaded   = false;
 let _cmapD3Loaded    = false;

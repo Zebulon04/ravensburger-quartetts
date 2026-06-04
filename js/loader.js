@@ -86,15 +86,14 @@ async function loadEntireRepo() {
     // First try recursive=1 (1 API call). If GitHub returns 500 or truncated=true
     // (repo > 7 MB tree), fall back to a two-level walk: root → year dirs → collection dirs.
     let tree = [];
-    const treeUrl = `${GH_API_BASE}/repos/${user}/${repo}/git/trees/${treeSha}?recursive=1`;
-    const treeRes = await fetchWithRetry(treeUrl);
-
-    if (treeRes.ok) {
-      const treeJson = await treeRes.json();
-      if (!treeJson.truncated) {
-        tree = treeJson.tree;
+    try {
+      const treeUrl = `${GH_API_BASE}/repos/${user}/${repo}/git/trees/${treeSha}?recursive=1`;
+      const treeRes = await fetch(treeUrl); // plain fetch — 500 must not retry here, just fall through
+      if (treeRes.ok) {
+        const treeJson = await treeRes.json();
+        if (!treeJson.truncated) tree = treeJson.tree;
       }
-    }
+    } catch(e) { /* fall through to level-by-level walk */ }
 
     if (!tree.length) {
       // Fallback: walk the tree level by level (handles repos > 7 MB)

@@ -1,21 +1,14 @@
 // ── URL ROUTER ────────────────────────────────────────────
-// Deep-link every view state into the URL hash.
-//
 // Hash format:  #section[/year[/collection[/card]]][?q=name&iq=info]
-//
-// Examples:
-//   #home
-//   #database
-//   #database/2003
-//   #database/2003/Formel1
-//   #database/2003/Formel1/2A
-//   #database?q=ferrari
-//   #database/2003?q=ferrari&iq=kimi
 
 (function () {
   'use strict';
 
-  // ── ENCODE: current app state → hash string ───────────────
+  // When true, we are restoring from a popstate — suppress pushState calls
+  // so the browser's forward stack is not corrupted.
+  let _restoring = false;
+
+  // ── ENCODE ────────────────────────────────────────────────
   function encodeState() {
     const activeSection = ['home','database','play','contact'].find(id =>
       document.getElementById(id)?.classList.contains('active')
@@ -25,61 +18,85 @@
 
     let hash = '#database';
 
-    if (currentYear) hash += '/' + currentYear;
-    if (currentColl) hash += '/' + encodeURIComponent(currentColl);
+    // Read search terms straight from the DOM inputs — they are always up to date,
+    // whereas the JS variables (searchTerm, infoSearchTerm) lag by one event tick.
+    const qVal  = (document.getElementById('searchInput')?.value     || '').trim();
+    const iqVal = (document.getElementById('searchInfoInput')?.value || '').trim();
 
-    // Card modal open → append card grade
-    if (document.getElementById('cardModal')?.classList.contains('open')) {
+    // Modal open?
+    const modalOpen = document.getElementById('cardModal')?.classList.contains('open');
+    if (modalOpen) {
       try {
         const card = _modalCards[_modalIdx];
-        if (card?.card) hash += '/' + encodeURIComponent(card.card);
+        const set  = _modalSet;
+        if (card?.card && set?.year && set?.collection) {
+          // Always use the card's own year/collection — works for search-result modals too
+          hash += '/' + set.year;
+          hash += '/' + encodeURIComponent(set.collection);
+          hash += '/' + encodeURIComponent(card.card);
+          // Carry search context so back-arrow returns to the same search
+          const p = new URLSearchParams();
+          if (qVal)  p.set('q',  qVal);
+          if (iqVal) p.set('iq', iqVal);
+          const qs = p.toString();
+          if (qs) hash += '?' + qs;
+          return hash;
+        }
       } catch(e) {}
     }
 
-    // Active search terms
+    // No modal — encode current nav position
+    if (currentYear) hash += '/' + currentYear;
+    if (currentColl) hash += '/' + encodeURIComponent(currentColl);
+
     const p = new URLSearchParams();
-    const q  = typeof searchTerm     === 'string' ? searchTerm.trim()     : '';
-    const iq = typeof infoSearchTerm === 'string' ? infoSearchTerm.trim() : '';
-    if (q)  p.set('q',  q);
-    if (iq) p.set('iq', iq);
+    if (qVal)  p.set('q',  qVal);
+    if (iqVal) p.set('iq', iqVal);
     const qs = p.toString();
     if (qs) hash += '?' + qs;
 
     return hash;
   }
 
-  // ── PUSH: write encoded state to browser history ──────────
+  // ── PUSH ──────────────────────────────────────────────────
   let _debounce = null;
-  function pushURL(replace = false) {
+
+  function pushURL() {
+    if (_restoring) return;           // never corrupt forward stack during restore
     const hash = encodeState();
     if (location.hash === hash) return;
-    if (replace) history.replaceState({ qRouter: true }, '', hash);
-    else         history.pushState   ({ qRouter: true }, '', hash);
+    history.pushState({ qRouter: true }, '', hash);
   }
 
-  // Debounced push — used by typing events so we don't push every keystroke
-  function debouncedPush(ms = 600) {
+  function replaceURL() {
+    if (_restoring) return;
+    const hash = encodeState();
+    if (location.hash === hash) return;
+    history.replaceState({ qRouter: true }, '', hash);
+  }
+
+  function debouncedPush(ms) {
     clearTimeout(_debounce);
-    _debounce = setTimeout(() => pushURL(false), ms);
+    _debounce = setTimeout(pushURL, ms || 400);
   }
 
-  // Immediate push — used by navigation clicks
-  function immediatePush() {
-    clearTimeout(_debounce);
-    pushURL(false);
-  }
+  window._routerPush    = pushURL;
+  window._routerReplace = replaceURL;
 
-  // Expose globally so other modules can trigger an update
-  window._routerPush    = immediatePush;
-  window._routerReplace = () => pushURL(true);
-
-  // ── DECODE: hash string → restore state ──────────────────
+  // ── DECODE / RESTORE ──────────────────────────────────────
   async function restoreHash(hash) {
-    const raw = (hash || '').replace(/^#/, '').trim();
-    if (!raw || raw === 'home') {
-      _silentActivate('home');
-      return;
+    _restoring = true;
+    try {
+      await _doRestore(hash);
+    } finally {
+      // Release flag after all microtasks settle so wrapped render fns don't push
+      setTimeout(() => { _restoring = false; }, 100);
     }
+  }
+
+  async function _doRestore(hash) {
+    const raw = (hash || '').replace(/^#/, '').trim();
+    if (!raw || raw === 'home') { _silentActivate('home'); return; }
 
     const [pathPart, qsPart] = raw.split('?');
     const segs   = pathPart.split('/').filter(Boolean);
@@ -93,15 +110,15 @@
     const iq      = params.get('iq') || '';
 
     if (!['home','database','play','contact'].includes(section)) return;
-
     _silentActivate(section);
     if (section !== 'database') return;
-
-    // If data not loaded yet, bail — finishLoad() will call us again
     if (!Object.keys(allData).length) return;
 
-    // Navigate breadcrumb
+    // Reset inputs to match URL
+    _setInputs(q, iq);
     clearSearch();
+    // Restore input values that clearSearch just wiped
+    _setInputs(q, iq);
 
     if (year) {
       currentYear = year;
@@ -115,12 +132,11 @@
         const set = allData[`${year}::${coll}`];
         if (!set) { renderCollections(year); return; }
 
-        // Hydrate stub
         if (set._stub || !set.cards) {
           try {
-            const txt  = await fetchWithRetry(set._jsonUrl).then(r => r.text());
-            set.cards  = JSON.parse(txt).cards;
-            set._stub  = false;
+            const txt = await fetchWithRetry(set._jsonUrl).then(r => r.text());
+            set.cards = JSON.parse(txt).cards;
+            set._stub = false;
           } catch(e) {}
         }
 
@@ -132,27 +148,27 @@
 
         if (cardId && set.cards) {
           const target = set.cards.find(c => c.card === cardId);
-          if (target) setTimeout(() => openModal(target, set, set.cards), 80);
+          if (target) {
+            setTimeout(() => {
+              // open without pushing (we're in restore mode)
+              if (typeof _origOpenModal === 'function') _origOpenModal(target, set, set.cards);
+            }, 80);
+          }
         }
-      } else {
-        if (q || iq) {
-          _applySearch(q, iq);
-        } else {
-          renderCollections(year);
-          setBC([{ label: String(year), year }]);
-        }
-      }
-    } else {
-      if (q || iq) {
+      } else if (q || iq) {
         _applySearch(q, iq);
       } else {
-        renderYearsOverview();
-        setBC([]);
+        renderCollections(year);
+        setBC([{ label: String(year), year }]);
       }
+    } else if (q || iq) {
+      _applySearch(q, iq);
+    } else {
+      renderYearsOverview();
+      setBC([]);
     }
   }
 
-  // Activate a section without side-effects (no game cleanup, no re-render)
   function _silentActivate(id) {
     document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
     document.querySelectorAll('.nav-links a').forEach(a => a.classList.remove('active'));
@@ -160,53 +176,81 @@
     document.getElementById('nav-' + id)?.classList.add('active');
   }
 
-  // Fill search inputs and trigger search
+  function _setInputs(q, iq) {
+    const ni = document.getElementById('searchInput');
+    const ii = document.getElementById('searchInfoInput');
+    if (ni) ni.value = q  || '';
+    if (ii) ii.value = iq || '';
+    // Also sync JS vars
+    if (typeof searchTerm     !== 'undefined') searchTerm     = q  || '';
+    if (typeof infoSearchTerm !== 'undefined') infoSearchTerm = iq || '';
+  }
+
   function _applySearch(q, iq) {
-    // Set input values
-    const nameEl = document.getElementById('searchInput');
-    const infoEl = document.getElementById('searchInfoInput');
-    if (nameEl && q)  nameEl.value  = q;
-    if (infoEl && iq) infoEl.value  = iq;
-
-    // Update state variables directly (search.js reads these)
-    if (q)  { searchTerm     = q;  }
-    if (iq) { infoSearchTerm = iq; }
-
-    // Trigger combined search
+    _setInputs(q, iq);
     if (typeof renderCombinedSearch === 'function') {
       renderCombinedSearch(q || null, iq || null);
-    } else if (q && typeof handleSearch === 'function') {
-      handleSearch(q);
     }
   }
 
-  // ── HOOK: search inputs → push URL on typing ─────────────
-  // We do this after DOMContentLoaded so the inputs exist
-  window.addEventListener('DOMContentLoaded', () => {
+  // Keep a reference to the original openModal so restore can call it without pushing
+  let _origOpenModal = null;
 
-    const nameInput = document.getElementById('searchInput');
-    const infoInput = document.getElementById('searchInfoInput');
+  // ── HOOKS (run after all other scripts) ───────────────────
+  window.addEventListener('load', () => {
 
-    if (nameInput) {
-      nameInput.addEventListener('input', () => debouncedPush(500));
+    // Silence the old _pushNav — router owns history now
+    window._pushNav = function() {};
+
+    // Wrap openModal / closeModal
+    _origOpenModal = window.openModal;
+    const _origClose = window.closeModal;
+
+    if (typeof _origOpenModal === 'function') {
+      window.openModal = function(card, set, cardList) {
+        _origOpenModal(card, set, cardList);
+        if (!_restoring) setTimeout(pushURL, 20);
+      };
     }
-    if (infoInput) {
-      infoInput.addEventListener('input', () => debouncedPush(500));
-    }
-
-    // showSection → push URL
-    const _origShow = window.showSection;
-    if (typeof _origShow === 'function') {
-      window.showSection = function(id) {
-        _origShow(id);
-        setTimeout(immediatePush, 20);
+    if (typeof _origClose === 'function') {
+      window.closeModal = function() {
+        _origClose();
+        if (!_restoring) setTimeout(pushURL, 20);
       };
     }
 
-    // Sidebar year/collection clicks already call _pushNav — we replace that
-    // with a real URL push below.
+    // Wrap render functions — push after each navigation render
+    const _origRC  = window.renderCollections;
+    const _origRCa = window.renderCards;
+    const _origYO  = window.renderYearsOverview;
+    const _origSS  = window.showSection;
 
-    // ── COPY LINK button inside card modal ────────────────
+    if (typeof _origRC === 'function') {
+      window.renderCollections = function(year) {
+        _origRC(year);
+        if (!_restoring) setTimeout(pushURL, 20);
+      };
+    }
+    if (typeof _origRCa === 'function') {
+      window.renderCards = function(set) {
+        _origRCa(set);
+        if (!_restoring) setTimeout(pushURL, 20);
+      };
+    }
+    if (typeof _origYO === 'function') {
+      window.renderYearsOverview = function() {
+        _origYO();
+        if (!_restoring) setTimeout(pushURL, 20);
+      };
+    }
+    if (typeof _origSS === 'function') {
+      window.showSection = function(id) {
+        _origSS(id);
+        if (!_restoring) setTimeout(pushURL, 20);
+      };
+    }
+
+    // Modal copy-link button
     const modal = document.getElementById('cardModal');
     if (modal) {
       new MutationObserver(() => {
@@ -214,134 +258,69 @@
       }).observe(modal, { attributes: true, attributeFilter: ['class'] });
     }
 
-    // ── Share button in toolbar ───────────────────────────
+    // Share button in DB toolbar
     const toolbar = document.querySelector('.db-toolbar');
-    if (toolbar) {
-      const shareBtn = document.createElement('button');
-      shareBtn.id = 'dbShareBtn';
-      shareBtn.className = 'sort-btn';
-      shareBtn.title = 'Copy link to current view';
-      shareBtn.innerHTML = '🔗 Share';
-      shareBtn.style.cssText = 'margin-left:auto;flex-shrink:0;font-size:.75rem;padding:5px 10px;white-space:nowrap;';
-      shareBtn.onclick = _shareCurrentView;
-      toolbar.appendChild(shareBtn);
+    if (toolbar && !document.getElementById('dbShareBtn')) {
+      const btn = document.createElement('button');
+      btn.id = 'dbShareBtn';
+      btn.className = 'sort-btn';
+      btn.title = 'Copy link to current view';
+      btn.innerHTML = '🔗 Share';
+      btn.style.cssText = 'margin-left:auto;flex-shrink:0;font-size:.75rem;padding:5px 10px;white-space:nowrap;';
+      btn.onclick = _shareCurrentView;
+      toolbar.appendChild(btn);
     }
   });
 
-  // ── HOOK: openModal / closeModal → push URL immediately ──
-  window.addEventListener('load', () => {
-    const _origOpen  = window.openModal;
-    const _origClose = window.closeModal;
-
-    if (typeof _origOpen === 'function') {
-      window.openModal = function(card, set, cardList) {
-        _origOpen(card, set, cardList);
-        setTimeout(immediatePush, 20);
-      };
-    }
-    if (typeof _origClose === 'function') {
-      window.closeModal = function() {
-        _origClose();
-        setTimeout(immediatePush, 20);
-      };
-    }
-
-    // Replace _pushNav entirely — the old one pushed blank history entries;
-    // we now manage history ourselves via the router.
-    window._pushNav = function() {
-      // No-op: router handles history through immediatePush / debouncedPush
-      // This prevents double-pushing from the old ui.js back-button logic.
-    };
-
-    // Sidebar navigation functions call _pushNav; hook renderSidebar click targets instead
-    // by wrapping the functions that actually change currentYear / currentColl.
-    // Those are called from nav.js onclick handlers which also call _pushNav —
-    // since _pushNav is now a no-op, we listen for the state changes via a
-    // small polling trick OR we piggyback on renderSidebar itself.
-    // Simplest: wrap renderCollections and renderCards since they always follow navigation.
-    const _origRC   = window.renderCollections;
-    const _origCards= window.renderCards;
-    const _origYO   = window.renderYearsOverview;
-
-    if (typeof _origRC === 'function') {
-      window.renderCollections = function(year) {
-        _origRC(year);
-        setTimeout(immediatePush, 20);
-      };
-    }
-    if (typeof _origCards === 'function') {
-      window.renderCards = function(set) {
-        _origCards(set);
-        setTimeout(immediatePush, 20);
-      };
-    }
-    if (typeof _origYO === 'function') {
-      window.renderYearsOverview = function() {
-        _origYO();
-        setTimeout(immediatePush, 20);
-      };
-    }
+  // ── Search input listeners (DOMContentLoaded so inputs exist) ──
+  window.addEventListener('DOMContentLoaded', () => {
+    // Attach after a tick so other DOMContentLoaded handlers run first
+    setTimeout(() => {
+      const ni = document.getElementById('searchInput');
+      const ii = document.getElementById('searchInfoInput');
+      // Use 'input' event — fires synchronously after value changes
+      // Read from DOM in debouncedPush (encodeState reads inputs directly)
+      if (ni) ni.addEventListener('input', () => debouncedPush(400));
+      if (ii) ii.addEventListener('input', () => debouncedPush(400));
+    }, 0);
   });
 
-  // ── POPSTATE: browser back / forward ─────────────────────
+  // ── POPSTATE ──────────────────────────────────────────────
   window.addEventListener('popstate', () => {
-    // Restore state from the hash that the browser just navigated to
     restoreHash(location.hash);
   });
 
-  // ── INITIAL PAGE LOAD ─────────────────────────────────────
+  // ── INITIAL LOAD ──────────────────────────────────────────
   window.addEventListener('DOMContentLoaded', () => {
-    const initialHash = location.hash;
-
-    // Replace the very first history entry with itself (makes it catchable)
     history.replaceState({ qRouter: true }, '', location.href);
-
-    if (!initialHash || initialHash === '#' || initialHash === '#home') {
-      // Nothing to restore
-      return;
-    }
-
-    // Data may not be ready yet — store the hash and restore after load
+    const initialHash = location.hash;
+    if (!initialHash || initialHash === '#' || initialHash === '#home') return;
     window._routerPendingHash = initialHash;
-
-    // If data somehow already exists (e.g. dev hot-reload), restore now
-    if (Object.keys(allData).length) {
-      restoreHash(initialHash);
-    }
-    // Otherwise finishLoad() in loader.js calls window._routerRestore()
+    if (Object.keys(allData).length) restoreHash(initialHash);
   });
 
-  // Called by loader.js finishLoad() once data is ready
+  // Called by finishLoad() in loader.js
   window._routerRestore = function() {
     const hash = window._routerPendingHash || location.hash;
     window._routerPendingHash = null;
-    if (hash && hash !== '#' && hash !== '#home') {
-      restoreHash(hash);
-    }
+    if (hash && hash !== '#' && hash !== '#home') restoreHash(hash);
   };
 
-  // ── COPY LINK helpers ─────────────────────────────────────
+  // ── UI HELPERS ────────────────────────────────────────────
   function _injectModalCopyBtn() {
     const modal = document.getElementById('cardModal');
     if (!modal || modal.querySelector('#modalCopyLink')) return;
-
     const btn = document.createElement('button');
     btn.id = 'modalCopyLink';
     btn.title = 'Copy link to this card';
     btn.textContent = '🔗';
-    btn.style.cssText = [
-      'position:absolute','top:14px','right:52px',
-      'background:rgba(255,255,255,.08)','border:1px solid rgba(255,255,255,.15)',
-      'border-radius:8px','padding:5px 9px','font-size:.85rem','cursor:pointer',
-      'color:var(--text-secondary)','z-index:10','transition:background .15s',
-    ].join(';');
+    btn.style.cssText = 'position:absolute;top:14px;right:52px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);border-radius:8px;padding:5px 9px;font-size:.85rem;cursor:pointer;color:var(--text-secondary);z-index:10;transition:background .15s;';
     btn.onmouseover = () => btn.style.background = 'rgba(255,255,255,.16)';
     btn.onmouseout  = () => btn.style.background = 'rgba(255,255,255,.08)';
-    btn.onclick = (e) => {
+    btn.onclick = e => {
       e.stopPropagation();
-      _copyURL();
-      btn.textContent = '✓';
-      btn.style.color = '#4caf50';
+      _copy(location.origin + location.pathname + encodeState());
+      btn.textContent = '✓'; btn.style.color = '#4caf50';
       setTimeout(() => { btn.textContent = '🔗'; btn.style.color = ''; }, 1800);
     };
     modal.appendChild(btn);
@@ -349,30 +328,17 @@
 
   function _shareCurrentView() {
     const url = location.origin + location.pathname + encodeState();
-    if (navigator.share) {
-      navigator.share({ url }).catch(() => {});
-    } else {
-      _copyToClipboard(url);
-      const btn = document.getElementById('dbShareBtn');
-      if (btn) {
-        btn.innerHTML = '✓ Copied';
-        setTimeout(() => { btn.innerHTML = '🔗 Share'; }, 1800);
-      }
-    }
+    if (navigator.share) { navigator.share({ url }).catch(() => {}); return; }
+    _copy(url);
+    const btn = document.getElementById('dbShareBtn');
+    if (btn) { btn.innerHTML = '✓ Copied'; setTimeout(() => { btn.innerHTML = '🔗 Share'; }, 1800); }
   }
 
-  function _copyURL() {
-    _copyToClipboard(location.origin + location.pathname + encodeState());
+  function _copy(text) {
+    if (navigator.clipboard?.writeText) navigator.clipboard.writeText(text).catch(() => prompt('Copy:', text));
+    else prompt('Copy this link:', text);
   }
 
-  function _copyToClipboard(text) {
-    if (navigator.clipboard?.writeText) {
-      navigator.clipboard.writeText(text).catch(() => prompt('Copy this link:', text));
-    } else {
-      prompt('Copy this link:', text);
-    }
-  }
-
-  window._router = { encode: encodeState, restore: restoreHash, push: immediatePush };
+  window._router = { encode: encodeState, restore: restoreHash, push: pushURL };
 
 })();

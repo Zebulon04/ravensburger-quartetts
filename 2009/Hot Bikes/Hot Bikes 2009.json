@@ -10,7 +10,7 @@
       "leistung_kw": "147",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "220",
-      "gewicht_kg_": "310",
+      "gewicht_kg": "310",
       "country": "J",
       "info_right": "max. Drehmoment 167 Nm bei 6500/min"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "8250",
       "geschwindigkeit_km_h": "230",
-      "gewicht_kg_": "307",
+      "gewicht_kg": "307",
       "country": "USA",
       "info_right": "max. Drehmoment 115 Nm bei 6500/min"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "107",
       "drehzahl_u_min": "10200",
       "geschwindigkeit_km_h": "267",
-      "gewicht_kg_": "207",
+      "gewicht_kg": "207",
       "country": "USA",
       "info_right": "max. Drehmoment 111 Nm bei 8000/min"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "135",
       "drehzahl_u_min": "9500",
       "geschwindigkeit_km_h": "247",
-      "gewicht_kg_": "255",
+      "gewicht_kg": "255",
       "country": "J",
       "info_right": "max. Drehmoment 146 Nm bei 7200/min"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "147",
       "drehzahl_u_min": "14500",
       "geschwindigkeit_km_h": "320",
-      "gewicht_kg_": "149",
+      "gewicht_kg": "149",
       "country": "USA",
       "info_right": "Fahrer: John Hopkins"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "149",
       "drehzahl_u_min": "13900",
       "geschwindigkeit_km_h": "310",
-      "gewicht_kg_": "148",
+      "gewicht_kg": "148",
       "country": "AUS",
       "info_right": "Fahrer: Casey Stoner"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "155",
       "drehzahl_u_min": "14000",
       "geschwindigkeit_km_h": "315",
-      "gewicht_kg_": "150",
+      "gewicht_kg": "150",
       "country": "E",
       "info_right": "Fahrer: Dani Pedrosa"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "154",
       "drehzahl_u_min": "14500",
       "geschwindigkeit_km_h": "318",
-      "gewicht_kg_": "145",
+      "gewicht_kg": "145",
       "country": "I",
       "info_right": "Fahrer: Valentino Rossi"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "97",
       "drehzahl_u_min": "9250",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "210",
+      "gewicht_kg": "210",
       "country": "GB",
       "info_right": "max. Drehmoment 105 Nm bei 7500/min"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "67",
       "drehzahl_u_min": "7000",
       "geschwindigkeit_km_h": "200",
-      "gewicht_kg_": "263",
+      "gewicht_kg": "263",
       "country": "USA",
       "info_right": "max. Drehmoment 100 Nm bei 3700/min"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "10000",
       "geschwindigkeit_km_h": "230",
-      "gewicht_kg_": "220",
+      "gewicht_kg": "220",
       "country": "J",
       "info_right": "max. Drehmoment 99 Nm bei 7750/min"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "55",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "210",
-      "gewicht_kg_": "185",
+      "gewicht_kg": "185",
       "country": "I",
       "info_right": "max. Drehmoment 69 Nm bei 7750/min"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "138",
       "drehzahl_u_min": "12500",
       "geschwindigkeit_km_h": "298",
-      "gewicht_kg_": "195",
+      "gewicht_kg": "195",
       "country": "J",
       "info_right": "max. Drehmoment 113 Nm bei 8700/min"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "145",
       "drehzahl_u_min": "9500",
       "geschwindigkeit_km_h": "295",
-      "gewicht_kg_": "260",
+      "gewicht_kg": "260",
       "country": "J",
       "info_right": "max. Drehmoment 155 Nm bei 7200/min"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "132",
       "drehzahl_u_min": "12500",
       "geschwindigkeit_km_h": "285",
-      "gewicht_kg_": "190",
+      "gewicht_kg": "190",
       "country": "J",
       "info_right": "max. Drehmoment 110 Nm bei 10500/min"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "114",
       "drehzahl_u_min": "10000",
       "geschwindigkeit_km_h": "280",
-      "gewicht_kg_": "201",
+      "gewicht_kg": "201",
       "country": "A",
       "info_right": "max. Drehmoment 120 Nm bei 8000/min"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "43",
       "drehzahl_u_min": "8500",
       "geschwindigkeit_km_h": "135",
-      "gewicht_kg_": "99",
+      "gewicht_kg": "99",
       "country": "F",
       "info_right": "Fahrer: Christophe Pourcel"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "44",
       "drehzahl_u_min": "8800",
       "geschwindigkeit_km_h": "155",
-      "gewicht_kg_": "95",
+      "gewicht_kg": "95",
       "country": "CH",
       "info_right": "Fahrer: Mat Rebeaud"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "31",
       "drehzahl_u_min": "11000",
       "geschwindigkeit_km_h": "130",
-      "gewicht_kg_": "93",
+      "gewicht_kg": "93",
       "country": "F",
       "info_right": "Fahrer: Gautier Paulin"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "48",
       "drehzahl_u_min": "8700",
       "geschwindigkeit_km_h": "140",
-      "gewicht_kg_": "102",
+      "gewicht_kg": "102",
       "country": "B",
       "info_right": "Fahrer: Steve Ramon"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "107",
       "drehzahl_u_min": "6300",
       "geschwindigkeit_km_h": "250",
-      "gewicht_kg_": "207",
+      "gewicht_kg": "207",
       "country": "D",
       "info_right": "max. Drehmoment 165 Nm bei 4500/min"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "99",
       "drehzahl_u_min": "9500",
       "geschwindigkeit_km_h": "280",
-      "gewicht_kg_": "205",
+      "gewicht_kg": "205",
       "country": "I",
       "info_right": "max. Drehmoment 103 Nm bei 4000/min"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "8250",
       "geschwindigkeit_km_h": "220",
-      "gewicht_kg_": "309",
+      "gewicht_kg": "309",
       "country": "USA",
       "info_right": "max. Drehmoment 115 Nm bei 7000/min"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "103",
       "drehzahl_u_min": "5750",
       "geschwindigkeit_km_h": "230",
-      "gewicht_kg_": "300",
+      "gewicht_kg": "300",
       "country": "GB",
       "info_right": "max. Drehmoment 200 Nm bei 2500/min"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "118",
       "drehzahl_u_min": "9750",
       "geschwindigkeit_km_h": "280",
-      "gewicht_kg_": "185",
+      "gewicht_kg": "185",
       "country": "I",
       "info_right": "max. Drehmoment 125 Nm bei 8000/min"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "98",
       "drehzahl_u_min": "8750",
       "geschwindigkeit_km_h": "260",
-      "gewicht_kg_": "206",
+      "gewicht_kg": "206",
       "country": "D",
       "info_right": "max. Drehmoment 115 Nm bei 6000/min"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "140",
       "drehzahl_u_min": "12200",
       "geschwindigkeit_km_h": "310",
-      "gewicht_kg_": "192",
+      "gewicht_kg": "192",
       "country": "I",
       "info_right": "max. Drehmoment 124 Nm bei 8200/min"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "91",
       "drehzahl_u_min": "12600",
       "geschwindigkeit_km_h": "260",
-      "gewicht_kg_": "186",
+      "gewicht_kg": "186",
       "country": "GB",
       "info_right": "max. Drehmoment 72 Nm bei 11600/min"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "154",
       "drehzahl_u_min": "13000",
       "geschwindigkeit_km_h": "320",
-      "gewicht_kg_": "163",
+      "gewicht_kg": "163",
       "country": "D",
       "info_right": "Fahrer: Max Neukirchner"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "155",
       "drehzahl_u_min": "13800",
       "geschwindigkeit_km_h": "325",
-      "gewicht_kg_": "164",
+      "gewicht_kg": "164",
       "country": "E",
       "info_right": "Fahrer: Carlos Checa"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "138",
       "drehzahl_u_min": "12950",
       "geschwindigkeit_km_h": "310",
-      "gewicht_kg_": "167",
+      "gewicht_kg": "167",
       "country": "D",
       "info_right": "Fahrer: Michael Schumacher"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "146",
       "drehzahl_u_min": "11000",
       "geschwindigkeit_km_h": "312",
-      "gewicht_kg_": "162",
+      "gewicht_kg": "162",
       "country": "I",
       "info_right": "Fahrer: Max Biaggi"
     }

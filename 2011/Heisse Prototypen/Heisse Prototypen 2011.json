@@ -9,7 +9,7 @@
       "hubraum_ccm": "8300",
       "leistung_kw": "574",
       "zylinder": "10",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "länge_m": "4,65",
       "country": "E",
       "info_right": "Im Jahr 2010 vorgestellt"
@@ -21,7 +21,7 @@
       "hubraum_ccm": "1390",
       "leistung_kw": "125",
       "zylinder": "4",
-      "gewicht_kg_": "1170",
+      "gewicht_kg": "1170",
       "länge_m": "4,06",
       "country": "E",
       "info_right": "Im Jahr 2008 vorgestellt"
@@ -33,7 +33,7 @@
       "hubraum_ccm": "3500",
       "leistung_kw": "441",
       "zylinder": "6",
-      "gewicht_kg_": "1500",
+      "gewicht_kg": "1500",
       "länge_m": "4,72",
       "country": "J",
       "info_right": "Im Jahr 2009 vorgestellt"
@@ -45,7 +45,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "147",
       "zylinder": "4",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "länge_m": "4,16",
       "country": "J",
       "info_right": "Im Jahr 2009 vorgestellt"
@@ -57,7 +57,7 @@
       "hubraum_ccm": "3498",
       "leistung_kw": "206",
       "zylinder": "6",
-      "gewicht_kg_": "1090",
+      "gewicht_kg": "1090",
       "länge_m": "3,98",
       "country": "J",
       "info_right": "Im Jahr 2006 vorgestellt"
@@ -69,7 +69,7 @@
       "hubraum_ccm": "1600",
       "leistung_kw": "125",
       "zylinder": "4",
-      "gewicht_kg_": "498",
+      "gewicht_kg": "498",
       "länge_m": "3,63",
       "country": "F",
       "info_right": "Im Jahr 2005 vorgestellt"
@@ -81,7 +81,7 @@
       "hubraum_ccm": "1798",
       "leistung_kw": "93",
       "zylinder": "4",
-      "gewicht_kg_": "975",
+      "gewicht_kg": "975",
       "länge_m": "4,02",
       "country": "J",
       "info_right": "Im Jahr 2009 vorgestellt"
@@ -93,7 +93,7 @@
       "hubraum_ccm": "1968",
       "leistung_kw": "132",
       "zylinder": "4",
-      "gewicht_kg_": "1269",
+      "gewicht_kg": "1269",
       "länge_m": "3,99",
       "country": "D",
       "info_right": "Im Jahr 2009 vorgestellt"
@@ -105,7 +105,7 @@
       "hubraum_ccm": "6000",
       "leistung_kw": "298",
       "zylinder": "8",
-      "gewicht_kg_": "1496",
+      "gewicht_kg": "1496",
       "länge_m": "4,72",
       "country": "USA",
       "info_right": "Im Jahr 2010 vorgestellt"
@@ -117,7 +117,7 @@
       "hubraum_ccm": "3872",
       "leistung_kw": "946",
       "zylinder": "8",
-      "gewicht_kg_": "1247",
+      "gewicht_kg": "1247",
       "länge_m": "4,48",
       "country": "USA",
       "info_right": "Im Jahr 2010 vorgestellt"
@@ -129,7 +129,7 @@
       "hubraum_ccm": "4990",
       "leistung_kw": "478",
       "zylinder": "8",
-      "gewicht_kg_": "1526",
+      "gewicht_kg": "1526",
       "länge_m": "4,45",
       "country": "USA",
       "info_right": "Im Jahr 2008 vorgestellt"
@@ -141,7 +141,7 @@
       "hubraum_ccm": "6195",
       "leistung_kw": "485",
       "zylinder": "8",
-      "gewicht_kg_": "1531",
+      "gewicht_kg": "1531",
       "länge_m": "4,1",
       "country": "USA",
       "info_right": "Im Jahr 2010 vorgestellt"
@@ -153,7 +153,7 @@
       "hubraum_ccm": "1500",
       "leistung_kw": "85",
       "zylinder": "3",
-      "gewicht_kg_": "1400",
+      "gewicht_kg": "1400",
       "länge_m": "3,88",
       "country": "USA",
       "info_right": "Im Jahr 2008 vorgestellt"
@@ -165,7 +165,7 @@
       "hubraum_ccm": "750",
       "leistung_kw": "110",
       "zylinder": "2",
-      "gewicht_kg_": "750",
+      "gewicht_kg": "750",
       "länge_m": "3,7",
       "country": "CH",
       "info_right": "Im Jahr 2007 vorgestellt"
@@ -177,7 +177,7 @@
       "hubraum_ccm": "1598",
       "leistung_kw": "92",
       "zylinder": "4",
-      "gewicht_kg_": "570",
+      "gewicht_kg": "570",
       "länge_m": "3,75",
       "country": "D",
       "info_right": "Im Jahr 2006 vorgestellt"
@@ -189,7 +189,7 @@
       "hubraum_ccm": "1598",
       "leistung_kw": "155",
       "zylinder": "4",
-      "gewicht_kg_": "1170",
+      "gewicht_kg": "1170",
       "länge_m": "3,71",
       "country": "GB",
       "info_right": "Im Jahr 2009 vorgestellt"
@@ -201,7 +201,7 @@
       "hubraum_ccm": "1962",
       "leistung_kw": "331",
       "zylinder": "-",
-      "gewicht_kg_": "1120",
+      "gewicht_kg": "1120",
       "länge_m": "4,57",
       "country": "J",
       "info_right": "Im Jahr 2008 vorgestellt"
@@ -213,7 +213,7 @@
       "hubraum_ccm": "5908",
       "leistung_kw": "515",
       "zylinder": "12",
-      "gewicht_kg_": "2660",
+      "gewicht_kg": "2660",
       "länge_m": "5,89",
       "country": "D",
       "info_right": "Im Jahr 2005 vorgestellt"
@@ -225,7 +225,7 @@
       "hubraum_ccm": "4200",
       "leistung_kw": "404",
       "zylinder": "8",
-      "gewicht_kg_": "1400",
+      "gewicht_kg": "1400",
       "länge_m": "4,96",
       "country": "F",
       "info_right": "Im Jahr 2008 vorgestellt"
@@ -237,7 +237,7 @@
       "hubraum_ccm": "7011",
       "leistung_kw": "603",
       "zylinder": "8",
-      "gewicht_kg_": "1320",
+      "gewicht_kg": "1320",
       "länge_m": "4,44",
       "country": "I",
       "info_right": "Im Jahr 2007 vorgestellt"
@@ -249,7 +249,7 @@
       "hubraum_ccm": "1500",
       "leistung_kw": "262",
       "zylinder": "3",
-      "gewicht_kg_": "1395",
+      "gewicht_kg": "1395",
       "länge_m": "4,6",
       "country": "D",
       "info_right": "Im Jahr 2009 vorgestellt"
@@ -261,7 +261,7 @@
       "hubraum_ccm": "3498",
       "leistung_kw": "300",
       "zylinder": "6",
-      "gewicht_kg_": "1700",
+      "gewicht_kg": "1700",
       "länge_m": "4,74",
       "country": "D",
       "info_right": "Im Jahr 2010 vorgestellt"
@@ -273,7 +273,7 @@
       "hubraum_ccm": "5980",
       "leistung_kw": "408",
       "zylinder": "12",
-      "gewicht_kg_": "1950",
+      "gewicht_kg": "1950",
       "länge_m": "5,18",
       "country": "RUS",
       "info_right": "Im Jahr 2006 vorgestellt"
@@ -285,7 +285,7 @@
       "hubraum_ccm": "4691",
       "leistung_kw": "331",
       "zylinder": "8",
-      "gewicht_kg_": "1720",
+      "gewicht_kg": "1720",
       "länge_m": "4,9",
       "country": "I",
       "info_right": "Im Jahr 2008 vorgestellt"
@@ -297,7 +297,7 @@
       "hubraum_ccm": "1500",
       "leistung_kw": "77",
       "zylinder": "4",
-      "gewicht_kg_": "1400",
+      "gewicht_kg": "1400",
       "länge_m": "4,25",
       "country": "RO",
       "info_right": "Im Jahr 2009 vorgestellt"
@@ -309,7 +309,7 @@
       "hubraum_ccm": "1598",
       "leistung_kw": "81",
       "zylinder": "4",
-      "gewicht_kg_": "1250",
+      "gewicht_kg": "1250",
       "länge_m": "4,1",
       "country": "F",
       "info_right": "Im Jahr 2008 vorgestellt"
@@ -321,7 +321,7 @@
       "hubraum_ccm": "4700",
       "leistung_kw": "173",
       "zylinder": "8",
-      "gewicht_kg_": "2000",
+      "gewicht_kg": "2000",
       "länge_m": "5,25",
       "country": "J",
       "info_right": "Im Jahr 2004 vorgestellt"
@@ -333,7 +333,7 @@
       "hubraum_ccm": "2179",
       "leistung_kw": "112",
       "zylinder": "4",
-      "gewicht_kg_": "1750",
+      "gewicht_kg": "1750",
       "länge_m": "4,35",
       "country": "GB",
       "info_right": "Im Jahr 2008 vorgestellt"
@@ -345,7 +345,7 @@
       "hubraum_ccm": "4700",
       "leistung_kw": "331",
       "zylinder": "8",
-      "gewicht_kg_": "1000",
+      "gewicht_kg": "1000",
       "länge_m": "4,62",
       "country": "I",
       "info_right": "Im Jahr 2010 vorgestellt"
@@ -357,7 +357,7 @@
       "hubraum_ccm": "1368",
       "leistung_kw": "74",
       "zylinder": "4",
-      "gewicht_kg_": "1050",
+      "gewicht_kg": "1050",
       "länge_m": "3,59",
       "country": "I",
       "info_right": "Im Jahr 2007 vorgestellt"
@@ -369,7 +369,7 @@
       "hubraum_ccm": "3311",
       "leistung_kw": "200",
       "zylinder": "6",
-      "gewicht_kg_": "1400",
+      "gewicht_kg": "1400",
       "länge_m": "4,45",
       "country": "I",
       "info_right": "Im Jahr 2008 vorgestellt"
@@ -381,7 +381,7 @@
       "hubraum_ccm": "4244",
       "leistung_kw": "294",
       "zylinder": "8",
-      "gewicht_kg_": "1150",
+      "gewicht_kg": "1150",
       "länge_m": "4,15",
       "country": "I",
       "info_right": "Im Jahr 2008 vorgestellt"

@@ -10,7 +10,7 @@
       "leistung_kw": "84",
       "drehzahl_u_min": "1900",
       "länge_m": "4,17",
-      "gewicht_kg_": "4250",
+      "gewicht_kg": "4250",
       "country": "A",
       "info_right": "Multifunktionale Traktorenbaureihe"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "41",
       "drehzahl_u_min": "2300",
       "länge_m": "3,79",
-      "gewicht_kg_": "2800",
+      "gewicht_kg": "2800",
       "country": "A",
       "info_right": "Flexibler Alleskönner und sparsam im Verbrauch"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "75",
       "drehzahl_u_min": "2200",
       "länge_m": "3,46",
-      "gewicht_kg_": "3750",
+      "gewicht_kg": "3750",
       "country": "A",
       "info_right": "Stufenloser Mahtraktor mit lenkender Hinterachse"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "74,5",
       "drehzahl_u_min": "2270",
       "länge_m": "4,31",
-      "gewicht_kg_": "4650",
+      "gewicht_kg": "4650",
       "country": "FIN",
       "info_right": "Der Allenkönner mit extremer Wendigkeit"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "165",
       "drehzahl_u_min": "2100",
       "länge_m": "5,2",
-      "gewicht_kg_": "7220",
+      "gewicht_kg": "7220",
       "country": "D",
       "info_right": "Stufenloser Großtraktor mit 60 km/h Höchstgeschwindigkeit"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "294",
       "drehzahl_u_min": "1950",
       "länge_m": "6,2",
-      "gewicht_kg_": "10800",
+      "gewicht_kg": "10800",
       "country": "USA",
       "info_right": "Leistungsstarker Großtraktor mit modernsterm Bedienkomfort"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "285",
       "drehzahl_u_min": "2100",
       "länge_m": "6,63",
-      "gewicht_kg_": "15200",
+      "gewicht_kg": "15200",
       "country": "D",
       "info_right": "Vielseitige Zugmaschine mit optimalen Aufsattelmöglichkeiten"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "206",
       "drehzahl_u_min": "2100",
       "länge_m": "5,27",
-      "gewicht_kg_": "9450",
+      "gewicht_kg": "9450",
       "country": "D",
       "info_right": "Kompakter Großtraktor mit 60 km/h Höchstgeschiwindigkeit"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "149",
       "drehzahl_u_min": "1900",
       "länge_m": "4,72",
-      "gewicht_kg_": "6000",
+      "gewicht_kg": "6000",
       "country": "A",
       "info_right": "„ecotech“ - das Label für mehr Leistung und weniger Verbrauch"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "185",
       "drehzahl_u_min": "2200",
       "länge_m": "5,74",
-      "gewicht_kg_": "7400",
+      "gewicht_kg": "7400",
       "country": "USA",
       "info_right": "Zum Traktor des Jahres 2008 und 2010 gekrönt"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "135",
       "drehzahl_u_min": "2200",
       "länge_m": "4,82",
-      "gewicht_kg_": "6818",
+      "gewicht_kg": "6818",
       "country": "D",
       "info_right": "Bei kompakter Bauweise mit langem Radstand ausgestattet"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "96",
       "drehzahl_u_min": "2000",
       "länge_m": "4,36",
-      "gewicht_kg_": "4800",
+      "gewicht_kg": "4800",
       "country": "USA",
       "info_right": "Allroundtraktor mit Drei- oder Vierzylinde-Motor erhältich"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "302",
       "drehzahl_u_min": "2150",
       "länge_m": "5,59",
-      "gewicht_kg_": "13060",
+      "gewicht_kg": "13060",
       "country": "D",
       "info_right": "Beeindruckt durch enorme Zugkraft und hohen Bedienkomfort"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "419",
       "drehzahl_u_min": "1800",
       "länge_m": "7,57",
-      "gewicht_kg_": "18038",
+      "gewicht_kg": "18038",
       "country": "USA",
       "info_right": "Der leistungsstärkste Radschlepper der Welt"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "274",
       "drehzahl_u_min": "2100",
       "länge_m": "6,5",
-      "gewicht_kg_": "14600",
+      "gewicht_kg": "14600",
       "country": "USA",
       "info_right": "Sein Profil - Wirtschaftlichkeit und Zuverlässigkeit"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "509",
       "drehzahl_u_min": "2100",
       "länge_m": "7,62",
-      "gewicht_kg_": "24270",
+      "gewicht_kg": "24270",
       "country": "USA",
       "info_right": "Stärkster Serientraktor auf dem Markt"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "130",
       "drehzahl_u_min": "2200",
       "länge_m": "9,12",
-      "gewicht_kg_": "13700",
+      "gewicht_kg": "13700",
       "country": "D",
       "info_right": "Forstspezialschlepper für Kurz- und Langholztransport"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "151",
       "drehzahl_u_min": "2250",
       "länge_m": "8,07",
-      "gewicht_kg_": "17028",
+      "gewicht_kg": "17028",
       "country": "USA",
       "info_right": "Forstschlepper"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "150",
       "drehzahl_u_min": "2200",
       "länge_m": "10,43",
-      "gewicht_kg_": "19900",
+      "gewicht_kg": "19900",
       "country": "S",
       "info_right": "8-Rad Tragschlepper"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "175",
       "drehzahl_u_min": "2200",
       "länge_m": "6,9",
-      "gewicht_kg_": "11300",
+      "gewicht_kg": "11300",
       "country": "D",
       "info_right": "Forstspezialschlepper"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "2941",
       "drehzahl_u_min": "6400",
       "länge_m": "5,1",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "NL",
       "info_right": "Fahrer: Edwin Derksen"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "2926",
       "drehzahl_u_min": "6750",
       "länge_m": "5,15",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "NL",
       "info_right": "Fahrer: Sjors Zeinstra"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "1838",
       "drehzahl_u_min": "7000",
       "länge_m": "5,05",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "CH",
       "info_right": "Fahrer: Ruedi Plattner"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "1580",
       "drehzahl_u_min": "6800",
       "länge_m": "4,78",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "FIN",
       "info_right": "Fahrer: Pekka Herlevi"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "6103",
       "drehzahl_u_min": "4200",
       "länge_m": "5,1",
-      "gewicht_kg_": "4900",
+      "gewicht_kg": "4900",
       "country": "DK",
       "info_right": "Fahrer: Torben Larsen"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "3676",
       "drehzahl_u_min": "4000",
       "länge_m": "5,4",
-      "gewicht_kg_": "4500",
+      "gewicht_kg": "4500",
       "country": "D",
       "info_right": "Fahrer: Christian Dickmann"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "6397",
       "drehzahl_u_min": "4500",
       "länge_m": "5,2",
-      "gewicht_kg_": "4500",
+      "gewicht_kg": "4500",
       "country": "D",
       "info_right": "Fahrer: Tobias Hörstkamp"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "2941",
       "drehzahl_u_min": "3300",
       "länge_m": "4,1",
-      "gewicht_kg_": "2500",
+      "gewicht_kg": "2500",
       "country": "L",
       "info_right": "Fahrer: Serge Jacobi"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "175",
       "drehzahl_u_min": "2200",
       "länge_m": "10,9",
-      "gewicht_kg_": "21800",
+      "gewicht_kg": "21800",
       "country": "D",
       "info_right": "Harvester"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "179",
       "drehzahl_u_min": "2100",
       "länge_m": "10,65",
-      "gewicht_kg_": "17500",
+      "gewicht_kg": "17500",
       "country": "FIN",
       "info_right": "Forwarder"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "180",
       "drehzahl_u_min": "2000",
       "länge_m": "6,89",
-      "gewicht_kg_": "16800",
+      "gewicht_kg": "16800",
       "country": "D",
       "info_right": "Forstspezialmaschine"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "118",
       "drehzahl_u_min": "2200",
       "länge_m": "7,8",
-      "gewicht_kg_": "25000",
+      "gewicht_kg": "25000",
       "country": "D",
       "info_right": "Forstteleskopkran mit Harvester"
     }

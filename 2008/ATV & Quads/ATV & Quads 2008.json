@@ -10,7 +10,7 @@
       "leistung_kw": "31,9",
       "drehzahl_u_min": "7500",
       "geschwindigkeit_km_h": "110",
-      "gewicht_kg_": "165",
+      "gewicht_kg": "165",
       "country": "J",
       "info_right": "Länge: 1806 mm; Preis: ca. 8.700,- EUR"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "30",
       "drehzahl_u_min": "7500",
       "geschwindigkeit_km_h": "120",
-      "gewicht_kg_": "167",
+      "gewicht_kg": "167",
       "country": "J",
       "info_right": "Länge: 1845 mm; Preis: ca. 8.400,- EUR"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "38,4",
       "drehzahl_u_min": "8500",
       "geschwindigkeit_km_h": "120",
-      "gewicht_kg_": "222",
+      "gewicht_kg": "222",
       "country": "ROK",
       "info_right": "Länge: 1810 mm; Preis: ca. 6.320,- EUR"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "30,6",
       "drehzahl_u_min": "7500",
       "geschwindigkeit_km_h": "115",
-      "gewicht_kg_": "159",
+      "gewicht_kg": "159",
       "country": "J",
       "info_right": "Länge: 1844 mm; Preis: ca. 9.000,- EUR"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "35",
       "drehzahl_u_min": "6000",
       "geschwindigkeit_km_h": "110",
-      "gewicht_kg_": "274",
+      "gewicht_kg": "274",
       "country": "J",
       "info_right": "Länge: 2065 mm; Preis: ca. 10.200,- EUR"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "37,4",
       "drehzahl_u_min": "6500",
       "geschwindigkeit_km_h": "110",
-      "gewicht_kg_": "275",
+      "gewicht_kg": "275",
       "country": "J",
       "info_right": "Länge: 2192 mm; Preis: ca. 10.000,- EUR"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "36",
       "drehzahl_u_min": "6000",
       "geschwindigkeit_km_h": "108",
-      "gewicht_kg_": "275",
+      "gewicht_kg": "275",
       "country": "J",
       "info_right": "Länge: 2135 mm; Preis: ca. 9.000,- EUR"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "48",
       "drehzahl_u_min": "5500",
       "geschwindigkeit_km_h": "120",
-      "gewicht_kg_": "290",
+      "gewicht_kg": "290",
       "country": "CDN",
       "info_right": "Länge: 2184 mm; Preis: ca. 12.000,- EUR"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "10,3",
       "drehzahl_u_min": "8000",
       "geschwindigkeit_km_h": "77",
-      "gewicht_kg_": "230",
+      "gewicht_kg": "230",
       "country": "USA",
       "info_right": "Länge: 2210 mm; Preis: ca. 2.400,- EUR"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "68",
       "drehzahl_u_min": "5300",
       "geschwindigkeit_km_h": "150",
-      "gewicht_kg_": "810",
+      "gewicht_kg": "810",
       "country": "USA",
       "info_right": "Länge: 4143 mm; Preis: ca. 13.000,- EUR"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "6",
       "drehzahl_u_min": "7200",
       "geschwindigkeit_km_h": "68",
-      "gewicht_kg_": "161",
+      "gewicht_kg": "161",
       "country": "TW",
       "info_right": "Länge: 2120 mm; Preis: ca. 4.000,- EUR"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "70",
       "drehzahl_u_min": "5200",
       "geschwindigkeit_km_h": "140",
-      "gewicht_kg_": "900",
+      "gewicht_kg": "900",
       "country": "AUS",
       "info_right": "Länge: 3700 mm; unverkäuflich"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "1",
       "drehzahl_u_min": "5500",
       "geschwindigkeit_km_h": "20",
-      "gewicht_kg_": "71",
+      "gewicht_kg": "71",
       "country": "J",
       "info_right": "Länge: 1260 mm; Preis: ca. 1.650,- EUR"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "3,2",
       "drehzahl_u_min": "6250",
       "geschwindigkeit_km_h": "45",
-      "gewicht_kg_": "150",
+      "gewicht_kg": "150",
       "country": "TW",
       "info_right": "Länge: 1685 mm; Preis: ca. 1.995,- EUR"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "3,3",
       "drehzahl_u_min": "7000",
       "geschwindigkeit_km_h": "45",
-      "gewicht_kg_": "85",
+      "gewicht_kg": "85",
       "country": "B",
       "info_right": "Länge: 1210 mm; Preis: ca. 2.300,- EUR"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "3,5",
       "drehzahl_u_min": "6200",
       "geschwindigkeit_km_h": "45",
-      "gewicht_kg_": "150",
+      "gewicht_kg": "150",
       "country": "TW",
       "info_right": "Länge: 1740 mm; Preis: ca. 3.000,- EUR"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "15",
       "drehzahl_u_min": "6500",
       "geschwindigkeit_km_h": "75",
-      "gewicht_kg_": "197",
+      "gewicht_kg": "197",
       "country": "CDN",
       "info_right": "Länge: 1830 mm; Preis: ca. 4.900,- EUR"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "11",
       "drehzahl_u_min": "7700",
       "geschwindigkeit_km_h": "84",
-      "gewicht_kg_": "186",
+      "gewicht_kg": "186",
       "country": "TW",
       "info_right": "Länge: 1730 mm; Preis: ca. 4.400,- EUR"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "14,2",
       "drehzahl_u_min": "7000",
       "geschwindigkeit_km_h": "83",
-      "gewicht_kg_": "213",
+      "gewicht_kg": "213",
       "country": "TW",
       "info_right": "Länge: 1733 mm; Preis: ca. 5.495,- EUR"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "12",
       "drehzahl_u_min": "6750",
       "geschwindigkeit_km_h": "85",
-      "gewicht_kg_": "186",
+      "gewicht_kg": "186",
       "country": "USA",
       "info_right": "Länge: 1870 mm; Preis: ca. 5.500,- EUR"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "13,2",
       "drehzahl_u_min": "6500",
       "geschwindigkeit_km_h": "80",
-      "gewicht_kg_": "176",
+      "gewicht_kg": "176",
       "country": "CDN",
       "info_right": "Länge: 2026 mm; Preis: ca. 6.400,- EUR"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "16,5",
       "drehzahl_u_min": "6000",
       "geschwindigkeit_km_h": "72",
-      "gewicht_kg_": "270",
+      "gewicht_kg": "270",
       "country": "RC",
       "info_right": "Länge: 2100 mm; Preis: ca. 5.600,- EUR"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "14",
       "drehzahl_u_min": "5500",
       "geschwindigkeit_km_h": "70",
-      "gewicht_kg_": "250",
+      "gewicht_kg": "250",
       "country": "I",
       "info_right": "Länge: 2150 mm; Preis: ca. 8.000,- EUR"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "28,6",
       "drehzahl_u_min": "6500",
       "geschwindigkeit_km_h": "83",
-      "gewicht_kg_": "302",
+      "gewicht_kg": "302",
       "country": "TW",
       "info_right": "Länge: 2206 mm; Preis: ca. 7.800,- EUR"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "29,4",
       "drehzahl_u_min": "7250",
       "geschwindigkeit_km_h": "120",
-      "gewicht_kg_": "400",
+      "gewicht_kg": "400",
       "country": "D",
       "info_right": "Länge: 2990 mm; Preis: ca. 13.900,- EUR"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "29,4",
       "drehzahl_u_min": "7250",
       "geschwindigkeit_km_h": "90",
-      "gewicht_kg_": "300",
+      "gewicht_kg": "300",
       "country": "I",
       "info_right": "Länge: 1960 mm; Preis: ca. 10.000,- EUR"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "40",
       "drehzahl_u_min": "7500",
       "geschwindigkeit_km_h": "130",
-      "gewicht_kg_": "179,2",
+      "gewicht_kg": "179,2",
       "country": "USA",
       "info_right": "Länge: 1816 mm; Preis: ca. 10.900,- EUR"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "35,3",
       "drehzahl_u_min": "6550",
       "geschwindigkeit_km_h": "135",
-      "gewicht_kg_": "219",
+      "gewicht_kg": "219",
       "country": "CDN",
       "info_right": "Länge: 1968 mm; Preis: ca. 13.200,- EUR"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "37",
       "drehzahl_u_min": "5500",
       "geschwindigkeit_km_h": "145",
-      "gewicht_kg_": "180",
+      "gewicht_kg": "180",
       "country": "J",
       "info_right": "Länge: 1845 mm; Preis: ca. 9.000,- EUR"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "123",
       "drehzahl_u_min": "10250",
       "geschwindigkeit_km_h": "225",
-      "gewicht_kg_": "375",
+      "gewicht_kg": "375",
       "country": "CH",
       "info_right": "Länge: 2220 mm; Preis: ca. 46.000,- EUR"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "7500",
       "geschwindigkeit_km_h": "185",
-      "gewicht_kg_": "254",
+      "gewicht_kg": "254",
       "country": "D",
       "info_right": "Länge: 2100 mm; Preis: ca. 19.500,- EUR"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "48",
       "drehzahl_u_min": "6000",
       "geschwindigkeit_km_h": "125",
-      "gewicht_kg_": "270",
+      "gewicht_kg": "270",
       "country": "CDN",
       "info_right": "Länge: 2184 mm; Preis: ca. 14.000,- EUR"
     }

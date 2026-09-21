@@ -10,7 +10,7 @@
       "leistung_kw": "130",
       "drehzahl_u_min": "3200",
       "geschwindigkeit_km_h": "150",
-      "gewicht_kg_": "1950",
+      "gewicht_kg": "1950",
       "country": "E",
       "info_right": "Nachfolgermodell vom Santana PS-10"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "110",
       "drehzahl_u_min": "5800",
       "geschwindigkeit_km_h": "192",
-      "gewicht_kg_": "1621",
+      "gewicht_kg": "1621",
       "country": "D",
       "info_right": "Neuer Kompakt-SUV in 2007 vorgestellt"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "200",
       "drehzahl_u_min": "6000",
       "geschwindigkeit_km_h": "230",
-      "gewicht_kg_": "1830",
+      "gewicht_kg": "1830",
       "country": "D",
       "info_right": "Neue kompakte Allrad-Klasse von Mercedes"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "171",
       "drehzahl_u_min": "6300",
       "geschwindigkeit_km_h": "200",
-      "gewicht_kg_": "1770",
+      "gewicht_kg": "1770",
       "country": "GB",
       "info_right": "Modellwechsel in 2007 mit 6-Zylinder-Volvomotor"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "107",
       "drehzahl_u_min": "6500",
       "geschwindigkeit_km_h": "85",
-      "gewicht_kg_": "440",
+      "gewicht_kg": "440",
       "country": "USA",
       "info_right": "Singlesitzer mit Überrollkäfig für extremes Gelände"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "23",
       "drehzahl_u_min": "3600",
       "geschwindigkeit_km_h": "32",
-      "gewicht_kg_": "542",
+      "gewicht_kg": "542",
       "country": "CDN",
       "info_right": "Zu Wasser 4 km/h schnelles Amphibienfahrzeug"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "16,2",
       "drehzahl_u_min": "8000",
       "geschwindigkeit_km_h": "80",
-      "gewicht_kg_": "300",
+      "gewicht_kg": "300",
       "country": "AUS",
       "info_right": "Freizeit-Buggy der Xtremen Art"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "25,7",
       "drehzahl_u_min": "6400",
       "geschwindigkeit_km_h": "80",
-      "gewicht_kg_": "610",
+      "gewicht_kg": "610",
       "country": "IL",
       "info_right": "Zweisitzige Version des kultigen Offroaders"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "426",
       "drehzahl_u_min": "7800",
       "geschwindigkeit_km_h": "225",
-      "gewicht_kg_": "1980",
+      "gewicht_kg": "1980",
       "country": "USA",
       "info_right": "Fahrer: Armin Schwarz"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "221",
       "drehzahl_u_min": "3000",
       "geschwindigkeit_km_h": "165",
-      "gewicht_kg_": "3420",
+      "gewicht_kg": "3420",
       "country": "USA",
       "info_right": "Fahrer: Chad Hall"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "182",
       "drehzahl_u_min": "5600",
       "geschwindigkeit_km_h": "160",
-      "gewicht_kg_": "2250",
+      "gewicht_kg": "2250",
       "country": "USA",
       "info_right": "Fahrer: Rod Hall"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "199",
       "drehzahl_u_min": "5000",
       "geschwindigkeit_km_h": "200",
-      "gewicht_kg_": "1220",
+      "gewicht_kg": "1220",
       "country": "F",
       "info_right": "Fahrer: José-Maria Servia"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "114",
       "drehzahl_u_min": "3000",
       "geschwindigkeit_km_h": "112",
-      "gewicht_kg_": "3629",
+      "gewicht_kg": "3629",
       "country": "USA",
       "info_right": "Gepanzertes Fahrzeug mit Hybrid-Antrieb"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "100",
       "drehzahl_u_min": "3800",
       "geschwindigkeit_km_h": "116",
-      "gewicht_kg_": "2540",
+      "gewicht_kg": "2540",
       "country": "ZA",
       "info_right": "Luftverladbares Fahrzeug für die schnelle Eingreiftruppe"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "158",
       "drehzahl_u_min": "2300",
       "geschwindigkeit_km_h": "120",
-      "gewicht_kg_": "4000",
+      "gewicht_kg": "4000",
       "country": "F",
       "info_right": "Taktisches Militärfahrzeug mit „Hummer“-Ausmaßen"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "107",
       "drehzahl_u_min": "3600",
       "geschwindigkeit_km_h": "130",
-      "gewicht_kg_": "2700",
+      "gewicht_kg": "2700",
       "country": "F",
       "info_right": "Hochgeländegängiges Mehrzweck-Fahrzeug für 4 Personen"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "130",
       "drehzahl_u_min": "4600",
       "geschwindigkeit_km_h": "174",
-      "gewicht_kg_": "1570",
+      "gewicht_kg": "1570",
       "country": "USA",
       "info_right": "Der Klassiker im Jeep-Programm mit 2 Starrachsen"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "373",
       "drehzahl_u_min": "6100",
       "geschwindigkeit_km_h": "210",
-      "gewicht_kg_": "2550",
+      "gewicht_kg": "2550",
       "country": "D",
       "info_right": "Allrad-Klassiker in 2008 in neuen Look"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "122",
       "drehzahl_u_min": "3800",
       "geschwindigkeit_km_h": "135",
-      "gewicht_kg_": "3200",
+      "gewicht_kg": "3200",
       "country": "E",
       "info_right": "In den Dimensionen mit dem Hummer H1 vergleichbar"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "90",
       "drehzahl_u_min": "4200",
       "geschwindigkeit_km_h": "130",
-      "gewicht_kg_": "2055",
+      "gewicht_kg": "2055",
       "country": "GB",
       "info_right": "Neuauflage der seit 1948 produzierten Modellreihe"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "210",
       "drehzahl_u_min": "3600",
       "geschwindigkeit_km_h": "210",
-      "gewicht_kg_": "2580",
+      "gewicht_kg": "2580",
       "country": "J",
       "info_right": "Beschleunigung von 0-100 km/h in 8,2 Sekunden"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "261",
       "drehzahl_u_min": "6250",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "2245",
+      "gewicht_kg": "2245",
       "country": "D",
       "info_right": "Beschleunigung von 0-100 km/h in 6,5 Sekunden"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "257",
       "drehzahl_u_min": "6800",
       "geschwindigkeit_km_h": "248",
-      "gewicht_kg_": "2395",
+      "gewicht_kg": "2395",
       "country": "D",
       "info_right": "Beschleunigung von 0-100 km/h in 7,4 Sekunden"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "331",
       "drehzahl_u_min": "6000",
       "geschwindigkeit_km_h": "250",
-      "gewicht_kg_": "2480",
+      "gewicht_kg": "2480",
       "country": "D",
       "info_right": "Beschleunigung von 0-100 km/h in 5,9 Sekunden"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "38",
       "drehzahl_u_min": "5600",
       "geschwindigkeit_km_h": "90",
-      "gewicht_kg_": "460",
+      "gewicht_kg": "460",
       "country": "USA",
       "info_right": "Extreme Geländegängigkeit gepaart mit 25,4 cm Bodenfreiheit"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "44",
       "drehzahl_u_min": "5800",
       "geschwindigkeit_km_h": "110",
-      "gewicht_kg_": "388",
+      "gewicht_kg": "388",
       "country": "USA",
       "info_right": "Zweisitzer-Buggy mit 2-Zylinder-Motor"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "12,1",
       "drehzahl_u_min": "6500",
       "geschwindigkeit_km_h": "92",
-      "gewicht_kg_": "254",
+      "gewicht_kg": "254",
       "country": "TW",
       "info_right": "Garantiert eine Menge Spass für ca. 4.900,- Euro"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "15",
       "drehzahl_u_min": "6000",
       "geschwindigkeit_km_h": "95",
-      "gewicht_kg_": "260",
+      "gewicht_kg": "260",
       "country": "F",
       "info_right": "Fun-Buggy für 2 Personen mit max. Zuladung von 190 kg"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "283",
       "drehzahl_u_min": "6200",
       "geschwindigkeit_km_h": "190",
-      "gewicht_kg_": "2300",
+      "gewicht_kg": "2300",
       "country": "D",
       "info_right": "Kleinserie des Cayenne S für Langstrecken-Rallyes"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "94",
       "drehzahl_u_min": "4400",
       "geschwindigkeit_km_h": "150",
-      "gewicht_kg_": "2070",
+      "gewicht_kg": "2070",
       "country": "RUS",
       "info_right": "Exportmodell im modernen Design für Deutschland"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "120",
       "drehzahl_u_min": "3800",
       "geschwindigkeit_km_h": "158",
-      "gewicht_kg_": "1850",
+      "gewicht_kg": "1850",
       "country": "BR",
       "info_right": "Kompakter, zweitüriger Geländewagen aus Brasilien"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "221",
       "drehzahl_u_min": "2800",
       "geschwindigkeit_km_h": "120",
-      "gewicht_kg_": "4760",
+      "gewicht_kg": "4760",
       "country": "USA",
       "info_right": "Noch gewaltigere Ausmaße als der „Hummer H1“"
     },

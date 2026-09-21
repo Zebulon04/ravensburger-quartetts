@@ -9,7 +9,7 @@
       "leistung_kw": "107",
       "max._drehmoment_nm": "205",
       "geschwindigkeit_km_h": "215",
-      "gewicht_kg_": "1395",
+      "gewicht_kg": "1395",
       "länge_m": "3,85",
       "country": "D",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2016 vorgestellt"
@@ -21,7 +21,7 @@
       "leistung_kw": "260",
       "max._drehmoment_nm": "380",
       "geschwindigkeit_km_h": "-",
-      "gewicht_kg_": "1600",
+      "gewicht_kg": "1600",
       "länge_m": "4,7",
       "country": "F",
       "info_right": "Antrieb: Elektro; Im Jahr 2016 vorgestellt"
@@ -33,7 +33,7 @@
       "leistung_kw": "450",
       "max._drehmoment_nm": "1050",
       "geschwindigkeit_km_h": "250",
-      "gewicht_kg_": "1800",
+      "gewicht_kg": "1800",
       "länge_m": "4,43",
       "country": "CH",
       "info_right": "Antrieb: Elektro; Im Jahr 2019 vorgestellt"
@@ -45,7 +45,7 @@
       "leistung_kw": "820",
       "max._drehmoment_nm": "1720",
       "geschwindigkeit_km_h": "322",
-      "gewicht_kg_": "2045",
+      "gewicht_kg": "2045",
       "länge_m": "4,78",
       "country": "USA",
       "info_right": "Antrieb: Elektro; Im Jahr 2019 vorgestellt"
@@ -57,7 +57,7 @@
       "leistung_kw": "200",
       "max._drehmoment_nm": "707",
       "geschwindigkeit_km_h": "190",
-      "gewicht_kg_": "1300",
+      "gewicht_kg": "1300",
       "länge_m": "4,3",
       "country": "J",
       "info_right": "Antrieb: Elektro; Im Jahr 2013 vorgestellt"
@@ -69,7 +69,7 @@
       "leistung_kw": "125",
       "max._drehmoment_nm": "240",
       "geschwindigkeit_km_h": "210",
-      "gewicht_kg_": "498",
+      "gewicht_kg": "498",
       "länge_m": "3,63",
       "country": "F",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2005 vorgestellt"
@@ -81,7 +81,7 @@
       "leistung_kw": "120",
       "max._drehmoment_nm": "320",
       "geschwindigkeit_km_h": "170",
-      "gewicht_kg_": "890",
+      "gewicht_kg": "890",
       "länge_m": "4,33",
       "country": "J",
       "info_right": "Antrieb: Elektro; Im Jahr 2017 vorgestellt"
@@ -93,7 +93,7 @@
       "leistung_kw": "200",
       "max._drehmoment_nm": "-",
       "geschwindigkeit_km_h": "225",
-      "gewicht_kg_": "2000",
+      "gewicht_kg": "2000",
       "länge_m": "4,75",
       "country": "F",
       "info_right": "Antrieb: Elektro; Im Jahr 2018 vorgestellt"
@@ -105,7 +105,7 @@
       "leistung_kw": "570",
       "max._drehmoment_nm": "830",
       "geschwindigkeit_km_h": "300",
-      "gewicht_kg_": "1550",
+      "gewicht_kg": "1550",
       "länge_m": "4,53",
       "country": "D",
       "info_right": "Antrieb: Elektro; Im Jahr 2018 vorgestellt"
@@ -117,7 +117,7 @@
       "leistung_kw": "600",
       "max._drehmoment_nm": "1060",
       "geschwindigkeit_km_h": "302",
-      "gewicht_kg_": "1750",
+      "gewicht_kg": "1750",
       "länge_m": "4,92",
       "country": "D",
       "info_right": "Antrieb: Elektro; Im Jahr 2018 vorgestellt"
@@ -129,7 +129,7 @@
       "leistung_kw": "478",
       "max._drehmoment_nm": "854",
       "geschwindigkeit_km_h": "320",
-      "gewicht_kg_": "1526",
+      "gewicht_kg": "1526",
       "länge_m": "4,45",
       "country": "USA",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2008 vorgestellt"
@@ -141,7 +141,7 @@
       "leistung_kw": "634",
       "max._drehmoment_nm": "1000",
       "geschwindigkeit_km_h": "354",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "länge_m": "4,64",
       "country": "GB",
       "info_right": "Antrieb: Plug-in-Hybrid; Im Jahr 2010 vorgestellt"
@@ -153,7 +153,7 @@
       "leistung_kw": "368",
       "max._drehmoment_nm": "730",
       "geschwindigkeit_km_h": "300",
-      "gewicht_kg_": "1000",
+      "gewicht_kg": "1000",
       "länge_m": "-",
       "country": "F",
       "info_right": "Antrieb: Plug-in-Hybrid; Im Jahr 2016 vorgestellt"
@@ -165,7 +165,7 @@
       "leistung_kw": "388",
       "max._drehmoment_nm": "504",
       "geschwindigkeit_km_h": "310",
-      "gewicht_kg_": "1287",
+      "gewicht_kg": "1287",
       "länge_m": "4,65",
       "country": "S/CN",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2018 vorgestellt"
@@ -177,7 +177,7 @@
       "leistung_kw": "92",
       "max._drehmoment_nm": "152",
       "geschwindigkeit_km_h": "200",
-      "gewicht_kg_": "570",
+      "gewicht_kg": "570",
       "länge_m": "3,75",
       "country": "D",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2006 vorgestellt"
@@ -189,7 +189,7 @@
       "leistung_kw": "155",
       "max._drehmoment_nm": "280",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "1170",
+      "gewicht_kg": "1170",
       "länge_m": "3,71",
       "country": "GB",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2009 vorgestellt"
@@ -201,7 +201,7 @@
       "leistung_kw": "441",
       "max._drehmoment_nm": "-",
       "geschwindigkeit_km_h": "300",
-      "gewicht_kg_": "1600",
+      "gewicht_kg": "1600",
       "länge_m": "4,58",
       "country": "D",
       "info_right": "Antrieb: Plug-in-Hybrid; Im Jahr 2019 vorgestellt"
@@ -213,7 +213,7 @@
       "leistung_kw": "-",
       "max._drehmoment_nm": "1500",
       "geschwindigkeit_km_h": "300",
-      "gewicht_kg_": "1900",
+      "gewicht_kg": "1900",
       "länge_m": "5,8",
       "country": "GB",
       "info_right": "Antrieb: Elektro; Im Jahr 2019 vorgestellt"
@@ -225,7 +225,7 @@
       "leistung_kw": "881",
       "max._drehmoment_nm": "1600",
       "geschwindigkeit_km_h": "330",
-      "gewicht_kg_": "1650",
+      "gewicht_kg": "1650",
       "länge_m": "4,54",
       "country": "A",
       "info_right": "Antrieb: Plug-in-Hybrid; Im Jahr 2019 vorgestellt"
@@ -237,7 +237,7 @@
       "leistung_kw": "350",
       "max._drehmoment_nm": "760",
       "geschwindigkeit_km_h": "200",
-      "gewicht_kg_": "-",
+      "gewicht_kg": "-",
       "länge_m": "5,3",
       "country": "D",
       "info_right": "Antrieb: Elektro; Im Jahr 2019 vorgestellt"
@@ -249,7 +249,7 @@
       "leistung_kw": "291",
       "max._drehmoment_nm": "534",
       "geschwindigkeit_km_h": "250",
-      "gewicht_kg_": "1500",
+      "gewicht_kg": "1500",
       "länge_m": "4,69",
       "country": "ROK",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2011 vorgestellt"
@@ -261,7 +261,7 @@
       "leistung_kw": "300",
       "max._drehmoment_nm": "500",
       "geschwindigkeit_km_h": "250",
-      "gewicht_kg_": "1700",
+      "gewicht_kg": "1700",
       "länge_m": "4,74",
       "country": "D",
       "info_right": "Antrieb: Plug-in-Hybrid; Im Jahr 2010 vorgestellt"
@@ -273,7 +273,7 @@
       "leistung_kw": "400",
       "max._drehmoment_nm": "-",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "2350",
+      "gewicht_kg": "2350",
       "länge_m": "4,89",
       "country": "J",
       "info_right": "Antrieb: Elektro; Im Jahr 2020 vorgestellt"
@@ -285,7 +285,7 @@
       "leistung_kw": "400",
       "max._drehmoment_nm": "700",
       "geschwindigkeit_km_h": "200",
-      "gewicht_kg_": "2400",
+      "gewicht_kg": "2400",
       "länge_m": "5,09",
       "country": "J",
       "info_right": "Antrieb: Elektro; Im Jahr 2019 vorgestellt"
@@ -297,7 +297,7 @@
       "leistung_kw": "225",
       "max._drehmoment_nm": "460",
       "geschwindigkeit_km_h": "180",
-      "gewicht_kg_": "1800",
+      "gewicht_kg": "1800",
       "länge_m": "4,67",
       "country": "CZ",
       "info_right": "Antrieb: Elektro; Im Jahr 2019 vorgestellt"
@@ -309,7 +309,7 @@
       "leistung_kw": "150",
       "max._drehmoment_nm": "310",
       "geschwindigkeit_km_h": "160",
-      "gewicht_kg_": "-",
+      "gewicht_kg": "-",
       "länge_m": "4,06",
       "country": "D",
       "info_right": "Antrieb: Elektro; Im Jahr 2019 vorgestellt"
@@ -321,7 +321,7 @@
       "leistung_kw": "173",
       "max._drehmoment_nm": "400",
       "geschwindigkeit_km_h": "165",
-      "gewicht_kg_": "2000",
+      "gewicht_kg": "2000",
       "länge_m": "5,25",
       "country": "J",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2004 vorgestellt"
@@ -333,7 +333,7 @@
       "leistung_kw": "320",
       "max._drehmoment_nm": "1000",
       "geschwindigkeit_km_h": "130",
-      "gewicht_kg_": "1750",
+      "gewicht_kg": "1750",
       "länge_m": "4,15",
       "country": "D",
       "info_right": "Antrieb: Elektro; Im Jahr 2019 vorgestellt"
@@ -345,7 +345,7 @@
       "leistung_kw": "331",
       "max._drehmoment_nm": "470",
       "geschwindigkeit_km_h": "320",
-      "gewicht_kg_": "1000",
+      "gewicht_kg": "1000",
       "länge_m": "4,62",
       "country": "I",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2010 vorgestellt"
@@ -357,7 +357,7 @@
       "leistung_kw": "485",
       "max._drehmoment_nm": "600",
       "geschwindigkeit_km_h": "325",
-      "gewicht_kg_": "1423",
+      "gewicht_kg": "1423",
       "länge_m": "4,66",
       "country": "I",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2019 vorgestellt"
@@ -369,7 +369,7 @@
       "leistung_kw": "200",
       "max._drehmoment_nm": "288",
       "geschwindigkeit_km_h": "250",
-      "gewicht_kg_": "1400",
+      "gewicht_kg": "1400",
       "länge_m": "4,45",
       "country": "I",
       "info_right": "Antrieb: Plug-in-Hybrid; Im Jahr 2008 vorgestellt"
@@ -381,7 +381,7 @@
       "leistung_kw": "294",
       "max._drehmoment_nm": "452",
       "geschwindigkeit_km_h": "295",
-      "gewicht_kg_": "1150",
+      "gewicht_kg": "1150",
       "länge_m": "4,15",
       "country": "I",
       "info_right": "Antrieb: Verbrenner; Im Jahr 2008 vorgestellt"

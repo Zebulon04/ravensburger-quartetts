@@ -10,7 +10,7 @@
       "leistung_kw": "224",
       "geschwindigkeit_km_h": "249",
       "0-100_km_h_sec_": "3,9",
-      "gewicht_kg_": "667",
+      "gewicht_kg": "667",
       "country": "GB",
       "info_right": "Motor: Audi 1,8 Turbo"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "298",
       "geschwindigkeit_km_h": "314",
       "0-100_km_h_sec_": "3,8",
-      "gewicht_kg_": "750",
+      "gewicht_kg": "750",
       "country": "GB",
       "info_right": "Motor: GM LS1 V8"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "302",
       "geschwindigkeit_km_h": "378",
       "0-100_km_h_sec_": "3",
-      "gewicht_kg_": "900",
+      "gewicht_kg": "900",
       "country": "GB",
       "info_right": "Motor: Corvette LS-6"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "537",
       "geschwindigkeit_km_h": "372",
       "0-100_km_h_sec_": "2,6",
-      "gewicht_kg_": "980",
+      "gewicht_kg": "980",
       "country": "GB",
       "info_right": "Motor: Chevrolet V8"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "235",
       "geschwindigkeit_km_h": "260",
       "0-100_km_h_sec_": "3,7",
-      "gewicht_kg_": "800",
+      "gewicht_kg": "800",
       "country": "AUS",
       "info_right": "Motor: 4,3 l Lexus Quad cam V8"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "224",
       "geschwindigkeit_km_h": "272",
       "0-100_km_h_sec_": "3,2",
-      "gewicht_kg_": "600",
+      "gewicht_kg": "600",
       "country": "GB",
       "info_right": "Motor: 2 x Kawasaki ZX10"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "298",
       "geschwindigkeit_km_h": "290",
       "0-100_km_h_sec_": "3,9",
-      "gewicht_kg_": "910",
+      "gewicht_kg": "910",
       "country": "USA",
       "info_right": "Motor: 2.3 Honda Turbo Charged"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "134",
       "geschwindigkeit_km_h": "240",
       "0-100_km_h_sec_": "3,1",
-      "gewicht_kg_": "440",
+      "gewicht_kg": "440",
       "country": "GB",
       "info_right": "Motor: 1300cc Hayabusa"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "89",
       "geschwindigkeit_km_h": "193",
       "0-100_km_h_sec_": "6",
-      "gewicht_kg_": "500",
+      "gewicht_kg": "500",
       "country": "USA",
       "info_right": "Motor: 120\" Screaming Eagle HD"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "353",
       "geschwindigkeit_km_h": "260",
       "0-100_km_h_sec_": "4,3",
-      "gewicht_kg_": "998",
+      "gewicht_kg": "998",
       "country": "USA",
       "info_right": "Motor: 2000 cc 4 cylinder turbo"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "164",
       "geschwindigkeit_km_h": "240",
       "0-100_km_h_sec_": "4",
-      "gewicht_kg_": "770",
+      "gewicht_kg": "770",
       "country": "GB",
       "info_right": "Motor: 2000cc Honda Type R"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "131",
       "geschwindigkeit_km_h": "280",
       "0-100_km_h_sec_": "4,6",
-      "gewicht_kg_": "490",
+      "gewicht_kg": "490",
       "country": "GB",
       "info_right": "Motor: Ford Zetec SE"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "397",
       "geschwindigkeit_km_h": "375",
       "0-100_km_h_sec_": "3,9",
-      "gewicht_kg_": "998",
+      "gewicht_kg": "998",
       "country": "GB",
       "info_right": "Motor: World Parts 327 cu in"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "131",
       "geschwindigkeit_km_h": "285",
       "0-100_km_h_sec_": "4,5",
-      "gewicht_kg_": "498",
+      "gewicht_kg": "498",
       "country": "GB",
       "info_right": "Motor: Ford Zetec SE"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "245",
       "geschwindigkeit_km_h": "250",
       "0-100_km_h_sec_": "3,5",
-      "gewicht_kg_": "750",
+      "gewicht_kg": "750",
       "country": "GB",
       "info_right": "Motor: BMW S54"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "140",
       "geschwindigkeit_km_h": "225",
       "0-100_km_h_sec_": "4,3",
-      "gewicht_kg_": "650",
+      "gewicht_kg": "650",
       "country": "GB",
       "info_right": "Motor: 2,5 Quadcam KV6"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "134",
       "geschwindigkeit_km_h": "225",
       "0-100_km_h_sec_": "4,9",
-      "gewicht_kg_": "600",
+      "gewicht_kg": "600",
       "country": "GB",
       "info_right": "Motor: Ford Zetec"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "190",
       "geschwindigkeit_km_h": "249",
       "0-100_km_h_sec_": "3,1",
-      "gewicht_kg_": "600",
+      "gewicht_kg": "600",
       "country": "GB",
       "info_right": "Motor: Ford Cosworth"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "104",
       "geschwindigkeit_km_h": "225",
       "0-100_km_h_sec_": "3,8",
-      "gewicht_kg_": "490",
+      "gewicht_kg": "490",
       "country": "GB",
       "info_right": "Motor: Ford"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "294",
       "geschwindigkeit_km_h": "257",
       "0-100_km_h_sec_": "3,9",
-      "gewicht_kg_": "850",
+      "gewicht_kg": "850",
       "country": "GB",
       "info_right": "Motor: Chevrolet LS2"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "261",
       "geschwindigkeit_km_h": "224",
       "0-100_km_h_sec_": "4",
-      "gewicht_kg_": "907",
+      "gewicht_kg": "907",
       "country": "USA",
       "info_right": "Motor: Chevrolet V8"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "194",
       "geschwindigkeit_km_h": "225",
       "0-100_km_h_sec_": "3,9",
-      "gewicht_kg_": "550",
+      "gewicht_kg": "550",
       "country": "GB",
       "info_right": "Motor: Ford Duratec"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "168",
       "geschwindigkeit_km_h": "217",
       "0-100_km_h_sec_": "3,6",
-      "gewicht_kg_": "520",
+      "gewicht_kg": "520",
       "country": "GB",
       "info_right": "Motor: Ford Duratec"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "261",
       "geschwindigkeit_km_h": "241",
       "0-100_km_h_sec_": "3",
-      "gewicht_kg_": "485",
+      "gewicht_kg": "485",
       "country": "GB",
       "info_right": "Motor: Hayabusa Turbo"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "93",
       "geschwindigkeit_km_h": "204",
       "0-100_km_h_sec_": "6,5",
-      "gewicht_kg_": "589",
+      "gewicht_kg": "589",
       "country": "USA",
       "info_right": "Motor: VW Vierzylinder"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "74",
       "geschwindigkeit_km_h": "205",
       "0-100_km_h_sec_": "9,4",
-      "gewicht_kg_": "660",
+      "gewicht_kg": "660",
       "country": "D",
       "info_right": "Motor: Daimler/Smart"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "48",
       "geschwindigkeit_km_h": "80",
       "0-100_km_h_sec_": "9",
-      "gewicht_kg_": "120",
+      "gewicht_kg": "120",
       "country": "GB",
       "info_right": "Motor: Honda 200"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "302",
       "geschwindigkeit_km_h": "217",
       "0-100_km_h_sec_": "3,7",
-      "gewicht_kg_": "850",
+      "gewicht_kg": "850",
       "country": "USA",
       "info_right": "Motor: V8"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "172",
       "geschwindigkeit_km_h": "193",
       "0-100_km_h_sec_": "3,9",
-      "gewicht_kg_": "650",
+      "gewicht_kg": "650",
       "country": "GB",
       "info_right": "Motor: Rover V8"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "373",
       "geschwindigkeit_km_h": "260",
       "0-100_km_h_sec_": "3,9",
-      "gewicht_kg_": "1080",
+      "gewicht_kg": "1080",
       "country": "GB",
       "info_right": "Motor: Ford 427w"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "49",
       "geschwindigkeit_km_h": "163",
       "0-100_km_h_sec_": "12,6",
-      "gewicht_kg_": "660",
+      "gewicht_kg": "660",
       "country": "GB",
       "info_right": "Motor: BMC A-Series"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "52",
       "geschwindigkeit_km_h": "160",
       "0-100_km_h_sec_": "8",
-      "gewicht_kg_": "510",
+      "gewicht_kg": "510",
       "country": "GB",
       "info_right": "Motor: 1275 BMC A-Series"
     }

@@ -10,7 +10,7 @@
       "leistung_kw": "42",
       "drehzahl_u_min": "13650",
       "tempo_km_h": "238",
-      "gewicht_kg_": "70",
+      "gewicht_kg": "70",
       "country": "I",
       "info_right": "Fahrer: Mattia Pasini"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "41",
       "drehzahl_u_min": "13000",
       "tempo_km_h": "236",
-      "gewicht_kg_": "68",
+      "gewicht_kg": "68",
       "country": "SF",
       "info_right": "Fahrer: Mika Kallio"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "37",
       "drehzahl_u_min": "13100",
       "tempo_km_h": "233",
-      "gewicht_kg_": "67",
+      "gewicht_kg": "67",
       "country": "I",
       "info_right": "Fahrer: Manuel Poggiali"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "35",
       "drehzahl_u_min": "13200",
       "tempo_km_h": "230",
-      "gewicht_kg_": "69",
+      "gewicht_kg": "69",
       "country": "CH",
       "info_right": "Fahrer: Thomas Lüthi"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "76",
       "drehzahl_u_min": "13600",
       "tempo_km_h": "288",
-      "gewicht_kg_": "97",
+      "gewicht_kg": "97",
       "country": "RA",
       "info_right": "Fahrer: Sebastian Porto"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "69",
       "drehzahl_u_min": "13000",
       "tempo_km_h": "285",
-      "gewicht_kg_": "95",
+      "gewicht_kg": "95",
       "country": "E",
       "info_right": "Fahrer: Fonsi Nieto"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "80",
       "drehzahl_u_min": "13000",
       "tempo_km_h": "289",
-      "gewicht_kg_": "101",
+      "gewicht_kg": "101",
       "country": "J",
       "info_right": "Fahrer: Hiroshi Aoyama"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "73",
       "drehzahl_u_min": "13300",
       "tempo_km_h": "288",
-      "gewicht_kg_": "97",
+      "gewicht_kg": "97",
       "country": "F",
       "info_right": "Fahrer: Erwan Nigon"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "182",
       "drehzahl_u_min": "14200",
       "tempo_km_h": "320",
-      "gewicht_kg_": "159",
+      "gewicht_kg": "159",
       "country": "I",
       "info_right": "Fahrer: Valentino Rossi"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "158",
       "drehzahl_u_min": "13900",
       "tempo_km_h": "315",
-      "gewicht_kg_": "158",
+      "gewicht_kg": "158",
       "country": "J",
       "info_right": "Fahrer: Shinya Nakano"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "185",
       "drehzahl_u_min": "14200",
       "tempo_km_h": "325",
-      "gewicht_kg_": "162",
+      "gewicht_kg": "162",
       "country": "E",
       "info_right": "Fahrer: Daniel Pedrosa"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "147",
       "drehzahl_u_min": "13800",
       "tempo_km_h": "310",
-      "gewicht_kg_": "155",
+      "gewicht_kg": "155",
       "country": "USA",
       "info_right": "Fahrer: Kenny Roberts Jr."
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "140",
       "drehzahl_u_min": "13200",
       "tempo_km_h": "305",
-      "gewicht_kg_": "150",
+      "gewicht_kg": "150",
       "country": "AUS",
       "info_right": "Fahrer: Troy Corser"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "132",
       "drehzahl_u_min": "13500",
       "tempo_km_h": "325",
-      "gewicht_kg_": "165",
+      "gewicht_kg": "165",
       "country": "GB",
       "info_right": "Fahrer: James Toseland"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "151",
       "drehzahl_u_min": "13700",
       "tempo_km_h": "330",
-      "gewicht_kg_": "165",
+      "gewicht_kg": "165",
       "country": "J",
       "info_right": "Fahrer: Noriyuki Haga"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "112",
       "drehzahl_u_min": "14400",
       "tempo_km_h": "302",
-      "gewicht_kg_": "127",
+      "gewicht_kg": "127",
       "country": "J",
       "info_right": "Fahrer: Aaron Slight"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "141",
       "drehzahl_u_min": "13000",
       "tempo_km_h": "280",
-      "gewicht_kg_": "230",
+      "gewicht_kg": "230",
       "country": "GB",
       "info_right": "Fahrer: Abott / Biggs"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "132",
       "drehzahl_u_min": "13000",
       "tempo_km_h": "285",
-      "gewicht_kg_": "235",
+      "gewicht_kg": "235",
       "country": "GB",
       "info_right": "Fahrer: Peddar / Steadman"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "145",
       "drehzahl_u_min": "12900",
       "tempo_km_h": "291",
-      "gewicht_kg_": "238",
+      "gewicht_kg": "238",
       "country": "GB",
       "info_right": "Fahrer: Webster / Woodhead"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "151",
       "drehzahl_u_min": "12400",
       "tempo_km_h": "288",
-      "gewicht_kg_": "250",
+      "gewicht_kg": "250",
       "country": "CH",
       "info_right": "Fahrer: Roscher / Hänni"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "48",
       "drehzahl_u_min": "8700",
       "tempo_km_h": "168",
-      "gewicht_kg_": "98",
+      "gewicht_kg": "98",
       "country": "F",
       "info_right": "Fahrer: David Vuillemin"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "44",
       "drehzahl_u_min": "8900",
       "tempo_km_h": "180",
-      "gewicht_kg_": "100",
+      "gewicht_kg": "100",
       "country": "F",
       "info_right": "Fahrer: Sébastien Pourcel"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "66",
       "drehzahl_u_min": "9800",
       "tempo_km_h": "170",
-      "gewicht_kg_": "105",
+      "gewicht_kg": "105",
       "country": "E",
       "info_right": "Fahrer: Javier Garcia Vico"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "70",
       "drehzahl_u_min": "9000",
       "tempo_km_h": "180",
-      "gewicht_kg_": "110",
+      "gewicht_kg": "110",
       "country": "CZ",
       "info_right": "Fahrer: Michal Kadlacek"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "51",
       "drehzahl_u_min": "13000",
       "tempo_km_h": "185",
-      "gewicht_kg_": "85",
+      "gewicht_kg": "85",
       "country": "CZ",
       "info_right": "Fahrer: Jan Schinagl"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "45",
       "drehzahl_u_min": "9100",
       "tempo_km_h": "128",
-      "gewicht_kg_": "105",
+      "gewicht_kg": "105",
       "country": "S",
       "info_right": "Fahrer: Tony Rickardsson"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "52",
       "drehzahl_u_min": "10500",
       "tempo_km_h": "132",
-      "gewicht_kg_": "110",
+      "gewicht_kg": "110",
       "country": "D",
       "info_right": "Fahrer: Robert Baumann"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "47",
       "drehzahl_u_min": "9000",
       "tempo_km_h": "125",
-      "gewicht_kg_": "115",
+      "gewicht_kg": "115",
       "country": "D",
       "info_right": "Fahrer: Hans-Jörg Müller"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "48",
       "drehzahl_u_min": "10900",
       "tempo_km_h": "123",
-      "gewicht_kg_": "112",
+      "gewicht_kg": "112",
       "country": "D",
       "info_right": "Fahrer: Michael Lang"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "51",
       "drehzahl_u_min": "11000",
       "tempo_km_h": "130",
-      "gewicht_kg_": "113",
+      "gewicht_kg": "113",
       "country": "RF",
       "info_right": "Fahrer: Wjatscheslaw Nikulin"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "45",
       "drehzahl_u_min": "10200",
       "tempo_km_h": "128",
-      "gewicht_kg_": "112",
+      "gewicht_kg": "112",
       "country": "D",
       "info_right": "Fahrer: Günther Bauer"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "45",
       "drehzahl_u_min": "10800",
       "tempo_km_h": "120",
-      "gewicht_kg_": "110",
+      "gewicht_kg": "110",
       "country": "S",
       "info_right": "Fahrer: Peer Olof Serenius"
     }

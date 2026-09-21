@@ -10,7 +10,7 @@
       "hubraum_ccm": "24496",
       "leistung_kw": "4190",
       "drehzahl_u_min": "9000",
-      "gewicht_kg_": "5000",
+      "gewicht_kg": "5000",
       "country": "USA",
       "info_right": "Angetrieben von vier V8-Motoren mit je 7374 ccm"
     },
@@ -22,7 +22,7 @@
       "hubraum_ccm": "25122",
       "leistung_kw": "3676",
       "drehzahl_u_min": "9500",
-      "gewicht_kg_": "4400",
+      "gewicht_kg": "4400",
       "country": "USA",
       "info_right": "Angetrieben von drei V8-Motoren mit je 8374 ccm"
     },
@@ -34,7 +34,7 @@
       "hubraum_ccm": "21384",
       "leistung_kw": "3456",
       "drehzahl_u_min": "9400",
-      "gewicht_kg_": "3400",
+      "gewicht_kg": "3400",
       "country": "USA",
       "info_right": "Angetrieben von drei V8-Motoren mit je 7128 ccm"
     },
@@ -46,7 +46,7 @@
       "hubraum_ccm": "22122",
       "leistung_kw": "3309",
       "drehzahl_u_min": "9250",
-      "gewicht_kg_": "4450",
+      "gewicht_kg": "4450",
       "country": "USA",
       "info_right": "Angetrieben von drei V8-Motoren mit je 7374 ccm"
     },
@@ -58,7 +58,7 @@
       "hubraum_ccm": "4998",
       "leistung_kw": "279",
       "drehzahl_u_min": "5000",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "country": "USA",
       "info_right": "Basis: 1954er Chevy"
     },
@@ -70,7 +70,7 @@
       "hubraum_ccm": "4973",
       "leistung_kw": "185",
       "drehzahl_u_min": "5200",
-      "gewicht_kg_": "2170",
+      "gewicht_kg": "2170",
       "country": "D",
       "info_right": "Basis: Mercedes 500 SEC"
     },
@@ -82,7 +82,7 @@
       "hubraum_ccm": "2393",
       "leistung_kw": "88",
       "drehzahl_u_min": "5000",
-      "gewicht_kg_": "1950",
+      "gewicht_kg": "1950",
       "country": "I",
       "info_right": "Basis: 1986er Nissan Patrol"
     },
@@ -94,7 +94,7 @@
       "hubraum_ccm": "5735",
       "leistung_kw": "143",
       "drehzahl_u_min": "4200",
-      "gewicht_kg_": "1490",
+      "gewicht_kg": "1490",
       "country": "USA",
       "info_right": "Basis: 1982er Chevy-Corvette"
     },
@@ -106,7 +106,7 @@
       "hubraum_ccm": "2180",
       "leistung_kw": "113",
       "drehzahl_u_min": "6000",
-      "gewicht_kg_": "499",
+      "gewicht_kg": "499",
       "country": "GB",
       "info_right": "Höchstgeschwindigkeit: 153 km/h"
     },
@@ -118,7 +118,7 @@
       "hubraum_ccm": "1770",
       "leistung_kw": "52",
       "drehzahl_u_min": "4300",
-      "gewicht_kg_": "590",
+      "gewicht_kg": "590",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 135 km/h"
     },
@@ -130,7 +130,7 @@
       "hubraum_ccm": "1285",
       "leistung_kw": "32",
       "drehzahl_u_min": "4100",
-      "gewicht_kg_": "610",
+      "gewicht_kg": "610",
       "country": "F",
       "info_right": "Höchstgeschwindigkeit: 108 km/h"
     },
@@ -142,7 +142,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "63",
       "drehzahl_u_min": "4200",
-      "gewicht_kg_": "710",
+      "gewicht_kg": "710",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 128 km/h"
     },
@@ -154,7 +154,7 @@
       "hubraum_ccm": "7441",
       "leistung_kw": "785",
       "drehzahl_u_min": "9000",
-      "gewicht_kg_": "1180",
+      "gewicht_kg": "1180",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis 1982er Chevy-Pickups"
     },
@@ -166,7 +166,7 @@
       "hubraum_ccm": "8364",
       "leistung_kw": "868",
       "drehzahl_u_min": "9000",
-      "gewicht_kg_": "1150",
+      "gewicht_kg": "1150",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis eines Ford 23T"
     },
@@ -178,7 +178,7 @@
       "hubraum_ccm": "6986",
       "leistung_kw": "735",
       "drehzahl_u_min": "8800",
-      "gewicht_kg_": "1150",
+      "gewicht_kg": "1150",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf eines Basis Jeep-Chrysler"
     },
@@ -190,7 +190,7 @@
       "hubraum_ccm": "7444",
       "leistung_kw": "809",
       "drehzahl_u_min": "9000",
-      "gewicht_kg_": "1250",
+      "gewicht_kg": "1250",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf einer 1982er Chevy-Corvette"
     },
@@ -202,7 +202,7 @@
       "hubraum_ccm": "1298",
       "leistung_kw": "61",
       "drehzahl_u_min": "6000",
-      "gewicht_kg_": "1340",
+      "gewicht_kg": "1340",
       "country": "J/D",
       "info_right": "Höchstgeschwindigkeit: 130 km/h"
     },
@@ -214,7 +214,7 @@
       "hubraum_ccm": "3794",
       "leistung_kw": "110",
       "drehzahl_u_min": "3600",
-      "gewicht_kg_": "2450",
+      "gewicht_kg": "2450",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 145 km/h"
     },
@@ -226,7 +226,7 @@
       "hubraum_ccm": "2499",
       "leistung_kw": "76",
       "drehzahl_u_min": "3800",
-      "gewicht_kg_": "2100",
+      "gewicht_kg": "2100",
       "country": "PL",
       "info_right": "Höchstgeschwindigkeit: 130 km/h"
     },
@@ -238,7 +238,7 @@
       "hubraum_ccm": "4293",
       "leistung_kw": "118",
       "drehzahl_u_min": "4000",
-      "gewicht_kg_": "1730",
+      "gewicht_kg": "1730",
       "country": "USA/D",
       "info_right": "Höchstgeschwindigkeit: 135 km/h"
     },
@@ -250,7 +250,7 @@
       "hubraum_ccm": "7441",
       "leistung_kw": "603",
       "drehzahl_u_min": "6000",
-      "gewicht_kg_": "6500",
+      "gewicht_kg": "6500",
       "country": "USA",
       "info_right": "Basis: 1979er Toyota Pickup"
     },
@@ -262,7 +262,7 @@
       "hubraum_ccm": "7031",
       "leistung_kw": "104",
       "drehzahl_u_min": "6500",
-      "gewicht_kg_": "7000",
+      "gewicht_kg": "7000",
       "country": "USA",
       "info_right": "Basis: 1987er Ford Ranger Pickup"
     },
@@ -274,7 +274,7 @@
       "hubraum_ccm": "3785",
       "leistung_kw": "331",
       "drehzahl_u_min": "7500",
-      "gewicht_kg_": "3800",
+      "gewicht_kg": "3800",
       "country": "J/USA",
       "info_right": "Basis: 1982er Toyota Pickup"
     },
@@ -286,7 +286,7 @@
       "hubraum_ccm": "8226",
       "leistung_kw": "882",
       "drehzahl_u_min": "8900",
-      "gewicht_kg_": "8000",
+      "gewicht_kg": "8000",
       "country": "USA",
       "info_right": "Basis: 1989er Ford F Super Duty"
     },
@@ -298,7 +298,7 @@
       "hubraum_ccm": "6300",
       "leistung_kw": "257",
       "drehzahl_u_min": "5500",
-      "gewicht_kg_": "2300",
+      "gewicht_kg": "2300",
       "country": "CH",
       "info_right": "Höchstgeschwindigkeit: 225 km/h"
     },
@@ -310,7 +310,7 @@
       "hubraum_ccm": "2977",
       "leistung_kw": "235",
       "drehzahl_u_min": "4800",
-      "gewicht_kg_": "1780",
+      "gewicht_kg": "1780",
       "country": "D",
       "info_right": "Höchstgeschwindigkeit: 232 km/h"
     },
@@ -322,7 +322,7 @@
       "hubraum_ccm": "2963",
       "leistung_kw": "193",
       "drehzahl_u_min": "5400",
-      "gewicht_kg_": "2650",
+      "gewicht_kg": "2650",
       "country": "F",
       "info_right": "Höchstgeschwindigkeit: 155 km/h"
     },
@@ -334,7 +334,7 @@
       "hubraum_ccm": "7300",
       "leistung_kw": "154",
       "drehzahl_u_min": "3000",
-      "gewicht_kg_": "2300",
+      "gewicht_kg": "2300",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 195 km/h"
     },
@@ -346,7 +346,7 @@
       "hubraum_ccm": "6450",
       "leistung_kw": "588",
       "drehzahl_u_min": "7400",
-      "gewicht_kg_": "1450",
+      "gewicht_kg": "1450",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 9,21 Sekunden"
     },
@@ -358,7 +358,7 @@
       "hubraum_ccm": "4900",
       "leistung_kw": "530",
       "drehzahl_u_min": "5900",
-      "gewicht_kg_": "1080",
+      "gewicht_kg": "1080",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 8,63 Sekunden"
     },
@@ -370,7 +370,7 @@
       "hubraum_ccm": "7500",
       "leistung_kw": "735",
       "drehzahl_u_min": "10500",
-      "gewicht_kg_": "1500",
+      "gewicht_kg": "1500",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 6,88 Sekunden"
     },
@@ -382,7 +382,7 @@
       "hubraum_ccm": "5800",
       "leistung_kw": "552",
       "drehzahl_u_min": "7000",
-      "gewicht_kg_": "1250",
+      "gewicht_kg": "1250",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 7,96 Sekunden"
     }

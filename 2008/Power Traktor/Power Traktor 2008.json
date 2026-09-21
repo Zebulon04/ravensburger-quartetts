@@ -10,7 +10,7 @@
       "leistung_kw": "175",
       "drehzahl_u_min": "2200",
       "länge_m": "5,67",
-      "gewicht_kg_": "8098",
+      "gewicht_kg": "8098",
       "country": "D",
       "info_right": "Beeindruckt mit Komfort, Vielseitigkeit und Wirtschaftlichkeit"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "82",
       "drehzahl_u_min": "2250",
       "länge_m": "4,37",
-      "gewicht_kg_": "4440",
+      "gewicht_kg": "4440",
       "country": "D",
       "info_right": "Ausstattungschampion gerüstet für jede Anforderung"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "162",
       "drehzahl_u_min": "2300",
       "länge_m": "5,2",
-      "gewicht_kg_": "7277",
+      "gewicht_kg": "7277",
       "country": "GB",
       "info_right": "Hohe Einsatzgeschwindigkeit durch modernstes Federungssystem"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "135",
       "drehzahl_u_min": "2350",
       "länge_m": "4,76",
-      "gewicht_kg_": "5970",
+      "gewicht_kg": "5970",
       "country": "I",
       "info_right": "Neuester Schlepper angetrieben mit der Kraft des „Stiers“"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "265",
       "drehzahl_u_min": "1800",
       "länge_m": "5,28",
-      "gewicht_kg_": "9700",
+      "gewicht_kg": "9700",
       "country": "D",
       "info_right": "Stärkster, bis zu 60 km/h schneller Traktor von Fendt"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "419",
       "drehzahl_u_min": "1800",
       "länge_m": "7,57",
-      "gewicht_kg_": "18038",
+      "gewicht_kg": "18038",
       "country": "USA",
       "info_right": "Der leistungsstärkste Radschlepper der Welt"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "373",
       "drehzahl_u_min": "2100",
       "länge_m": "7,6",
-      "gewicht_kg_": "15000",
+      "gewicht_kg": "15000",
       "country": "USA",
       "info_right": "Knicklenker-Traktor spezialisiert auf extreme Bedingungen"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "231",
       "drehzahl_u_min": "2150",
       "länge_m": "5,24",
-      "gewicht_kg_": "9410",
+      "gewicht_kg": "9410",
       "country": "USA",
       "info_right": "Ausgezeichnet als „Europäischer Traktor 2005“"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "211",
       "drehzahl_u_min": "2000",
       "länge_m": "5,97",
-      "gewicht_kg_": "9163",
+      "gewicht_kg": "9163",
       "country": "USA",
       "info_right": "Topmodell der äußerst wendigen Magnum-Baureihe"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "248",
       "drehzahl_u_min": "2100",
       "länge_m": "5,83",
-      "gewicht_kg_": "9259",
+      "gewicht_kg": "9259",
       "country": "USA",
       "info_right": "Neuestes Traktorenmodell mit modernstern Styling"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "191",
       "drehzahl_u_min": "2350",
       "länge_m": "4,75",
-      "gewicht_kg_": "8450",
+      "gewicht_kg": "8450",
       "country": "I",
       "info_right": "Der modernste Kraftprotz unter den Same-Traktoren"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "206",
       "drehzahl_u_min": "2200",
       "länge_m": "5,34",
-      "gewicht_kg_": "9140",
+      "gewicht_kg": "9140",
       "country": "GB",
       "info_right": "Modernes Kraftpaket wie geschaften für große Aufgaben"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "70",
       "drehzahl_u_min": "2300",
       "länge_m": "3,95",
-      "gewicht_kg_": "3900",
+      "gewicht_kg": "3900",
       "country": "CH",
       "info_right": "Neue Traktorbaureihe angetrieben von Euro II-Motoren"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "70",
       "drehzahl_u_min": "2300",
       "länge_m": "3,95",
-      "gewicht_kg_": "3400",
+      "gewicht_kg": "3400",
       "country": "I",
       "info_right": "Typisch Lamborghini - Allroundtalent mit sportlichen Charakter"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "67",
       "drehzahl_u_min": "2150",
       "länge_m": "3,74",
-      "gewicht_kg_": "3140",
+      "gewicht_kg": "3140",
       "country": "USA",
       "info_right": "Neueste universal-Traktorenbaureihe"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "2270",
       "länge_m": "4,56",
-      "gewicht_kg_": "3680",
+      "gewicht_kg": "3680",
       "country": "SF",
       "info_right": "Der Allenkönner made in Finnland"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "1618",
       "drehzahl_u_min": "6000",
       "länge_m": "3,4",
-      "gewicht_kg_": "950",
+      "gewicht_kg": "950",
       "country": "D",
       "info_right": "Fahrer: Helmut Schwarz"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "1390",
       "drehzahl_u_min": "8400",
       "länge_m": "3,1",
-      "gewicht_kg_": "945",
+      "gewicht_kg": "945",
       "country": "NL",
       "info_right": "Fahrer: John de Graf"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "956",
       "drehzahl_u_min": "7500",
       "länge_m": "3,2",
-      "gewicht_kg_": "980",
+      "gewicht_kg": "980",
       "country": "D",
       "info_right": "Fahrer: Andreas Reinold"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "1066",
       "drehzahl_u_min": "7500",
       "länge_m": "3,2",
-      "gewicht_kg_": "980",
+      "gewicht_kg": "980",
       "country": "S",
       "info_right": "Fahrer: Per Wallenius"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "2574",
       "drehzahl_u_min": "6000",
       "länge_m": "4,6",
-      "gewicht_kg_": "4400",
+      "gewicht_kg": "4400",
       "country": "NL",
       "info_right": "Fahrer: Leonard Griffioen"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "1470",
       "drehzahl_u_min": "6100",
       "länge_m": "4,95",
-      "gewicht_kg_": "3450",
+      "gewicht_kg": "3450",
       "country": "D",
       "info_right": "Fahrer: Carsten Peveling"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "1838",
       "drehzahl_u_min": "7000",
       "länge_m": "5,05",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "CH",
       "info_right": "Fahrer: Ruedi Plattner"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "1544",
       "drehzahl_u_min": "6500",
       "länge_m": "4,7",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "SF",
       "info_right": "Fahrer: Johanna Herlevi"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "6103",
       "drehzahl_u_min": "4200",
       "länge_m": "5,1",
-      "gewicht_kg_": "4900",
+      "gewicht_kg": "4900",
       "country": "DK",
       "info_right": "Fahrer: Torben Larsen"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "5882",
       "drehzahl_u_min": "7500",
       "länge_m": "5,2",
-      "gewicht_kg_": "4500",
+      "gewicht_kg": "4500",
       "country": "D",
       "info_right": "Fahrer: Thomas Zimmermann"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "4412",
       "drehzahl_u_min": "4500",
       "länge_m": "5,2",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "D",
       "info_right": "Fahrer: Dirk Wessel"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "2941",
       "drehzahl_u_min": "3300",
       "länge_m": "4,1",
-      "gewicht_kg_": "2100",
+      "gewicht_kg": "2100",
       "country": "L",
       "info_right": "Fahrer: Serge Jacobi"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "4412",
       "drehzahl_u_min": "12000",
       "länge_m": "5,1",
-      "gewicht_kg_": "5400",
+      "gewicht_kg": "5400",
       "country": "D",
       "info_right": "Fahrer: Paul Heistermann"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "1434",
       "drehzahl_u_min": "18000",
       "länge_m": "5,8",
-      "gewicht_kg_": "3900",
+      "gewicht_kg": "3900",
       "country": "D",
       "info_right": "Fahrer: Georg Frenser"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "4500",
       "drehzahl_u_min": "11000",
       "länge_m": "5,1",
-      "gewicht_kg_": "5200",
+      "gewicht_kg": "5200",
       "country": "NL",
       "info_right": "Fahrer: Bas Liefting"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "6985",
       "drehzahl_u_min": "12000",
       "länge_m": "5,7",
-      "gewicht_kg_": "5400",
+      "gewicht_kg": "5400",
       "country": "D",
       "info_right": "Fahrer: Mathias Vogelsang"
     }

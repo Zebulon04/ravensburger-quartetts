@@ -9,7 +9,7 @@
       "hubraum_ccm": "5980",
       "leistung_kw": "463",
       "geschwindigkeit_km_h": "300",
-      "leergewicht_kg_": "2180",
+      "leergewicht_kg": "2180",
       "länge_m": "5,03",
       "country": "D",
       "info_right": "Kaufpreis ab 256.177,- EUR"
@@ -21,7 +21,7 @@
       "hubraum_ccm": "7993",
       "leistung_kw": "882",
       "geschwindigkeit_km_h": "410",
-      "leergewicht_kg_": "1990",
+      "leergewicht_kg": "1990",
       "länge_m": "4,46",
       "country": "F",
       "info_right": "Kaufpreis ab 2.150.000,- EUR"
@@ -33,7 +33,7 @@
       "hubraum_ccm": "2480",
       "leistung_kw": "280",
       "geschwindigkeit_km_h": "270",
-      "leergewicht_kg_": "695",
+      "leergewicht_kg": "695",
       "länge_m": "3,74",
       "country": "NL",
       "info_right": "Kaufpreis ab 200.000,- EUR"
@@ -45,7 +45,7 @@
       "hubraum_ccm": "3996",
       "leistung_kw": "375",
       "geschwindigkeit_km_h": "310",
-      "leergewicht_kg_": "1540",
+      "leergewicht_kg": "1540",
       "länge_m": "4,56",
       "country": "D",
       "info_right": "Kaufpreis ab 269.274,- EUR"
@@ -57,7 +57,7 @@
       "hubraum_ccm": "6208",
       "leistung_kw": "435",
       "geschwindigkeit_km_h": "320",
-      "leergewicht_kg_": "1695",
+      "leergewicht_kg": "1695",
       "länge_m": "4,64",
       "country": "D",
       "info_right": "Kaufpreis ab 204.680,- EUR"
@@ -69,7 +69,7 @@
       "hubraum_ccm": "5204",
       "leistung_kw": "449",
       "geschwindigkeit_km_h": "325",
-      "leergewicht_kg_": "1389",
+      "leergewicht_kg": "1389",
       "länge_m": "4,52",
       "country": "I",
       "info_right": "Kaufpreis ab 189.737,- EUR"
@@ -81,7 +81,7 @@
       "hubraum_ccm": "3994",
       "leistung_kw": "530",
       "geschwindigkeit_km_h": "341",
-      "leergewicht_kg_": "1283",
+      "leergewicht_kg": "1283",
       "länge_m": "4,54",
       "country": "GB",
       "info_right": "Kaufpreis ab 247.350,- EUR"
@@ -93,7 +93,7 @@
       "hubraum_ccm": "5950",
       "leistung_kw": "485",
       "geschwindigkeit_km_h": "322",
-      "leergewicht_kg_": "2180",
+      "leergewicht_kg": "2180",
       "länge_m": "4,85",
       "country": "GB",
       "info_right": "Kaufpreis ab 1.680.000,- EUR"
@@ -105,7 +105,7 @@
       "hubraum_ccm": "1500",
       "leistung_kw": "394",
       "geschwindigkeit_km_h": "200",
-      "leergewicht_kg_": "2290",
+      "leergewicht_kg": "2290",
       "länge_m": "4,31",
       "country": "USA",
       "info_right": "Kaufpreis noch nicht bekannt"
@@ -117,7 +117,7 @@
       "hubraum_ccm": "4806",
       "leistung_kw": "382",
       "geschwindigkeit_km_h": "305",
-      "leergewicht_kg_": "2045",
+      "leergewicht_kg": "2045",
       "länge_m": "5,02",
       "country": "D",
       "info_right": "Kaufpreis ab 145.990,- EUR"
@@ -129,7 +129,7 @@
       "hubraum_ccm": "3996",
       "leistung_kw": "478",
       "geschwindigkeit_km_h": "305",
-      "leergewicht_kg_": "2197",
+      "leergewicht_kg": "2197",
       "länge_m": "5,11",
       "country": "I",
       "info_right": "Kaufpreis ab 221.500,- EUR"
@@ -141,7 +141,7 @@
       "hubraum_ccm": "6592",
       "leistung_kw": "459",
       "geschwindigkeit_km_h": "250",
-      "leergewicht_kg_": "2560",
+      "leergewicht_kg": "2560",
       "länge_m": "5,37",
       "country": "GB",
       "info_right": "Kaufpreis ab 3.000.000,- EUR"
@@ -153,7 +153,7 @@
       "hubraum_ccm": "4395",
       "leistung_kw": "460",
       "geschwindigkeit_km_h": "305",
-      "leergewicht_kg_": "2055",
+      "leergewicht_kg": "2055",
       "länge_m": "5,09",
       "country": "D",
       "info_right": "Kaufpreis ab 166.700,- EUR"
@@ -165,7 +165,7 @@
       "hubraum_ccm": "5204",
       "leistung_kw": "404",
       "geschwindigkeit_km_h": "319",
-      "leergewicht_kg_": "1645",
+      "leergewicht_kg": "1645",
       "länge_m": "4,44",
       "country": "D",
       "info_right": "Kaufpreis ab 174.400,- EUR"
@@ -177,7 +177,7 @@
       "hubraum_ccm": "5204",
       "leistung_kw": "533",
       "geschwindigkeit_km_h": "338",
-      "leergewicht_kg_": "1845",
+      "leergewicht_kg": "1845",
       "länge_m": "4,72",
       "country": "GB",
       "info_right": "Kaufpreis ab 274.995,- EUR"
@@ -189,7 +189,7 @@
       "hubraum_ccm": "3600",
       "leistung_kw": "522",
       "geschwindigkeit_km_h": "360",
-      "leergewicht_kg_": "1200",
+      "leergewicht_kg": "1200",
       "länge_m": "4,21",
       "country": "D",
       "info_right": "Kaufpreis ab 750.000,- EUR"
@@ -201,7 +201,7 @@
       "hubraum_ccm": "4969",
       "leistung_kw": "351",
       "geschwindigkeit_km_h": "270",
-      "leergewicht_kg_": "1765",
+      "leergewicht_kg": "1765",
       "länge_m": "4,71",
       "country": "J",
       "info_right": "Kaufpreis ab 75.000,- EUR"
@@ -213,7 +213,7 @@
       "hubraum_ccm": "6162",
       "leistung_kw": "479",
       "geschwindigkeit_km_h": "325",
-      "leergewicht_kg_": "1524",
+      "leergewicht_kg": "1524",
       "länge_m": "4,54",
       "country": "I",
       "info_right": "Kaufpreis ab 262.000,- EUR"
@@ -225,7 +225,7 @@
       "hubraum_ccm": "5000",
       "leistung_kw": "375",
       "geschwindigkeit_km_h": "250",
-      "leergewicht_kg_": "1800",
+      "leergewicht_kg": "1800",
       "länge_m": "4,76",
       "country": "GB",
       "info_right": "Kaufpreis ab 700.000,- EUR"
@@ -237,7 +237,7 @@
       "hubraum_ccm": "5000",
       "leistung_kw": "423",
       "geschwindigkeit_km_h": "300",
-      "leergewicht_kg_": "1818",
+      "leergewicht_kg": "1818",
       "länge_m": "4,47",
       "country": "GB",
       "info_right": "Kaufpreis ab 122.434,- EUR"
@@ -249,7 +249,7 @@
       "hubraum_ccm": "2995",
       "leistung_kw": "330",
       "geschwindigkeit_km_h": "250",
-      "leergewicht_kg_": "2405",
+      "leergewicht_kg": "2405",
       "länge_m": "5,3",
       "country": "D",
       "info_right": "Kaufpreis ab 110.200,- EUR"
@@ -261,7 +261,7 @@
       "hubraum_ccm": "4400",
       "leistung_kw": "440",
       "geschwindigkeit_km_h": "250",
-      "leergewicht_kg_": "2650",
+      "leergewicht_kg": "2650",
       "länge_m": "5,63",
       "country": "RUS",
       "info_right": "Kaufpreis auf Anfrage"
@@ -273,7 +273,7 @@
       "hubraum_ccm": "6000",
       "leistung_kw": "440",
       "geschwindigkeit_km_h": "100",
-      "leergewicht_kg_": "6500",
+      "leergewicht_kg": "6500",
       "länge_m": "6,5",
       "country": "USA",
       "info_right": "unverkäuflich"
@@ -285,7 +285,7 @@
       "hubraum_ccm": "6751",
       "leistung_kw": "420",
       "geschwindigkeit_km_h": "250",
-      "leergewicht_kg_": "2560",
+      "leergewicht_kg": "2560",
       "länge_m": "5,76",
       "country": "GB",
       "info_right": "Kaufpreis ab ca. 446.250- EUR"
@@ -297,7 +297,7 @@
       "hubraum_ccm": "6417",
       "leistung_kw": "351",
       "geschwindigkeit_km_h": "280",
-      "leergewicht_kg_": "2450",
+      "leergewicht_kg": "2450",
       "länge_m": "5,54",
       "country": "MAL",
       "info_right": "Kaufpreis ab 370.000- EUR"
@@ -309,7 +309,7 @@
       "hubraum_ccm": "6200",
       "leistung_kw": "698",
       "geschwindigkeit_km_h": "357",
-      "leergewicht_kg_": "1590",
+      "leergewicht_kg": "1590",
       "länge_m": "4,45",
       "country": "I",
       "info_right": "Kaufpreis ab 2.700.000- EUR"
@@ -321,7 +321,7 @@
       "hubraum_ccm": "5000",
       "leistung_kw": "423",
       "geschwindigkeit_km_h": "300",
-      "leergewicht_kg_": "1760",
+      "leergewicht_kg": "1760",
       "länge_m": "4,75",
       "country": "GB",
       "info_right": "Kaufpreis ab 395.000- EUR"
@@ -333,7 +333,7 @@
       "hubraum_ccm": "7000",
       "leistung_kw": "405",
       "geschwindigkeit_km_h": "300",
-      "leergewicht_kg_": "1290",
+      "leergewicht_kg": "1290",
       "länge_m": "4,83",
       "country": "GB",
       "info_right": "Kaufpreis ab 179.900- EUR"
@@ -345,7 +345,7 @@
       "hubraum_ccm": "6749",
       "leistung_kw": "420",
       "geschwindigkeit_km_h": "250",
-      "leergewicht_kg_": "2660",
+      "leergewicht_kg": "2660",
       "länge_m": "5,34",
       "country": "GB",
       "info_right": "Kaufpreis ab 321.300- EUR"
@@ -357,7 +357,7 @@
       "hubraum_ccm": "3996",
       "leistung_kw": "405",
       "geschwindigkeit_km_h": "290",
-      "leergewicht_kg_": "2416",
+      "leergewicht_kg": "2416",
       "länge_m": "5,12",
       "country": "GB",
       "info_right": "Kaufpreis ab 156.900- EUR"
@@ -369,7 +369,7 @@
       "hubraum_ccm": "3982",
       "leistung_kw": "405",
       "geschwindigkeit_km_h": "292",
-      "leergewicht_kg_": "2245",
+      "leergewicht_kg": "2245",
       "länge_m": "5,04",
       "country": "GB",
       "info_right": "Kaufpreis ab 193.500- EUR"
@@ -381,7 +381,7 @@
       "hubraum_ccm": "3982",
       "leistung_kw": "410",
       "geschwindigkeit_km_h": "250",
-      "leergewicht_kg_": "2785",
+      "leergewicht_kg": "2785",
       "länge_m": "5,2",
       "country": "D",
       "info_right": "Kaufpreis ab 156.078- EUR"

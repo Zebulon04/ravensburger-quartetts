@@ -9,7 +9,7 @@
       "hubraum_ccm": "6243",
       "leistung_kw": "422",
       "zylinder": "8",
-      "gewicht_kg_": "1040",
+      "gewicht_kg": "1040",
       "tempo_km_h": "318",
       "country": "USA",
       "info_right": "Fahrer: R. Agusta"
@@ -21,7 +21,7 @@
       "hubraum_ccm": "6064",
       "leistung_kw": "454",
       "zylinder": "12",
-      "gewicht_kg_": "1050",
+      "gewicht_kg": "1050",
       "tempo_km_h": "325",
       "country": "GB",
       "info_right": "Fahrer: Jacques Laffite"
@@ -33,7 +33,7 @@
       "hubraum_ccm": "6200",
       "leistung_kw": "425",
       "zylinder": "8",
-      "gewicht_kg_": "1050",
+      "gewicht_kg": "1050",
       "tempo_km_h": "315",
       "country": "USA",
       "info_right": "Fahrer: Cor Euser"
@@ -45,7 +45,7 @@
       "hubraum_ccm": "3197",
       "leistung_kw": "440",
       "zylinder": "6",
-      "gewicht_kg_": "1000",
+      "gewicht_kg": "1000",
       "tempo_km_h": "330",
       "country": "D",
       "info_right": "Fahrer: Hans Joachim Stuck"
@@ -57,7 +57,7 @@
       "hubraum_ccm": "2646",
       "leistung_kw": "544",
       "zylinder": "8",
-      "gewicht_kg_": "703",
+      "gewicht_kg": "703",
       "tempo_km_h": "386",
       "country": "USA",
       "info_right": "Fahrer: Enerson Fittipaldi"
@@ -69,7 +69,7 @@
       "hubraum_ccm": "2646",
       "leistung_kw": "539",
       "zylinder": "8",
-      "gewicht_kg_": "705",
+      "gewicht_kg": "705",
       "tempo_km_h": "385",
       "country": "USA",
       "info_right": "Fahrer: Bobby Rahal"
@@ -81,7 +81,7 @@
       "hubraum_ccm": "2644",
       "leistung_kw": "528",
       "zylinder": "8",
-      "gewicht_kg_": "710",
+      "gewicht_kg": "710",
       "tempo_km_h": "370",
       "country": "USA",
       "info_right": "Fahrer: Hiro Matsushita"
@@ -93,7 +93,7 @@
       "hubraum_ccm": "2648",
       "leistung_kw": "557",
       "zylinder": "8",
-      "gewicht_kg_": "710",
+      "gewicht_kg": "710",
       "tempo_km_h": "390",
       "country": "USA",
       "info_right": "Fahrer: Alex Zahardi"
@@ -105,7 +105,7 @@
       "hubraum_ccm": "2498",
       "leistung_kw": "323",
       "zylinder": "6",
-      "gewicht_kg_": "1040",
+      "gewicht_kg": "1040",
       "tempo_km_h": "289",
       "country": "I",
       "info_right": "Fahrer: Christian Danner"
@@ -117,7 +117,7 @@
       "hubraum_ccm": "2497",
       "leistung_kw": "356",
       "zylinder": "6",
-      "gewicht_kg_": "1050",
+      "gewicht_kg": "1050",
       "tempo_km_h": "308",
       "country": "D",
       "info_right": "Fahrer: Manuel Reuter"
@@ -129,7 +129,7 @@
       "hubraum_ccm": "2498",
       "leistung_kw": "334",
       "zylinder": "6",
-      "gewicht_kg_": "1060",
+      "gewicht_kg": "1060",
       "tempo_km_h": "290",
       "country": "I",
       "info_right": "Fahrer: Nicola Larini"
@@ -141,7 +141,7 @@
       "hubraum_ccm": "2499",
       "leistung_kw": "367",
       "zylinder": "6",
-      "gewicht_kg_": "1040",
+      "gewicht_kg": "1040",
       "tempo_km_h": "290",
       "country": "D",
       "info_right": "Fahrer: Dario Franchitti"
@@ -153,7 +153,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "214",
       "zylinder": "4",
-      "gewicht_kg_": "990",
+      "gewicht_kg": "990",
       "tempo_km_h": "272",
       "country": "J",
       "info_right": "Fahrer: Klaus Niedzwiez"
@@ -165,7 +165,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "219",
       "zylinder": "6",
-      "gewicht_kg_": "1080",
+      "gewicht_kg": "1080",
       "tempo_km_h": "274",
       "country": "D",
       "info_right": "Fahrer: Roland Asch"
@@ -177,7 +177,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "221",
       "zylinder": "4",
-      "gewicht_kg_": "975",
+      "gewicht_kg": "975",
       "tempo_km_h": "275",
       "country": "F",
       "info_right": "Fahrer: Laurent Aiello"
@@ -189,7 +189,7 @@
       "hubraum_ccm": "1996",
       "leistung_kw": "207",
       "zylinder": "4",
-      "gewicht_kg_": "980",
+      "gewicht_kg": "980",
       "tempo_km_h": "270",
       "country": "D",
       "info_right": "Fahrer: Alexander Burgstaller"
@@ -201,7 +201,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "216",
       "zylinder": "4",
-      "gewicht_kg_": "975",
+      "gewicht_kg": "975",
       "tempo_km_h": "268",
       "country": "D",
       "info_right": "Fahrer: Marco Werner"
@@ -213,7 +213,7 @@
       "hubraum_ccm": "1997",
       "leistung_kw": "221",
       "zylinder": "4",
-      "gewicht_kg_": "975",
+      "gewicht_kg": "975",
       "tempo_km_h": "270",
       "country": "J",
       "info_right": "Fahrer: Anthony Reid"
@@ -225,7 +225,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "221",
       "zylinder": "4",
-      "gewicht_kg_": "1040",
+      "gewicht_kg": "1040",
       "tempo_km_h": "298",
       "country": "D",
       "info_right": "Fahrer: Emanuele Pirro"
@@ -237,7 +237,7 @@
       "hubraum_ccm": "1996",
       "leistung_kw": "205",
       "zylinder": "4",
-      "gewicht_kg_": "1020",
+      "gewicht_kg": "1020",
       "tempo_km_h": "270",
       "country": "I",
       "info_right": "Fahrer: Franz Engstler"
@@ -249,7 +249,7 @@
       "hubraum_ccm": "1993",
       "leistung_kw": "216",
       "zylinder": "4",
-      "gewicht_kg_": "1210",
+      "gewicht_kg": "1210",
       "tempo_km_h": "228",
       "country": "D",
       "info_right": "Fahrer: Francois Delecour"
@@ -261,7 +261,7 @@
       "hubraum_ccm": "3380",
       "leistung_kw": "221",
       "zylinder": "4",
-      "gewicht_kg_": "1240",
+      "gewicht_kg": "1240",
       "tempo_km_h": "235",
       "country": "J",
       "info_right": "Fahrer: Juha Kankkunen"
@@ -273,7 +273,7 @@
       "hubraum_ccm": "2962",
       "leistung_kw": "213",
       "zylinder": "6",
-      "gewicht_kg_": "1180",
+      "gewicht_kg": "1180",
       "tempo_km_h": "220",
       "country": "D",
       "info_right": "Fahrer: Gregoire de Mevius"
@@ -285,7 +285,7 @@
       "hubraum_ccm": "1994",
       "leistung_kw": "221",
       "zylinder": "4",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "tempo_km_h": "225",
       "country": "J",
       "info_right": "Fahrer: Colin McRae"
@@ -297,7 +297,7 @@
       "hubraum_ccm": "2100",
       "leistung_kw": "243",
       "zylinder": "5",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "tempo_km_h": "220",
       "country": "E",
       "info_right": "Fahrer: Erwin Weber"
@@ -309,7 +309,7 @@
       "hubraum_ccm": "2000",
       "leistung_kw": "271",
       "zylinder": "4",
-      "gewicht_kg_": "980",
+      "gewicht_kg": "980",
       "tempo_km_h": "250",
       "country": "F",
       "info_right": "Fahrer: Jean L. Schlesser"
@@ -321,7 +321,7 @@
       "hubraum_ccm": "2198",
       "leistung_kw": "253",
       "zylinder": "4",
-      "gewicht_kg_": "1340",
+      "gewicht_kg": "1340",
       "tempo_km_h": "225",
       "country": "F",
       "info_right": "Fahrer: Pierre Lartigue"
@@ -333,7 +333,7 @@
       "hubraum_ccm": "2199",
       "leistung_kw": "257",
       "zylinder": "4",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "tempo_km_h": "218",
       "country": "J",
       "info_right": "Fahrer: Jean P. Fontenay"
@@ -345,7 +345,7 @@
       "hubraum_ccm": "2391",
       "leistung_kw": "248",
       "zylinder": "5",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "tempo_km_h": "270",
       "country": "D",
       "info_right": "Fahrer: Hans-Jürgen Abt"
@@ -357,7 +357,7 @@
       "hubraum_ccm": "3018",
       "leistung_kw": "239",
       "zylinder": "6",
-      "gewicht_kg_": "1300",
+      "gewicht_kg": "1300",
       "tempo_km_h": "275",
       "country": "D",
       "info_right": "Fahrer: Johnny Cecotto"
@@ -369,7 +369,7 @@
       "hubraum_ccm": "2977",
       "leistung_kw": "239",
       "zylinder": "6",
-      "gewicht_kg_": "1300",
+      "gewicht_kg": "1300",
       "tempo_km_h": "280",
       "country": "J",
       "info_right": "Fahrer: Armin Hahne"
@@ -381,7 +381,7 @@
       "hubraum_ccm": "3746",
       "leistung_kw": "239",
       "zylinder": "6",
-      "gewicht_kg_": "1300",
+      "gewicht_kg": "1300",
       "tempo_km_h": "275",
       "country": "D",
       "info_right": "Fahrer: Bruno Eichmann"

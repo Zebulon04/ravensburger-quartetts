@@ -10,7 +10,7 @@
       "leistung_kw": "50",
       "drehzahl_u_min": "2500",
       "länge_m": "3,50",
-      "gewicht_kg_": "2100",
+      "gewicht_kg": "2100",
       "country": "D",
       "info_right": "Schmalpurschlepper auf Case - Basis"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "41",
       "drehzahl_u_min": "2600",
       "länge_m": "3,60",
-      "gewicht_kg_": "2880",
+      "gewicht_kg": "2880",
       "country": "I",
       "info_right": "Mit der japanischen Firma Iseki entwickelt"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "33",
       "drehzahl_u_min": "1400",
       "länge_m": "2,73",
-      "gewicht_kg_": "1790",
+      "gewicht_kg": "1790",
       "country": "D",
       "info_right": "Kompakter Kleinschlepper mit Allradantrieb"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "41",
       "drehzahl_u_min": "2300",
       "länge_m": "3,74",
-      "gewicht_kg_": "2810",
+      "gewicht_kg": "2810",
       "country": "A",
       "info_right": "Seit 1996 ist Steyr Teil des Schlepprherstellers Case"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "63",
       "drehzahl_u_min": "2200",
       "länge_m": "4,05",
-      "gewicht_kg_": "3680",
+      "gewicht_kg": "3680",
       "country": "USA",
       "info_right": "Wendiger Allrad-Pflegeschlepper"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "62",
       "drehzahl_u_min": "2300",
       "länge_m": "3,71",
-      "gewicht_kg_": "3800",
+      "gewicht_kg": "3800",
       "country": "D",
       "info_right": "Deutz-Fahr gehört zum italienischen Same-Konzern"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "55",
       "drehzahl_u_min": "1300",
       "länge_m": "3,83",
-      "gewicht_kg_": "3600",
+      "gewicht_kg": "3600",
       "country": "F",
       "info_right": "Traktor als Kommunulausführung"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "59",
       "drehzahl_u_min": "2400",
       "länge_m": "3,93",
-      "gewicht_kg_": "3930",
+      "gewicht_kg": "3930",
       "country": "J",
       "info_right": "Kubota fertigt ca. 70 000 Traktoren in Japan"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "191",
       "drehzahl_u_min": "2300",
       "länge_m": "4,94",
-      "gewicht_kg_": "8000",
+      "gewicht_kg": "8000",
       "country": "D",
       "info_right": "Topmodell der deutschen Traditionsmarke"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "116",
       "drehzahl_u_min": "2200",
       "länge_m": "5,15",
-      "gewicht_kg_": "6500",
+      "gewicht_kg": "6500",
       "country": "GB",
       "info_right": "Neues Modell der JCB-Truc Baureihe"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "193",
       "drehzahl_u_min": "2000",
       "länge_m": "4,90",
-      "gewicht_kg_": "8990",
+      "gewicht_kg": "8990",
       "country": "I",
       "info_right": "Italienischer Traktor für Großflächenbearbeitung"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "187",
       "drehzahl_u_min": "2200",
       "länge_m": "4,78",
-      "gewicht_kg_": "8940",
+      "gewicht_kg": "8940",
       "country": "USA",
       "info_right": "Fertigungsstätte des MF 9240 ist Missouri, USA"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "316",
       "drehzahl_u_min": "2100",
       "länge_m": "7,34",
-      "gewicht_kg_": "15320",
+      "gewicht_kg": "15320",
       "country": "USA",
       "info_right": "Knicklenker von größten Landmaschinenhersteller der Welt"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "306",
       "drehzahl_u_min": "2100",
       "länge_m": "5,94",
-      "gewicht_kg_": "14500",
+      "gewicht_kg": "14500",
       "country": "D",
       "info_right": "Derzeit größter Raupenschlepper"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "103",
       "drehzahl_u_min": "2300",
       "länge_m": "5,42",
-      "gewicht_kg_": "6755",
+      "gewicht_kg": "6755",
       "country": "D",
       "info_right": "Für extreme Bedingungen entwickelt"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "268",
       "drehzahl_u_min": "2100",
       "länge_m": "5,94",
-      "gewicht_kg_": "20290",
+      "gewicht_kg": "20290",
       "country": "USA",
       "info_right": "Knicklenker mit Gummikettenlaufwerk"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "1500",
       "drehzahl_u_min": "7500",
       "länge_m": "3,00",
-      "gewicht_kg_": "900",
+      "gewicht_kg": "900",
       "country": "D",
       "info_right": "Fahrer: Thomas Zimmermann"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "1600",
       "drehzahl_u_min": "8000",
       "länge_m": "2,90",
-      "gewicht_kg_": "900",
+      "gewicht_kg": "900",
       "country": "N",
       "info_right": "Fahrer: Karl Sofus Engen"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "1400",
       "drehzahl_u_min": "8000",
       "länge_m": "2,90",
-      "gewicht_kg_": "900",
+      "gewicht_kg": "900",
       "country": "NL",
       "info_right": "Fahrer: Gert Wim Dingerink"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "700",
       "drehzahl_u_min": "7000",
       "länge_m": "3,00",
-      "gewicht_kg_": "900",
+      "gewicht_kg": "900",
       "country": "D",
       "info_right": "Fahrer: Jürgen Waibel"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "1700",
       "drehzahl_u_min": "7500",
       "länge_m": "3,90",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "GB",
       "info_right": "Fahrer: Peter Clarke"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "1400",
       "drehzahl_u_min": "6000",
       "länge_m": "3,90",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "D",
       "info_right": "Fahrer: Hans Schwaiger"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "2100",
       "drehzahl_u_min": "7500",
       "länge_m": "4,00",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "USA",
       "info_right": "Fahrer: Jordan Lustile"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "1500",
       "drehzahl_u_min": "5500",
       "länge_m": "4,00",
-      "gewicht_kg_": "3500",
+      "gewicht_kg": "3500",
       "country": "SF",
       "info_right": "Fahrer: Pekka Herlevi"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "5100",
       "drehzahl_u_min": "4600",
       "länge_m": "4,90",
-      "gewicht_kg_": "4400",
+      "gewicht_kg": "4400",
       "country": "NL",
       "info_right": "Fahrer: Jan van Alphen"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "4800",
       "drehzahl_u_min": "6000",
       "länge_m": "5,00",
-      "gewicht_kg_": "4400",
+      "gewicht_kg": "4400",
       "country": "DK",
       "info_right": "Fahrer: Flemming Smed"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "2900",
       "drehzahl_u_min": "7800",
       "länge_m": "5,30",
-      "gewicht_kg_": "4400",
+      "gewicht_kg": "4400",
       "country": "S",
       "info_right": "Fahrer: Fredrik Andersson"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "4190",
       "drehzahl_u_min": "8000",
       "länge_m": "5,80",
-      "gewicht_kg_": "4400",
+      "gewicht_kg": "4400",
       "country": "USA",
       "info_right": "Fahrer: Bruce Hutcherson"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "1800",
       "drehzahl_u_min": "4000",
       "länge_m": "4,70",
-      "gewicht_kg_": "2400",
+      "gewicht_kg": "2400",
       "country": "NL",
       "info_right": "Fahrer: Martin Kustemanns"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "6765",
       "drehzahl_u_min": "10200",
       "länge_m": "5,80",
-      "gewicht_kg_": "5000",
+      "gewicht_kg": "5000",
       "country": "D",
       "info_right": "Fahrer: Mathias Vogelsang"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "4400",
       "drehzahl_u_min": "3900",
       "länge_m": "4,90",
-      "gewicht_kg_": "5400",
+      "gewicht_kg": "5400",
       "country": "NL",
       "info_right": "Fahrer: Cees Zijsling"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "6200",
       "drehzahl_u_min": "6500",
       "länge_m": "5,20",
-      "gewicht_kg_": "5400",
+      "gewicht_kg": "5400",
       "country": "D",
       "info_right": "Fahrer: Eugen Kiemele"
     }

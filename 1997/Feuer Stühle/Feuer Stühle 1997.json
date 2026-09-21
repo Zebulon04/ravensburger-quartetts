@@ -10,7 +10,7 @@
       "leistung_kw": "66",
       "drehzahl_u_min": "8250",
       "tempo_km_h": "205",
-      "gewicht_kg_": "272",
+      "gewicht_kg": "272",
       "country": "J",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "25",
       "drehzahl_u_min": "5000",
       "tempo_km_h": "153",
-      "gewicht_kg_": "177",
+      "gewicht_kg": "177",
       "country": "I",
       "info_right": "Einzylinder-Viertakt"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "66",
       "drehzahl_u_min": "7250",
       "tempo_km_h": "212",
-      "gewicht_kg_": "285",
+      "gewicht_kg": "285",
       "country": "D",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "74",
       "drehzahl_u_min": "11000",
       "tempo_km_h": "240",
-      "gewicht_kg_": "198",
+      "gewicht_kg": "198",
       "country": "I",
       "info_right": "Achtzylinder-Viertakt"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "74",
       "drehzahl_u_min": "5200",
       "tempo_km_h": "184",
-      "gewicht_kg_": "387",
+      "gewicht_kg": "387",
       "country": "J",
       "info_right": "Sechszylinder-Viertakt"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "51",
       "drehzahl_u_min": "3600",
       "tempo_km_h": "180",
-      "gewicht_kg_": "305",
+      "gewicht_kg": "305",
       "country": "I",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "7500",
       "tempo_km_h": "217",
-      "gewicht_kg_": "287",
+      "gewicht_kg": "287",
       "country": "J",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "74",
       "drehzahl_u_min": "7500",
       "tempo_km_h": "207",
-      "gewicht_kg_": "301",
+      "gewicht_kg": "301",
       "country": "D",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "54",
       "drehzahl_u_min": "8500",
       "tempo_km_h": "205",
-      "gewicht_kg_": "215",
+      "gewicht_kg": "215",
       "country": "J",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "59",
       "drehzahl_u_min": "6750",
       "tempo_km_h": "200",
-      "gewicht_kg_": "246",
+      "gewicht_kg": "246",
       "country": "D",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "66",
       "drehzahl_u_min": "8000",
       "tempo_km_h": "211",
-      "gewicht_kg_": "266",
+      "gewicht_kg": "266",
       "country": "J",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "8500",
       "tempo_km_h": "220",
-      "gewicht_kg_": "234",
+      "gewicht_kg": "234",
       "country": "J",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "7950",
       "tempo_km_h": "222",
-      "gewicht_kg_": "278",
+      "gewicht_kg": "278",
       "country": "J",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "100",
       "drehzahl_u_min": "7000",
       "tempo_km_h": "275",
-      "gewicht_kg_": "455",
+      "gewicht_kg": "455",
       "country": "CH",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "74",
       "drehzahl_u_min": "7500",
       "tempo_km_h": "220",
-      "gewicht_kg_": "400",
+      "gewicht_kg": "400",
       "country": "I",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "74",
       "drehzahl_u_min": "7850",
       "tempo_km_h": "180",
-      "gewicht_kg_": "390",
+      "gewicht_kg": "390",
       "country": "D",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "74",
       "drehzahl_u_min": "11500",
       "tempo_km_h": "225",
-      "gewicht_kg_": "190",
+      "gewicht_kg": "190",
       "country": "I",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "47",
       "drehzahl_u_min": "9000",
       "tempo_km_h": "210",
-      "gewicht_kg_": "216",
+      "gewicht_kg": "216",
       "country": "I",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "22",
       "drehzahl_u_min": "10400",
       "tempo_km_h": "150",
-      "gewicht_kg_": "143",
+      "gewicht_kg": "143",
       "country": "I",
       "info_right": "Einzylinder-Zweitakt"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "80",
       "drehzahl_u_min": "9000",
       "tempo_km_h": "256",
-      "gewicht_kg_": "218",
+      "gewicht_kg": "218",
       "country": "I",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "9750",
       "tempo_km_h": "233",
-      "gewicht_kg_": "206",
+      "gewicht_kg": "206",
       "country": "J",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "9500",
       "tempo_km_h": "228",
-      "gewicht_kg_": "248",
+      "gewicht_kg": "248",
       "country": "J",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "9500",
       "tempo_km_h": "239",
-      "gewicht_kg_": "279",
+      "gewicht_kg": "279",
       "country": "GB",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "12000",
       "tempo_km_h": "246",
-      "gewicht_kg_": "229",
+      "gewicht_kg": "229",
       "country": "J",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "63",
       "drehzahl_u_min": "8000",
       "tempo_km_h": "188",
-      "gewicht_kg_": "258",
+      "gewicht_kg": "258",
       "country": "GB",
       "info_right": "Dreizylinder-Viertakt"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "35",
       "drehzahl_u_min": "6500",
       "tempo_km_h": "163",
-      "gewicht_kg_": "189",
+      "gewicht_kg": "189",
       "country": "D",
       "info_right": "Einzylinder-Viertakt"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "32",
       "drehzahl_u_min": "6000",
       "tempo_km_h": "159",
-      "gewicht_kg_": "182",
+      "gewicht_kg": "182",
       "country": "J",
       "info_right": "Einzylinder-Viertakt"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "37",
       "drehzahl_u_min": "6600",
       "tempo_km_h": "167",
-      "gewicht_kg_": "223",
+      "gewicht_kg": "223",
       "country": "J",
       "info_right": "Einzylinder-Viertakt"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "67",
       "drehzahl_u_min": "13200",
       "tempo_km_h": "260",
-      "gewicht_kg_": "93",
+      "gewicht_kg": "93",
       "country": "J",
       "info_right": "Zweizylinder-Zweitakt"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "68",
       "drehzahl_u_min": "13400",
       "tempo_km_h": "261",
-      "gewicht_kg_": "95",
+      "gewicht_kg": "95",
       "country": "J",
       "info_right": "Zweizylinder-Zweitakt"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "65",
       "drehzahl_u_min": "12900",
       "tempo_km_h": "258",
-      "gewicht_kg_": "93",
+      "gewicht_kg": "93",
       "country": "I",
       "info_right": "Zweizylinder-Zweitakt"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "66",
       "drehzahl_u_min": "13100",
       "tempo_km_h": "259",
-      "gewicht_kg_": "92",
+      "gewicht_kg": "92",
       "country": "J",
       "info_right": "Zweizylinder-Zweitakt"
     }

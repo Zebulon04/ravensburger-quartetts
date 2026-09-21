@@ -10,7 +10,7 @@
       "hubraum_ccm": "6000",
       "leistung_kw": "279",
       "drehzahl_u_min": "5600",
-      "gewicht_kg_": "2100",
+      "gewicht_kg": "2100",
       "country": "RO",
       "info_right": "Entwickelt für die extreme Offroad-Klasse"
     },
@@ -22,7 +22,7 @@
       "hubraum_ccm": "6802",
       "leistung_kw": "231",
       "drehzahl_u_min": "4250",
-      "gewicht_kg_": "3290",
+      "gewicht_kg": "3290",
       "country": "USA",
       "info_right": "Basis: Ford Excursion mit V10-Moto, Kaufpreis ca. 75.000 US$"
     },
@@ -34,7 +34,7 @@
       "hubraum_ccm": "2993",
       "leistung_kw": "250",
       "drehzahl_u_min": "5000",
-      "gewicht_kg_": "1280",
+      "gewicht_kg": "1280",
       "country": "F",
       "info_right": "Dakar-Bolide mit Zweirad-Antrieb und 200 km/h Spitze"
     },
@@ -46,7 +46,7 @@
       "hubraum_ccm": "6162",
       "leistung_kw": "321",
       "drehzahl_u_min": "5900",
-      "gewicht_kg_": "1746",
+      "gewicht_kg": "1746",
       "country": "USA",
       "info_right": "Offroad-Kit Car mit Fiberglaskonstruktion und 225 km/h Vmax"
     },
@@ -58,7 +58,7 @@
       "hubraum_ccm": "2100",
       "leistung_kw": "735",
       "drehzahl_u_min": "9500",
-      "gewicht_kg_": "885",
+      "gewicht_kg": "885",
       "country": "NZ",
       "info_right": "Fahrer: Rod Millen im Jahr 2000"
     },
@@ -70,7 +70,7 @@
       "hubraum_ccm": "3564",
       "leistung_kw": "740",
       "drehzahl_u_min": "8500",
-      "gewicht_kg_": "1100",
+      "gewicht_kg": "1100",
       "country": "J",
       "info_right": "Fahrer: Nobuhiro „Monster“ Taijma im Jahr 2007"
     },
@@ -82,7 +82,7 @@
       "hubraum_ccm": "6900",
       "leistung_kw": "868",
       "drehzahl_u_min": "9000",
-      "gewicht_kg_": "900",
+      "gewicht_kg": "900",
       "country": "USA",
       "info_right": "Fahrer: Paul Dallenbach im Jahr 2008"
     },
@@ -94,7 +94,7 @@
       "hubraum_ccm": "3200",
       "leistung_kw": "643",
       "drehzahl_u_min": "7800",
-      "gewicht_kg_": "875",
+      "gewicht_kg": "875",
       "country": "F",
       "info_right": "Fahrer: Sébastian Loeb im Jahr 2013"
     },
@@ -106,7 +106,7 @@
       "hubraum_ccm": "8195",
       "leistung_kw": "5300",
       "drehzahl_u_min": "8500",
-      "gewicht_kg_": "1081",
+      "gewicht_kg": "1081",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 4,72 Sekunden"
     },
@@ -118,7 +118,7 @@
       "hubraum_ccm": "8162",
       "leistung_kw": "5900",
       "drehzahl_u_min": "9000",
-      "gewicht_kg_": "980",
+      "gewicht_kg": "980",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 4,49 Sekunden"
     },
@@ -130,7 +130,7 @@
       "hubraum_ccm": "8134",
       "leistung_kw": "5537",
       "drehzahl_u_min": "8300",
-      "gewicht_kg_": "1157",
+      "gewicht_kg": "1157",
       "country": "Q",
       "info_right": "Die Viertelmeile (402,34 m) in 4,13 Sekunden"
     },
@@ -142,7 +142,7 @@
       "hubraum_ccm": "12093",
       "leistung_kw": "5882",
       "drehzahl_u_min": "9500",
-      "gewicht_kg_": "1215",
+      "gewicht_kg": "1215",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 4,03 Sekunden"
     },
@@ -154,7 +154,7 @@
       "hubraum_ccm": "10490",
       "leistung_kw": "845",
       "drehzahl_u_min": "7800",
-      "gewicht_kg_": "1250",
+      "gewicht_kg": "1250",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Jeep-Basis"
     },
@@ -166,7 +166,7 @@
       "hubraum_ccm": "8850",
       "leistung_kw": "772",
       "drehzahl_u_min": "8400",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Jeep-Basis"
     },
@@ -178,7 +178,7 @@
       "hubraum_ccm": "6986",
       "leistung_kw": "735",
       "drehzahl_u_min": "8800",
-      "gewicht_kg_": "1150",
+      "gewicht_kg": "1150",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis eines Jeep-Chrysler"
     },
@@ -190,7 +190,7 @@
       "hubraum_ccm": "8000",
       "leistung_kw": "305",
       "drehzahl_u_min": "6500",
-      "gewicht_kg_": "1490",
+      "gewicht_kg": "1490",
       "country": "IS",
       "info_right": "Schlamm-Kreuzer auf Land Rover-Basis"
     },
@@ -202,7 +202,7 @@
       "hubraum_ccm": "8900",
       "leistung_kw": "1103",
       "drehzahl_u_min": "8600",
-      "gewicht_kg_": "4995",
+      "gewicht_kg": "4995",
       "country": "USA",
       "info_right": "Basis: Custom Concept"
     },
@@ -214,7 +214,7 @@
       "hubraum_ccm": "8849",
       "leistung_kw": "1074",
       "drehzahl_u_min": "8750",
-      "gewicht_kg_": "4536",
+      "gewicht_kg": "4536",
       "country": "USA",
       "info_right": "Basis: Ford F-150 Crew Cab"
     },
@@ -226,7 +226,7 @@
       "hubraum_ccm": "8850",
       "leistung_kw": "956",
       "drehzahl_u_min": "8500",
-      "gewicht_kg_": "4600",
+      "gewicht_kg": "4600",
       "country": "USA",
       "info_right": "Basis: 2001 Ford Custom GTS"
     },
@@ -238,7 +238,7 @@
       "hubraum_ccm": "8850",
       "leistung_kw": "1100",
       "drehzahl_u_min": "8900",
-      "gewicht_kg_": "4550",
+      "gewicht_kg": "4550",
       "country": "USA",
       "info_right": "Basis: Custom Concept Futuristic SUV"
     },
@@ -250,7 +250,7 @@
       "hubraum_ccm": "5675",
       "leistung_kw": "62",
       "drehzahl_u_min": "3000",
-      "gewicht_kg_": "5000",
+      "gewicht_kg": "5000",
       "country": "GR",
       "info_right": "3,70 m hoher Monster-Mix aus Smart und Unimog"
     },
@@ -262,7 +262,7 @@
       "hubraum_ccm": "3700",
       "leistung_kw": "187",
       "drehzahl_u_min": "6100",
-      "gewicht_kg_": "2975",
+      "gewicht_kg": "2975",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit zu Land 160 km/h, zu Wasser 72 km/h"
     },
@@ -274,7 +274,7 @@
       "hubraum_ccm": "5654",
       "leistung_kw": "259",
       "drehzahl_u_min": "5000",
-      "gewicht_kg_": "2100",
+      "gewicht_kg": "2100",
       "country": "USA",
       "info_right": "Offroader auf Riesenfüßen (Reifengröße 40 x 13,5 Zoll)"
     },
@@ -286,7 +286,7 @@
       "hubraum_ccm": "6100",
       "leistung_kw": "449",
       "drehzahl_u_min": "6000",
-      "gewicht_kg_": "1600",
+      "gewicht_kg": "1600",
       "country": "I",
       "info_right": "Racing-Performance pur: 0-100 km/h in 3,8 sec; Vmax 280 km/h"
     },
@@ -298,7 +298,7 @@
       "hubraum_ccm": "5700",
       "leistung_kw": "404",
       "drehzahl_u_min": "6000",
-      "gewicht_kg_": "3350",
+      "gewicht_kg": "3350",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 257 km/h"
     },
@@ -310,7 +310,7 @@
       "hubraum_ccm": "5461",
       "leistung_kw": "515",
       "drehzahl_u_min": "5300",
-      "gewicht_kg_": "4090",
+      "gewicht_kg": "4090",
       "country": "D",
       "info_right": "Höchstgeschwindigkeit: 160 km/h"
     },
@@ -322,7 +322,7 @@
       "hubraum_ccm": "6800",
       "leistung_kw": "294",
       "drehzahl_u_min": "5000",
-      "gewicht_kg_": "5455",
+      "gewicht_kg": "5455",
       "country": "CDN",
       "info_right": "Höchstgeschwindigkeit: 248 km/h"
     },
@@ -334,7 +334,7 @@
       "hubraum_ccm": "7300",
       "leistung_kw": "158",
       "drehzahl_u_min": "4200",
-      "gewicht_kg_": "4700",
+      "gewicht_kg": "4700",
       "country": "IS",
       "info_right": "Höchstgeschwindigkeit: 120 km/h"
     },
@@ -346,7 +346,7 @@
       "hubraum_ccm": "2235",
       "leistung_kw": "96",
       "drehzahl_u_min": "4000",
-      "gewicht_kg_": "3700",
+      "gewicht_kg": "3700",
       "country": "RUS",
       "info_right": "Auf 8 angetriebenen Rädern durch die Eiswüste Sibiriens"
     },
@@ -358,7 +358,7 @@
       "hubraum_ccm": "6374",
       "leistung_kw": "210",
       "drehzahl_u_min": "2200",
-      "gewicht_kg_": "7500",
+      "gewicht_kg": "7500",
       "country": "D",
       "info_right": "Höchste Geländegängigkeit gepaart mit luxuriöser Eleganz"
     },
@@ -370,7 +370,7 @@
       "hubraum_ccm": "6162",
       "leistung_kw": "293",
       "drehzahl_u_min": "5700",
-      "gewicht_kg_": "3400",
+      "gewicht_kg": "3400",
       "country": "D",
       "info_right": "In jedem Gelände perfekte Traktion mit Mattracks-Kettenantrieb"
     },
@@ -382,7 +382,7 @@
       "hubraum_ccm": "2000",
       "leistung_kw": "107",
       "drehzahl_u_min": "6500",
-      "gewicht_kg_": "440",
+      "gewicht_kg": "440",
       "country": "USA",
       "info_right": "Voller Spassfaktor bei 85 km/h garantiert"
     }

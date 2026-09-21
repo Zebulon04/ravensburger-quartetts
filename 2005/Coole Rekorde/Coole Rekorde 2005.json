@@ -9,7 +9,7 @@
       "hubraum_ccm": "17250",
       "leistung_kw": "26471",
       "geschwindigkeit_km_h": "482",
-      "leergewicht_kg_": "4200",
+      "leergewicht_kg": "4200",
       "länge_m": "7,9",
       "country": "USA",
       "info_right": "Schnellster Truck in 10 sec. auf 480 km/h"
@@ -21,7 +21,7 @@
       "hubraum_ccm": "4400",
       "leistung_kw": "82",
       "geschwindigkeit_km_h": "37",
-      "leergewicht_kg_": "6115",
+      "leergewicht_kg": "6115",
       "länge_m": "6",
       "country": "NL",
       "info_right": "Ein Tagewerk (102.6 ha) in Rekordzeit von 75 Min. besprüht"
@@ -33,7 +33,7 @@
       "hubraum_ccm": "1248",
       "leistung_kw": "82",
       "geschwindigkeit_km_h": "257",
-      "leergewicht_kg_": "660",
+      "leergewicht_kg": "660",
       "länge_m": "4",
       "country": "D",
       "info_right": "Innerhalb 24 Stunden 17 Geschwindigkeitsrekorde aufgestellt"
@@ -45,7 +45,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "515",
       "geschwindigkeit_km_h": "342",
-      "leergewicht_kg_": "1700",
+      "leergewicht_kg": "1700",
       "länge_m": "4,9",
       "country": "USA",
       "info_right": "Neuer Weltrekordhalter in seiner Klasse mit 342,27 km/h Spitze"
@@ -57,7 +57,7 @@
       "hubraum_ccm": "12100",
       "leistung_kw": "574",
       "geschwindigkeit_km_h": "130",
-      "leergewicht_kg_": "12000",
+      "leergewicht_kg": "12000",
       "länge_m": "30,5",
       "country": "USA",
       "info_right": "Das längste Auto mit eigenem Pool rollt auf 26 Räder."
@@ -69,7 +69,7 @@
       "hubraum_ccm": "1598",
       "leistung_kw": "147",
       "geschwindigkeit_km_h": "170",
-      "leergewicht_kg_": "1980",
+      "leergewicht_kg": "1980",
       "länge_m": "6,3",
       "country": "D",
       "info_right": "Der längste Mini - von 3,66 m auf 6,30 m gestretcht"
@@ -81,7 +81,7 @@
       "hubraum_ccm": "1600",
       "leistung_kw": "37",
       "geschwindigkeit_km_h": "110",
-      "leergewicht_kg_": "825",
+      "leergewicht_kg": "825",
       "länge_m": "8,5",
       "country": "D",
       "info_right": "Das längste Formel-1-Fahrzeug mit 10 Sitzplätzen"
@@ -93,7 +93,7 @@
       "hubraum_ccm": "2179",
       "leistung_kw": "98",
       "geschwindigkeit_km_h": "205",
-      "leergewicht_kg_": "1610",
+      "leergewicht_kg": "1610",
       "länge_m": "4,9",
       "country": "F",
       "info_right": "Die längste Rekordfahrt 500.000 km in 355 Tagen"
@@ -105,7 +105,7 @@
       "hubraum_ccm": "64000",
       "leistung_kw": "2022",
       "geschwindigkeit_km_h": "52,5",
-      "leergewicht_kg_": "207300",
+      "leergewicht_kg": "207300",
       "länge_m": "14,5",
       "country": "USA",
       "info_right": "Der größte 2-achsige Muldenkipper mit 327 t Ladekapazität"
@@ -117,7 +117,7 @@
       "hubraum_ccm": "15950",
       "leistung_kw": "235",
       "geschwindigkeit_km_h": "50",
-      "leergewicht_kg_": "9500",
+      "leergewicht_kg": "9500",
       "länge_m": "17",
       "country": "D",
       "info_right": "Der größte Omnibus mit Platz für 342 Passagiere"
@@ -129,7 +129,7 @@
       "hubraum_ccm": "8277",
       "leistung_kw": "372",
       "geschwindigkeit_km_h": "304",
-      "leergewicht_kg_": "1536",
+      "leergewicht_kg": "1536",
       "länge_m": "4,5",
       "country": "USA",
       "info_right": "Das Serienmodell mit dem hubraumgrößten Motor"
@@ -141,7 +141,7 @@
       "hubraum_ccm": "7540",
       "leistung_kw": "868",
       "geschwindigkeit_km_h": "70",
-      "leergewicht_kg_": "17236",
+      "leergewicht_kg": "17236",
       "länge_m": "6,9",
       "country": "USA",
       "info_right": "Monster-Truck mit den größten Reifen (Durchmesser 3 m)"
@@ -153,7 +153,7 @@
       "hubraum_ccm": "8277",
       "leistung_kw": "386",
       "geschwindigkeit_km_h": "410",
-      "leergewicht_kg_": "680",
+      "leergewicht_kg": "680",
       "länge_m": "2,6",
       "country": "USA",
       "info_right": "Erstes Motorrad mit 4 Rädern - powered by V10-Motor"
@@ -165,7 +165,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "147",
       "geschwindigkeit_km_h": "300",
-      "leergewicht_kg_": "816",
+      "leergewicht_kg": "816",
       "länge_m": "4,1",
       "country": "USA",
       "info_right": "Erster Rekordfahrzeugprototyp des 21. Jh. Im Bonneville-Design"
@@ -177,7 +177,7 @@
       "hubraum_ccm": "1689",
       "leistung_kw": "74",
       "geschwindigkeit_km_h": "180",
-      "leergewicht_kg_": "865",
+      "leergewicht_kg": "865",
       "länge_m": "3,0 bis 3,7",
       "country": "CH",
       "info_right": "Erstes Stretchcar - auf Knopfdruck vom 2- zum 4-Sitzer"
@@ -189,7 +189,7 @@
       "hubraum_ccm": "299",
       "leistung_kw": "6,3",
       "geschwindigkeit_km_h": "120",
-      "leergewicht_kg_": "290",
+      "leergewicht_kg": "290",
       "länge_m": "3,7",
       "country": "D",
       "info_right": "Erstes Ein-Liter-Auto (Verbrauch auf 100 km 0,89 l Diesel)"
@@ -201,7 +201,7 @@
       "hubraum_ccm": "5993",
       "leistung_kw": "222",
       "geschwindigkeit_km_h": "100",
-      "leergewicht_kg_": "1645",
+      "leergewicht_kg": "1645",
       "länge_m": "4,7",
       "country": "S",
       "info_right": "Das größte Motorrad (Höhe 2,3 m) gebaut von Tom Wiberg"
@@ -213,7 +213,7 @@
       "hubraum_ccm": "13500",
       "leistung_kw": "279",
       "geschwindigkeit_km_h": "135",
-      "leergewicht_kg_": "4500",
+      "leergewicht_kg": "4500",
       "länge_m": "7,1",
       "country": "F",
       "info_right": "Mit 90 km/h der schnellste Truck auf 2 Rädern"
@@ -225,7 +225,7 @@
       "hubraum_ccm": "4000",
       "leistung_kw": "63",
       "geschwindigkeit_km_h": "35",
-      "leergewicht_kg_": "3350",
+      "leergewicht_kg": "3350",
       "länge_m": "3,8",
       "country": "A",
       "info_right": "Wahrlich schrägster Weltrekord - Slalomfahrt auf 2 Reifen"
@@ -237,7 +237,7 @@
       "hubraum_ccm": "9380",
       "leistung_kw": "1103",
       "geschwindigkeit_km_h": "90",
-      "leergewicht_kg_": "4600",
+      "leergewicht_kg": "4600",
       "länge_m": "5,4",
       "country": "USA",
       "info_right": "Rekordhalter der höchsten Monstertruck-Rampensprungs (7,3 m)"
@@ -249,7 +249,7 @@
       "hubraum_ccm": "-",
       "leistung_kw": "9000",
       "geschwindigkeit_km_h": "655",
-      "leergewicht_kg_": "2640",
+      "leergewicht_kg": "2640",
       "länge_m": "7",
       "country": "USA",
       "info_right": "Vorsicht Brandgefahr! Das schnellste Feuerwehrauto kommt."
@@ -261,7 +261,7 @@
       "hubraum_ccm": "9860",
       "leistung_kw": "1066",
       "geschwindigkeit_km_h": "480",
-      "leergewicht_kg_": "220",
+      "leergewicht_kg": "220",
       "länge_m": "3,4",
       "country": "USA",
       "info_right": "Schnellster Motorrad-Dragster in 6,3 sec auf 480 km/h"
@@ -273,7 +273,7 @@
       "hubraum_ccm": "5998",
       "leistung_kw": "441",
       "geschwindigkeit_km_h": "350",
-      "leergewicht_kg_": "1200",
+      "leergewicht_kg": "1200",
       "länge_m": "4,6",
       "country": "D",
       "info_right": "Höchste Durchschnittgeschwindigkeit über 24 Stf. (322,89 km/h)"
@@ -285,7 +285,7 @@
       "hubraum_ccm": "-",
       "leistung_kw": "77941",
       "geschwindigkeit_km_h": "1368",
-      "leergewicht_kg_": "7000",
+      "leergewicht_kg": "7000",
       "länge_m": "16,5",
       "country": "USA",
       "info_right": "Rekordhalter der Höchstgeschwindigkeit zu Lande (1.227,99 km/h)"
@@ -297,7 +297,7 @@
       "hubraum_ccm": "594",
       "leistung_kw": "19",
       "geschwindigkeit_km_h": "100",
-      "leergewicht_kg_": "1200",
+      "leergewicht_kg": "1200",
       "länge_m": "3,6",
       "country": "D",
       "info_right": "Das kleinste Löschfahrzeug mit 400 l/min Pumpleistung"
@@ -309,7 +309,7 @@
       "hubraum_ccm": "-",
       "leistung_kw": "29",
       "geschwindigkeit_km_h": "113",
-      "leergewicht_kg_": "612",
+      "leergewicht_kg": "612",
       "länge_m": "2,4",
       "country": "USA",
       "info_right": "Das kleinste, noch produzierte Dreirad-Elektro-Fahrzeug"
@@ -321,7 +321,7 @@
       "hubraum_ccm": "40",
       "leistung_kw": "5,5",
       "geschwindigkeit_km_h": "80",
-      "leergewicht_kg_": "16",
+      "leergewicht_kg": "16",
       "länge_m": "0,9",
       "country": "D",
       "info_right": "Die kleinste Rennmaschine mit großem Spassfaktor"
@@ -333,7 +333,7 @@
       "hubraum_ccm": "200",
       "leistung_kw": "10",
       "geschwindigkeit_km_h": "35",
-      "leergewicht_kg_": "1000",
+      "leergewicht_kg": "1000",
       "länge_m": "2,2",
       "country": "D",
       "info_right": "Der kleinste Radlader (Schaufelkapazität 0,2 m?)"
@@ -345,7 +345,7 @@
       "hubraum_ccm": "12500",
       "leistung_kw": "373",
       "geschwindigkeit_km_h": "35",
-      "leergewicht_kg_": "17700",
+      "leergewicht_kg": "17700",
       "länge_m": "8,8",
       "country": "USA",
       "info_right": "Stärkster Raupentraktor in der 12,5 l Hubraumklasse"
@@ -357,7 +357,7 @@
       "hubraum_ccm": "18100",
       "leistung_kw": "466",
       "geschwindigkeit_km_h": "89",
-      "leergewicht_kg_": "9700",
+      "leergewicht_kg": "9700",
       "länge_m": "9,3",
       "country": "SF",
       "info_right": "Serien-LKW mit der stärksten PS-Power in Europa"
@@ -369,7 +369,7 @@
       "hubraum_ccm": "5987",
       "leistung_kw": "882",
       "geschwindigkeit_km_h": "400",
-      "leergewicht_kg_": "1380",
+      "leergewicht_kg": "1380",
       "länge_m": "4,1",
       "country": "D",
       "info_right": "Von 1.200 PS angefeuert - der stärkste Sportwagen"
@@ -381,7 +381,7 @@
       "hubraum_ccm": "2110",
       "leistung_kw": "515",
       "geschwindigkeit_km_h": "250",
-      "leergewicht_kg_": "1000",
+      "leergewicht_kg": "1000",
       "länge_m": "4,2",
       "country": "D",
       "info_right": "Stärkster Rennwagen mit Allradantrieb"

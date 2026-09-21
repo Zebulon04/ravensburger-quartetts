@@ -9,7 +9,7 @@
       "hubraum_ccm": "5198",
       "leistung_kw": "386",
       "zylinder": "10",
-      "gewicht_kg_": "1340",
+      "gewicht_kg": "1340",
       "tempo_km_h": "300",
       "country": "D",
       "info_right": "Fahrer: Hans-Joachim Stuck"
@@ -21,7 +21,7 @@
       "hubraum_ccm": "3996",
       "leistung_kw": "473",
       "zylinder": "6",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "tempo_km_h": "295",
       "country": "D",
       "info_right": "Fahrer: Richard Lietz"
@@ -33,7 +33,7 @@
       "hubraum_ccm": "1984",
       "leistung_kw": "243",
       "zylinder": "4",
-      "gewicht_kg_": "1160",
+      "gewicht_kg": "1160",
       "tempo_km_h": "265",
       "country": "D",
       "info_right": "Fahrer: Vanina Ickx"
@@ -45,7 +45,7 @@
       "hubraum_ccm": "3999",
       "leistung_kw": "357",
       "zylinder": "8",
-      "gewicht_kg_": "1150",
+      "gewicht_kg": "1150",
       "tempo_km_h": "315",
       "country": "D",
       "info_right": "Fahrer: Jörg Müller"
@@ -57,7 +57,7 @@
       "hubraum_ccm": "3999",
       "leistung_kw": "369",
       "zylinder": "8",
-      "gewicht_kg_": "1050",
+      "gewicht_kg": "1050",
       "tempo_km_h": "270",
       "country": "D",
       "info_right": "Fahrer: Ralf Schumacher"
@@ -69,7 +69,7 @@
       "hubraum_ccm": "3998",
       "leistung_kw": "338",
       "zylinder": "8",
-      "gewicht_kg_": "1050",
+      "gewicht_kg": "1050",
       "tempo_km_h": "270",
       "country": "S",
       "info_right": "Fahrer: Matthias Ekström"
@@ -81,7 +81,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "206",
       "zylinder": "4",
-      "gewicht_kg_": "1155",
+      "gewicht_kg": "1155",
       "tempo_km_h": "255",
       "country": "GB",
       "info_right": "Fahrer: Andy Priaulx"
@@ -93,7 +93,7 @@
       "hubraum_ccm": "1999",
       "leistung_kw": "206",
       "zylinder": "4",
-      "gewicht_kg_": "1170",
+      "gewicht_kg": "1170",
       "tempo_km_h": "250",
       "country": "F",
       "info_right": "Fahrer: Yvan Muller"
@@ -105,7 +105,7 @@
       "hubraum_ccm": "2499",
       "leistung_kw": "220",
       "zylinder": "5",
-      "gewicht_kg_": "1788",
+      "gewicht_kg": "1788",
       "tempo_km_h": "190",
       "country": "E",
       "info_right": "Fahrer: Carlos Sainz"
@@ -117,7 +117,7 @@
       "hubraum_ccm": "7000",
       "leistung_kw": "294",
       "zylinder": "8",
-      "gewicht_kg_": "1725",
+      "gewicht_kg": "1725",
       "tempo_km_h": "165",
       "country": "USA",
       "info_right": "Fahrer: Robby Gordon"
@@ -129,7 +129,7 @@
       "hubraum_ccm": "2999",
       "leistung_kw": "210",
       "zylinder": "6",
-      "gewicht_kg_": "1900",
+      "gewicht_kg": "1900",
       "tempo_km_h": "195",
       "country": "F",
       "info_right": "Fahrer: Stéphane Peterhansel"
@@ -141,7 +141,7 @@
       "hubraum_ccm": "3499",
       "leistung_kw": "206",
       "zylinder": "6",
-      "gewicht_kg_": "1825",
+      "gewicht_kg": "1825",
       "tempo_km_h": "185",
       "country": "P",
       "info_right": "Fahrer: Carlos Sousa"
@@ -153,7 +153,7 @@
       "hubraum_ccm": "5292",
       "leistung_kw": "404",
       "zylinder": "8",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "tempo_km_h": "291",
       "country": "F",
       "info_right": "Fahrer: Romain Grosjean"
@@ -165,7 +165,7 @@
       "hubraum_ccm": "5493",
       "leistung_kw": "404",
       "zylinder": "8",
-      "gewicht_kg_": "1245",
+      "gewicht_kg": "1245",
       "tempo_km_h": "292",
       "country": "DK",
       "info_right": "Fahrer: Jan Magnussen"
@@ -177,7 +177,7 @@
       "hubraum_ccm": "3996",
       "leistung_kw": "331",
       "zylinder": "6",
-      "gewicht_kg_": "1225",
+      "gewicht_kg": "1225",
       "tempo_km_h": "289",
       "country": "D",
       "info_right": "Fahrer: Marc Lieb"
@@ -189,7 +189,7 @@
       "hubraum_ccm": "3996",
       "leistung_kw": "331",
       "zylinder": "8",
-      "gewicht_kg_": "1125",
+      "gewicht_kg": "1125",
       "tempo_km_h": "290",
       "country": "D",
       "info_right": "Fahrer: Pierre Kaffer"
@@ -201,7 +201,7 @@
       "hubraum_ccm": "1996",
       "leistung_kw": "236",
       "zylinder": "4",
-      "gewicht_kg_": "1230",
+      "gewicht_kg": "1230",
       "tempo_km_h": "205",
       "country": "F",
       "info_right": "Fahrer: Sebastien Loeb"
@@ -213,7 +213,7 @@
       "hubraum_ccm": "1997",
       "leistung_kw": "229",
       "zylinder": "4",
-      "gewicht_kg_": "1230",
+      "gewicht_kg": "1230",
       "tempo_km_h": "200",
       "country": "FIN",
       "info_right": "Fahrer: Mikko Hirvonen"
@@ -225,7 +225,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "207",
       "zylinder": "4",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "tempo_km_h": "185",
       "country": "D",
       "info_right": "Fahrer: Matthias Kahle"
@@ -237,7 +237,7 @@
       "hubraum_ccm": "1994",
       "leistung_kw": "210",
       "zylinder": "4",
-      "gewicht_kg_": "1300",
+      "gewicht_kg": "1300",
       "tempo_km_h": "210",
       "country": "D",
       "info_right": "Fahrer: Sandro Wallenwein"
@@ -249,7 +249,7 @@
       "hubraum_ccm": "5499",
       "leistung_kw": "478",
       "zylinder": "10",
-      "gewicht_kg_": "930",
+      "gewicht_kg": "930",
       "tempo_km_h": "345",
       "country": "D",
       "info_right": "Fahrer: Timo Bernhard"
@@ -261,7 +261,7 @@
       "hubraum_ccm": "5486",
       "leistung_kw": "487",
       "zylinder": "12",
-      "gewicht_kg_": "930",
+      "gewicht_kg": "930",
       "tempo_km_h": "347",
       "country": "A",
       "info_right": "Fahrer: Alexander Wurz"
@@ -273,7 +273,7 @@
       "hubraum_ccm": "3400",
       "leistung_kw": "358",
       "zylinder": "8",
-      "gewicht_kg_": "825",
+      "gewicht_kg": "825",
       "tempo_km_h": "302",
       "country": "D",
       "info_right": "Fahrer: Danny Watts, Nick Leventis, Jonny Kane"
@@ -285,7 +285,7 @@
       "hubraum_ccm": "5499",
       "leistung_kw": "478",
       "zylinder": "12",
-      "gewicht_kg_": "930",
+      "gewicht_kg": "930",
       "tempo_km_h": "325",
       "country": "GB",
       "info_right": "Fahrer: Oliver Jarvis"
@@ -297,7 +297,7 @@
       "hubraum_ccm": "1984",
       "leistung_kw": "165",
       "zylinder": "4",
-      "gewicht_kg_": "1250",
+      "gewicht_kg": "1250",
       "tempo_km_h": "240",
       "country": "D",
       "info_right": "Fahrer: Kris Heidom"
@@ -309,7 +309,7 @@
       "hubraum_ccm": "3797",
       "leistung_kw": "331",
       "zylinder": "6",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "tempo_km_h": "265",
       "country": "D",
       "info_right": "Fahrer: Uwe Alzen"
@@ -321,7 +321,7 @@
       "hubraum_ccm": "1984",
       "leistung_kw": "220",
       "zylinder": "4",
-      "gewicht_kg_": "1230",
+      "gewicht_kg": "1230",
       "tempo_km_h": "245",
       "country": "D",
       "info_right": "Fahrer: Thomas Marschall"
@@ -333,7 +333,7 @@
       "hubraum_ccm": "3498",
       "leistung_kw": "266",
       "zylinder": "6",
-      "gewicht_kg_": "955",
+      "gewicht_kg": "955",
       "tempo_km_h": "260",
       "country": "F",
       "info_right": "Fahrer: Pierre Thirlet"
@@ -345,7 +345,7 @@
       "hubraum_ccm": "4398",
       "leistung_kw": "391",
       "zylinder": "8",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "tempo_km_h": "275",
       "country": "D",
       "info_right": "Fahrer: Andreas Wirth"
@@ -357,7 +357,7 @@
       "hubraum_ccm": "4961",
       "leistung_kw": "368",
       "zylinder": "10",
-      "gewicht_kg_": "1218",
+      "gewicht_kg": "1218",
       "tempo_km_h": "290",
       "country": "D",
       "info_right": "Fahrer: Albert von Thurn & Taxis"
@@ -369,7 +369,7 @@
       "hubraum_ccm": "5944",
       "leistung_kw": "383",
       "zylinder": "8",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "tempo_km_h": "280",
       "country": "D",
       "info_right": "Fahrer: Roland Rehfeld"
@@ -381,7 +381,7 @@
       "hubraum_ccm": "5198",
       "leistung_kw": "377",
       "zylinder": "8",
-      "gewicht_kg_": "1272",
+      "gewicht_kg": "1272",
       "tempo_km_h": "285",
       "country": "D",
       "info_right": "Fahrer: Thomas Jäger"

@@ -10,7 +10,7 @@
       "leistung_kw": "173",
       "geschwindigkeit_km_h": "241",
       "0-100_km_h_sec_": "6,8",
-      "gewicht_kg_": "1145",
+      "gewicht_kg": "1145",
       "tuning": "DER ABT",
       "info_right": "Unverb. Preisempfehlung: 65.000.- DM"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "228",
       "geschwindigkeit_km_h": "275",
       "0-100_km_h_sec_": "5,5",
-      "gewicht_kg_": "1225",
+      "gewicht_kg": "1225",
       "tuning": "DER ABT",
       "info_right": "Unverb. Preisempfehlung: 120.000.- DM"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "176",
       "geschwindigkeit_km_h": "245",
       "0-100_km_h_sec_": "6,1",
-      "gewicht_kg_": "1210",
+      "gewicht_kg": "1210",
       "tuning": "DER ABT",
       "info_right": "Unverb. Preisempfehlung: 75.000.- DM"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "210",
       "geschwindigkeit_km_h": "265",
       "0-100_km_h_sec_": "5,8",
-      "gewicht_kg_": "1280",
+      "gewicht_kg": "1280",
       "tuning": "DER ABT",
       "info_right": "Unverb. Preisempfehlung: 75.000.- DM"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "428",
       "geschwindigkeit_km_h": "320",
       "0-100_km_h_sec_": "4,8",
-      "gewicht_kg_": "1990",
+      "gewicht_kg": "1990",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 498.200.- DM"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "331",
       "geschwindigkeit_km_h": "304",
       "0-100_km_h_sec_": "4,5",
-      "gewicht_kg_": "1450",
+      "gewicht_kg": "1450",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 189.710.- DM"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "428",
       "geschwindigkeit_km_h": "318",
       "0-100_km_h_sec_": "4,6",
-      "gewicht_kg_": "2050",
+      "gewicht_kg": "2050",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 403.765.- DM"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "428",
       "geschwindigkeit_km_h": "330",
       "0-100_km_h_sec_": "4,5",
-      "gewicht_kg_": "1790",
+      "gewicht_kg": "1790",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 498.200.- DM"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "218",
       "geschwindigkeit_km_h": "283",
       "0-100_km_h_sec_": "5,1",
-      "gewicht_kg_": "1250",
+      "gewicht_kg": "1250",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 162.000.- DM"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "71",
       "geschwindigkeit_km_h": "180",
       "0-100_km_h_sec_": "10",
-      "gewicht_kg_": "930",
+      "gewicht_kg": "930",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 26.800.- DM"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "84",
       "geschwindigkeit_km_h": "185",
       "0-100_km_h_sec_": "11,1",
-      "gewicht_kg_": "1345",
+      "gewicht_kg": "1345",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 42.500.- DM"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "146",
       "geschwindigkeit_km_h": "230",
       "0-100_km_h_sec_": "7",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 49.000.- DM"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "191",
       "geschwindigkeit_km_h": "250",
       "0-100_km_h_sec_": "5,7",
-      "gewicht_kg_": "1330",
+      "gewicht_kg": "1330",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: 90.450.- DM"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "191",
       "geschwindigkeit_km_h": "258",
       "0-100_km_h_sec_": "5,6",
-      "gewicht_kg_": "1315",
+      "gewicht_kg": "1315",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: 89.870.- DM"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "250",
       "geschwindigkeit_km_h": "282",
       "0-100_km_h_sec_": "5,4",
-      "gewicht_kg_": "1535",
+      "gewicht_kg": "1535",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: 110.500.- DM"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "257",
       "geschwindigkeit_km_h": "290",
       "0-100_km_h_sec_": "5,1",
-      "gewicht_kg_": "1330",
+      "gewicht_kg": "1330",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: 220.000.- DM"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "125",
       "geschwindigkeit_km_h": "230",
       "0-100_km_h_sec_": "8",
-      "gewicht_kg_": "1469",
+      "gewicht_kg": "1469",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 69.000.- DM"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "125",
       "geschwindigkeit_km_h": "240",
       "0-100_km_h_sec_": "6,7",
-      "gewicht_kg_": "1075",
+      "gewicht_kg": "1075",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 75.000.- DM"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "215",
       "geschwindigkeit_km_h": "278",
       "0-100_km_h_sec_": "5,6",
-      "gewicht_kg_": "1375",
+      "gewicht_kg": "1375",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 74.000.- DM"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "215",
       "geschwindigkeit_km_h": "256",
       "0-100_km_h_sec_": "6,5",
-      "gewicht_kg_": "1695",
+      "gewicht_kg": "1695",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 110.000.- DM"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "320",
       "geschwindigkeit_km_h": "296",
       "0-100_km_h_sec_": "4,5",
-      "gewicht_kg_": "1500",
+      "gewicht_kg": "1500",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 304.000.- DM"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "223",
       "geschwindigkeit_km_h": "280",
       "0-100_km_h_sec_": "5,1",
-      "gewicht_kg_": "1450",
+      "gewicht_kg": "1450",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 267.000.- DM"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "340",
       "geschwindigkeit_km_h": "306",
       "0-100_km_h_sec_": "4",
-      "gewicht_kg_": "1420",
+      "gewicht_kg": "1420",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 198.000.- DM"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "150",
       "geschwindigkeit_km_h": "240",
       "0-100_km_h_sec_": "6,5",
-      "gewicht_kg_": "1325",
+      "gewicht_kg": "1325",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 117.000.- DM"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "51",
       "geschwindigkeit_km_h": "162",
       "0-100_km_h_sec_": "14,3",
-      "gewicht_kg_": "1310",
+      "gewicht_kg": "1310",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 20.600.- DM"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "81",
       "geschwindigkeit_km_h": "172",
       "0-100_km_h_sec_": "16",
-      "gewicht_kg_": "2500",
+      "gewicht_kg": "2500",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 47.260.- DM"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "84",
       "geschwindigkeit_km_h": "200",
       "0-100_km_h_sec_": "10,3",
-      "gewicht_kg_": "1660",
+      "gewicht_kg": "1660",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 38.000.- DM"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "220",
       "geschwindigkeit_km_h": "258",
       "0-100_km_h_sec_": "4,8",
-      "gewicht_kg_": "1680",
+      "gewicht_kg": "1680",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 83.000.- DM"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "220",
       "geschwindigkeit_km_h": "270",
       "0-100_km_h_sec_": "6,2",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "tuning": "ZENDER",
       "info_right": "Prototyp-Einzelstück"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "184",
       "geschwindigkeit_km_h": "250",
       "0-100_km_h_sec_": "5,8",
-      "gewicht_kg_": "1230",
+      "gewicht_kg": "1230",
       "tuning": "ZENDER",
       "info_right": "Prototyp-Einzelstück"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "135",
       "geschwindigkeit_km_h": "215",
       "0-100_km_h_sec_": "8,7",
-      "gewicht_kg_": "985",
+      "gewicht_kg": "985",
       "tuning": "ZENDER",
       "info_right": "Prototyp-Einzelstück"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "329",
       "geschwindigkeit_km_h": "315",
       "0-100_km_h_sec_": "4,3",
-      "gewicht_kg_": "1110",
+      "gewicht_kg": "1110",
       "tuning": "ZENDER",
       "info_right": "Prototyp-Einzelstück"
     }

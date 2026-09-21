@@ -10,7 +10,7 @@
       "leistung_kw": "90",
       "drehzahl_u_min": "5600",
       "geschwindigkeit_km_h": "220",
-      "gewicht_kg_": "298",
+      "gewicht_kg": "298",
       "country": "D",
       "info_right": "Zweizylinder V-Motor"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "9500",
       "geschwindigkeit_km_h": "265",
-      "gewicht_kg_": "190",
+      "gewicht_kg": "190",
       "country": "I",
       "info_right": "Zweizylinder V-Motor"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "50",
       "drehzahl_u_min": "5500",
       "geschwindigkeit_km_h": "170",
-      "gewicht_kg_": "285",
+      "gewicht_kg": "285",
       "country": "D",
       "info_right": "Zweizylinder V-Motor"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "52",
       "drehzahl_u_min": "4000",
       "geschwindigkeit_km_h": "175",
-      "gewicht_kg_": "287",
+      "gewicht_kg": "287",
       "country": "D",
       "info_right": "Zweizylinder V-Motor"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "87",
       "drehzahl_u_min": "5500",
       "geschwindigkeit_km_h": "205",
-      "gewicht_kg_": "382",
+      "gewicht_kg": "382",
       "country": "J",
       "info_right": "Sechszylinder-Viertakt"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "51",
       "drehzahl_u_min": "3600",
       "geschwindigkeit_km_h": "180",
-      "gewicht_kg_": "305",
+      "gewicht_kg": "305",
       "country": "I",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "6750",
       "geschwindigkeit_km_h": "197",
-      "gewicht_kg_": "378",
+      "gewicht_kg": "378",
       "country": "D",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "70",
       "drehzahl_u_min": "9200",
       "geschwindigkeit_km_h": "190",
-      "gewicht_kg_": "245",
+      "gewicht_kg": "245",
       "country": "GB",
       "info_right": "Dreizylinder-Viertakt"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "70",
       "drehzahl_u_min": "8200",
       "geschwindigkeit_km_h": "217",
-      "gewicht_kg_": "243",
+      "gewicht_kg": "243",
       "country": "I",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "53",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "205",
-      "gewicht_kg_": "199",
+      "gewicht_kg": "199",
       "country": "I",
       "info_right": "Zweizylinder V-Motor"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "79",
       "drehzahl_u_min": "9200",
       "geschwindigkeit_km_h": "231",
-      "gewicht_kg_": "220",
+      "gewicht_kg": "220",
       "country": "GB",
       "info_right": "Dreizylinder-Viertakt"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "93",
       "drehzahl_u_min": "12000",
       "geschwindigkeit_km_h": "251",
-      "gewicht_kg_": "194",
+      "gewicht_kg": "194",
       "country": "I",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "206",
       "drehzahl_u_min": "10000",
       "geschwindigkeit_km_h": "270",
-      "gewicht_kg_": "181",
+      "gewicht_kg": "181",
       "country": "J/D",
       "info_right": "Beschleunigung 0-270 km/h: 8,9 sec"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "251",
       "drehzahl_u_min": "11800",
       "geschwindigkeit_km_h": "277",
-      "gewicht_kg_": "198",
+      "gewicht_kg": "198",
       "country": "J/D",
       "info_right": "Beschleunigung 0-277 km/h: 7,8 sec"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "417",
       "drehzahl_u_min": "11000",
       "geschwindigkeit_km_h": "335",
-      "gewicht_kg_": "212",
+      "gewicht_kg": "212",
       "country": "D",
       "info_right": "Beschleunigung 0-335 km/h: 6,9 sec"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "271",
       "drehzahl_u_min": "11400",
       "geschwindigkeit_km_h": "284",
-      "gewicht_kg_": "187",
+      "gewicht_kg": "187",
       "country": "D",
       "info_right": "Beschleunigung 0-284 km/h: 7,6 sec"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "37",
       "drehzahl_u_min": "5250",
       "geschwindigkeit_km_h": "155",
-      "gewicht_kg_": "256",
+      "gewicht_kg": "256",
       "country": "D",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "70",
       "drehzahl_u_min": "8200",
       "geschwindigkeit_km_h": "184",
-      "gewicht_kg_": "268",
+      "gewicht_kg": "268",
       "country": "I",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "86",
       "drehzahl_u_min": "8300",
       "geschwindigkeit_km_h": "221",
-      "gewicht_kg_": "285",
+      "gewicht_kg": "285",
       "country": "USA",
       "info_right": "Zweizylinder V-Motor"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "46",
       "drehzahl_u_min": "5750",
       "geschwindigkeit_km_h": "170",
-      "gewicht_kg_": "277",
+      "gewicht_kg": "277",
       "country": "J",
       "info_right": "Zweizylinder-Viertakt"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "247",
-      "gewicht_kg_": "221",
+      "gewicht_kg": "221",
       "country": "F",
       "info_right": "Zweizylinder V-Motor"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "81",
       "drehzahl_u_min": "12500",
       "geschwindigkeit_km_h": "230",
-      "gewicht_kg_": "211",
+      "gewicht_kg": "211",
       "country": "J",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "191",
       "drehzahl_u_min": "10500",
       "geschwindigkeit_km_h": "250",
-      "gewicht_kg_": "265",
+      "gewicht_kg": "265",
       "country": "D",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "103",
       "drehzahl_u_min": "12900",
       "geschwindigkeit_km_h": "280",
-      "gewicht_kg_": "203",
+      "gewicht_kg": "203",
       "country": "I",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "148",
       "drehzahl_u_min": "10000",
       "geschwindigkeit_km_h": "314",
-      "gewicht_kg_": "152",
+      "gewicht_kg": "152",
       "country": "NL",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "105",
       "drehzahl_u_min": "6565",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "270",
+      "gewicht_kg": "270",
       "country": "D",
       "info_right": "Vierzylinder V-Motor"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "68",
       "drehzahl_u_min": "7200",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "190",
+      "gewicht_kg": "190",
       "country": "USA",
       "info_right": "Zweizylinder V-Motor"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "9500",
       "geschwindigkeit_km_h": "275",
-      "gewicht_kg_": "210",
+      "gewicht_kg": "210",
       "country": "I",
       "info_right": "Zweizylinder V-Motor"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "81",
       "drehzahl_u_min": "4800",
       "geschwindigkeit_km_h": "155",
-      "gewicht_kg_": "600",
+      "gewicht_kg": "600",
       "country": "D",
       "info_right": "Vierzylinder-Viertakt"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "74",
       "drehzahl_u_min": "5200",
       "geschwindigkeit_km_h": "165",
-      "gewicht_kg_": "480",
+      "gewicht_kg": "480",
       "country": "D",
       "info_right": "Sechszylinder-Viertakt"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "60",
       "drehzahl_u_min": "5200",
       "geschwindigkeit_km_h": "156",
-      "gewicht_kg_": "473",
+      "gewicht_kg": "473",
       "country": "D",
       "info_right": "Zweizylinder V-Motor"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "261",
       "drehzahl_u_min": "5600",
       "geschwindigkeit_km_h": "190",
-      "gewicht_kg_": "670",
+      "gewicht_kg": "670",
       "country": "USA",
       "info_right": "Achtzylinder V-Motor"
     }

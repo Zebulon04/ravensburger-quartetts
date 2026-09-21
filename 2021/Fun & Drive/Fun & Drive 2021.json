@@ -9,7 +9,7 @@
       "leistung_kw": "150",
       "max._drehmoment_nm": "305",
       "geschwindigkeit_km_h": "140",
-      "leergewicht_kg_": "650",
+      "leergewicht_kg": "650",
       "länge_m": "3,06",
       "country": "CH",
       "info_right": "Antrieb: Elektromotor, Kaufpreis ab 109.950,- EUR"
@@ -21,7 +21,7 @@
       "leistung_kw": "316",
       "max._drehmoment_nm": "490",
       "geschwindigkeit_km_h": "245",
-      "leergewicht_kg_": "800",
+      "leergewicht_kg": "800",
       "länge_m": "2,82",
       "country": "F",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 200.000,- EUR"
@@ -33,7 +33,7 @@
       "leistung_kw": "86",
       "max._drehmoment_nm": "130",
       "geschwindigkeit_km_h": "180",
-      "leergewicht_kg_": "408",
+      "leergewicht_kg": "408",
       "länge_m": "2,64",
       "country": "CDN",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 23.099,- EUR"
@@ -45,7 +45,7 @@
       "leistung_kw": "136",
       "max._drehmoment_nm": "280",
       "geschwindigkeit_km_h": "240",
-      "leergewicht_kg_": "698",
+      "leergewicht_kg": "698",
       "länge_m": "3,68",
       "country": "D",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 45.950,- EUR"
@@ -57,7 +57,7 @@
       "leistung_kw": "12",
       "max._drehmoment_nm": "340",
       "geschwindigkeit_km_h": "30",
-      "leergewicht_kg_": "200",
+      "leergewicht_kg": "200",
       "länge_m": "2",
       "country": "F",
       "info_right": "Antrieb: Elektromotor, Kaufpreis ab 16.500,- EUR"
@@ -69,7 +69,7 @@
       "leistung_kw": "74",
       "max._drehmoment_nm": "128",
       "geschwindigkeit_km_h": "160",
-      "leergewicht_kg_": "664",
+      "leergewicht_kg": "664",
       "länge_m": "4",
       "country": "NL",
       "info_right": "Das weltweit erste fliegende Auto, Kaufpreis ab 499.000,- EUR"
@@ -81,7 +81,7 @@
       "leistung_kw": "40",
       "max._drehmoment_nm": "133",
       "geschwindigkeit_km_h": "115",
-      "leergewicht_kg_": "770",
+      "leergewicht_kg": "770",
       "länge_m": "3,09",
       "country": "D",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 14.900,- EUR"
@@ -93,7 +93,7 @@
       "leistung_kw": "283",
       "max._drehmoment_nm": "460",
       "geschwindigkeit_km_h": "200",
-      "leergewicht_kg_": "800",
+      "leergewicht_kg": "800",
       "länge_m": "2,5",
       "country": "F",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 150.000,- EUR"
@@ -105,7 +105,7 @@
       "leistung_kw": "300",
       "max._drehmoment_nm": "375",
       "geschwindigkeit_km_h": "250",
-      "leergewicht_kg_": "550",
+      "leergewicht_kg": "550",
       "länge_m": "3,5",
       "country": "AUS",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 80.000,- EUR"
@@ -117,7 +117,7 @@
       "leistung_kw": "310",
       "max._drehmoment_nm": "371",
       "geschwindigkeit_km_h": "240",
-      "leergewicht_kg_": "810",
+      "leergewicht_kg": "810",
       "länge_m": "3,86",
       "country": "UAE",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 92.000,- EUR"
@@ -129,7 +129,7 @@
       "leistung_kw": "96",
       "max._drehmoment_nm": "150",
       "geschwindigkeit_km_h": "204",
-      "leergewicht_kg_": "975",
+      "leergewicht_kg": "975",
       "länge_m": "3,91",
       "country": "J",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 22.990,- EUR"
@@ -141,7 +141,7 @@
       "leistung_kw": "227",
       "max._drehmoment_nm": "308",
       "geschwindigkeit_km_h": "275",
-      "leergewicht_kg_": "580",
+      "leergewicht_kg": "580",
       "länge_m": "3,95",
       "country": "GB",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 158.000,- EUR"
@@ -153,7 +153,7 @@
       "leistung_kw": "42",
       "max._drehmoment_nm": "70",
       "geschwindigkeit_km_h": "35",
-      "leergewicht_kg_": "950",
+      "leergewicht_kg": "950",
       "länge_m": "3",
       "country": "RUS",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 23.790,- EUR"
@@ -165,7 +165,7 @@
       "leistung_kw": "18",
       "max._drehmoment_nm": "1000",
       "geschwindigkeit_km_h": "30",
-      "leergewicht_kg_": "360",
+      "leergewicht_kg": "360",
       "länge_m": "1,4",
       "country": "A",
       "info_right": "Antrieb: Elektromotor, Kaufpreis ab 26.790,- EUR"
@@ -177,7 +177,7 @@
       "leistung_kw": "293",
       "max._drehmoment_nm": "574",
       "geschwindigkeit_km_h": "85",
-      "leergewicht_kg_": "3400",
+      "leergewicht_kg": "3400",
       "länge_m": "4,98",
       "country": "D",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis auf Anfrage"
@@ -189,7 +189,7 @@
       "leistung_kw": "52",
       "max._drehmoment_nm": "85",
       "geschwindigkeit_km_h": "70",
-      "leergewicht_kg_": "350",
+      "leergewicht_kg": "350",
       "länge_m": "2,95",
       "country": "USA",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 15.900,- EUR"
@@ -201,7 +201,7 @@
       "leistung_kw": "333",
       "max._drehmoment_nm": "617",
       "geschwindigkeit_km_h": "250",
-      "leergewicht_kg_": "1769",
+      "leergewicht_kg": "1769",
       "länge_m": "4,78",
       "country": "USA",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 52.400,- EUR"
@@ -213,7 +213,7 @@
       "leistung_kw": "177",
       "max._drehmoment_nm": "500",
       "geschwindigkeit_km_h": "217",
-      "leergewicht_kg_": "2075",
+      "leergewicht_kg": "2075",
       "länge_m": "4,37",
       "country": "GB",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 49.150,- EUR"
@@ -225,7 +225,7 @@
       "leistung_kw": "141",
       "max._drehmoment_nm": "280",
       "geschwindigkeit_km_h": "228",
-      "leergewicht_kg_": "1275",
+      "leergewicht_kg": "1275",
       "länge_m": "3,85",
       "country": "GB",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 28.600,- EUR"
@@ -237,7 +237,7 @@
       "leistung_kw": "110",
       "max._drehmoment_nm": "250",
       "geschwindigkeit_km_h": "205",
-      "leergewicht_kg_": "1534",
+      "leergewicht_kg": "1534",
       "länge_m": "4,26",
       "country": "D",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 32.025,- EUR"
@@ -249,7 +249,7 @@
       "leistung_kw": "22",
       "max._drehmoment_nm": "60",
       "geschwindigkeit_km_h": "35",
-      "leergewicht_kg_": "570",
+      "leergewicht_kg": "570",
       "länge_m": "3,02",
       "country": "CDN",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 20.495,- EUR"
@@ -261,7 +261,7 @@
       "leistung_kw": "96",
       "max._drehmoment_nm": "135",
       "geschwindigkeit_km_h": "130",
-      "leergewicht_kg_": "635",
+      "leergewicht_kg": "635",
       "länge_m": "2,98",
       "country": "CDN",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 24.699,- EUR"
@@ -273,7 +273,7 @@
       "leistung_kw": "59",
       "max._drehmoment_nm": "82",
       "geschwindigkeit_km_h": "118",
-      "leergewicht_kg_": "695",
+      "leergewicht_kg": "695",
       "länge_m": "3,14",
       "country": "CN",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 14.699,- EUR"
@@ -285,7 +285,7 @@
       "leistung_kw": "147",
       "max._drehmoment_nm": "138",
       "geschwindigkeit_km_h": "200",
-      "leergewicht_kg_": "550",
+      "leergewicht_kg": "550",
       "länge_m": "3,4",
       "country": "D",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 47.000,- EUR"
@@ -297,7 +297,7 @@
       "leistung_kw": "220",
       "max._drehmoment_nm": "420",
       "geschwindigkeit_km_h": "231",
-      "leergewicht_kg_": "790",
+      "leergewicht_kg": "790",
       "länge_m": "3,74",
       "country": "A",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 89.130,- EUR"
@@ -309,7 +309,7 @@
       "leistung_kw": "77",
       "max._drehmoment_nm": "175",
       "geschwindigkeit_km_h": "189",
-      "leergewicht_kg_": "825",
+      "leergewicht_kg": "825",
       "länge_m": "3,82",
       "country": "CZ",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 25.000,- EUR"
@@ -321,7 +321,7 @@
       "leistung_kw": "50",
       "max._drehmoment_nm": "129",
       "geschwindigkeit_km_h": "185",
-      "leergewicht_kg_": "585",
+      "leergewicht_kg": "585",
       "länge_m": "3,22",
       "country": "GB",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 49.900,- EUR"
@@ -333,7 +333,7 @@
       "leistung_kw": "92",
       "max._drehmoment_nm": "200",
       "geschwindigkeit_km_h": "175",
-      "leergewicht_kg_": "1100",
+      "leergewicht_kg": "1100",
       "länge_m": "2,69",
       "country": "D",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 52.800,- EUR"
@@ -345,7 +345,7 @@
       "leistung_kw": "246",
       "max._drehmoment_nm": "450",
       "geschwindigkeit_km_h": "264",
-      "leergewicht_kg_": "620",
+      "leergewicht_kg": "620",
       "länge_m": "3,69",
       "country": "GB",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 115.000,- EUR"
@@ -357,7 +357,7 @@
       "leistung_kw": "151",
       "max._drehmoment_nm": "285",
       "geschwindigkeit_km_h": "240",
-      "leergewicht_kg_": "657",
+      "leergewicht_kg": "657",
       "länge_m": "3,18",
       "country": "F",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 33.600,- EUR"
@@ -369,7 +369,7 @@
       "leistung_kw": "268",
       "max._drehmoment_nm": "488",
       "geschwindigkeit_km_h": "266",
-      "leergewicht_kg_": "765",
+      "leergewicht_kg": "765",
       "länge_m": "4,1",
       "country": "GB",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 102.500,- EUR"
@@ -381,7 +381,7 @@
       "leistung_kw": "174",
       "max._drehmoment_nm": "206",
       "geschwindigkeit_km_h": "225",
-      "leergewicht_kg_": "580",
+      "leergewicht_kg": "580",
       "länge_m": "3,36",
       "country": "GB",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 66.000,- EUR"

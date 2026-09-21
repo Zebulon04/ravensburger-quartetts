@@ -10,7 +10,7 @@
       "leistung_kw": "35",
       "drehzahl_u_min": "13900",
       "tempo_km_h": "228",
-      "gewicht_kg_": "68",
+      "gewicht_kg": "68",
       "country": "E",
       "info_right": "Fahrer: Jorge Martinez"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "32",
       "drehzahl_u_min": "12600",
       "tempo_km_h": "221",
-      "gewicht_kg_": "68",
+      "gewicht_kg": "68",
       "country": "D",
       "info_right": "Fahrer: Youichi Ui"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "33",
       "drehzahl_u_min": "13800",
       "tempo_km_h": "228",
-      "gewicht_kg_": "69",
+      "gewicht_kg": "69",
       "country": "I",
       "info_right": "Fahrer: Valentino Rossi"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "34",
       "drehzahl_u_min": "12900",
       "tempo_km_h": "241",
-      "gewicht_kg_": "68,5",
+      "gewicht_kg": "68,5",
       "country": "F",
       "info_right": "Fahrer: Frédéric Petit"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "67",
       "drehzahl_u_min": "13200",
       "tempo_km_h": "260",
-      "gewicht_kg_": "93",
+      "gewicht_kg": "93",
       "country": "J",
       "info_right": "Fahrer: Tetsuya Harada"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "68",
       "drehzahl_u_min": "13400",
       "tempo_km_h": "261",
-      "gewicht_kg_": "95",
+      "gewicht_kg": "95",
       "country": "D",
       "info_right": "Fahrer: Jean-Philippe Ruggia"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "65",
       "drehzahl_u_min": "12900",
       "tempo_km_h": "258",
-      "gewicht_kg_": "93",
+      "gewicht_kg": "93",
       "country": "I",
       "info_right": "Fahrer: Davide Beluga"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "66",
       "drehzahl_u_min": "13200",
       "tempo_km_h": "259",
-      "gewicht_kg_": "92",
+      "gewicht_kg": "92",
       "country": "D",
       "info_right": "Fahrer: Ralf Waldmann"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "151",
       "drehzahl_u_min": "13800",
       "tempo_km_h": "311",
-      "gewicht_kg_": "112",
+      "gewicht_kg": "112",
       "country": "J",
       "info_right": "Fahrer: Tadayuki Okada"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "147",
       "drehzahl_u_min": "13600",
       "tempo_km_h": "312",
-      "gewicht_kg_": "110",
+      "gewicht_kg": "110",
       "country": "USA",
       "info_right": "Fahrer: Norifume Abe"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "152",
       "drehzahl_u_min": "13800",
       "tempo_km_h": "312",
-      "gewicht_kg_": "110",
+      "gewicht_kg": "110",
       "country": "E",
       "info_right": "Fahrer: Alberto Pulg"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "140",
       "drehzahl_u_min": "13400",
       "tempo_km_h": "298",
-      "gewicht_kg_": "112",
+      "gewicht_kg": "112",
       "country": "F",
       "info_right": "Fahrer: Jürgen Fuchs"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "112",
       "drehzahl_u_min": "11300",
       "tempo_km_h": "299",
-      "gewicht_kg_": "128",
+      "gewicht_kg": "128",
       "country": "D",
       "info_right": "Fahrer: Andreas Meklau"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "121",
       "drehzahl_u_min": "14300",
       "tempo_km_h": "314",
-      "gewicht_kg_": "127",
+      "gewicht_kg": "127",
       "country": "D",
       "info_right": "Fahrer: Jochen Schmid"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "118",
       "drehzahl_u_min": "14300",
       "tempo_km_h": "312",
-      "gewicht_kg_": "128",
+      "gewicht_kg": "128",
       "country": "D",
       "info_right": "Fahrer: Udo Mark"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "113",
       "drehzahl_u_min": "14300",
       "tempo_km_h": "298",
-      "gewicht_kg_": "126",
+      "gewicht_kg": "126",
       "country": "USA",
       "info_right": "Fahrer: John Kocinski"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "129",
       "drehzahl_u_min": "13200",
       "tempo_km_h": "265",
-      "gewicht_kg_": "285",
+      "gewicht_kg": "285",
       "country": "GB",
       "info_right": "Fahrer: Dixon / Hetherington"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "136",
       "drehzahl_u_min": "13500",
       "tempo_km_h": "272",
-      "gewicht_kg_": "283",
+      "gewicht_kg": "283",
       "country": "CH",
       "info_right": "Fahrer: Biland / Waltisperg"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "124",
       "drehzahl_u_min": "13000",
       "tempo_km_h": "258",
-      "gewicht_kg_": "287",
+      "gewicht_kg": "287",
       "country": "D",
       "info_right": "Fahrer: Hollweg / Mädler"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "134",
       "drehzahl_u_min": "13300",
       "tempo_km_h": "269",
-      "gewicht_kg_": "284",
+      "gewicht_kg": "284",
       "country": "CH",
       "info_right": "Fahrer: Biland / Waltisperg"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "41",
       "drehzahl_u_min": "8900",
       "tempo_km_h": "158",
-      "gewicht_kg_": "99",
+      "gewicht_kg": "99",
       "country": "NZL",
       "info_right": "Fahrer: Darryl Atkins"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "43",
       "drehzahl_u_min": "8500",
       "tempo_km_h": "165",
-      "gewicht_kg_": "97",
+      "gewicht_kg": "97",
       "country": "D",
       "info_right": "Fahrer: Marc Winter"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "38",
       "drehzahl_u_min": "8300",
       "tempo_km_h": "163",
-      "gewicht_kg_": "98",
+      "gewicht_kg": "98",
       "country": "D",
       "info_right": "Fahrer: Jochen Jasinski"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "40",
       "drehzahl_u_min": "8700",
       "tempo_km_h": "160",
-      "gewicht_kg_": "101",
+      "gewicht_kg": "101",
       "country": "B",
       "info_right": "Fahrer: Billy Liles"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "51",
       "drehzahl_u_min": "13000",
       "tempo_km_h": "185",
-      "gewicht_kg_": "85",
+      "gewicht_kg": "85",
       "country": "CZ",
       "info_right": "Fahrer: Jan Schinagl"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "53",
       "drehzahl_u_min": "13200",
       "tempo_km_h": "187",
-      "gewicht_kg_": "86",
+      "gewicht_kg": "86",
       "country": "D",
       "info_right": "Fahrer: Manfred Knappe"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "55",
       "drehzahl_u_min": "13100",
       "tempo_km_h": "186",
-      "gewicht_kg_": "87",
+      "gewicht_kg": "87",
       "country": "D",
       "info_right": "Fahrer: Alois Wiesböck"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "54",
       "drehzahl_u_min": "13400",
       "tempo_km_h": "184",
-      "gewicht_kg_": "88",
+      "gewicht_kg": "88",
       "country": "D",
       "info_right": "Fahrer: Tom Dunker"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "46",
       "drehzahl_u_min": "10900",
       "tempo_km_h": "119",
-      "gewicht_kg_": "112",
+      "gewicht_kg": "112",
       "country": "RF",
       "info_right": "Fahrer: Chet Cheblokov"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "43",
       "drehzahl_u_min": "10400",
       "tempo_km_h": "116",
-      "gewicht_kg_": "112",
+      "gewicht_kg": "112",
       "country": "D",
       "info_right": "Fahrer: Helmut Weber"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "44",
       "drehzahl_u_min": "10500",
       "tempo_km_h": "118",
-      "gewicht_kg_": "110",
+      "gewicht_kg": "110",
       "country": "S",
       "info_right": "Fahrer: Stefan Svensson"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "45",
       "drehzahl_u_min": "10800",
       "tempo_km_h": "120",
-      "gewicht_kg_": "110",
+      "gewicht_kg": "110",
       "country": "S",
       "info_right": "Fahrer: Peer Olof Serenius"
     }

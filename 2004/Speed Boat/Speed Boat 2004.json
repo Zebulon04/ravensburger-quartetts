@@ -10,7 +10,7 @@
       "leistung_kw": "1176",
       "geschwindigkeit_km_h": "250",
       "länge_m": "12,7",
-      "gewicht_kg_": "5500",
+      "gewicht_kg": "5500",
       "country": "I",
       "info_right": "Fahrer: Renato Luglio"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "1294",
       "geschwindigkeit_km_h": "246",
       "länge_m": "14,9",
-      "gewicht_kg_": "5750",
+      "gewicht_kg": "5750",
       "country": "I",
       "info_right": "Fahrer: Edoardo Polli"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "1301",
       "geschwindigkeit_km_h": "254",
       "länge_m": "13,5",
-      "gewicht_kg_": "4800",
+      "gewicht_kg": "4800",
       "country": "UAE",
       "info_right": "Fahrer: Ali Nasser"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "1316",
       "geschwindigkeit_km_h": "255",
       "länge_m": "13",
-      "gewicht_kg_": "5400",
+      "gewicht_kg": "5400",
       "country": "I",
       "info_right": "Fahrer: Luca Mantone"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "254",
       "geschwindigkeit_km_h": "220",
       "länge_m": "5,9",
-      "gewicht_kg_": "515",
+      "gewicht_kg": "515",
       "country": "B",
       "info_right": "Fahrer: Raf Jaeken"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "102",
       "geschwindigkeit_km_h": "175",
       "länge_m": "4",
-      "gewicht_kg_": "250",
+      "gewicht_kg": "250",
       "country": "F",
       "info_right": "Fahrer: David Gneroult"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "85",
       "geschwindigkeit_km_h": "136",
       "länge_m": "3,8",
-      "gewicht_kg_": "245",
+      "gewicht_kg": "245",
       "country": "D",
       "info_right": "Fahrer: Dirk Ebeling"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "121",
       "geschwindigkeit_km_h": "163",
       "länge_m": "4,5",
-      "gewicht_kg_": "183",
+      "gewicht_kg": "183",
       "country": "I",
       "info_right": "Fahrer: Tiziano Trombetta"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "489",
       "geschwindigkeit_km_h": "187",
       "länge_m": "3,9",
-      "gewicht_kg_": "605",
+      "gewicht_kg": "605",
       "country": "NZ",
       "info_right": "Fahrer: Scott Winter"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "496",
       "geschwindigkeit_km_h": "197",
       "länge_m": "3,9",
-      "gewicht_kg_": "598",
+      "gewicht_kg": "598",
       "country": "AUS",
       "info_right": "Fahrer: Derek Paulik"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "493",
       "geschwindigkeit_km_h": "190",
       "länge_m": "4",
-      "gewicht_kg_": "600",
+      "gewicht_kg": "600",
       "country": "AUS",
       "info_right": "Fahrer: David Smale"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "434",
       "geschwindigkeit_km_h": "179",
       "länge_m": "3,9",
-      "gewicht_kg_": "595",
+      "gewicht_kg": "595",
       "country": "NZ",
       "info_right": "Fahrer: Rag Smith"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "125",
       "geschwindigkeit_km_h": "196",
       "länge_m": "4,1",
-      "gewicht_kg_": "182",
+      "gewicht_kg": "182",
       "country": "D",
       "info_right": "Fahrer: Ulrich Rochel"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "29",
       "geschwindigkeit_km_h": "105",
       "länge_m": "3,7",
-      "gewicht_kg_": "178",
+      "gewicht_kg": "178",
       "country": "D",
       "info_right": "Fahrer: Peter Heibuch"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "81",
       "geschwindigkeit_km_h": "182",
       "länge_m": "3,9",
-      "gewicht_kg_": "132",
+      "gewicht_kg": "132",
       "country": "D",
       "info_right": "Fahrer: Dirk Kott"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "57",
       "geschwindigkeit_km_h": "144",
       "länge_m": "3,9",
-      "gewicht_kg_": "105",
+      "gewicht_kg": "105",
       "country": "D",
       "info_right": "Fahrer: Oliver Franke"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "1952",
       "geschwindigkeit_km_h": "278",
       "länge_m": "8,9",
-      "gewicht_kg_": "2870",
+      "gewicht_kg": "2870",
       "country": "USA",
       "info_right": "Fahrer: Greg Foster"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "1947",
       "geschwindigkeit_km_h": "270",
       "länge_m": "8,8",
-      "gewicht_kg_": "2750",
+      "gewicht_kg": "2750",
       "country": "USA",
       "info_right": "Fahrer: Neill Packer"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "1945",
       "geschwindigkeit_km_h": "269",
       "länge_m": "8,8",
-      "gewicht_kg_": "2890",
+      "gewicht_kg": "2890",
       "country": "USA",
       "info_right": "Fahrer: Pat Armstrong"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "1949",
       "geschwindigkeit_km_h": "272",
       "länge_m": "8,8",
-      "gewicht_kg_": "2820",
+      "gewicht_kg": "2820",
       "country": "USA",
       "info_right": "Fahrer: Dave Villwock"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "213",
       "geschwindigkeit_km_h": "193",
       "länge_m": "4",
-      "gewicht_kg_": "417",
+      "gewicht_kg": "417",
       "country": "F",
       "info_right": "Fahrer: Stephane Bloch"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "173",
       "geschwindigkeit_km_h": "185",
       "länge_m": "6",
-      "gewicht_kg_": "505",
+      "gewicht_kg": "505",
       "country": "F",
       "info_right": "Fahrer: Cedric Deguisne"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "26",
       "geschwindigkeit_km_h": "117",
       "länge_m": "3,3",
-      "gewicht_kg_": "101",
+      "gewicht_kg": "101",
       "country": "ROK",
       "info_right": "Fahrer: Sin O Kim"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "26",
       "geschwindigkeit_km_h": "99",
       "länge_m": "3,8",
-      "gewicht_kg_": "190",
+      "gewicht_kg": "190",
       "country": "D",
       "info_right": "Fahrer: Stephanie Wagner"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "978",
       "geschwindigkeit_km_h": "250",
       "länge_m": "13,8",
-      "gewicht_kg_": "3050",
+      "gewicht_kg": "3050",
       "country": "F",
       "info_right": "Fahrer: Francoise Baudin"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "904",
       "geschwindigkeit_km_h": "238",
       "länge_m": "13,8",
-      "gewicht_kg_": "2940",
+      "gewicht_kg": "2940",
       "country": "RSM",
       "info_right": "Fahrer: Alessandro Arrivabene"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "956",
       "geschwindigkeit_km_h": "245",
       "länge_m": "14",
-      "gewicht_kg_": "2880",
+      "gewicht_kg": "2880",
       "country": "I",
       "info_right": "Fahrer: Bruno Abbate"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "912",
       "geschwindigkeit_km_h": "248",
       "länge_m": "12,2",
-      "gewicht_kg_": "3100",
+      "gewicht_kg": "3100",
       "country": "USA",
       "info_right": "Fahrer: Hurley Stepp"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "662",
       "geschwindigkeit_km_h": "90",
       "länge_m": "22",
-      "gewicht_kg_": "8500",
+      "gewicht_kg": "8500",
       "country": "F",
       "info_right": "Besatzung: 5 Personen"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "1764",
       "geschwindigkeit_km_h": "65",
       "länge_m": "22",
-      "gewicht_kg_": "26800",
+      "gewicht_kg": "26800",
       "country": "GB",
       "info_right": "Besatzung: 10 Personen"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "655",
       "geschwindigkeit_km_h": "79",
       "länge_m": "15,7",
-      "gewicht_kg_": "13500",
+      "gewicht_kg": "13500",
       "country": "I",
       "info_right": "Besatzung: 8 Personen"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "302",
       "geschwindigkeit_km_h": "105",
       "länge_m": "9,9",
-      "gewicht_kg_": "3700",
+      "gewicht_kg": "3700",
       "country": "F",
       "info_right": "Besatzung: 4 Personen"
     }

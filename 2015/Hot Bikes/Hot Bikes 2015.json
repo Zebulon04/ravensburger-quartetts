@@ -10,7 +10,7 @@
       "leistung_kw": "107",
       "drehzahl_u_min": "8750",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "209",
+      "gewicht_kg": "209",
       "country": "I",
       "info_right": "max. Drehmoment 124,5 Nm bei 7250/min"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "134",
       "drehzahl_u_min": "12500",
       "geschwindigkeit_km_h": "285",
-      "gewicht_kg_": "206",
+      "gewicht_kg": "206",
       "country": "J",
       "info_right": "max. Drehmoment 116 Nm bei 10000/min"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "261",
       "drehzahl_u_min": "5250",
       "geschwindigkeit_km_h": "260",
-      "gewicht_kg_": "505",
+      "gewicht_kg": "505",
       "country": "USA",
       "info_right": "max. Drehmoment 550 Nm bei 3500/min"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "85",
       "drehzahl_u_min": "10000",
       "geschwindigkeit_km_h": "210",
-      "gewicht_kg_": "188",
+      "gewicht_kg": "188",
       "country": "J",
       "info_right": "max. Drehmoment 87,5 Nm bei 8500/min"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "53",
       "drehzahl_u_min": "5500",
       "geschwindigkeit_km_h": "175",
-      "gewicht_kg_": "293",
+      "gewicht_kg": "293",
       "country": "J",
       "info_right": "max. Drehmoment 103 Nm bei 3000/min"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "8250",
       "geschwindigkeit_km_h": "230",
-      "gewicht_kg_": "307",
+      "gewicht_kg": "307",
       "country": "USA",
       "info_right": "max. Drehmoment 115 Nm bei 6500/min"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "6200",
       "geschwindigkeit_km_h": "205",
-      "gewicht_kg_": "347",
+      "gewicht_kg": "347",
       "country": "J",
       "info_right": "max. Drehmoment 160 Nm bei 3200/min"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "99",
       "drehzahl_u_min": "9400",
       "geschwindigkeit_km_h": "248",
-      "gewicht_kg_": "212",
+      "gewicht_kg": "212",
       "country": "GB",
       "info_right": "max. Drehmoment 111 Nm bei 7550/min"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "19",
       "drehzahl_u_min": "10000",
       "geschwindigkeit_km_h": "129",
-      "gewicht_kg_": "126",
+      "gewicht_kg": "126",
       "country": "A",
       "info_right": "max. Drehmoment 20 Nm bei 6800/min",
       "info_image": "Fotograf: Schedl"
@@ -119,7 +119,7 @@
       "leistung_kw": "55",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "207",
-      "gewicht_kg_": "179",
+      "gewicht_kg": "179",
       "country": "J",
       "info_right": "max. Drehmoment 68 Nm bei 6500/min"
     },
@@ -131,7 +131,7 @@
       "leistung_kw": "101,5",
       "drehzahl_u_min": "9600",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "221",
+      "gewicht_kg": "221",
       "country": "J",
       "info_right": "max. Drehmoment 110 Nm bei 7800/min"
     },
@@ -143,7 +143,7 @@
       "leistung_kw": "116",
       "drehzahl_u_min": "11900",
       "geschwindigkeit_km_h": "265",
-      "gewicht_kg_": "206",
+      "gewicht_kg": "206",
       "country": "I",
       "info_right": "max. Drehmoment 100 Nm bei 10100/min"
     },
@@ -155,7 +155,7 @@
       "leistung_kw": "149",
       "drehzahl_u_min": "11500",
       "geschwindigkeit_km_h": "305",
-      "gewicht_kg_": "177",
+      "gewicht_kg": "177",
       "country": "I",
       "info_right": "max. Drehmoment 134 Nm bei 10200/min"
     },
@@ -167,7 +167,7 @@
       "leistung_kw": "131",
       "drehzahl_u_min": "12000",
       "geschwindigkeit_km_h": "293",
-      "gewicht_kg_": "210",
+      "gewicht_kg": "210",
       "country": "J",
       "info_right": "max. Drehmoment 112 Nm bei 8500/min"
     },
@@ -179,7 +179,7 @@
       "leistung_kw": "142",
       "drehzahl_u_min": "13000",
       "geschwindigkeit_km_h": "299",
-      "gewicht_kg_": "186",
+      "gewicht_kg": "186",
       "country": "D",
       "info_right": "max. Drehmoment 112 Nm bei 9750/min"
     },
@@ -191,7 +191,7 @@
       "leistung_kw": "129",
       "drehzahl_u_min": "10250",
       "geschwindigkeit_km_h": "287",
-      "gewicht_kg_": "182",
+      "gewicht_kg": "182",
       "country": "A",
       "info_right": "max. Drehmoment 127 Nm bei 8000/min",
       "info_image": "Fotograf: Schedl"
@@ -204,7 +204,7 @@
       "leistung_kw": "43",
       "drehzahl_u_min": "8500",
       "geschwindigkeit_km_h": "135",
-      "gewicht_kg_": "99",
+      "gewicht_kg": "99",
       "country": "F",
       "info_right": "Fahrer: Christophe Pourcel"
     },
@@ -216,7 +216,7 @@
       "leistung_kw": "44",
       "drehzahl_u_min": "8800",
       "geschwindigkeit_km_h": "155",
-      "gewicht_kg_": "95",
+      "gewicht_kg": "95",
       "country": "CH",
       "info_right": "Fahrer: Mat Rebeaud"
     },
@@ -228,7 +228,7 @@
       "leistung_kw": "50",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "180",
-      "gewicht_kg_": "111",
+      "gewicht_kg": "111",
       "country": "NZ",
       "info_right": "Fahrer: Josh Coppins"
     },
@@ -240,7 +240,7 @@
       "leistung_kw": "48",
       "drehzahl_u_min": "8750",
       "geschwindigkeit_km_h": "138",
-      "gewicht_kg_": "102",
+      "gewicht_kg": "102",
       "country": "B",
       "info_right": "Fahrer: Ken De Dycker"
     },
@@ -252,7 +252,7 @@
       "leistung_kw": "178",
       "drehzahl_u_min": "14500",
       "geschwindigkeit_km_h": "348",
-      "gewicht_kg_": "157",
+      "gewicht_kg": "157",
       "country": "I",
       "info_right": "Fahrer: Valentino Rossi"
     },
@@ -264,7 +264,7 @@
       "leistung_kw": "184",
       "drehzahl_u_min": "14000",
       "geschwindigkeit_km_h": "355",
-      "gewicht_kg_": "156",
+      "gewicht_kg": "156",
       "country": "E",
       "info_right": "Fahrer: Marc Marquez"
     },
@@ -276,7 +276,7 @@
       "leistung_kw": "180",
       "drehzahl_u_min": "14500",
       "geschwindigkeit_km_h": "354",
-      "gewicht_kg_": "157",
+      "gewicht_kg": "157",
       "country": "GB",
       "info_right": "Fahrer: Cal Crutchlow"
     },
@@ -288,7 +288,7 @@
       "leistung_kw": "165",
       "drehzahl_u_min": "14000",
       "geschwindigkeit_km_h": "330",
-      "gewicht_kg_": "150",
+      "gewicht_kg": "150",
       "country": "E",
       "info_right": "Fahrer: Loris Capirossi"
     },
@@ -300,7 +300,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "12000",
       "geschwindigkeit_km_h": "245",
-      "gewicht_kg_": "191",
+      "gewicht_kg": "191",
       "country": "I",
       "info_right": "max. Drehmoment 84 Nm bei 8600/min"
     },
@@ -312,7 +312,7 @@
       "leistung_kw": "101",
       "drehzahl_u_min": "9300",
       "geschwindigkeit_km_h": "210",
-      "gewicht_kg_": "259",
+      "gewicht_kg": "259",
       "country": "GB",
       "info_right": "max. Drehmoment 121 Nm bei 7850/min"
     },
@@ -324,7 +324,7 @@
       "leistung_kw": "63",
       "drehzahl_u_min": "7500",
       "geschwindigkeit_km_h": "204",
-      "gewicht_kg_": "207",
+      "gewicht_kg": "207",
       "country": "D",
       "info_right": "max. Drehmoment 83 Nm bei 5750/min"
     },
@@ -336,7 +336,7 @@
       "leistung_kw": "74",
       "drehzahl_u_min": "8000",
       "geschwindigkeit_km_h": "205",
-      "gewicht_kg_": "228",
+      "gewicht_kg": "228",
       "country": "J",
       "info_right": "max. Drehmoment 103 Nm bei 4000/min"
     },
@@ -348,7 +348,7 @@
       "leistung_kw": "154",
       "drehzahl_u_min": "12500",
       "geschwindigkeit_km_h": "315",
-      "gewicht_kg_": "168",
+      "gewicht_kg": "168",
       "country": "I",
       "info_right": "Fahrer: Max Biaggi"
     },
@@ -360,7 +360,7 @@
       "leistung_kw": "176",
       "drehzahl_u_min": "15200",
       "geschwindigkeit_km_h": "335",
-      "gewicht_kg_": "170",
+      "gewicht_kg": "170",
       "country": "GB",
       "info_right": "Fahrer: Tom Sykes"
     },
@@ -372,7 +372,7 @@
       "leistung_kw": "162",
       "drehzahl_u_min": "14000",
       "geschwindigkeit_km_h": "310",
-      "gewicht_kg_": "183",
+      "gewicht_kg": "183",
       "country": "I",
       "info_right": "Fahrer: Marco Melandri"
     },
@@ -384,7 +384,7 @@
       "leistung_kw": "147",
       "drehzahl_u_min": "11000",
       "geschwindigkeit_km_h": "312",
-      "gewicht_kg_": "173",
+      "gewicht_kg": "173",
       "country": "E",
       "info_right": "Fahrer: Carlos Checa"
     }

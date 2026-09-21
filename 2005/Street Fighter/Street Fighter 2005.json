@@ -10,7 +10,7 @@
       "leistung_kw": "107",
       "drehzahl_u_min": "12500",
       "geschwindigkeit_km_h": "285",
-      "gewicht_kg_": "210",
+      "gewicht_kg": "210",
       "country": "D",
       "info_right": "Rahmen/Motor: Yamaha YZF R1"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "63",
       "drehzahl_u_min": "7400",
       "geschwindigkeit_km_h": "225",
-      "gewicht_kg_": "180",
+      "gewicht_kg": "180",
       "country": "D",
       "info_right": "Rahmen/Motor: Buell XB9R"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "94",
       "drehzahl_u_min": "10000",
       "geschwindigkeit_km_h": "255",
-      "gewicht_kg_": "190",
+      "gewicht_kg": "190",
       "country": "D",
       "info_right": "Rahmen/Motor: Honda CBR 900 RR"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "132",
       "drehzahl_u_min": "11000",
       "geschwindigkeit_km_h": "285",
-      "gewicht_kg_": "205",
+      "gewicht_kg": "205",
       "country": "D",
       "info_right": "Rahmen/Motor: Yamaha FZR 1000"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "62",
       "drehzahl_u_min": "7400",
       "geschwindigkeit_km_h": "211",
-      "gewicht_kg_": "205",
+      "gewicht_kg": "205",
       "country": "USA",
       "info_right": "Zweizylinder-V-Motor"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "103",
       "drehzahl_u_min": "9800",
       "geschwindigkeit_km_h": "280",
-      "gewicht_kg_": "195",
+      "gewicht_kg": "195",
       "country": "I",
       "info_right": "Zweizylinder-V-Motor"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "11750",
       "geschwindigkeit_km_h": "235",
-      "gewicht_kg_": "200",
+      "gewicht_kg": "200",
       "country": "GB",
       "info_right": "Vierzylinder-Reihenmotor"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "83",
       "drehzahl_u_min": "8750",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "206",
+      "gewicht_kg": "206",
       "country": "I",
       "info_right": "Zweizylinder-V-Motor"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "95",
       "drehzahl_u_min": "11500",
       "geschwindigkeit_km_h": "270",
-      "gewicht_kg_": "185",
+      "gewicht_kg": "185",
       "country": "D",
       "info_right": "Rahmen/Motor: Spondon/Honda CBR 900 RR"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "12000",
       "geschwindigkeit_km_h": "255",
-      "gewicht_kg_": "200",
+      "gewicht_kg": "200",
       "country": "CH",
       "info_right": "Rahmen/Motor: Spondon/Suzuki GSF 1200 T"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "129",
       "drehzahl_u_min": "9800",
       "geschwindigkeit_km_h": "295",
-      "gewicht_kg_": "190",
+      "gewicht_kg": "190",
       "country": "D",
       "info_right": "Rahmen/Motor: Spondon/Suzuki GSXR 1300 Hayabusa"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "10800",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "190",
+      "gewicht_kg": "190",
       "country": "D",
       "info_right": "Rahmen/Motor: Spondon/Suzuki GSF 1200 Bandit"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "81",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "245",
-      "gewicht_kg_": "165",
+      "gewicht_kg": "165",
       "country": "D",
       "info_right": "Rahmen/Motor: Kawasaki GPZ 750 UT"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "140",
       "drehzahl_u_min": "10900",
       "geschwindigkeit_km_h": "290",
-      "gewicht_kg_": "168",
+      "gewicht_kg": "168",
       "country": "D",
       "info_right": "Rahmen/Motor: Rinner/Suzuki GSX-R 1100"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "147",
       "drehzahl_u_min": "10000",
       "geschwindigkeit_km_h": "314",
-      "gewicht_kg_": "152",
+      "gewicht_kg": "152",
       "country": "NL",
       "info_right": "Rahmen/Motor: Eigenbau/Suzuki GSX-R 1100"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "109",
       "drehzahl_u_min": "12500",
       "geschwindigkeit_km_h": "260",
-      "gewicht_kg_": "204",
+      "gewicht_kg": "204",
       "country": "D",
       "info_right": "Rahmen/Motor: Suzuki GSX-R 1100"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "147",
       "drehzahl_u_min": "9800",
       "geschwindigkeit_km_h": "290",
-      "gewicht_kg_": "215",
+      "gewicht_kg": "215",
       "country": "J",
       "info_right": "Vierzylinder-Reihenmotor mit Kompressor"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "90",
       "drehzahl_u_min": "8000",
       "geschwindigkeit_km_h": "295",
-      "gewicht_kg_": "192",
+      "gewicht_kg": "192",
       "country": "I",
       "info_right": "Zweizylinder-V-Motor"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "92",
       "drehzahl_u_min": "7250",
       "geschwindigkeit_km_h": "275",
-      "gewicht_kg_": "187",
+      "gewicht_kg": "187",
       "country": "I",
       "info_right": "Zweizylinder-V-Motor"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "74",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "290",
-      "gewicht_kg_": "145",
+      "gewicht_kg": "145",
       "country": "D",
       "info_right": "Zweizylinder-V-Motor"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "103",
       "drehzahl_u_min": "9800",
       "geschwindigkeit_km_h": "260",
-      "gewicht_kg_": "280",
+      "gewicht_kg": "280",
       "country": "D",
       "info_right": "Rahmen/Motor: Honda CBR 900 RR"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "64",
       "drehzahl_u_min": "8250",
       "geschwindigkeit_km_h": "219",
-      "gewicht_kg_": "185",
+      "gewicht_kg": "185",
       "country": "I",
       "info_right": "Rahmen/Motor: Eigenbau/Moto Guzzi V11"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "72",
       "drehzahl_u_min": "10000",
       "geschwindigkeit_km_h": "225",
-      "gewicht_kg_": "199",
+      "gewicht_kg": "199",
       "country": "D",
       "info_right": "Rahmen/Motor: Honda CBR 900"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "105",
       "drehzahl_u_min": "6580",
       "geschwindigkeit_km_h": "240",
-      "gewicht_kg_": "270",
+      "gewicht_kg": "270",
       "country": "D",
       "info_right": "Rahmen/Motor: Honda X4"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "46",
       "drehzahl_u_min": "4000",
       "geschwindigkeit_km_h": "175",
-      "gewicht_kg_": "297",
+      "gewicht_kg": "297",
       "country": "D",
       "info_right": "Rahmen/Motor: Yamaha XV1600"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "93",
       "drehzahl_u_min": "6000",
       "geschwindigkeit_km_h": "250",
-      "gewicht_kg_": "192",
+      "gewicht_kg": "192",
       "country": "USA",
       "info_right": "Rahmen/Motor: Eigenbau/Merch 131 Stage III"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "90",
       "drehzahl_u_min": "7800",
       "geschwindigkeit_km_h": "235",
-      "gewicht_kg_": "200",
+      "gewicht_kg": "200",
       "country": "D",
       "info_right": "Rahmen/Motor: Eigenbau/Suzuki 1200 Bandit"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "46",
       "drehzahl_u_min": "5300",
       "geschwindigkeit_km_h": "170",
-      "gewicht_kg_": "305",
+      "gewicht_kg": "305",
       "country": "D",
       "info_right": "Rahmen/Motor: Harley-Davidson Fat Boy"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "133",
       "drehzahl_u_min": "10500",
       "geschwindigkeit_km_h": "275",
-      "gewicht_kg_": "184",
+      "gewicht_kg": "184",
       "country": "D",
       "info_right": "Rahmen/Motor: Yamaha R1"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "125",
       "drehzahl_u_min": "10000",
       "geschwindigkeit_km_h": "300",
-      "gewicht_kg_": "220",
+      "gewicht_kg": "220",
       "country": "D",
       "info_right": "Rahmen/Motor: Honda CBR 1100 XXX"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "129",
       "drehzahl_u_min": "12500",
       "geschwindigkeit_km_h": "275",
-      "gewicht_kg_": "190",
+      "gewicht_kg": "190",
       "country": "D",
       "info_right": "Rahmen/Motor: PSS-Rau/Suzuki GSX-R 1100"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "126",
       "drehzahl_u_min": "12500",
       "geschwindigkeit_km_h": "285",
-      "gewicht_kg_": "185",
+      "gewicht_kg": "185",
       "country": "D",
       "info_right": "Rahmen/Motor: Yamaha R1"
     }

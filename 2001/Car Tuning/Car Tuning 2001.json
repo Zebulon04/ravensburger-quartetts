@@ -10,7 +10,7 @@
       "leistung_kw": "107",
       "geschwindigkeit_km_h": "205",
       "0-100_km_h_sec_": "8,5",
-      "gewicht_kg_": "1145",
+      "gewicht_kg": "1145",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 55.000,- DM"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "228",
       "geschwindigkeit_km_h": "275",
       "0-100_km_h_sec_": "5,5",
-      "gewicht_kg_": "1225",
+      "gewicht_kg": "1225",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 105.000,- DM"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "173",
       "geschwindigkeit_km_h": "246",
       "0-100_km_h_sec_": "6,5",
-      "gewicht_kg_": "1270",
+      "gewicht_kg": "1270",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 65.000,- DM"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "173",
       "geschwindigkeit_km_h": "280",
       "0-100_km_h_sec_": "5,8",
-      "gewicht_kg_": "1280",
+      "gewicht_kg": "1280",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 75.000,- DM"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "428",
       "geschwindigkeit_km_h": "260",
       "0-100_km_h_sec_": "5,4",
-      "gewicht_kg_": "2200",
+      "gewicht_kg": "2200",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 496.480,- DM"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "331",
       "geschwindigkeit_km_h": "304",
       "0-100_km_h_sec_": "4,5",
-      "gewicht_kg_": "1450",
+      "gewicht_kg": "1450",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 189.710,- DM"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "294",
       "geschwindigkeit_km_h": "293",
       "0-100_km_h_sec_": "5,9",
-      "gewicht_kg_": "1875",
+      "gewicht_kg": "1875",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 202.130,- DM"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "428",
       "geschwindigkeit_km_h": "330",
       "0-100_km_h_sec_": "4,5",
-      "gewicht_kg_": "1790",
+      "gewicht_kg": "1790",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 498.200,- DM"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "218",
       "geschwindigkeit_km_h": "283",
       "0-100_km_h_sec_": "5,1",
-      "gewicht_kg_": "1250",
+      "gewicht_kg": "1250",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 162.000,- DM"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "134",
       "geschwindigkeit_km_h": "228",
       "0-100_km_h_sec_": "6,3",
-      "gewicht_kg_": "1230",
+      "gewicht_kg": "1230",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 64.000,- DM"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "146",
       "geschwindigkeit_km_h": "231",
       "0-100_km_h_sec_": "6,1",
-      "gewicht_kg_": "930",
+      "gewicht_kg": "930",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 63.500,- DM"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "146",
       "geschwindigkeit_km_h": "230",
       "0-100_km_h_sec_": "7",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 49.000,- DM"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "118",
       "geschwindigkeit_km_h": "210",
       "0-100_km_h_sec_": "8,4",
-      "gewicht_kg_": "1410",
+      "gewicht_kg": "1410",
       "tuning": "STARTECH",
       "info_right": "Unverb. Preisempfehlung: 49.900,- DM"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "162",
       "geschwindigkeit_km_h": "200",
       "0-100_km_h_sec_": "8,3",
-      "gewicht_kg_": "1928",
+      "gewicht_kg": "1928",
       "tuning": "STARTECH",
       "info_right": "Unverb. Preisempfehlung: 89.240,- DM"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "185",
       "geschwindigkeit_km_h": "230",
       "0-100_km_h_sec_": "8,8",
-      "gewicht_kg_": "1660",
+      "gewicht_kg": "1660",
       "tuning": "STARTECH",
       "info_right": "Unverb. Preisempfehlung: 89.240,- DM"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "368",
       "geschwindigkeit_km_h": "310",
       "0-100_km_h_sec_": "3,9",
-      "gewicht_kg_": "1620",
+      "gewicht_kg": "1620",
       "tuning": "STARTECH",
       "info_right": "Unverb. Preisempfehlung: 298.850,- DM"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "125",
       "geschwindigkeit_km_h": "230",
       "0-100_km_h_sec_": "8",
-      "gewicht_kg_": "1469",
+      "gewicht_kg": "1469",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 69.000,- DM"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "147",
       "geschwindigkeit_km_h": "238",
       "0-100_km_h_sec_": "6,5",
-      "gewicht_kg_": "1075",
+      "gewicht_kg": "1075",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 78.000,- DM"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "167",
       "geschwindigkeit_km_h": "238",
       "0-100_km_h_sec_": "6,8",
-      "gewicht_kg_": "1170",
+      "gewicht_kg": "1170",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 150.000,- DM"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "177",
       "geschwindigkeit_km_h": "230",
       "0-100_km_h_sec_": "6,9",
-      "gewicht_kg_": "1295",
+      "gewicht_kg": "1295",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 160.000,- DM"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "340",
       "geschwindigkeit_km_h": "306",
       "0-100_km_h_sec_": "4",
-      "gewicht_kg_": "1420",
+      "gewicht_kg": "1420",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 198.000,- DM"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "329",
       "geschwindigkeit_km_h": "304",
       "0-100_km_h_sec_": "4,5",
-      "gewicht_kg_": "1500",
+      "gewicht_kg": "1500",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 304.000,- DM"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "220",
       "geschwindigkeit_km_h": "280",
       "0-100_km_h_sec_": "5,2",
-      "gewicht_kg_": "1395",
+      "gewicht_kg": "1395",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 198.000,- DM"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "169",
       "geschwindigkeit_km_h": "247",
       "0-100_km_h_sec_": "6,3",
-      "gewicht_kg_": "1325",
+      "gewicht_kg": "1325",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 125.000,- DM"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "51",
       "geschwindigkeit_km_h": "162",
       "0-100_km_h_sec_": "14,3",
-      "gewicht_kg_": "1310",
+      "gewicht_kg": "1310",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 28.950.- DM"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "95",
       "geschwindigkeit_km_h": "182",
       "0-100_km_h_sec_": "14,9",
-      "gewicht_kg_": "2500",
+      "gewicht_kg": "2500",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 48.950.- DM"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "110",
       "geschwindigkeit_km_h": "215",
       "0-100_km_h_sec_": "8,1",
-      "gewicht_kg_": "1400",
+      "gewicht_kg": "1400",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 43.500.- DM"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "220",
       "geschwindigkeit_km_h": "258",
       "0-100_km_h_sec_": "4,8",
-      "gewicht_kg_": "1680",
+      "gewicht_kg": "1680",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 85.850.- DM"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "353",
       "geschwindigkeit_km_h": "321",
       "0-100_km_h_sec_": "4,3",
-      "gewicht_kg_": "1630",
+      "gewicht_kg": "1630",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 429.000,- DM"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "331",
       "geschwindigkeit_km_h": "311",
       "0-100_km_h_sec_": "4,7",
-      "gewicht_kg_": "1680",
+      "gewicht_kg": "1680",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 285.000,- DM"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "257",
       "geschwindigkeit_km_h": "284",
       "0-100_km_h_sec_": "5,1",
-      "gewicht_kg_": "1345",
+      "gewicht_kg": "1345",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 145.000,- DM"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "257",
       "geschwindigkeit_km_h": "287",
       "0-100_km_h_sec_": "5,1",
-      "gewicht_kg_": "1445",
+      "gewicht_kg": "1445",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 159.000,- DM"
     }

@@ -10,7 +10,7 @@
       "hubraum_ccm": "2967",
       "leistung_kw": "191",
       "drehzahl_u_min": "6800",
-      "gewicht_kg_": "1490",
+      "gewicht_kg": "1490",
       "country": "GB",
       "info_right": "Die Passagiere sitzen hintereinander wie in einem Jet"
     },
@@ -22,7 +22,7 @@
       "hubraum_ccm": "750",
       "leistung_kw": "103",
       "drehzahl_u_min": "7000",
-      "gewicht_kg_": "825",
+      "gewicht_kg": "825",
       "country": "CH",
       "info_right": "200 km/h zu Lande und 80 km/h zu Wasser schnell"
     },
@@ -34,7 +34,7 @@
       "hubraum_ccm": "1442",
       "leistung_kw": "55",
       "drehzahl_u_min": "5000",
-      "gewicht_kg_": "680",
+      "gewicht_kg": "680",
       "country": "USA",
       "info_right": "Letzter Schrei aus USA - mit 160 km/h über den Highway heizen"
     },
@@ -46,7 +46,7 @@
       "hubraum_ccm": "1124",
       "leistung_kw": "48",
       "drehzahl_u_min": "5500",
-      "gewicht_kg_": "820",
+      "gewicht_kg": "820",
       "country": "F",
       "info_right": "Nach einem Designwettbewerb Peugeots entwickelte Studie"
     },
@@ -58,7 +58,7 @@
       "hubraum_ccm": "5954",
       "leistung_kw": "239",
       "drehzahl_u_min": "3300",
-      "gewicht_kg_": "3050",
+      "gewicht_kg": "3050",
       "country": "USA",
       "info_right": "Monster-Pickup mit XXL-Maßen (6,15 m lang/2,13 m hoch)"
     },
@@ -70,7 +70,7 @@
       "hubraum_ccm": "6998",
       "leistung_kw": "698",
       "drehzahl_u_min": "7800",
-      "gewicht_kg_": "6400",
+      "gewicht_kg": "6400",
       "country": "USA",
       "info_right": "Publikumsliebling jeder Feuerwehrparade in Virginia Beach/USA"
     },
@@ -82,7 +82,7 @@
       "hubraum_ccm": "5358",
       "leistung_kw": "206",
       "drehzahl_u_min": "5200",
-      "gewicht_kg_": "1800",
+      "gewicht_kg": "1800",
       "country": "I",
       "info_right": "Giugiaro's Offroadstudie im Stilmix „Max Max“ und Lego-Technik"
     },
@@ -94,7 +94,7 @@
       "hubraum_ccm": "3980",
       "leistung_kw": "276",
       "drehzahl_u_min": "4600",
-      "gewicht_kg_": "1180",
+      "gewicht_kg": "1180",
       "country": "USA",
       "info_right": "Für's pure Abenteuer im extremen Gelände wie geschaffen"
     },
@@ -106,7 +106,7 @@
       "hubraum_ccm": "7900",
       "leistung_kw": "1213",
       "drehzahl_u_min": "8500",
-      "gewicht_kg_": "2680",
+      "gewicht_kg": "2680",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 75 km/h"
     },
@@ -118,7 +118,7 @@
       "hubraum_ccm": "9400",
       "leistung_kw": "1471",
       "drehzahl_u_min": "7000",
-      "gewicht_kg_": "2600",
+      "gewicht_kg": "2600",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 100 km/h"
     },
@@ -130,7 +130,7 @@
       "hubraum_ccm": "8500",
       "leistung_kw": "662",
       "drehzahl_u_min": "8000",
-      "gewicht_kg_": "2580",
+      "gewicht_kg": "2580",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 80 km/h"
     },
@@ -142,7 +142,7 @@
       "hubraum_ccm": "6050",
       "leistung_kw": "478",
       "drehzahl_u_min": "7600",
-      "gewicht_kg_": "1800",
+      "gewicht_kg": "1800",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 85 km/h"
     },
@@ -154,7 +154,7 @@
       "hubraum_ccm": "6390",
       "leistung_kw": "368",
       "drehzahl_u_min": "9200",
-      "gewicht_kg_": "1200",
+      "gewicht_kg": "1200",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis eines 1979er Toyota-Pickups"
     },
@@ -166,7 +166,7 @@
       "hubraum_ccm": "6980",
       "leistung_kw": "559",
       "drehzahl_u_min": "8900",
-      "gewicht_kg_": "1290",
+      "gewicht_kg": "1290",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer aud Chevrolet-Basis"
     },
@@ -178,7 +178,7 @@
       "hubraum_ccm": "6986",
       "leistung_kw": "735",
       "drehzahl_u_min": "8800",
-      "gewicht_kg_": "1150",
+      "gewicht_kg": "1150",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis eines Jeep-Chrysler"
     },
@@ -190,7 +190,7 @@
       "hubraum_ccm": "7444",
       "leistung_kw": "809",
       "drehzahl_u_min": "9000",
-      "gewicht_kg_": "1250",
+      "gewicht_kg": "1250",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis einer 1982er Chevy-Corvette"
     },
@@ -202,7 +202,7 @@
       "hubraum_ccm": "4670",
       "leistung_kw": "368",
       "drehzahl_u_min": "5600",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "country": "USA",
       "info_right": "Aus dem Sciencefiction-Thriller „Minority Report“"
     },
@@ -214,7 +214,7 @@
       "hubraum_ccm": "3948",
       "leistung_kw": "206",
       "drehzahl_u_min": "6000",
-      "gewicht_kg_": "1560",
+      "gewicht_kg": "1560",
       "country": "USA",
       "info_right": "Futurstische Flunder (8,2 m lang) aus dem Film „Thunderbirds“"
     },
@@ -226,7 +226,7 @@
       "hubraum_ccm": "4961",
       "leistung_kw": "449",
       "drehzahl_u_min": "6800",
-      "gewicht_kg_": "1500",
+      "gewicht_kg": "1500",
       "country": "D",
       "info_right": "Polizeiauto im 2035er Look aus dem SciFi-Thriller „I, Robot“"
     },
@@ -238,7 +238,7 @@
       "hubraum_ccm": "5935",
       "leistung_kw": "343",
       "drehzahl_u_min": "6800",
-      "gewicht_kg_": "1835",
+      "gewicht_kg": "1835",
       "country": "GB",
       "info_right": "Bond's neuer Dienstwagen aus dem Film „The Another Day“"
     },
@@ -250,7 +250,7 @@
       "hubraum_ccm": "8850",
       "leistung_kw": "1037",
       "drehzahl_u_min": "8000",
-      "gewicht_kg_": "4740",
+      "gewicht_kg": "4740",
       "country": "USA",
       "info_right": "Basis: Chevrolet Astro Van"
     },
@@ -262,7 +262,7 @@
       "hubraum_ccm": "8850",
       "leistung_kw": "1103",
       "drehzahl_u_min": "8600",
-      "gewicht_kg_": "5000",
+      "gewicht_kg": "5000",
       "country": "USA",
       "info_right": "Basis: Chevrolet Panel Truck"
     },
@@ -274,7 +274,7 @@
       "hubraum_ccm": "8000",
       "leistung_kw": "1015",
       "drehzahl_u_min": "8800",
-      "gewicht_kg_": "4900",
+      "gewicht_kg": "4900",
       "country": "GB",
       "info_right": "Basis: Toyota HiLux"
     },
@@ -286,7 +286,7 @@
       "hubraum_ccm": "5400",
       "leistung_kw": "882",
       "drehzahl_u_min": "7900",
-      "gewicht_kg_": "6120",
+      "gewicht_kg": "6120",
       "country": "USA",
       "info_right": "Basis: Chevrolet Fleetside"
     },
@@ -298,7 +298,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "132",
       "drehzahl_u_min": "5200",
-      "gewicht_kg_": "1520",
+      "gewicht_kg": "1520",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 160 km/h"
     },
@@ -310,7 +310,7 @@
       "hubraum_ccm": "3400",
       "leistung_kw": "184",
       "drehzahl_u_min": "4800",
-      "gewicht_kg_": "1850",
+      "gewicht_kg": "1850",
       "country": "J",
       "info_right": "Höchstgeschwindigkeit: 185 km/h"
     },
@@ -322,7 +322,7 @@
       "hubraum_ccm": "4494",
       "leistung_kw": "250",
       "drehzahl_u_min": "4000",
-      "gewicht_kg_": "2400",
+      "gewicht_kg": "2400",
       "country": "J",
       "info_right": "Höchstgeschwindigkeit: 190 km/h"
     },
@@ -334,7 +334,7 @@
       "hubraum_ccm": "3189",
       "leistung_kw": "177",
       "drehzahl_u_min": "6200",
-      "gewicht_kg_": "1850",
+      "gewicht_kg": "1850",
       "country": "D",
       "info_right": "Höchstgeschwindigkeit: 230 km/h"
     },
@@ -346,7 +346,7 @@
       "hubraum_ccm": "5900",
       "leistung_kw": "552",
       "drehzahl_u_min": "7200",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 8,56 Sekunden"
     },
@@ -358,7 +358,7 @@
       "hubraum_ccm": "6000",
       "leistung_kw": "596",
       "drehzahl_u_min": "9000",
-      "gewicht_kg_": "1320",
+      "gewicht_kg": "1320",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 8,37 Sekunden"
     },
@@ -370,7 +370,7 @@
       "hubraum_ccm": "7800",
       "leistung_kw": "603",
       "drehzahl_u_min": "9200",
-      "gewicht_kg_": "1350",
+      "gewicht_kg": "1350",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 8,15 Sekunden"
     },
@@ -382,7 +382,7 @@
       "hubraum_ccm": "8020",
       "leistung_kw": "924",
       "drehzahl_u_min": "9500",
-      "gewicht_kg_": "762",
+      "gewicht_kg": "762",
       "country": "D",
       "info_right": "Die Viertelmeile (402,34 m) in 6,32 Sekunden"
     }

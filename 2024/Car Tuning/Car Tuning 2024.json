@@ -10,7 +10,7 @@
       "leistung_kw": "463",
       "geschwindigkeit_km_h": "330",
       "0-100_km_h_sec_": "3,1",
-      "gewicht_kg_": "1605",
+      "gewicht_kg": "1605",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 298.900.- EUR"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "588",
       "geschwindigkeit_km_h": "315",
       "0-100_km_h_sec_": "3,2",
-      "gewicht_kg_": "2390",
+      "gewicht_kg": "2390",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 262.900.- EUR"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "544",
       "geschwindigkeit_km_h": "320",
       "0-100_km_h_sec_": "3,2",
-      "gewicht_kg_": "2150",
+      "gewicht_kg": "2150",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 205.900.- EUR"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "522",
       "geschwindigkeit_km_h": "305",
       "0-100_km_h_sec_": "3,4",
-      "gewicht_kg_": "2200",
+      "gewicht_kg": "2200",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 227.545.- EUR"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "567",
       "geschwindigkeit_km_h": "316",
       "0-100_km_h_sec_": "3,2",
-      "gewicht_kg_": "2325",
+      "gewicht_kg": "2325",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 271.734.- EUR"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "567",
       "geschwindigkeit_km_h": "360",
       "0-100_km_h_sec_": "2,5",
-      "gewicht_kg_": "1434",
+      "gewicht_kg": "1434",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 372.352.- EUR"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "708",
       "geschwindigkeit_km_h": "340",
       "0-100_km_h_sec_": "2,9",
-      "gewicht_kg_": "2220",
+      "gewicht_kg": "2220",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 240.000.- EUR"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "588",
       "geschwindigkeit_km_h": "360",
       "0-100_km_h_sec_": "2,5",
-      "gewicht_kg_": "1580",
+      "gewicht_kg": "1580",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 580.000.- EUR"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "588",
       "geschwindigkeit_km_h": "350",
       "0-100_km_h_sec_": "2,9",
-      "gewicht_kg_": "2100",
+      "gewicht_kg": "2100",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 271.000.- EUR"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "662",
       "geschwindigkeit_km_h": "210",
       "0-100_km_h_sec_": "4,4",
-      "gewicht_kg_": "2936",
+      "gewicht_kg": "2936",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 830.000.- EUR"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "662",
       "geschwindigkeit_km_h": "350",
       "0-100_km_h_sec_": "3,7",
-      "gewicht_kg_": "2400",
+      "gewicht_kg": "2400",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 423.500.- EUR"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "603",
       "geschwindigkeit_km_h": "340",
       "0-100_km_h_sec_": "2,5",
-      "gewicht_kg_": "1710",
+      "gewicht_kg": "1710",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 405.000- EUR"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "419",
       "geschwindigkeit_km_h": "330",
       "0-100_km_h_sec_": "3,9",
-      "gewicht_kg_": "1475",
+      "gewicht_kg": "1475",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverkäufliches Konzeptfahrzeug (Wert: 149.000.- EUR)"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "449",
       "geschwindigkeit_km_h": "280",
       "0-100_km_h_sec_": "3,5",
-      "gewicht_kg_": "1920",
+      "gewicht_kg": "1920",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: 118.411- EUR"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "449",
       "geschwindigkeit_km_h": "280",
       "0-100_km_h_sec_": "3,4",
-      "gewicht_kg_": "1865",
+      "gewicht_kg": "1865",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: 111.811- EUR"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "294",
       "geschwindigkeit_km_h": "250",
       "0-100_km_h_sec_": "4,1",
-      "gewicht_kg_": "1570",
+      "gewicht_kg": "1570",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: Auf Anfrage"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "845",
       "geschwindigkeit_km_h": "430",
       "0-100_km_h_sec_": "2,7",
-      "gewicht_kg_": "1890",
+      "gewicht_kg": "1890",
       "tuning": "MANSORY",
       "info_right": "Unverb. Preisempfehlung: 2.400.000.- EUR"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "581",
       "geschwindigkeit_km_h": "341",
       "0-100_km_h_sec_": "2,9",
-      "gewicht_kg_": "1370",
+      "gewicht_kg": "1370",
       "tuning": "MANSORY",
       "info_right": "Unverb. Preisempfehlung: 420.000.- EUR"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "430",
       "geschwindigkeit_km_h": "308",
       "0-100_km_h_sec_": "3,6",
-      "gewicht_kg_": "2180",
+      "gewicht_kg": "2180",
       "tuning": "MANSORY",
       "info_right": "Unverb. Preisempfehlung: 340.000.- EUR"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "610",
       "geschwindigkeit_km_h": "355",
       "0-100_km_h_sec_": "2,7",
-      "gewicht_kg_": "1510",
+      "gewicht_kg": "1510",
       "tuning": "MANSORY",
       "info_right": "Unverb. Preisempfehlung: 890.000.- EUR"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "629",
       "geschwindigkeit_km_h": "333",
       "0-100_km_h_sec_": "2,5",
-      "gewicht_kg_": "1330",
+      "gewicht_kg": "1330",
       "tuning": "NOVITEC",
       "info_right": "Unverb. Preisempfehlung: 468.000.- EUR"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "618",
       "geschwindigkeit_km_h": "345",
       "0-100_km_h_sec_": "2,8",
-      "gewicht_kg_": "1630",
+      "gewicht_kg": "1630",
       "tuning": "NOVITEC",
       "info_right": "Unverb. Preisempfehlung: 589.000.- EUR"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "592",
       "geschwindigkeit_km_h": "353",
       "0-100_km_h_sec_": "2,7",
-      "gewicht_kg_": "1525",
+      "gewicht_kg": "1525",
       "tuning": "NOVITEC",
       "info_right": "Unverb. Preisempfehlung: 569.000.- EUR"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "520",
       "geschwindigkeit_km_h": "250",
       "0-100_km_h_sec_": "4,6",
-      "gewicht_kg_": "2790",
+      "gewicht_kg": "2790",
       "tuning": "NOVITEC",
       "info_right": "Unverb. Preisempfehlung: 551.000.- EUR"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "500",
       "geschwindigkeit_km_h": "265",
       "0-100_km_h_sec_": "4,8",
-      "gewicht_kg_": "2581",
+      "gewicht_kg": "2581",
       "tuning": "ARDEN",
       "info_right": "Unverb. Preisempfehlung: 178.000.- EUR"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "316",
       "geschwindigkeit_km_h": "263",
       "0-100_km_h_sec_": "4,9",
-      "gewicht_kg_": "1850",
+      "gewicht_kg": "1850",
       "tuning": "ARDEN",
       "info_right": "Unverb. Preisempfehlung: 99.000.- EUR"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "316",
       "geschwindigkeit_km_h": "278",
       "0-100_km_h_sec_": "4,7",
-      "gewicht_kg_": "1655",
+      "gewicht_kg": "1655",
       "tuning": "ARDEN",
       "info_right": "Unverb. Preisempfehlung: Auf Anfrage"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "443",
       "geschwindigkeit_km_h": "315",
       "0-100_km_h_sec_": "4,2",
-      "gewicht_kg_": "1800",
+      "gewicht_kg": "1800",
       "tuning": "ARDEN",
       "info_right": "Unverb. Preisempfehlung: Auf Anfrage"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "492",
       "geschwindigkeit_km_h": "330",
       "0-100_km_h_sec_": "3",
-      "gewicht_kg_": "1420",
+      "gewicht_kg": "1420",
       "tuning": "EDO COMPETITION",
       "info_right": "Unverb. Preisempfehlung: 220.000.- EUR"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "515",
       "geschwindigkeit_km_h": "340",
       "0-100_km_h_sec_": "2,8",
-      "gewicht_kg_": "1470",
+      "gewicht_kg": "1470",
       "tuning": "EDO COMPETITION",
       "info_right": "Unverb. Preisempfehlung: 420.000.- EUR"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "518",
       "geschwindigkeit_km_h": "325",
       "0-100_km_h_sec_": "2,9",
-      "gewicht_kg_": "1475",
+      "gewicht_kg": "1475",
       "tuning": "EDO COMPETITION",
       "info_right": "Unverb. Preisempfehlung: 250.000.- EUR"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "522",
       "geschwindigkeit_km_h": "335",
       "0-100_km_h_sec_": "2,6",
-      "gewicht_kg_": "1715",
+      "gewicht_kg": "1715",
       "tuning": "EDO COMPETITION",
       "info_right": "Unverb. Preisempfehlung: 225.000.- EUR"
     }

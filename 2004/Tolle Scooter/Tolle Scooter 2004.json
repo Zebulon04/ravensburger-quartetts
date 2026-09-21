@@ -9,7 +9,7 @@
       "leistung_kw": "3,8",
       "drehzahl_u_min": "7250",
       "geschwindigkeit_km_h": "49",
-      "gewicht_kg__": "99",
+      "gewicht_kg_": "99",
       "preis_€": "2845",
       "country": "F",
       "info_right": "1 Zylinder/2 Takt; 49,9 ccm Hubraum"
@@ -21,7 +21,7 @@
       "leistung_kw": "2,6",
       "drehzahl_u_min": "7000",
       "geschwindigkeit_km_h": "47",
-      "gewicht_kg__": "96",
+      "gewicht_kg_": "96",
       "preis_€": "2434",
       "country": "J",
       "info_right": "1 Zylinder/2 Takt; 49 ccm Hubraum"
@@ -33,7 +33,7 @@
       "leistung_kw": "3",
       "drehzahl_u_min": "6500",
       "geschwindigkeit_km_h": "48",
-      "gewicht_kg__": "93",
+      "gewicht_kg_": "93",
       "preis_€": "2055",
       "country": "I",
       "info_right": "1 Zylinder/2 Takt; 49 ccm Hubraum"
@@ -45,7 +45,7 @@
       "leistung_kw": "3,2",
       "drehzahl_u_min": "5600",
       "geschwindigkeit_km_h": "49",
-      "gewicht_kg__": "101",
+      "gewicht_kg_": "101",
       "preis_€": "2299",
       "country": "TW",
       "info_right": "1 Zylinder/2 Takt; 49 ccm Hubraum"
@@ -57,7 +57,7 @@
       "leistung_kw": "3,9",
       "drehzahl_u_min": "7500",
       "geschwindigkeit_km_h": "45",
-      "gewicht_kg__": "98",
+      "gewicht_kg_": "98",
       "preis_€": "2040",
       "country": "E",
       "info_right": "1 Zylinder/2 Takt; 49 ccm Hubraum"
@@ -69,7 +69,7 @@
       "leistung_kw": "2,3",
       "drehzahl_u_min": "5500",
       "geschwindigkeit_km_h": "45",
-      "gewicht_kg__": "87",
+      "gewicht_kg_": "87",
       "preis_€": "1899",
       "country": "ROK",
       "info_right": "1 Zylinder/2 Takt; 49,4 ccm Hubraum"
@@ -81,7 +81,7 @@
       "leistung_kw": "3,5",
       "drehzahl_u_min": "6200",
       "geschwindigkeit_km_h": "48",
-      "gewicht_kg__": "100",
+      "gewicht_kg_": "100",
       "preis_€": "2250",
       "country": "I",
       "info_right": "1 Zylinder/2 Takt; 49 ccm Hubraum"
@@ -93,7 +93,7 @@
       "leistung_kw": "2,6",
       "drehzahl_u_min": "6750",
       "geschwindigkeit_km_h": "49",
-      "gewicht_kg__": "95",
+      "gewicht_kg_": "95",
       "preis_€": "1900",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 49 ccm Hubraum"
@@ -105,7 +105,7 @@
       "leistung_kw": "8,5",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "107",
-      "gewicht_kg__": "139",
+      "gewicht_kg_": "139",
       "preis_€": "3399",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 125 ccm Hubraum"
@@ -117,7 +117,7 @@
       "leistung_kw": "7,6",
       "drehzahl_u_min": "8000",
       "geschwindigkeit_km_h": "92",
-      "gewicht_kg__": "118",
+      "gewicht_kg_": "118",
       "preis_€": "3195",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 124 ccm Hubraum"
@@ -129,7 +129,7 @@
       "leistung_kw": "10,1",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "105",
-      "gewicht_kg__": "149",
+      "gewicht_kg_": "149",
       "preis_€": "3670",
       "country": "J",
       "info_right": "1 Zylinder/4 Takt; 124,6 ccm Hubraum"
@@ -141,7 +141,7 @@
       "leistung_kw": "7,6",
       "drehzahl_u_min": "8500",
       "geschwindigkeit_km_h": "93",
-      "gewicht_kg__": "145",
+      "gewicht_kg_": "145",
       "preis_€": "2490",
       "country": "ROK",
       "info_right": "1 Zylinder/4 Takt; 125 ccm Hubraum"
@@ -153,7 +153,7 @@
       "leistung_kw": "8,4",
       "drehzahl_u_min": "8500",
       "geschwindigkeit_km_h": "102",
-      "gewicht_kg__": "154",
+      "gewicht_kg_": "154",
       "preis_€": "3065",
       "country": "TW",
       "info_right": "1 Zylinder/4 Takt; 125 ccm Hubraum"
@@ -165,7 +165,7 @@
       "leistung_kw": "8,3",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "90",
-      "gewicht_kg__": "135",
+      "gewicht_kg_": "135",
       "preis_€": "2800",
       "country": "ROK",
       "info_right": "1 Zylinder/4 Takt; 125 ccm Hubraum"
@@ -177,7 +177,7 @@
       "leistung_kw": "8,8",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "99",
-      "gewicht_kg__": "135",
+      "gewicht_kg_": "135",
       "preis_€": "4690",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 124 ccm Hubraum"
@@ -189,7 +189,7 @@
       "leistung_kw": "6,3",
       "drehzahl_u_min": "7500",
       "geschwindigkeit_km_h": "88",
-      "gewicht_kg__": "109",
+      "gewicht_kg_": "109",
       "preis_€": "2350",
       "country": "J",
       "info_right": "1 Zylinder/4 Takt; 124 ccm Hubraum"
@@ -201,7 +201,7 @@
       "leistung_kw": "13",
       "drehzahl_u_min": "8500",
       "geschwindigkeit_km_h": "112",
-      "gewicht_kg__": "185",
+      "gewicht_kg_": "185",
       "preis_€": "5850",
       "country": "D",
       "info_right": "1 Zylinder/4 Takt; 176,3 ccm Hubraum"
@@ -213,7 +213,7 @@
       "leistung_kw": "14",
       "drehzahl_u_min": "8000",
       "geschwindigkeit_km_h": "122",
-      "gewicht_kg__": "126",
+      "gewicht_kg_": "126",
       "preis_€": "3350",
       "country": "I",
       "info_right": "1 Zylinder/2 Takt; 176 ccm Hubraum"
@@ -225,7 +225,7 @@
       "leistung_kw": "14,5",
       "drehzahl_u_min": "6750",
       "geschwindigkeit_km_h": "127",
-      "gewicht_kg__": "170",
+      "gewicht_kg_": "170",
       "preis_€": "4500",
       "country": "TW",
       "info_right": "1 Zylinder/4 Takt; 249 ccm Hubraum"
@@ -237,7 +237,7 @@
       "leistung_kw": "14,5",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "127",
-      "gewicht_kg__": "137",
+      "gewicht_kg_": "137",
       "preis_€": "3750",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 198 ccm Hubraum"
@@ -249,7 +249,7 @@
       "leistung_kw": "14,7",
       "drehzahl_u_min": "8500",
       "geschwindigkeit_km_h": "119",
-      "gewicht_kg__": "138",
+      "gewicht_kg_": "138",
       "preis_€": "3890",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 198 ccm Hubraum"
@@ -261,7 +261,7 @@
       "leistung_kw": "15,2",
       "drehzahl_u_min": "7500",
       "geschwindigkeit_km_h": "125",
-      "gewicht_kg__": "164",
+      "gewicht_kg_": "164",
       "preis_€": "5500",
       "country": "J",
       "info_right": "1 Zylinder/4 Takt; 264 ccm Hubraum"
@@ -273,7 +273,7 @@
       "leistung_kw": "10",
       "drehzahl_u_min": "8500",
       "geschwindigkeit_km_h": "115",
-      "gewicht_kg__": "155",
+      "gewicht_kg_": "155",
       "preis_€": "4250",
       "country": "F",
       "info_right": "1 Zylinder/4 Takt; 150 ccm Hubraum"
@@ -285,7 +285,7 @@
       "leistung_kw": "14,5",
       "drehzahl_u_min": "9000",
       "geschwindigkeit_km_h": "120",
-      "gewicht_kg__": "170",
+      "gewicht_kg_": "170",
       "preis_€": "4980",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 198 ccm Hubraum"
@@ -297,7 +297,7 @@
       "leistung_kw": "24",
       "drehzahl_u_min": "8000",
       "geschwindigkeit_km_h": "139",
-      "gewicht_kg__": "195",
+      "gewicht_kg_": "195",
       "preis_€": "6250",
       "country": "J",
       "info_right": "1 Zylinder/4 Takt; 385 ccm Hubraum"
@@ -309,7 +309,7 @@
       "leistung_kw": "20,9",
       "drehzahl_u_min": "7000",
       "geschwindigkeit_km_h": "135",
-      "gewicht_kg__": "126",
+      "gewicht_kg_": "126",
       "preis_€": "5250",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 383 ccm Hubraum"
@@ -321,7 +321,7 @@
       "leistung_kw": "28,5",
       "drehzahl_u_min": "7250",
       "geschwindigkeit_km_h": "120",
-      "gewicht_kg__": "189",
+      "gewicht_kg_": "189",
       "preis_€": "5490",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 460 ccm Hubraum"
@@ -333,7 +333,7 @@
       "leistung_kw": "29,4",
       "drehzahl_u_min": "7000",
       "geschwindigkeit_km_h": "156",
-      "gewicht_kg__": "224",
+      "gewicht_kg_": "224",
       "preis_€": "7640",
       "country": "J",
       "info_right": "2 Zylinder/4 Takt; 499 ccm Hubraum"
@@ -345,7 +345,7 @@
       "leistung_kw": "36,8",
       "drehzahl_u_min": "7000",
       "geschwindigkeit_km_h": "162",
-      "gewicht_kg__": "236",
+      "gewicht_kg_": "236",
       "preis_€": "8550",
       "country": "J",
       "info_right": "2 Zylinder/4 Takt; 582 ccm Hubraum"
@@ -357,7 +357,7 @@
       "leistung_kw": "23",
       "drehzahl_u_min": "7000",
       "geschwindigkeit_km_h": "140",
-      "gewicht_kg__": "183",
+      "gewicht_kg_": "183",
       "preis_€": "6000",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 383 ccm Hubraum"
@@ -369,7 +369,7 @@
       "leistung_kw": "29,5",
       "drehzahl_u_min": "7500",
       "geschwindigkeit_km_h": "162",
-      "gewicht_kg__": "210",
+      "gewicht_kg_": "210",
       "preis_€": "7250",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 460 ccm Hubraum"
@@ -381,7 +381,7 @@
       "leistung_kw": "29",
       "drehzahl_u_min": "7250",
       "geschwindigkeit_km_h": "145",
-      "gewicht_kg__": "234",
+      "gewicht_kg_": "234",
       "preis_€": "7400",
       "country": "I",
       "info_right": "1 Zylinder/4 Takt; 460 ccm Hubraum"

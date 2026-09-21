@@ -9,7 +9,7 @@
       "hubraum_ccm": "5654",
       "leistung_kw": "271",
       "länge_m": "5,1",
-      "gewicht_kg__": "1860",
+      "gewicht_kg_": "1860",
       "geschwindigkeit_km_h": "260",
       "country": "USA",
       "info_right": "2009er Streifenwagenmodell für die US-Polizei"
@@ -21,7 +21,7 @@
       "hubraum_ccm": "2993",
       "leistung_kw": "145",
       "länge_m": "4,8",
-      "gewicht_kg__": "2260",
+      "gewicht_kg_": "2260",
       "geschwindigkeit_km_h": "232",
       "country": "D",
       "info_right": "Führungsfahrzeug der Bundespolizei"
@@ -33,7 +33,7 @@
       "hubraum_ccm": "2993",
       "leistung_kw": "202",
       "länge_m": "4,9",
-      "gewicht_kg__": "1775",
+      "gewicht_kg_": "1775",
       "geschwindigkeit_km_h": "250",
       "country": "GB",
       "info_right": "Für stilvolle Verfolgungsjagden mit Englands Gaunern"
@@ -45,7 +45,7 @@
       "hubraum_ccm": "5204",
       "leistung_kw": "412",
       "länge_m": "4,4",
-      "gewicht_kg__": "1500",
+      "gewicht_kg_": "1500",
       "geschwindigkeit_km_h": "325",
       "country": "I",
       "info_right": "Temposünder aufgepasst im Raum Lazio"
@@ -57,7 +57,7 @@
       "hubraum_ccm": "10518",
       "leistung_kw": "324",
       "länge_m": "9",
-      "gewicht_kg__": "27755",
+      "gewicht_kg_": "27755",
       "geschwindigkeit_km_h": "100",
       "country": "A",
       "info_right": "Hightech-Industrielöschfahrzeug mit Teleskoplöscharm"
@@ -69,7 +69,7 @@
       "hubraum_ccm": "3496",
       "leistung_kw": "429",
       "länge_m": "4,1",
-      "gewicht_kg__": "570",
+      "gewicht_kg_": "570",
       "geschwindigkeit_km_h": "330",
       "country": "GB",
       "info_right": "Streifenwagen-Showcar für die Londoner Polizei"
@@ -81,7 +81,7 @@
       "hubraum_ccm": "4500",
       "leistung_kw": "104",
       "länge_m": "2,4",
-      "gewicht_kg__": "2120",
+      "gewicht_kg_": "2120",
       "geschwindigkeit_km_h": "6",
       "country": "A",
       "info_right": "Löschunterstützungfahrzeug für den Einsatz in Tunneln"
@@ -93,7 +93,7 @@
       "hubraum_ccm": "5409",
       "leistung_kw": "202",
       "länge_m": "6,4",
-      "gewicht_kg__": "6100",
+      "gewicht_kg_": "6100",
       "geschwindigkeit_km_h": "165",
       "country": "KSA",
       "info_right": "Großventilator sorgt für Luftdurchzug von bus zu 133 km/h"
@@ -105,7 +105,7 @@
       "hubraum_ccm": "4511",
       "leistung_kw": "250",
       "länge_m": "4,8",
-      "gewicht_kg__": "2400",
+      "gewicht_kg_": "2400",
       "geschwindigkeit_km_h": "242",
       "country": "D",
       "info_right": "Rettungswagen des Porsche Werks Zuffenhausen"
@@ -117,7 +117,7 @@
       "hubraum_ccm": "6374",
       "leistung_kw": "205",
       "länge_m": "12",
-      "gewicht_kg__": "17000",
+      "gewicht_kg_": "17000",
       "geschwindigkeit_km_h": "100",
       "country": "D",
       "info_right": "Großraum-Rettungswagen der Stuttgarter Feuerwehr"
@@ -129,7 +129,7 @@
       "hubraum_ccm": "6850",
       "leistung_kw": "185",
       "länge_m": "7,7",
-      "gewicht_kg__": "6700",
+      "gewicht_kg_": "6700",
       "geschwindigkeit_km_h": "108",
       "country": "USA",
       "info_right": "Rettungswagen des Fire Departments in Frisco/Texas"
@@ -141,7 +141,7 @@
       "hubraum_ccm": "2143",
       "leistung_kw": "120",
       "länge_m": "6,1",
-      "gewicht_kg__": "5200",
+      "gewicht_kg_": "5200",
       "geschwindigkeit_km_h": "110",
       "country": "D",
       "info_right": "Rettungwagen der Berliner Feuerwehr"
@@ -153,7 +153,7 @@
       "hubraum_ccm": "7200",
       "leistung_kw": "177",
       "länge_m": "6,5",
-      "gewicht_kg__": "13500",
+      "gewicht_kg_": "13500",
       "geschwindigkeit_km_h": "95",
       "country": "F",
       "info_right": "Waldbrand-Löschfahrzeug"
@@ -165,7 +165,7 @@
       "hubraum_ccm": "499",
       "leistung_kw": "26",
       "länge_m": "2,9",
-      "gewicht_kg__": "580",
+      "gewicht_kg_": "580",
       "geschwindigkeit_km_h": "80",
       "country": "RC",
       "info_right": "All Terrain Vehicle entwickelt für den Einsatz in China"
@@ -177,7 +177,7 @@
       "hubraum_ccm": "6374",
       "leistung_kw": "170",
       "länge_m": "6,7",
-      "gewicht_kg__": "13500",
+      "gewicht_kg_": "13500",
       "geschwindigkeit_km_h": "90",
       "country": "HR",
       "info_right": "Kroatisches Tanklöschfahrzeug für unwegsames Gelände"
@@ -189,7 +189,7 @@
       "hubraum_ccm": "4600",
       "leistung_kw": "177",
       "länge_m": "5,2",
-      "gewicht_kg__": "3080",
+      "gewicht_kg_": "3080",
       "geschwindigkeit_km_h": "161",
       "country": "USA",
       "info_right": "Einsatzwagen des Fire Departments in Bedford/Texas"
@@ -201,7 +201,7 @@
       "hubraum_ccm": "97400",
       "leistung_kw": "2684",
       "länge_m": "32",
-      "gewicht_kg__": "500000",
+      "gewicht_kg_": "500000",
       "geschwindigkeit_km_h": "28",
       "country": "USA",
       "info_right": "Löschboot mit einer Pumpleistung von 117.350 l/min"
@@ -213,7 +213,7 @@
       "hubraum_ccm": "-",
       "leistung_kw": "1148",
       "länge_m": "13",
-      "gewicht_kg__": "3585",
+      "gewicht_kg_": "3585",
       "geschwindigkeit_km_h": "268",
       "country": "EU",
       "info_right": "ADAC Rettungshubschrauber „Christoph 77“"
@@ -225,7 +225,7 @@
       "hubraum_ccm": "6400",
       "leistung_kw": "239",
       "länge_m": "5,1",
-      "gewicht_kg__": "6486",
+      "gewicht_kg_": "6486",
       "geschwindigkeit_km_h": "120",
       "country": "USA",
       "info_right": "Gepanzertes Einsatzfahrzeug der Spezialenheit „SWAT“"
@@ -237,7 +237,7 @@
       "hubraum_ccm": "14200",
       "leistung_kw": "1200",
       "länge_m": "15,4",
-      "gewicht_kg__": "20500",
+      "gewicht_kg_": "20500",
       "geschwindigkeit_km_h": "83",
       "country": "S",
       "info_right": "Leichtes Rettungs-Schnellboot mit nur 80 cm Tiefgang"
@@ -249,7 +249,7 @@
       "hubraum_ccm": "20000",
       "leistung_kw": "753",
       "länge_m": "11,9",
-      "gewicht_kg__": "44000",
+      "gewicht_kg_": "44000",
       "geschwindigkeit_km_h": "130",
       "country": "I",
       "info_right": "Flugfeldlöschfahrzeug bescheunigt in 22 Sek. Von 0 auf 80 km/h"
@@ -261,7 +261,7 @@
       "hubraum_ccm": "34360",
       "leistung_kw": "880",
       "länge_m": "12",
-      "gewicht_kg__": "49000",
+      "gewicht_kg_": "49000",
       "geschwindigkeit_km_h": "140",
       "country": "D",
       "info_right": "Gigantisches Flugfeldlöschfahrzeug für FH Frankfurt"
@@ -273,7 +273,7 @@
       "hubraum_ccm": "14000",
       "leistung_kw": "379",
       "länge_m": "12,5",
-      "gewicht_kg__": "30000",
+      "gewicht_kg_": "30000",
       "geschwindigkeit_km_h": "98",
       "country": "USA",
       "info_right": "US-Gigant mit 30 m Drehleiter"
@@ -285,7 +285,7 @@
       "hubraum_ccm": "12000",
       "leistung_kw": "301",
       "länge_m": "12",
-      "gewicht_kg__": "31760",
+      "gewicht_kg_": "31760",
       "geschwindigkeit_km_h": "85",
       "country": "D",
       "info_right": "52-Meter-Teleskopmast der Berliner Feuerwehr"
@@ -297,7 +297,7 @@
       "hubraum_ccm": "21930",
       "leistung_kw": "735",
       "länge_m": "12",
-      "gewicht_kg__": "40000",
+      "gewicht_kg_": "40000",
       "geschwindigkeit_km_h": "145",
       "country": "UAE",
       "info_right": "Flughafenlöschfahrzeug des 21. Jahrhunderts von Rosenbauer"
@@ -309,7 +309,7 @@
       "hubraum_ccm": "9500",
       "leistung_kw": "278",
       "länge_m": "5,9",
-      "gewicht_kg__": "19000",
+      "gewicht_kg_": "19000",
       "geschwindigkeit_km_h": "105",
       "country": "BR",
       "info_right": "IMPACT Flugfeldlöschfahrzeug für FH Rio de Janeiro"
@@ -321,7 +321,7 @@
       "hubraum_ccm": "21920",
       "leistung_kw": "735",
       "länge_m": "11,7",
-      "gewicht_kg__": "40000",
+      "gewicht_kg_": "40000",
       "geschwindigkeit_km_h": "138",
       "country": "CH",
       "info_right": "Flugfeldlöschfahrzeug für FH Zürich mit 12.500 l Wassertank"
@@ -333,7 +333,7 @@
       "hubraum_ccm": "12419",
       "leistung_kw": "294",
       "länge_m": "8,9",
-      "gewicht_kg__": "17515",
+      "gewicht_kg_": "17515",
       "geschwindigkeit_km_h": "108",
       "country": "A",
       "info_right": "Rüstlöschfahrzeug für Tunneleinsätze der FF Dornbirn"
@@ -345,7 +345,7 @@
       "hubraum_ccm": "11960",
       "leistung_kw": "301",
       "länge_m": "9,8",
-      "gewicht_kg__": "17200",
+      "gewicht_kg_": "17200",
       "geschwindigkeit_km_h": "110",
       "country": "A",
       "info_right": "Wechselladerfahrzeug mit Dekontaminations-Container"
@@ -357,7 +357,7 @@
       "hubraum_ccm": "11946",
       "leistung_kw": "260",
       "länge_m": "8,9",
-      "gewicht_kg__": "26000",
+      "gewicht_kg_": "26000",
       "geschwindigkeit_km_h": "95",
       "country": "D",
       "info_right": "Wechselladerfahrzeug mit Schaumtank-Abrollbehälter"
@@ -369,7 +369,7 @@
       "hubraum_ccm": "6871",
       "leistung_kw": "206",
       "länge_m": "8,2",
-      "gewicht_kg__": "15000",
+      "gewicht_kg_": "15000",
       "geschwindigkeit_km_h": "90",
       "country": "A",
       "info_right": "Großunfallfahrzeug für Tirol mit Aufbau von EMPL"
@@ -381,7 +381,7 @@
       "hubraum_ccm": "4250",
       "leistung_kw": "125",
       "länge_m": "6",
-      "gewicht_kg__": "9350",
+      "gewicht_kg_": "9350",
       "geschwindigkeit_km_h": "95",
       "country": "D",
       "info_right": "Lichtmast-Fahrzeug der Berliner Polizei"

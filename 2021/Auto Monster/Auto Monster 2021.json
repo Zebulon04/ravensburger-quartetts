@@ -9,7 +9,7 @@
       "sitzplätze": "12",
       "hubraum_ccm": "3000",
       "leistung_kw": "129",
-      "drehzahl__u_min": "3500",
+      "drehzahl_u_min": "3500",
       "gewicht_kg_": "4800",
       "country": "RUS",
       "info_right": "Höchstgeschwindigkeit zu Land 70 km/h, zu Wasser 7 km/h"
@@ -21,7 +21,7 @@
       "sitzplätze": "10",
       "hubraum_ccm": "3000",
       "leistung_kw": "110",
-      "drehzahl__u_min": "3500",
+      "drehzahl_u_min": "3500",
       "gewicht_kg_": "3100",
       "country": "CZ",
       "info_right": "Höchstgeschwindigkeit zu Land 110 km/h, zu Wasser 7 km/h"
@@ -33,7 +33,7 @@
       "sitzplätze": "5",
       "hubraum_ccm": "1600",
       "leistung_kw": "60",
-      "drehzahl__u_min": "5600",
+      "drehzahl_u_min": "5600",
       "gewicht_kg_": "1250",
       "country": "RUS",
       "info_right": "Leichstes Spezialfahrzeug für Sumpf und Schnee"
@@ -45,7 +45,7 @@
       "sitzplätze": "3",
       "hubraum_ccm": "12419",
       "leistung_kw": "441",
-      "drehzahl__u_min": "1900",
+      "drehzahl_u_min": "1900",
       "gewicht_kg_": "30000",
       "country": "A",
       "info_right": "Geländetauglicher Luxuswohnmobil-Gigant mit 12 m Länge"
@@ -57,7 +57,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "2100",
       "leistung_kw": "735",
-      "drehzahl__u_min": "9500",
+      "drehzahl_u_min": "9500",
       "gewicht_kg_": "885",
       "country": "NZ",
       "info_right": "Fahrer: Rod Millen im Jahr 2000"
@@ -69,7 +69,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "3564",
       "leistung_kw": "740",
-      "drehzahl__u_min": "8500",
+      "drehzahl_u_min": "8500",
       "gewicht_kg_": "1100",
       "country": "J",
       "info_right": "Fahrer: Nobuhiro „Monster“ Taijma im Jahr 2007"
@@ -81,7 +81,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "6900",
       "leistung_kw": "868",
-      "drehzahl__u_min": "9000",
+      "drehzahl_u_min": "9000",
       "gewicht_kg_": "900",
       "country": "USA",
       "info_right": "Fahrer: Paul Dallenbach im Jahr 2008"
@@ -93,7 +93,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "3200",
       "leistung_kw": "643",
-      "drehzahl__u_min": "7800",
+      "drehzahl_u_min": "7800",
       "gewicht_kg_": "875",
       "country": "F",
       "info_right": "Fahrer: Sébastian Loeb im Jahr 2013"
@@ -105,7 +105,7 @@
       "sitzplätze": "6",
       "hubraum_ccm": "6700",
       "leistung_kw": "291",
-      "drehzahl__u_min": "2800",
+      "drehzahl_u_min": "2800",
       "gewicht_kg_": "7000",
       "country": "CDN",
       "info_right": "Gepanzertes Fahrzeug auf Ford-Pickup-Basis mit 160 km/h Spitze"
@@ -117,7 +117,7 @@
       "sitzplätze": "6",
       "hubraum_ccm": "6651",
       "leistung_kw": "522",
-      "drehzahl__u_min": "4900",
+      "drehzahl_u_min": "4900",
       "gewicht_kg_": "3500",
       "country": "UAE",
       "info_right": "Monster-SUV in 5,8 Sekunden auf Tempo 100 (Topspeed 160 km/h)"
@@ -129,7 +129,7 @@
       "sitzplätze": "10",
       "hubraum_ccm": "6690",
       "leistung_kw": "288",
-      "drehzahl__u_min": "2800",
+      "drehzahl_u_min": "2800",
       "gewicht_kg_": "7450",
       "country": "CDN",
       "info_right": "Mehrzweck-Panzerwagen mit 125 km/h Höchstgeschwindigkeit"
@@ -141,7 +141,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "6800",
       "leistung_kw": "288",
-      "drehzahl__u_min": "4000",
+      "drehzahl_u_min": "4000",
       "gewicht_kg_": "4775",
       "country": "USA",
       "info_right": "140 km/h schnelles SUV der Superlative im Tarnkappen-Look"
@@ -153,7 +153,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "3000",
       "leistung_kw": "221",
-      "drehzahl__u_min": "4800",
+      "drehzahl_u_min": "4800",
       "gewicht_kg_": "1630",
       "country": "D",
       "info_right": "Ultimativer Gelände-Buggy mit Heckmotor"
@@ -165,7 +165,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8850",
       "leistung_kw": "772",
-      "drehzahl__u_min": "8400",
+      "drehzahl_u_min": "8400",
       "gewicht_kg_": "1200",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Jeep-Basis"
@@ -177,7 +177,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "6986",
       "leistung_kw": "735",
-      "drehzahl__u_min": "8800",
+      "drehzahl_u_min": "8800",
       "gewicht_kg_": "1150",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis eines Jeep-Chrysler"
@@ -189,7 +189,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8000",
       "leistung_kw": "305",
-      "drehzahl__u_min": "6500",
+      "drehzahl_u_min": "6500",
       "gewicht_kg_": "1490",
       "country": "IS",
       "info_right": "Schlamm-Kreuzer auf Land Rover-Basis"
@@ -201,7 +201,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8900",
       "leistung_kw": "1103",
-      "drehzahl__u_min": "8750",
+      "drehzahl_u_min": "8750",
       "gewicht_kg_": "4990",
       "country": "USA",
       "info_right": "Basis: Custom Concept"
@@ -213,7 +213,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8849",
       "leistung_kw": "1096",
-      "drehzahl__u_min": "8700",
+      "drehzahl_u_min": "8700",
       "gewicht_kg_": "4590",
       "country": "USA",
       "info_right": "Basis: Custom Concept"
@@ -225,7 +225,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8850",
       "leistung_kw": "956",
-      "drehzahl__u_min": "8500",
+      "drehzahl_u_min": "8500",
       "gewicht_kg_": "4600",
       "country": "USA",
       "info_right": "Basis: 2001 Ford Custom GTS"
@@ -237,7 +237,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8850",
       "leistung_kw": "1100",
-      "drehzahl__u_min": "8900",
+      "drehzahl_u_min": "8900",
       "gewicht_kg_": "4550",
       "country": "USA",
       "info_right": "Basis: Custom Concept Futuristic SUV"
@@ -249,7 +249,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "6200",
       "leistung_kw": "478",
-      "drehzahl__u_min": "6500",
+      "drehzahl_u_min": "6500",
       "gewicht_kg_": "2517",
       "country": "USA",
       "info_right": "Baja-Renner mit 160 km/h Höchstgeschwindigkeit"
@@ -261,7 +261,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "1049",
       "leistung_kw": "106",
-      "drehzahl__u_min": "9000",
+      "drehzahl_u_min": "9000",
       "gewicht_kg_": "750",
       "country": "I",
       "info_right": "Mega-Offroad-Spaßmacher mit 150 km/h Höchstgeschwindigkeit"
@@ -273,7 +273,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "5654",
       "leistung_kw": "259",
-      "drehzahl__u_min": "5000",
+      "drehzahl_u_min": "5000",
       "gewicht_kg_": "2100",
       "country": "USA",
       "info_right": "Offroader auf Riesenfüßen (Reifengrßße 40 x 13,5 Zoll)"
@@ -285,7 +285,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "3500",
       "leistung_kw": "206",
-      "drehzahl__u_min": "6000",
+      "drehzahl_u_min": "6000",
       "gewicht_kg_": "1360",
       "country": "USA",
       "info_right": "In 2018 vorgestellt Mix aus Quad und Pickup"
@@ -297,7 +297,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "18100",
       "leistung_kw": "439",
-      "drehzahl__u_min": "1400",
+      "drehzahl_u_min": "1400",
       "gewicht_kg_": "16000",
       "country": "D",
       "info_right": "Amphibischer Schwerlasttransporter"
@@ -309,7 +309,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "5461",
       "leistung_kw": "515",
-      "drehzahl__u_min": "5300",
+      "drehzahl_u_min": "5300",
       "gewicht_kg_": "4090",
       "country": "D",
       "info_right": "Höchstgeschwindigkeit: 160 km/h"
@@ -321,7 +321,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "2693",
       "leistung_kw": "94",
-      "drehzahl__u_min": "2500",
+      "drehzahl_u_min": "2500",
       "gewicht_kg_": "2800",
       "country": "RUS",
       "info_right": "Höchstgeschwindigkeit: 70 km/h"
@@ -333,7 +333,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "5461",
       "leistung_kw": "750",
-      "drehzahl__u_min": "6200",
+      "drehzahl_u_min": "6200",
       "gewicht_kg_": "3490",
       "country": "LV",
       "info_right": "Höchstgeschwindigkeit: 250 km/h"
@@ -345,7 +345,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "6000",
       "leistung_kw": "279",
-      "drehzahl__u_min": "5600",
+      "drehzahl_u_min": "5600",
       "gewicht_kg_": "2100",
       "country": "RO",
       "info_right": "Entwickelt für die extreme Offroad-Klasse"
@@ -357,7 +357,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "6802",
       "leistung_kw": "231",
-      "drehzahl__u_min": "4250",
+      "drehzahl_u_min": "4250",
       "gewicht_kg_": "3290",
       "country": "USA",
       "info_right": "Basis: Ford Excursion mit V10-Moto, Kaufpreis ca. 75.000 US$"
@@ -369,7 +369,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "1497",
       "leistung_kw": "79",
-      "drehzahl__u_min": "6000",
+      "drehzahl_u_min": "6000",
       "gewicht_kg_": "1227",
       "country": "USA",
       "info_right": "110 km/h schnelles UTV mit militärischer DNA"
@@ -381,7 +381,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "6162",
       "leistung_kw": "321",
-      "drehzahl__u_min": "5900",
+      "drehzahl_u_min": "5900",
       "gewicht_kg_": "1746",
       "country": "USA",
       "info_right": "Offroad-Kit Car mit Fiberglaskonstruktion und 225 km/h Vmax"

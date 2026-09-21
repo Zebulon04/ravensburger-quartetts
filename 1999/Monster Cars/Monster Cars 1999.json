@@ -9,7 +9,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "3797",
       "leistung_kw": "108",
-      "drehzahl__u_min": "4800",
+      "drehzahl_u_min": "4800",
       "gewicht_kg_": "1000",
       "country": "A",
       "info_right": "Höchstgeschwindigkeit: 205 km/h"
@@ -21,7 +21,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "2200",
       "leistung_kw": "137",
-      "drehzahl__u_min": "5850",
+      "drehzahl_u_min": "5850",
       "gewicht_kg_": "850",
       "country": "D",
       "info_right": "Höchstgeschwindigkeit: 228 km/h"
@@ -33,7 +33,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "3995",
       "leistung_kw": "216",
-      "drehzahl__u_min": "6000",
+      "drehzahl_u_min": "6000",
       "gewicht_kg_": "670",
       "country": "E",
       "info_right": "Höchstgeschwindigkeit: 238 km/h"
@@ -45,7 +45,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "5740",
       "leistung_kw": "279",
-      "drehzahl__u_min": "6800",
+      "drehzahl_u_min": "6800",
       "gewicht_kg_": "1650",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 190 km/h"
@@ -57,7 +57,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "4998",
       "leistung_kw": "279",
-      "drehzahl__u_min": "5000",
+      "drehzahl_u_min": "5000",
       "gewicht_kg_": "1200",
       "country": "USA",
       "info_right": "Basis: 1954er Chevy"
@@ -69,7 +69,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "4200",
       "leistung_kw": "203",
-      "drehzahl__u_min": "5800",
+      "drehzahl_u_min": "5800",
       "gewicht_kg_": "1050",
       "country": "USA",
       "info_right": "Basis: 1957er Willys Jeep"
@@ -81,7 +81,7 @@
       "sitzplätze": "5",
       "hubraum_ccm": "2393",
       "leistung_kw": "88",
-      "drehzahl__u_min": "5000",
+      "drehzahl_u_min": "5000",
       "gewicht_kg_": "1950",
       "country": "I",
       "info_right": "Basis: 1986er Nissan Patrol"
@@ -93,7 +93,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "5735",
       "leistung_kw": "143",
-      "drehzahl__u_min": "4200",
+      "drehzahl_u_min": "4200",
       "gewicht_kg_": "1490",
       "country": "USA",
       "info_right": "Basis: 1982er Chevy-Corvette"
@@ -105,7 +105,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7800",
       "leistung_kw": "1176",
-      "drehzahl__u_min": "8500",
+      "drehzahl_u_min": "8500",
       "gewicht_kg_": "2600",
       "country": "NL",
       "info_right": "Höchstgeschwindigkeit: 90 km/h"
@@ -117,7 +117,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "9400",
       "leistung_kw": "1471",
-      "drehzahl__u_min": "7000",
+      "drehzahl_u_min": "7000",
       "gewicht_kg_": "2600",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 100 km/h"
@@ -129,7 +129,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7800",
       "leistung_kw": "956",
-      "drehzahl__u_min": "8000",
+      "drehzahl_u_min": "8000",
       "gewicht_kg_": "2600",
       "country": "NL",
       "info_right": "Höchstgeschwindigkeit: 80 km/h"
@@ -141,7 +141,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7800",
       "leistung_kw": "956",
-      "drehzahl__u_min": "8000",
+      "drehzahl_u_min": "8000",
       "gewicht_kg_": "2600",
       "country": "NL",
       "info_right": "Höchstgeschwindigkeit: 80 km/h"
@@ -153,7 +153,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "6390",
       "leistung_kw": "368",
-      "drehzahl__u_min": "9200",
+      "drehzahl_u_min": "9200",
       "gewicht_kg_": "1200",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis eines 1979er Toyota-Pickups"
@@ -165,7 +165,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8364",
       "leistung_kw": "868",
-      "drehzahl__u_min": "9000",
+      "drehzahl_u_min": "9000",
       "gewicht_kg_": "1150",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis eines Ford 23T"
@@ -177,7 +177,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "6986",
       "leistung_kw": "735",
-      "drehzahl__u_min": "8800",
+      "drehzahl_u_min": "8800",
       "gewicht_kg_": "1150",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf eines Basis Jeep-Chrysler"
@@ -189,7 +189,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7444",
       "leistung_kw": "809",
-      "drehzahl__u_min": "9000",
+      "drehzahl_u_min": "9000",
       "gewicht_kg_": "1250",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf einer 1982er Chevy-Corvette"
@@ -201,7 +201,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "5167",
       "leistung_kw": "331",
-      "drehzahl__u_min": "6800",
+      "drehzahl_u_min": "6800",
       "gewicht_kg_": "2950",
       "country": "I",
       "info_right": "Höchstgeschwindigkeit: 201 km/h"
@@ -213,7 +213,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "3794",
       "leistung_kw": "110",
-      "drehzahl__u_min": "3600",
+      "drehzahl_u_min": "3600",
       "gewicht_kg_": "2450",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 145 km/h"
@@ -225,7 +225,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "4104",
       "leistung_kw": "114",
-      "drehzahl__u_min": "3400",
+      "drehzahl_u_min": "3400",
       "gewicht_kg_": "2850",
       "country": "J",
       "info_right": "Höchstgeschwindigkeit: 140 km/h"
@@ -237,7 +237,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "4700",
       "leistung_kw": "202",
-      "drehzahl__u_min": "4600",
+      "drehzahl_u_min": "4600",
       "gewicht_kg_": "1780",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 198 km/h"
@@ -249,7 +249,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7441",
       "leistung_kw": "603",
-      "drehzahl__u_min": "6000",
+      "drehzahl_u_min": "6000",
       "gewicht_kg_": "6500",
       "country": "USA",
       "info_right": "Basis: 1979er Toyota Pickup"
@@ -261,7 +261,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7031",
       "leistung_kw": "404",
-      "drehzahl__u_min": "6500",
+      "drehzahl_u_min": "6500",
       "gewicht_kg_": "7000",
       "country": "USA",
       "info_right": "Basis: 1987er Ford Ranger Pickup"
@@ -273,7 +273,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "3900",
       "leistung_kw": "210",
-      "drehzahl__u_min": "7000",
+      "drehzahl_u_min": "7000",
       "gewicht_kg_": "1800",
       "country": "J/USA",
       "info_right": "Basis: 1983er Toyota Pickup"
@@ -285,7 +285,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "8226",
       "leistung_kw": "882",
-      "drehzahl__u_min": "8900",
+      "drehzahl_u_min": "8900",
       "gewicht_kg_": "8000",
       "country": "USA",
       "info_right": "Basis: 1989er Ford F Super Duty"
@@ -297,7 +297,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "6300",
       "leistung_kw": "257",
-      "drehzahl__u_min": "5500",
+      "drehzahl_u_min": "5500",
       "gewicht_kg_": "2300",
       "country": "CH",
       "info_right": "Höchstgeschwindigkeit: 225 km/h"
@@ -309,7 +309,7 @@
       "sitzplätze": "4",
       "hubraum_ccm": "3000",
       "leistung_kw": "166",
-      "drehzahl__u_min": "6000",
+      "drehzahl_u_min": "6000",
       "gewicht_kg_": "2150",
       "country": "J",
       "info_right": "Höchstgeschwindigkeit: 190 km/h"
@@ -321,7 +321,7 @@
       "sitzplätze": "3",
       "hubraum_ccm": "2963",
       "leistung_kw": "193",
-      "drehzahl__u_min": "5400",
+      "drehzahl_u_min": "5400",
       "gewicht_kg_": "2650",
       "country": "F",
       "info_right": "Höchstgeschwindigkeit: 155 km/h"
@@ -333,7 +333,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "3199",
       "leistung_kw": "154",
-      "drehzahl__u_min": "3750",
+      "drehzahl_u_min": "3750",
       "gewicht_kg_": "2000",
       "country": "I",
       "info_right": "Höchstgeschwindigkeit: 195 km/h"
@@ -345,7 +345,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "6450",
       "leistung_kw": "588",
-      "drehzahl__u_min": "7400",
+      "drehzahl_u_min": "7400",
       "gewicht_kg_": "1450",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 9,21 Sekunden"
@@ -357,7 +357,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7440",
       "leistung_kw": "430",
-      "drehzahl__u_min": "7500",
+      "drehzahl_u_min": "7500",
       "gewicht_kg_": "1100",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 9,35 Sekunden"
@@ -369,7 +369,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7500",
       "leistung_kw": "735",
-      "drehzahl__u_min": "10500",
+      "drehzahl_u_min": "10500",
       "gewicht_kg_": "1500",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 6,88 Sekunden"
@@ -381,7 +381,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "5800",
       "leistung_kw": "552",
-      "drehzahl__u_min": "7000",
+      "drehzahl_u_min": "7000",
       "gewicht_kg_": "1250",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 7,96 Sekunden"

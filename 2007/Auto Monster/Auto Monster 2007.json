@@ -9,7 +9,7 @@
       "sitzplätze": "5",
       "hubraum_ccm": "5654",
       "leistung_kw": "254",
-      "drehzahl__u_min": "5400",
+      "drehzahl_u_min": "5400",
       "gewicht_kg_": "2350",
       "country": "USA",
       "info_right": "Concept-Pickup mit der Power eines Hemi-V8-Motors"
@@ -21,7 +21,7 @@
       "sitzplätze": "8",
       "hubraum_ccm": "6998",
       "leistung_kw": "698",
-      "drehzahl__u_min": "7800",
+      "drehzahl_u_min": "7800",
       "gewicht_kg_": "6400",
       "country": "USA",
       "info_right": "Publikumsliebling jeder Feuerwehrparade in Virginia Beach/USA"
@@ -33,7 +33,7 @@
       "sitzplätze": "5",
       "hubraum_ccm": "5967",
       "leistung_kw": "235",
-      "drehzahl__u_min": "5200",
+      "drehzahl_u_min": "5200",
       "gewicht_kg_": "3960",
       "country": "USA",
       "info_right": "Hummer H2-Panzermobil trotz Ketten noch 80 km/h schnell"
@@ -45,7 +45,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "3980",
       "leistung_kw": "276",
-      "drehzahl__u_min": "4600",
+      "drehzahl_u_min": "4600",
       "gewicht_kg_": "1180",
       "country": "USA",
       "info_right": "Für's pure Abenteuer im extremen Gelände wie geschaffen"
@@ -57,7 +57,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "1164",
       "leistung_kw": "105",
-      "drehzahl__u_min": "9400",
+      "drehzahl_u_min": "9400",
       "gewicht_kg_": "410",
       "country": "CDN",
       "info_right": "Rennfeeling pur bei 225 km/h Höchstgeschwindigkeit"
@@ -69,7 +69,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "750",
       "leistung_kw": "103",
-      "drehzahl__u_min": "7000",
+      "drehzahl_u_min": "7000",
       "gewicht_kg_": "825",
       "country": "CH",
       "info_right": "200 km/h zu Lande und 80 km/h zu Wasser schnell"
@@ -81,7 +81,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "2400",
       "leistung_kw": "368",
-      "drehzahl__u_min": "10500",
+      "drehzahl_u_min": "10500",
       "gewicht_kg_": "470",
       "country": "GB",
       "info_right": "In 2,5 sec auf 100 km/h - Formel 1-Feeling für ca. 240.000 Euro"
@@ -93,7 +93,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "1124",
       "leistung_kw": "48",
-      "drehzahl__u_min": "5500",
+      "drehzahl_u_min": "5500",
       "gewicht_kg_": "820",
       "country": "F",
       "info_right": "Nach einem Designwettbewerb Peugeots entwickelte Studie"
@@ -105,7 +105,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7900",
       "leistung_kw": "1213",
-      "drehzahl__u_min": "8500",
+      "drehzahl_u_min": "8500",
       "gewicht_kg_": "2680",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 75 km/h"
@@ -117,7 +117,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "9400",
       "leistung_kw": "1471",
-      "drehzahl__u_min": "7000",
+      "drehzahl_u_min": "7000",
       "gewicht_kg_": "2600",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 100 km/h"
@@ -129,7 +129,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8500",
       "leistung_kw": "662",
-      "drehzahl__u_min": "8000",
+      "drehzahl_u_min": "8000",
       "gewicht_kg_": "2580",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 80 km/h"
@@ -141,7 +141,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8130",
       "leistung_kw": "1618",
-      "drehzahl__u_min": "8500",
+      "drehzahl_u_min": "8500",
       "gewicht_kg_": "2825",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 95 km/h"
@@ -153,7 +153,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7390",
       "leistung_kw": "699",
-      "drehzahl__u_min": "8500",
+      "drehzahl_u_min": "8500",
       "gewicht_kg_": "1100",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Jeep-Basis"
@@ -165,7 +165,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8850",
       "leistung_kw": "772",
-      "drehzahl__u_min": "8400",
+      "drehzahl_u_min": "8400",
       "gewicht_kg_": "1200",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Jeep-Basis"
@@ -177,7 +177,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "6986",
       "leistung_kw": "735",
-      "drehzahl__u_min": "8800",
+      "drehzahl_u_min": "8800",
       "gewicht_kg_": "1150",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis eines Jeep-Chrysler"
@@ -189,7 +189,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "7444",
       "leistung_kw": "809",
-      "drehzahl__u_min": "9000",
+      "drehzahl_u_min": "9000",
       "gewicht_kg_": "1250",
       "country": "USA",
       "info_right": "Schlamm-Kreuzer auf Basis einer 1982er Chevy-Corvette"
@@ -201,7 +201,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "6747",
       "leistung_kw": "202",
-      "drehzahl__u_min": "4400",
+      "drehzahl_u_min": "4400",
       "gewicht_kg_": "4150",
       "country": "USA",
       "info_right": "Bösewichtvehikel aus dem Hollywoodstreifen „Batman & Robin“"
@@ -213,7 +213,7 @@
       "sitzplätze": "3",
       "hubraum_ccm": "4553",
       "leistung_kw": "165",
-      "drehzahl__u_min": "4750",
+      "drehzahl_u_min": "4750",
       "gewicht_kg_": "3250",
       "country": "GB",
       "info_right": "Transportfahrzeug aus dem Kinofilm „Judge Dredd“ von 1995"
@@ -225,7 +225,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "4961",
       "leistung_kw": "449",
-      "drehzahl__u_min": "6800",
+      "drehzahl_u_min": "6800",
       "gewicht_kg_": "1500",
       "country": "D",
       "info_right": "Polizeiauto im 2035er Look aus dem SciFi-Thriller „I, Robot“"
@@ -237,7 +237,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "5700",
       "leistung_kw": "243",
-      "drehzahl__u_min": "5800",
+      "drehzahl_u_min": "5800",
       "gewicht_kg_": "2500",
       "country": "USA",
       "info_right": "Batman's neuer Dienstwagen aus dem Film „Batman begins“"
@@ -249,7 +249,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8800",
       "leistung_kw": "1088",
-      "drehzahl__u_min": "8200",
+      "drehzahl_u_min": "8200",
       "gewicht_kg_": "4200",
       "country": "USA",
       "info_right": "Basis: Ford F-350 Super Duty"
@@ -261,7 +261,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8850",
       "leistung_kw": "1103",
-      "drehzahl__u_min": "8600",
+      "drehzahl_u_min": "8600",
       "gewicht_kg_": "5000",
       "country": "USA",
       "info_right": "Basis: Chevrolet Panel Truck"
@@ -273,7 +273,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8000",
       "leistung_kw": "1015",
-      "drehzahl__u_min": "8800",
+      "drehzahl_u_min": "8800",
       "gewicht_kg_": "4900",
       "country": "GB",
       "info_right": "Basis: Toyota HiLux"
@@ -285,7 +285,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8830",
       "leistung_kw": "1085",
-      "drehzahl__u_min": "8500",
+      "drehzahl_u_min": "8500",
       "gewicht_kg_": "4980",
       "country": "USA",
       "info_right": "Basis: 1951 Mercury"
@@ -297,7 +297,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "1998",
       "leistung_kw": "132",
-      "drehzahl__u_min": "5200",
+      "drehzahl_u_min": "5200",
       "gewicht_kg_": "1520",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 160 km/h"
@@ -309,7 +309,7 @@
       "sitzplätze": "5",
       "hubraum_ccm": "3000",
       "leistung_kw": "136",
-      "drehzahl__u_min": "3700",
+      "drehzahl_u_min": "3700",
       "gewicht_kg_": "3900",
       "country": "I",
       "info_right": "Höchstgeschwindigkeit: 130 km/h"
@@ -321,7 +321,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "11308",
       "leistung_kw": "493",
-      "drehzahl__u_min": "5200",
+      "drehzahl_u_min": "5200",
       "gewicht_kg_": "1746",
       "country": "USA",
       "info_right": "Höchstgeschwindigkeit: 240 km/h"
@@ -333,7 +333,7 @@
       "sitzplätze": "2",
       "hubraum_ccm": "3189",
       "leistung_kw": "177",
-      "drehzahl__u_min": "6200",
+      "drehzahl_u_min": "6200",
       "gewicht_kg_": "1850",
       "country": "D",
       "info_right": "Höchstgeschwindigkeit: 230 km/h"
@@ -345,7 +345,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8500",
       "leistung_kw": "956",
-      "drehzahl__u_min": "8900",
+      "drehzahl_u_min": "8900",
       "gewicht_kg_": "990",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 4,556 Sekunden"
@@ -357,7 +357,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "6000",
       "leistung_kw": "1875",
-      "drehzahl__u_min": "9000",
+      "drehzahl_u_min": "9000",
       "gewicht_kg_": "1320",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 6,46 Sekunden"
@@ -369,7 +369,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "6000",
       "leistung_kw": "603",
-      "drehzahl__u_min": "9800",
+      "drehzahl_u_min": "9800",
       "gewicht_kg_": "1350",
       "country": "USA",
       "info_right": "Die Viertelmeile (402,34 m) in 8,11 Sekunden"
@@ -381,7 +381,7 @@
       "sitzplätze": "1",
       "hubraum_ccm": "8020",
       "leistung_kw": "4118",
-      "drehzahl__u_min": "9500",
+      "drehzahl_u_min": "9500",
       "gewicht_kg_": "762",
       "country": "D",
       "info_right": "Die Viertelmeile (402,34 m) in 5,15 Sekunden"

@@ -9,7 +9,7 @@
       "hubraum_ccm": "4601",
       "leistung_kw": "155",
       "länge_m": "5,3",
-      "gewicht_kg__": "2090",
+      "gewicht_kg_": "2090",
       "geschwindigkeit_km_h": "210",
       "country": "USA",
       "info_right": "Sheriff-Patrouillenfahrzeug"
@@ -21,7 +21,7 @@
       "hubraum_ccm": "2594",
       "leistung_kw": "110",
       "länge_m": "4,8",
-      "gewicht_kg__": "2005",
+      "gewicht_kg_": "2005",
       "geschwindigkeit_km_h": "205",
       "country": "GB",
       "info_right": "In Deutschland wäre es ein Opel"
@@ -33,7 +33,7 @@
       "hubraum_ccm": "1598",
       "leistung_kw": "74",
       "länge_m": "4,2",
-      "gewicht_kg__": "1585",
+      "gewicht_kg_": "1585",
       "geschwindigkeit_km_h": "190",
       "country": "UKR",
       "info_right": "Fährt bei der Polizei in Kiew"
@@ -45,7 +45,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "110",
       "länge_m": "4,5",
-      "gewicht_kg__": "1840",
+      "gewicht_kg_": "1840",
       "geschwindigkeit_km_h": "203",
       "country": "D",
       "info_right": "Streifenwagen für Baden-Württemberg"
@@ -57,7 +57,7 @@
       "hubraum_ccm": "10500",
       "leistung_kw": "86",
       "länge_m": "7",
-      "gewicht_kg__": "10500",
+      "gewicht_kg_": "10500",
       "geschwindigkeit_km_h": "85",
       "country": "GB",
       "info_right": "Gefangenentransporter für 15 Personen"
@@ -69,7 +69,7 @@
       "hubraum_ccm": "8800",
       "leistung_kw": "118",
       "länge_m": "10,9",
-      "gewicht_kg__": "12500",
+      "gewicht_kg_": "12500",
       "geschwindigkeit_km_h": "90",
       "country": "USA",
       "info_right": "Texanischer Transporter für ca. 30 Personen"
@@ -81,7 +81,7 @@
       "hubraum_ccm": "14618",
       "leistung_kw": "269",
       "länge_m": "11",
-      "gewicht_kg__": "17600",
+      "gewicht_kg_": "17600",
       "geschwindigkeit_km_h": "100",
       "country": "D",
       "info_right": "Intensivmobil für Verlegungen von Klinik zu Klinik"
@@ -93,7 +93,7 @@
       "hubraum_ccm": "6550",
       "leistung_kw": "151",
       "länge_m": "8,2",
-      "gewicht_kg__": "8800",
+      "gewicht_kg_": "8800",
       "geschwindigkeit_km_h": "88",
       "country": "USA",
       "info_right": "Für texanische Großeinsätze"
@@ -105,7 +105,7 @@
       "hubraum_ccm": "2370",
       "leistung_kw": "57",
       "länge_m": "5",
-      "gewicht_kg__": "2615",
+      "gewicht_kg_": "2615",
       "geschwindigkeit_km_h": "131",
       "country": "D",
       "info_right": "Cardiomobil zur Verlegung von Herzpatienten"
@@ -117,7 +117,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "95",
       "länge_m": "5",
-      "gewicht_kg__": "2600",
+      "gewicht_kg_": "2600",
       "geschwindigkeit_km_h": "169",
       "country": "CH",
       "info_right": "In Deutschland gebautes Exportmodell"
@@ -129,7 +129,7 @@
       "hubraum_ccm": "2922",
       "leistung_kw": "150",
       "länge_m": "5,7",
-      "gewicht_kg__": "2370",
+      "gewicht_kg_": "2370",
       "geschwindigkeit_km_h": "210",
       "country": "NL",
       "info_right": "Krankentransportwagen für Ferntransporte"
@@ -141,7 +141,7 @@
       "hubraum_ccm": "1905",
       "leistung_kw": "68",
       "länge_m": "4",
-      "gewicht_kg__": "2600",
+      "gewicht_kg_": "2600",
       "geschwindigkeit_km_h": "157",
       "country": "F",
       "info_right": "Hat ein verlängertes Fahrgestell"
@@ -153,7 +153,7 @@
       "hubraum_ccm": "1984",
       "leistung_kw": "85",
       "länge_m": "4,6",
-      "gewicht_kg__": "1870",
+      "gewicht_kg_": "1870",
       "geschwindigkeit_km_h": "187",
       "country": "D",
       "info_right": "Gehört einem privaten Rettungsdienst"
@@ -165,7 +165,7 @@
       "hubraum_ccm": "2597",
       "leistung_kw": "97",
       "länge_m": "4,7",
-      "gewicht_kg__": "1850",
+      "gewicht_kg_": "1850",
       "geschwindigkeit_km_h": "183",
       "country": "GB",
       "info_right": "Für den Notarzt umgebautes Polizeiauto"
@@ -177,7 +177,7 @@
       "hubraum_ccm": "1587",
       "leistung_kw": "77",
       "länge_m": "4",
-      "gewicht_kg__": "1490",
+      "gewicht_kg_": "1490",
       "geschwindigkeit_km_h": "170",
       "country": "ZA",
       "info_right": "Hat eine notfallmedizinische Ausrüstung an Bord"
@@ -189,7 +189,7 @@
       "hubraum_ccm": "4477",
       "leistung_kw": "151",
       "länge_m": "4,8",
-      "gewicht_kg__": "3060",
+      "gewicht_kg_": "3060",
       "geschwindigkeit_km_h": "170",
       "country": "D",
       "info_right": "Mit Allradantrieb und Überrollkäfig"
@@ -201,7 +201,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "95",
       "länge_m": "4,7",
-      "gewicht_kg__": "2600",
+      "gewicht_kg_": "2600",
       "geschwindigkeit_km_h": "145",
       "country": "D",
       "info_right": "Neueste Streifenwagengeneration"
@@ -213,7 +213,7 @@
       "hubraum_ccm": "5700",
       "leistung_kw": "132",
       "länge_m": "5,8",
-      "gewicht_kg__": "5100",
+      "gewicht_kg_": "5100",
       "geschwindigkeit_km_h": "114",
       "country": "S",
       "info_right": "Schwedische Ausführung des US-Klassikers"
@@ -225,7 +225,7 @@
       "hubraum_ccm": "6700",
       "leistung_kw": "155",
       "länge_m": "6,7",
-      "gewicht_kg__": "5200",
+      "gewicht_kg_": "5200",
       "geschwindigkeit_km_h": "95",
       "country": "USA",
       "info_right": "Unfallabsicherung in Nashville"
@@ -237,7 +237,7 @@
       "hubraum_ccm": "1954",
       "leistung_kw": "57",
       "länge_m": "4,6",
-      "gewicht_kg__": "2360",
+      "gewicht_kg_": "2360",
       "geschwindigkeit_km_h": "136",
       "country": "GB",
       "info_right": "Fahrzeug der Londoner Polizei"
@@ -249,7 +249,7 @@
       "hubraum_ccm": "12050",
       "leistung_kw": "309",
       "länge_m": "9,5",
-      "gewicht_kg__": "22000",
+      "gewicht_kg_": "22000",
       "geschwindigkeit_km_h": "105",
       "country": "A",
       "info_right": "Rosenbauer-Flughafenlöschfahrzeug"
@@ -261,7 +261,7 @@
       "hubraum_ccm": "5490",
       "leistung_kw": "113",
       "länge_m": "8,5",
-      "gewicht_kg__": "8990",
+      "gewicht_kg_": "8990",
       "geschwindigkeit_km_h": "85",
       "country": "F",
       "info_right": "Mobiles Feldlazarett für 120 Verletzte"
@@ -273,7 +273,7 @@
       "hubraum_ccm": "11000",
       "leistung_kw": "267",
       "länge_m": "7,9",
-      "gewicht_kg__": "24000",
+      "gewicht_kg_": "24000",
       "geschwindigkeit_km_h": "95",
       "country": "S",
       "info_right": "Dreiachser für den Einsatz auf Flughäfen"
@@ -285,7 +285,7 @@
       "hubraum_ccm": "14618",
       "leistung_kw": "269",
       "länge_m": "12",
-      "gewicht_kg__": "35300",
+      "gewicht_kg_": "35300",
       "geschwindigkeit_km_h": "105",
       "country": "D",
       "info_right": "Hat 4000 l Wasser, 4000 l Schaum, 3000 kg Pulver, 300 kg CO?"
@@ -297,7 +297,7 @@
       "hubraum_ccm": "5675",
       "leistung_kw": "96",
       "länge_m": "6",
-      "gewicht_kg__": "6790",
+      "gewicht_kg_": "6790",
       "geschwindigkeit_km_h": "125",
       "country": "ZA",
       "info_right": "TLF 1000 für Busch- und Flächenbrände"
@@ -309,7 +309,7 @@
       "hubraum_ccm": "6871",
       "leistung_kw": "198",
       "länge_m": "7,6",
-      "gewicht_kg__": "19000",
+      "gewicht_kg_": "19000",
       "geschwindigkeit_km_h": "100",
       "country": "D",
       "info_right": "Bläst das feuer mit Düsentriebwerken aus"
@@ -321,7 +321,7 @@
       "hubraum_ccm": "9046",
       "leistung_kw": "257",
       "länge_m": "8,2",
-      "gewicht_kg__": "17500",
+      "gewicht_kg_": "17500",
       "geschwindigkeit_km_h": "130",
       "country": "USA",
       "info_right": "Steht in einem Vorort von Indianapolis bereit"
@@ -333,7 +333,7 @@
       "hubraum_ccm": "6871",
       "leistung_kw": "162",
       "länge_m": "6,7",
-      "gewicht_kg__": "10500",
+      "gewicht_kg_": "10500",
       "geschwindigkeit_km_h": "90",
       "country": "D",
       "info_right": "Löschfahrzeug für den City-Einsatz"
@@ -345,7 +345,7 @@
       "hubraum_ccm": "2495",
       "leistung_kw": "63",
       "länge_m": "4,6",
-      "gewicht_kg__": "2720",
+      "gewicht_kg_": "2720",
       "geschwindigkeit_km_h": "118",
       "country": "GBZ",
       "info_right": "Kann auch in die engsten Gassen fahren"
@@ -357,7 +357,7 @@
       "hubraum_ccm": "5675",
       "leistung_kw": "96",
       "länge_m": "5,5",
-      "gewicht_kg__": "7500",
+      "gewicht_kg_": "7500",
       "geschwindigkeit_km_h": "80",
       "country": "D",
       "info_right": "Material-LKW des Technischen Hilfswerks"
@@ -369,7 +369,7 @@
       "hubraum_ccm": "7300",
       "leistung_kw": "140",
       "länge_m": "5,4",
-      "gewicht_kg__": "7200",
+      "gewicht_kg_": "7200",
       "geschwindigkeit_km_h": "110",
       "country": "USA",
       "info_right": "In New York eingesetzt"
@@ -381,7 +381,7 @@
       "hubraum_ccm": "6128",
       "leistung_kw": "124",
       "länge_m": "6,1",
-      "gewicht_kg__": "12000",
+      "gewicht_kg_": "12000",
       "geschwindigkeit_km_h": "93",
       "country": "D",
       "info_right": "Gerätewagen der Berliner Polizei"

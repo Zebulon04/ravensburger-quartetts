@@ -10,7 +10,7 @@
       "hubraum_ccm": "76300",
       "leistung_kw": "2014",
       "länge_m": "15,22",
-      "gewicht_t_": "210",
+      "gewicht_t": "210",
       "country": "J"
     },
     {
@@ -21,7 +21,7 @@
       "hubraum_ccm": "117100",
       "leistung_kw": "2468",
       "länge_m": "14,53",
-      "gewicht_t_": "623,7",
+      "gewicht_t": "623,7",
       "country": "USA"
     },
     {
@@ -32,7 +32,7 @@
       "hubraum_ccm": "90000",
       "leistung_kw": "2797",
       "länge_m": "15,57",
-      "gewicht_t_": "325,8",
+      "gewicht_t": "325,8",
       "country": "USA"
     },
     {
@@ -43,7 +43,7 @@
       "hubraum_ccm": "11700",
       "leistung_kw": "331",
       "länge_m": "10,5",
-      "gewicht_t_": "37,2",
+      "gewicht_t": "37,2",
       "country": "N"
     },
     {
@@ -54,7 +54,7 @@
       "hubraum_ccm": "15000",
       "leistung_kw": "380",
       "länge_m": "13,1",
-      "gewicht_t_": "82,3",
+      "gewicht_t": "82,3",
       "country": "ROK"
     },
     {
@@ -65,7 +65,7 @@
       "hubraum_ccm": "10964",
       "leistung_kw": "245",
       "länge_m": "11,43",
-      "gewicht_t_": "52",
+      "gewicht_t": "52",
       "country": "ROK"
     },
     {
@@ -76,7 +76,7 @@
       "hubraum_ccm": "8800",
       "leistung_kw": "200",
       "länge_m": "11,2",
-      "gewicht_t_": "36,6",
+      "gewicht_t": "36,6",
       "country": "B"
     },
     {
@@ -87,7 +87,7 @@
       "hubraum_ccm": "10500",
       "leistung_kw": "258",
       "länge_m": "12,1",
-      "gewicht_t_": "50,3",
+      "gewicht_t": "50,3",
       "country": "I"
     },
     {
@@ -98,7 +98,7 @@
       "hubraum_ccm": "3200",
       "leistung_kw": "61",
       "länge_m": "3,44",
-      "gewicht_t_": "4,8",
+      "gewicht_t": "4,8",
       "country": "USA"
     },
     {
@@ -109,7 +109,7 @@
       "hubraum_ccm": "3300",
       "leistung_kw": "60",
       "länge_m": "3,6",
-      "gewicht_t_": "4,1",
+      "gewicht_t": "4,1",
       "country": "USA"
     },
     {
@@ -120,7 +120,7 @@
       "hubraum_ccm": "3769",
       "leistung_kw": "68",
       "länge_m": "3,99",
-      "gewicht_t_": "5,2",
+      "gewicht_t": "5,2",
       "country": "J"
     },
     {
@@ -131,7 +131,7 @@
       "hubraum_ccm": "4500",
       "leistung_kw": "75",
       "länge_m": "4,01",
-      "gewicht_t_": "4,8",
+      "gewicht_t": "4,8",
       "country": "USA"
     },
     {
@@ -142,7 +142,7 @@
       "hubraum_ccm": "8300",
       "leistung_kw": "161",
       "länge_m": "7,08",
-      "gewicht_t_": "18,5",
+      "gewicht_t": "18,5",
       "country": "NL"
     },
     {
@@ -153,7 +153,7 @@
       "hubraum_ccm": "12816",
       "leistung_kw": "220",
       "länge_m": "9",
-      "gewicht_t_": "23,5",
+      "gewicht_t": "23,5",
       "country": "F"
     },
     {
@@ -164,7 +164,7 @@
       "hubraum_ccm": "10800",
       "leistung_kw": "250",
       "länge_m": "9,56",
-      "gewicht_t_": "30,9",
+      "gewicht_t": "30,9",
       "country": "ROK"
     },
     {
@@ -175,7 +175,7 @@
       "hubraum_ccm": "10800",
       "leistung_kw": "265",
       "länge_m": "9,53",
-      "gewicht_t_": "30,7",
+      "gewicht_t": "30,7",
       "country": "ROK"
     },
     {
@@ -186,7 +186,7 @@
       "hubraum_ccm": "30480",
       "leistung_kw": "671",
       "länge_m": "10,53",
-      "gewicht_t_": "112,2",
+      "gewicht_t": "112,2",
       "country": "USA"
     },
     {
@@ -197,7 +197,7 @@
       "hubraum_ccm": "6730",
       "leistung_kw": "157",
       "länge_m": "6,68",
-      "gewicht_t_": "22,7",
+      "gewicht_t": "22,7",
       "country": "I"
     },
     {
@@ -208,7 +208,7 @@
       "hubraum_ccm": "32110",
       "leistung_kw": "634",
       "länge_m": "10,92",
-      "gewicht_t_": "113",
+      "gewicht_t": "113",
       "country": "USA"
     },
     {
@@ -219,7 +219,7 @@
       "hubraum_ccm": "16200",
       "leistung_kw": "310",
       "länge_m": "10",
-      "gewicht_t_": "52,7",
+      "gewicht_t": "52,7",
       "country": "A"
     },
     {
@@ -230,7 +230,7 @@
       "hubraum_ccm": "14000",
       "leistung_kw": "324",
       "länge_m": "15,23",
-      "gewicht_t_": "65",
+      "gewicht_t": "65",
       "country": "CN"
     },
     {
@@ -241,7 +241,7 @@
       "hubraum_ccm": "15930",
       "leistung_kw": "480",
       "länge_m": "16,3",
-      "gewicht_t_": "415",
+      "gewicht_t": "415",
       "country": "D"
     },
     {
@@ -252,7 +252,7 @@
       "hubraum_ccm": "15900",
       "leistung_kw": "420",
       "länge_m": "19,62",
-      "gewicht_t_": "84",
+      "gewicht_t": "84",
       "country": "D"
     },
     {
@@ -263,7 +263,7 @@
       "hubraum_ccm": "16200",
       "leistung_kw": "500",
       "länge_m": "26,42",
-      "gewicht_t_": "414",
+      "gewicht_t": "414",
       "country": "D"
     },
     {
@@ -274,7 +274,7 @@
       "hubraum_ccm": "10520",
       "leistung_kw": "270",
       "länge_m": "12,5",
-      "gewicht_t_": "75,3",
+      "gewicht_t": "75,3",
       "country": "A"
     },
     {
@@ -285,7 +285,7 @@
       "hubraum_ccm": "10820",
       "leistung_kw": "246",
       "länge_m": "11,61",
-      "gewicht_t_": "76,3",
+      "gewicht_t": "76,3",
       "country": "D"
     },
     {
@@ -296,7 +296,7 @@
       "hubraum_ccm": "12000",
       "leistung_kw": "294",
       "länge_m": "14,1",
-      "gewicht_t_": "110",
+      "gewicht_t": "110",
       "country": "S"
     },
     {
@@ -307,7 +307,7 @@
       "hubraum_ccm": "10800",
       "leistung_kw": "224",
       "länge_m": "12,57",
-      "gewicht_t_": "84,3",
+      "gewicht_t": "84,3",
       "country": "NL"
     },
     {
@@ -318,7 +318,7 @@
       "hubraum_ccm": "120000",
       "leistung_kw": "3360",
       "länge_m": "13,5",
-      "gewicht_t_": "980",
+      "gewicht_t": "980",
       "country": "D"
     },
     {
@@ -329,7 +329,7 @@
       "hubraum_ccm": "120000",
       "leistung_kw": "2984",
       "länge_m": "29,8",
-      "gewicht_t_": "793",
+      "gewicht_t": "793",
       "country": "D"
     },
     {
@@ -340,7 +340,7 @@
       "hubraum_ccm": "120000",
       "leistung_kw": "2900",
       "länge_m": "25",
-      "gewicht_t_": "811",
+      "gewicht_t": "811",
       "country": "J"
     },
     {
@@ -351,7 +351,7 @@
       "hubraum_ccm": "120000",
       "leistung_kw": "3000",
       "länge_m": "18,55",
-      "gewicht_t_": "737",
+      "gewicht_t": "737",
       "country": "D"
     },
     {},

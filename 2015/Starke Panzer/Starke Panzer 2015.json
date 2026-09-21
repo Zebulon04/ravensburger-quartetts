@@ -9,7 +9,7 @@
       "leistung_kw": "224",
       "geschwindigkeit_km_h": "100",
       "reichweite_km": "800",
-      "gewicht_t_": "15",
+      "gewicht_t": "15",
       "länge_m": "7,2",
       "country": "AUS",
       "info_right": "Besatzung: 1 + 9 Personen"
@@ -21,7 +21,7 @@
       "leistung_kw": "530",
       "geschwindigkeit_km_h": "103",
       "reichweite_km": "1050",
-      "gewicht_t_": "33",
+      "gewicht_t": "33",
       "länge_m": "7,9",
       "country": "D/NL",
       "info_right": "Besatzung: 1 + 9 Personen"
@@ -33,7 +33,7 @@
       "leistung_kw": "400",
       "geschwindigkeit_km_h": "110",
       "reichweite_km": "600",
-      "gewicht_t_": "24",
+      "gewicht_t": "24",
       "länge_m": "6",
       "country": "S",
       "info_right": "Besatzung: 1 + 8 Personen"
@@ -45,7 +45,7 @@
       "leistung_kw": "331",
       "geschwindigkeit_km_h": "90",
       "reichweite_km": "750",
-      "gewicht_t_": "25",
+      "gewicht_t": "25",
       "länge_m": "7,9",
       "country": "D",
       "info_right": "Besatzung: 1 + 10 Personen"
@@ -57,7 +57,7 @@
       "leistung_kw": "1103",
       "geschwindigkeit_km_h": "72",
       "reichweite_km": "450",
-      "gewicht_t_": "65,7",
+      "gewicht_t": "65,7",
       "länge_m": "10,9",
       "country": "D",
       "info_right": "Kampfpanzer mit 120 mm-Kanone, 2 MG's"
@@ -69,7 +69,7 @@
       "leistung_kw": "1103",
       "geschwindigkeit_km_h": "75",
       "reichweite_km": "550",
-      "gewicht_t_": "56,5",
+      "gewicht_t": "56,5",
       "länge_m": "9,9",
       "country": "F",
       "info_right": "Kampfpanzer mit 120 mm-Kanone, 2 MG's"
@@ -81,7 +81,7 @@
       "leistung_kw": "937",
       "geschwindigkeit_km_h": "65",
       "reichweite_km": "570",
-      "gewicht_t_": "53,9",
+      "gewicht_t": "53,9",
       "länge_m": "9,7",
       "country": "I",
       "info_right": "Kampfpanzer mit 120 mm-Kanone, 2 MG's"
@@ -93,7 +93,7 @@
       "leistung_kw": "1103",
       "geschwindigkeit_km_h": "70",
       "reichweite_km": "500",
-      "gewicht_t_": "65",
+      "gewicht_t": "65",
       "länge_m": "9,1",
       "country": "IL",
       "info_right": "Kampfpanzer mit 120 mm-Kanone, 2 MG's"
@@ -105,7 +105,7 @@
       "leistung_kw": "530",
       "geschwindigkeit_km_h": "60",
       "reichweite_km": "500",
-      "gewicht_t_": "31,5",
+      "gewicht_t": "31,5",
       "länge_m": "10,3",
       "country": "D",
       "info_right": "Luftverladbares 155 mm Artilleriesystem"
@@ -117,7 +117,7 @@
       "leistung_kw": "618",
       "geschwindigkeit_km_h": "60",
       "reichweite_km": "500",
-      "gewicht_t_": "42",
+      "gewicht_t": "42",
       "länge_m": "11,9",
       "country": "RUS",
       "info_right": "Panzerhaubitze mit 152 mm-Kanone"
@@ -129,7 +129,7 @@
       "leistung_kw": "441",
       "geschwindigkeit_km_h": "60",
       "reichweite_km": "450",
-      "gewicht_t_": "24,9",
+      "gewicht_t": "24,9",
       "länge_m": "11,4",
       "country": "USA",
       "info_right": "Panzerhaubitze mit 155 mm-Kanone"
@@ -141,7 +141,7 @@
       "leistung_kw": "736",
       "geschwindigkeit_km_h": "61",
       "reichweite_km": "420",
-      "gewicht_t_": "55",
+      "gewicht_t": "55",
       "länge_m": "11,7",
       "country": "D",
       "info_right": "Modernes Rohrartilleriesystem mit 155 mm-Kanone"
@@ -153,7 +153,7 @@
       "leistung_kw": "412",
       "geschwindigkeit_km_h": "48",
       "reichweite_km": "400",
-      "gewicht_t_": "48",
+      "gewicht_t": "48",
       "länge_m": "9",
       "country": "GB",
       "info_right": "Flakpanzer mit Zwillingskanone"
@@ -165,7 +165,7 @@
       "leistung_kw": "610",
       "geschwindigkeit_km_h": "65",
       "reichweite_km": "550",
-      "gewicht_t_": "47,5",
+      "gewicht_t": "47,5",
       "länge_m": "7,7",
       "country": "D",
       "info_right": "Flakpanzer mit Radarsteuerung"
@@ -177,7 +177,7 @@
       "leistung_kw": "177",
       "geschwindigkeit_km_h": "62",
       "reichweite_km": "500",
-      "gewicht_t_": "12,3",
+      "gewicht_t": "12,3",
       "länge_m": "6,6",
       "country": "RUS",
       "info_right": "Flakpanzer mit 4 Boden-Luft-Raketen"
@@ -189,7 +189,7 @@
       "leistung_kw": "158",
       "geschwindigkeit_km_h": "58",
       "reichweite_km": "400",
-      "gewicht_t_": "15,8",
+      "gewicht_t": "15,8",
       "länge_m": "4,9",
       "country": "CDN",
       "info_right": "Kurzstrecken-Lenkwaffensystem auf Schützenpanzerbasis"
@@ -201,7 +201,7 @@
       "leistung_kw": "882",
       "geschwindigkeit_km_h": "59",
       "reichweite_km": "450",
-      "gewicht_t_": "62,5",
+      "gewicht_t": "62,5",
       "länge_m": "8,5",
       "country": "GB",
       "info_right": "Minenräumpanzer mit 3 Mann Besatzung"
@@ -213,7 +213,7 @@
       "leistung_kw": "1103",
       "geschwindigkeit_km_h": "72",
       "reichweite_km": "450",
-      "gewicht_t_": "50",
+      "gewicht_t": "50",
       "länge_m": "15",
       "country": "D",
       "info_right": "Brückenlegepanzer mit zwei 14 m Brücken"
@@ -225,7 +225,7 @@
       "leistung_kw": "2015",
       "geschwindigkeit_km_h": "70",
       "reichweite_km": "80",
-      "gewicht_t_": "37",
+      "gewicht_t": "37",
       "länge_m": "7,1",
       "country": "USA",
       "info_right": "Amphibisches Landungsfahrzeug, zu Wasser 37 km/h schnell"
@@ -237,7 +237,7 @@
       "leistung_kw": "368",
       "geschwindigkeit_km_h": "56",
       "reichweite_km": "480",
-      "gewicht_t_": "26,6",
+      "gewicht_t": "26,6",
       "länge_m": "7",
       "country": "D",
       "info_right": "Artillerieraketensystem mit 3 Mann Besatzung"
@@ -249,7 +249,7 @@
       "leistung_kw": "382",
       "geschwindigkeit_km_h": "110",
       "reichweite_km": "800",
-      "gewicht_t_": "28",
+      "gewicht_t": "28",
       "länge_m": "7,9",
       "country": "I",
       "info_right": "Radpanzer mit 105 mm-Kanone"
@@ -261,7 +261,7 @@
       "leistung_kw": "412",
       "geschwindigkeit_km_h": "120",
       "reichweite_km": "1000",
-      "gewicht_t_": "28",
+      "gewicht_t": "28",
       "länge_m": "8,2",
       "country": "ZA",
       "info_right": "Radpanzer mit 105 mm-Kanone"
@@ -273,7 +273,7 @@
       "leistung_kw": "202",
       "geschwindigkeit_km_h": "95",
       "reichweite_km": "600",
-      "gewicht_t_": "18,5",
+      "gewicht_t": "18,5",
       "länge_m": "6,7",
       "country": "USA",
       "info_right": "Radpanzer mit 105 mm-Kanone"
@@ -285,7 +285,7 @@
       "leistung_kw": "261",
       "geschwindigkeit_km_h": "95",
       "reichweite_km": "800",
-      "gewicht_t_": "18",
+      "gewicht_t": "18",
       "länge_m": "8,8",
       "country": "CH",
       "info_right": "Radpanzer mit 105 mm-Kanone"
@@ -297,7 +297,7 @@
       "leistung_kw": "160",
       "geschwindigkeit_km_h": "100",
       "reichweite_km": "1000",
-      "gewicht_t_": "11,9",
+      "gewicht_t": "11,9",
       "länge_m": "6,8",
       "country": "D",
       "info_right": "Besatzung: bis zu 8 Personen"
@@ -309,7 +309,7 @@
       "leistung_kw": "200",
       "geschwindigkeit_km_h": "115",
       "reichweite_km": "600",
-      "gewicht_t_": "10,4",
+      "gewicht_t": "10,4",
       "länge_m": "5,8",
       "country": "AUS",
       "info_right": "Besatzung: bis zu 6 Personen"
@@ -321,7 +321,7 @@
       "leistung_kw": "107",
       "geschwindigkeit_km_h": "90",
       "reichweite_km": "500",
-      "gewicht_t_": "5,9",
+      "gewicht_t": "5,9",
       "länge_m": "4,7",
       "country": "D",
       "info_right": "Besatzung: bis zu 2 Personen"
@@ -333,7 +333,7 @@
       "leistung_kw": "177",
       "geschwindigkeit_km_h": "105",
       "reichweite_km": "1000",
-      "gewicht_t_": "12",
+      "gewicht_t": "12",
       "länge_m": "5,6",
       "country": "D",
       "info_right": "Besatzung: bis zu 3 Personen"
@@ -345,7 +345,7 @@
       "leistung_kw": "441",
       "geschwindigkeit_km_h": "56",
       "reichweite_km": "420",
-      "gewicht_t_": "32",
+      "gewicht_t": "32",
       "länge_m": "6,6",
       "country": "USA",
       "info_right": "Schützenpanzer mit 25 mm-Maschinenkanone"
@@ -357,7 +357,7 @@
       "leistung_kw": "530",
       "geschwindigkeit_km_h": "70",
       "reichweite_km": "500",
-      "gewicht_t_": "29",
+      "gewicht_t": "29",
       "länge_m": "7",
       "country": "A",
       "info_right": "Schützenpanzer mit 30 mm-Maschinenkanone"
@@ -369,7 +369,7 @@
       "leistung_kw": "800",
       "geschwindigkeit_km_h": "70",
       "reichweite_km": "600",
-      "gewicht_t_": "31,5",
+      "gewicht_t": "31,5",
       "länge_m": "7,4",
       "country": "D",
       "info_right": "Schützenpanzer mit 30 mm-Maschinenkanone"
@@ -381,7 +381,7 @@
       "leistung_kw": "404",
       "geschwindigkeit_km_h": "75",
       "reichweite_km": "660",
-      "gewicht_t_": "24,5",
+      "gewicht_t": "24,5",
       "länge_m": "6,3",
       "country": "GB",
       "info_right": "Schützenpanzer mit 30 mm-Maschinenkanone"

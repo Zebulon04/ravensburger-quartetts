@@ -1,0 +1,234 @@
+{
+  "year": 0,
+  "collection": "Jets",
+  "cards": [
+    {
+      "card": "1A",
+      "name": "Cessna Citation Jet",
+      "max._startgewicht_kg": "4717",
+      "geschwindigkeit_km_h": "700",
+      "max._flughöhe_m": "12500",
+      "länge_m": "12,58"
+    },
+    {
+      "card": "1B",
+      "name": "Swearigen SJ 30",
+      "max._startgewicht_kg": "5580",
+      "geschwindigkeit_km_h": "825",
+      "max._flughöhe_m": "13100",
+      "länge_m": "12,09"
+    },
+    {
+      "card": "1C",
+      "name": "IAI 1124 „Westwind“",
+      "max._startgewicht_kg": "10375",
+      "geschwindigkeit_km_h": "858",
+      "max._flughöhe_m": "12500",
+      "länge_m": "15,93"
+    },
+    {
+      "card": "1D",
+      "name": "Beech Beechjet 400",
+      "max._startgewicht_kg": "7309",
+      "geschwindigkeit_km_h": "850",
+      "max._flughöhe_m": "11800",
+      "länge_m": "14,8"
+    },
+    {
+      "card": "2A",
+      "name": "Canadair CRJ 700",
+      "max._startgewicht_kg": "32885",
+      "geschwindigkeit_km_h": "785",
+      "max._flughöhe_m": "10600",
+      "länge_m": "32,41"
+    },
+    {
+      "card": "2B",
+      "name": "British Aerospace 146-200",
+      "max._startgewicht_kg": "42185",
+      "geschwindigkeit_km_h": "730",
+      "max._flughöhe_m": "9600",
+      "länge_m": "28,55"
+    },
+    {
+      "card": "2C",
+      "name": "Fokker 100",
+      "max._startgewicht_kg": "43320",
+      "geschwindigkeit_km_h": "770",
+      "max._flughöhe_m": "10600",
+      "länge_m": "35,53"
+    },
+    {
+      "card": "2D",
+      "name": "Fairchild 328 Jet",
+      "max._startgewicht_kg": "15200",
+      "geschwindigkeit_km_h": "720",
+      "max._flughöhe_m": "7000",
+      "länge_m": "21,28"
+    },
+    {
+      "card": "3A",
+      "name": "Boeing 737-700",
+      "max._startgewicht_kg": "60320",
+      "geschwindigkeit_km_h": "785",
+      "max._flughöhe_m": "12400",
+      "länge_m": "33,6"
+    },
+    {
+      "card": "3B",
+      "name": "Airbus A319-100",
+      "max._startgewicht_kg": "64000",
+      "geschwindigkeit_km_h": "803",
+      "max._flughöhe_m": "11820",
+      "länge_m": "33,84"
+    },
+    {
+      "card": "3C",
+      "name": "Yakoklev Yak-42",
+      "max._startgewicht_kg": "56500",
+      "geschwindigkeit_km_h": "750",
+      "max._flughöhe_m": "9050",
+      "länge_m": "36,38"
+    },
+    {
+      "card": "3D",
+      "name": "Airbus A330-300",
+      "max._startgewicht_kg": "230000",
+      "geschwindigkeit_km_h": "846",
+      "max._flughöhe_m": "11820",
+      "länge_m": "63,7"
+    },
+    {
+      "card": "4A",
+      "name": "Airbus A340-800",
+      "max._startgewicht_kg": "365000",
+      "geschwindigkeit_km_h": "857",
+      "max._flughöhe_m": "11820",
+      "länge_m": "63,45"
+    },
+    {
+      "card": "4B",
+      "name": "Boeing 747-400",
+      "max._startgewicht_kg": "396900",
+      "geschwindigkeit_km_h": "920",
+      "max._flughöhe_m": "10600",
+      "länge_m": "70,7"
+    },
+    {
+      "card": "4C",
+      "name": "BAe/Aerospatiale „Concorde“",
+      "max._startgewicht_kg": "185065",
+      "geschwindigkeit_km_h": "2170",
+      "max._flughöhe_m": "15550",
+      "länge_m": "62,17"
+    },
+    {
+      "card": "4D",
+      "name": "Ilyushin IL-96",
+      "max._startgewicht_kg": "216000",
+      "geschwindigkeit_km_h": "860",
+      "max._flughöhe_m": "10000",
+      "länge_m": "55,35"
+    },
+    {
+      "card": "5A",
+      "name": "McDonnell Douglas DC-8-73F",
+      "max._startgewicht_kg": "161000",
+      "geschwindigkeit_km_h": "880",
+      "max._flughöhe_m": "11600",
+      "länge_m": "57,1"
+    },
+    {
+      "card": "5B",
+      "name": "Airbus A310-200F",
+      "max._startgewicht_kg": "142000",
+      "geschwindigkeit_km_h": "840",
+      "max._flughöhe_m": "11200",
+      "länge_m": "46,66"
+    },
+    {
+      "card": "5C",
+      "name": "Boeing 757-200PF",
+      "max._startgewicht_kg": "115650",
+      "geschwindigkeit_km_h": "860",
+      "max._flughöhe_m": "11600",
+      "länge_m": "47,3"
+    },
+    {
+      "card": "5D",
+      "name": "Boeing 767-300F (ER)",
+      "max._startgewicht_kg": "186850",
+      "geschwindigkeit_km_h": "860",
+      "max._flughöhe_m": "10600",
+      "länge_m": "55"
+    },
+    {
+      "card": "6A",
+      "name": "Airbus A300-600SAT „Beluga“",
+      "max._startgewicht_kg": "150000",
+      "geschwindigkeit_km_h": "780",
+      "max._flughöhe_m": "10000",
+      "länge_m": "56,16"
+    },
+    {
+      "card": "6B",
+      "name": "Ilyushin IL-76MF",
+      "max._startgewicht_kg": "190000",
+      "geschwindigkeit_km_h": "825",
+      "max._flughöhe_m": "13100",
+      "länge_m": "12,09"
+    },
+    {
+      "card": "6C",
+      "name": "Boeing 747-100",
+      "max._startgewicht_kg": "340200",
+      "geschwindigkeit_km_h": "920",
+      "max._flughöhe_m": "10600",
+      "länge_m": "70,7"
+    },
+    {
+      "card": "6D",
+      "name": "Antonov An-225",
+      "max._startgewicht_kg": "600000",
+      "geschwindigkeit_km_h": "820",
+      "max._flughöhe_m": "10000",
+      "länge_m": "84"
+    },
+    {
+      "card": "7A",
+      "name": "Dassault „Rafale“",
+      "max._startgewicht_kg": "22500",
+      "geschwindigkeit_km_h": "2350",
+      "max._flughöhe_m": "16775",
+      "länge_m": "15,27"
+    },
+    {
+      "card": "7B",
+      "name": "Sukhoi S-37",
+      "max._startgewicht_kg": "17700",
+      "geschwindigkeit_km_h": "2350",
+      "max._flughöhe_m": "17900",
+      "länge_m": "21,9"
+    },
+    {
+      "card": "7C",
+      "name": "AMX International „AMX-1“",
+      "max._startgewicht_kg": "13000",
+      "geschwindigkeit_km_h": "849",
+      "max._flughöhe_m": "12900",
+      "länge_m": "13,23"
+    },
+    {
+      "card": "7D",
+      "name": "Saab JAS39 „Gripen“",
+      "max._startgewicht_kg": "13000",
+      "geschwindigkeit_km_h": "1700",
+      "max._flughöhe_m": "18000",
+      "länge_m": "14,1"
+    },
+    {},
+    {},
+    {},
+    {}
+  ]
+}

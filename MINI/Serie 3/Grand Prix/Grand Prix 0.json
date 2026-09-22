@@ -1,0 +1,234 @@
+{
+  "year": 0,
+  "collection": "Grand Prix",
+  "cards": [
+    {
+      "card": "1A",
+      "name": "Aprilia 125",
+      "hubraum_ccm": "125",
+      "leistung_kw": "35",
+      "drehzahl_u_min": "13800",
+      "tempo_km_h": "229"
+    },
+    {
+      "card": "1B",
+      "name": "Honda NSR 125",
+      "hubraum_ccm": "124",
+      "leistung_kw": "33",
+      "drehzahl_u_min": "12250",
+      "tempo_km_h": "230"
+    },
+    {
+      "card": "1C",
+      "name": "Honda NSR 125",
+      "hubraum_ccm": "124",
+      "leistung_kw": "33",
+      "drehzahl_u_min": "12250",
+      "tempo_km_h": "230"
+    },
+    {
+      "card": "1D",
+      "name": "Honda 125 RS",
+      "hubraum_ccm": "125",
+      "leistung_kw": "34",
+      "drehzahl_u_min": "12900",
+      "tempo_km_h": "241"
+    },
+    {
+      "card": "2A",
+      "name": "Honda NSR 250",
+      "hubraum_ccm": "249",
+      "leistung_kw": "65",
+      "drehzahl_u_min": "12500",
+      "tempo_km_h": "270"
+    },
+    {
+      "card": "2B",
+      "name": "Aprilia RSV 250",
+      "hubraum_ccm": "250",
+      "leistung_kw": "69",
+      "drehzahl_u_min": "12800",
+      "tempo_km_h": "275"
+    },
+    {
+      "card": "2C",
+      "name": "Honda NSR 250",
+      "hubraum_ccm": "249",
+      "leistung_kw": "68",
+      "drehzahl_u_min": "13400",
+      "tempo_km_h": "261"
+    },
+    {
+      "card": "2D",
+      "name": "Aprilia RSV 250",
+      "hubraum_ccm": "250",
+      "leistung_kw": "69",
+      "drehzahl_u_min": "12800",
+      "tempo_km_h": "275"
+    },
+    {
+      "card": "3A",
+      "name": "Honda NSR 500",
+      "hubraum_ccm": "499",
+      "leistung_kw": "142",
+      "drehzahl_u_min": "10750",
+      "tempo_km_h": "310"
+    },
+    {
+      "card": "3B",
+      "name": "Yamaha Y2R 500",
+      "hubraum_ccm": "499",
+      "leistung_kw": "150",
+      "drehzahl_u_min": "13700",
+      "tempo_km_h": "303"
+    },
+    {
+      "card": "3C",
+      "name": "Aprilia RSV 500",
+      "hubraum_ccm": "495",
+      "leistung_kw": "117",
+      "drehzahl_u_min": "12000",
+      "tempo_km_h": "300"
+    },
+    {
+      "card": "3D",
+      "name": "MuZ Weber",
+      "hubraum_ccm": "499",
+      "leistung_kw": "146",
+      "drehzahl_u_min": "12500",
+      "tempo_km_h": "304"
+    },
+    {
+      "card": "4A",
+      "name": "Yamaha R7",
+      "hubraum_ccm": "749",
+      "leistung_kw": "116",
+      "drehzahl_u_min": "14300",
+      "tempo_km_h": "290"
+    },
+    {
+      "card": "4B",
+      "name": "Kawasaki ZX-7RR",
+      "hubraum_ccm": "749",
+      "leistung_kw": "116",
+      "drehzahl_u_min": "13800",
+      "tempo_km_h": "300"
+    },
+    {
+      "card": "4C",
+      "name": "Ducati 996 Corse",
+      "hubraum_ccm": "996",
+      "leistung_kw": "118",
+      "drehzahl_u_min": "11500",
+      "tempo_km_h": "310"
+    },
+    {
+      "card": "4D",
+      "name": "Honda RC",
+      "hubraum_ccm": "749",
+      "leistung_kw": "112",
+      "drehzahl_u_min": "14400",
+      "tempo_km_h": "302"
+    },
+    {
+      "card": "5A",
+      "name": "Windle Honda",
+      "hubraum_ccm": "500",
+      "leistung_kw": "141",
+      "drehzahl_u_min": "13000",
+      "tempo_km_h": "280"
+    },
+    {
+      "card": "5B",
+      "name": "LCR Swissauto",
+      "hubraum_ccm": "499",
+      "leistung_kw": "136",
+      "drehzahl_u_min": "13500",
+      "tempo_km_h": "272"
+    },
+    {
+      "card": "5C",
+      "name": "LCR FM",
+      "hubraum_ccm": "499",
+      "leistung_kw": "124",
+      "drehzahl_u_min": "13000",
+      "tempo_km_h": "258"
+    },
+    {
+      "card": "5D",
+      "name": "LCR Suzuki",
+      "hubraum_ccm": "1200",
+      "leistung_kw": "141",
+      "drehzahl_u_min": "11400",
+      "tempo_km_h": "285"
+    },
+    {
+      "card": "6A",
+      "name": "Honda CR 250",
+      "hubraum_ccm": "249",
+      "leistung_kw": "41",
+      "drehzahl_u_min": "8900",
+      "tempo_km_h": "158"
+    },
+    {
+      "card": "6B",
+      "name": "Yamaha YZ 250",
+      "hubraum_ccm": "249",
+      "leistung_kw": "43",
+      "drehzahl_u_min": "8500",
+      "tempo_km_h": "165"
+    },
+    {
+      "card": "6C",
+      "name": "Suzuki RM 250",
+      "hubraum_ccm": "249",
+      "leistung_kw": "38",
+      "drehzahl_u_min": "8300",
+      "tempo_km_h": "163"
+    },
+    {
+      "card": "6D",
+      "name": "Kawasaki 500",
+      "hubraum_ccm": "498",
+      "leistung_kw": "60",
+      "drehzahl_u_min": "8900",
+      "tempo_km_h": "183"
+    },
+    {
+      "card": "7A",
+      "name": "JS-Jawa Typ 894",
+      "hubraum_ccm": "498",
+      "leistung_kw": "51",
+      "drehzahl_u_min": "13000",
+      "tempo_km_h": "185"
+    },
+    {
+      "card": "7B",
+      "name": "GR-Jawa Typ 894",
+      "hubraum_ccm": "499",
+      "leistung_kw": "56",
+      "drehzahl_u_min": "13300",
+      "tempo_km_h": "189"
+    },
+    {
+      "card": "7C",
+      "name": "AW-Jawa 894",
+      "hubraum_ccm": "498",
+      "leistung_kw": "55",
+      "drehzahl_u_min": "13100",
+      "tempo_km_h": "186"
+    },
+    {
+      "card": "7D",
+      "name": "TD-Jawa 894",
+      "hubraum_ccm": "498",
+      "leistung_kw": "54",
+      "drehzahl_u_min": "13400",
+      "tempo_km_h": "184"
+    },
+    {},
+    {},
+    {},
+    {}
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "year": 0,
+  "collection": "Power Trucks",
+  "cards": [
+    {
+      "card": "1A",
+      "name": "Liaz 250",
+      "hubraum_ccm": "11980",
+      "leistung_kw": "706",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "160"
+    },
+    {
+      "card": "1B",
+      "name": "DAF FTR 85",
+      "hubraum_ccm": "11989",
+      "leistung_kw": "809",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "160"
+    },
+    {
+      "card": "1C",
+      "name": "Leyland Roadtrain",
+      "hubraum_ccm": "10571",
+      "leistung_kw": "551",
+      "zylinder": "8",
+      "geschwindigkeit_km_h": "160"
+    },
+    {
+      "card": "1D",
+      "name": "MAN 18.423",
+      "hubraum_ccm": "11961",
+      "leistung_kw": "882",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "160"
+    },
+    {
+      "card": "2A",
+      "name": "Iveco Eurostar 440ES47",
+      "hubraum_ccm": "13798",
+      "leistung_kw": "345",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "124"
+    },
+    {
+      "card": "2B",
+      "name": "Mercedes Actros 1848",
+      "hubraum_ccm": "15998",
+      "leistung_kw": "350",
+      "zylinder": "8",
+      "geschwindigkeit_km_h": "118"
+    },
+    {
+      "card": "2C",
+      "name": "DAF 95XF 480",
+      "hubraum_ccm": "12578",
+      "leistung_kw": "355",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "123"
+    },
+    {
+      "card": "2D",
+      "name": "Renault Magnum AE 430 ti",
+      "hubraum_ccm": "11981",
+      "leistung_kw": "315",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "113"
+    },
+    {
+      "card": "3A",
+      "name": "Ford Aeromax",
+      "hubraum_ccm": "14125",
+      "leistung_kw": "320",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "127"
+    },
+    {
+      "card": "3B",
+      "name": "Peterbilt Conventional",
+      "hubraum_ccm": "16200",
+      "leistung_kw": "348",
+      "zylinder": "8",
+      "geschwindigkeit_km_h": "143"
+    },
+    {
+      "card": "3C",
+      "name": "Kenworth W600",
+      "hubraum_ccm": "14103",
+      "leistung_kw": "283",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "125"
+    },
+    {
+      "card": "3D",
+      "name": "Freightliner Cabover",
+      "hubraum_ccm": "16157",
+      "leistung_kw": "318",
+      "zylinder": "8",
+      "geschwindigkeit_km_h": "119"
+    },
+    {
+      "card": "4A",
+      "name": "Fuso Super Great X",
+      "hubraum_ccm": "14150",
+      "leistung_kw": "272",
+      "zylinder": "10",
+      "geschwindigkeit_km_h": "112"
+    },
+    {
+      "card": "4B",
+      "name": "Nissan ATP 4",
+      "hubraum_ccm": "12350",
+      "leistung_kw": "261",
+      "zylinder": "8",
+      "geschwindigkeit_km_h": "121"
+    },
+    {
+      "card": "4C",
+      "name": "Renault Virage VR 20",
+      "hubraum_ccm": "11986",
+      "leistung_kw": "310",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "121"
+    },
+    {
+      "card": "4D",
+      "name": "Volvo ECT",
+      "hubraum_ccm": "-",
+      "leistung_kw": "143",
+      "zylinder": "Gasturbine",
+      "geschwindigkeit_km_h": "131"
+    },
+    {
+      "card": "5A",
+      "name": "Ford",
+      "hubraum_ccm": "-",
+      "leistung_kw": "4412",
+      "zylinder": "Gasturbine",
+      "geschwindigkeit_km_h": "290"
+    },
+    {
+      "card": "5B",
+      "name": "Detroit Diesel Double D",
+      "hubraum_ccm": "17200",
+      "leistung_kw": "559",
+      "zylinder": "20",
+      "geschwindigkeit_km_h": "280"
+    },
+    {
+      "card": "5C",
+      "name": "„Shock Wave“",
+      "hubraum_ccm": "17250",
+      "leistung_kw": "26500",
+      "zylinder": "24",
+      "geschwindigkeit_km_h": "480"
+    },
+    {
+      "card": "5D",
+      "name": "Kenworth",
+      "hubraum_ccm": "7600",
+      "leistung_kw": "1470",
+      "zylinder": "8",
+      "geschwindigkeit_km_h": "340"
+    },
+    {
+      "card": "6A",
+      "name": "Zil Caterpillar",
+      "hubraum_ccm": "11980",
+      "leistung_kw": "735",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "160"
+    },
+    {
+      "card": "6B",
+      "name": "Volvo N10",
+      "hubraum_ccm": "11972",
+      "leistung_kw": "735",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "160"
+    },
+    {
+      "card": "6C",
+      "name": "Sisu SR 340",
+      "hubraum_ccm": "11980",
+      "leistung_kw": "588",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "160"
+    },
+    {
+      "card": "6D",
+      "name": "Scania 111",
+      "hubraum_ccm": "11000",
+      "leistung_kw": "404",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "160"
+    },
+    {
+      "card": "7A",
+      "name": "MAN M2000",
+      "hubraum_ccm": "6900",
+      "leistung_kw": "162",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "105"
+    },
+    {
+      "card": "7B",
+      "name": "DAF 55/210",
+      "hubraum_ccm": "5923",
+      "leistung_kw": "158",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "103"
+    },
+    {
+      "card": "7C",
+      "name": "Iveco Eurocargo",
+      "hubraum_ccm": "5921",
+      "leistung_kw": "152",
+      "zylinder": "6",
+      "geschwindigkeit_km_h": "107"
+    },
+    {
+      "card": "7D",
+      "name": "Mercedes LK",
+      "hubraum_ccm": "4300",
+      "leistung_kw": "125",
+      "zylinder": "4",
+      "geschwindigkeit_km_h": "104"
+    },
+    {},
+    {},
+    {},
+    {}
+  ]
+}

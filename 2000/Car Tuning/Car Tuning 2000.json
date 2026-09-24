@@ -9,7 +9,7 @@
       "hubraum_ccm": "1984",
       "leistung_kw": "107",
       "geschwindigkeit_km_h": "205",
-      "0-100_km_h_sec_": "8,5",
+      "0-100_km_h_sec": "8,5",
       "gewicht_kg": "1145",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 55.000,- DM"
@@ -21,7 +21,7 @@
       "hubraum_ccm": "1984",
       "leistung_kw": "228",
       "geschwindigkeit_km_h": "275",
-      "0-100_km_h_sec_": "5,5",
+      "0-100_km_h_sec": "5,5",
       "gewicht_kg": "1225",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 105.000,- DM"
@@ -33,7 +33,7 @@
       "hubraum_ccm": "1780",
       "leistung_kw": "173",
       "geschwindigkeit_km_h": "246",
-      "0-100_km_h_sec_": "6,5",
+      "0-100_km_h_sec": "6,5",
       "gewicht_kg": "1270",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 65.000,- DM"
@@ -45,7 +45,7 @@
       "hubraum_ccm": "1780",
       "leistung_kw": "173",
       "geschwindigkeit_km_h": "280",
-      "0-100_km_h_sec_": "5,8",
+      "0-100_km_h_sec": "5,8",
       "gewicht_kg": "1280",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 75.000,- DM"
@@ -57,7 +57,7 @@
       "hubraum_ccm": "7255",
       "leistung_kw": "428",
       "geschwindigkeit_km_h": "260",
-      "0-100_km_h_sec_": "5,4",
+      "0-100_km_h_sec": "5,4",
       "gewicht_kg": "2200",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 496.480,- DM"
@@ -69,7 +69,7 @@
       "hubraum_ccm": "6406",
       "leistung_kw": "331",
       "geschwindigkeit_km_h": "304",
-      "0-100_km_h_sec_": "4,5",
+      "0-100_km_h_sec": "4,5",
       "gewicht_kg": "1450",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 189.710,- DM"
@@ -81,7 +81,7 @@
       "hubraum_ccm": "5729",
       "leistung_kw": "294",
       "geschwindigkeit_km_h": "293",
-      "0-100_km_h_sec_": "5,9",
+      "0-100_km_h_sec": "5,9",
       "gewicht_kg": "1875",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 202.130,- DM"
@@ -93,7 +93,7 @@
       "hubraum_ccm": "7255",
       "leistung_kw": "428",
       "geschwindigkeit_km_h": "330",
-      "0-100_km_h_sec_": "4,5",
+      "0-100_km_h_sec": "4,5",
       "gewicht_kg": "1790",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 498.200,- DM"
@@ -105,7 +105,7 @@
       "hubraum_ccm": "2975",
       "leistung_kw": "218",
       "geschwindigkeit_km_h": "283",
-      "0-100_km_h_sec_": "5,1",
+      "0-100_km_h_sec": "5,1",
       "gewicht_kg": "1250",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 162.000,- DM"
@@ -117,7 +117,7 @@
       "hubraum_ccm": "1149",
       "leistung_kw": "71",
       "geschwindigkeit_km_h": "180",
-      "0-100_km_h_sec_": "10",
+      "0-100_km_h_sec": "10",
       "gewicht_kg": "930",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 26.800,- DM"
@@ -129,7 +129,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "146",
       "geschwindigkeit_km_h": "231",
-      "0-100_km_h_sec_": "6,1",
+      "0-100_km_h_sec": "6,1",
       "gewicht_kg": "930",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 63.500,- DM"
@@ -141,7 +141,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "146",
       "geschwindigkeit_km_h": "230",
-      "0-100_km_h_sec_": "7",
+      "0-100_km_h_sec": "7",
       "gewicht_kg": "1200",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 49.000,- DM"
@@ -153,7 +153,7 @@
       "hubraum_ccm": "4398",
       "leistung_kw": "228",
       "geschwindigkeit_km_h": "265",
-      "0-100_km_h_sec_": "5,4",
+      "0-100_km_h_sec": "5,4",
       "gewicht_kg": "1510",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: 220.000,- DM"
@@ -165,7 +165,7 @@
       "hubraum_ccm": "3201",
       "leistung_kw": "236",
       "geschwindigkeit_km_h": "262",
-      "0-100_km_h_sec_": "5,4",
+      "0-100_km_h_sec": "5,4",
       "gewicht_kg": "1385",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: 151.000,- DM"
@@ -177,7 +177,7 @@
       "hubraum_ccm": "3152",
       "leistung_kw": "180",
       "geschwindigkeit_km_h": "260",
-      "0-100_km_h_sec_": "5,8",
+      "0-100_km_h_sec": "5,8",
       "gewicht_kg": "1425",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: 88.890,- DM"
@@ -189,7 +189,7 @@
       "hubraum_ccm": "3201",
       "leistung_kw": "257",
       "geschwindigkeit_km_h": "290",
-      "0-100_km_h_sec_": "5,1",
+      "0-100_km_h_sec": "5,1",
       "gewicht_kg": "1330",
       "tuning": "AC SCHNITZER",
       "info_right": "Unverb. Preisempfehlung: 230.000,- DM"
@@ -201,7 +201,7 @@
       "hubraum_ccm": "2498",
       "leistung_kw": "125",
       "geschwindigkeit_km_h": "230",
-      "0-100_km_h_sec_": "8",
+      "0-100_km_h_sec": "8",
       "gewicht_kg": "1469",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 69.000,- DM"
@@ -213,7 +213,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "147",
       "geschwindigkeit_km_h": "238",
-      "0-100_km_h_sec_": "6,5",
+      "0-100_km_h_sec": "6,5",
       "gewicht_kg": "1075",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 78.000,- DM"
@@ -225,7 +225,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "167",
       "geschwindigkeit_km_h": "238",
-      "0-100_km_h_sec_": "6,8",
+      "0-100_km_h_sec": "6,8",
       "gewicht_kg": "1170",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 150.000,- DM"
@@ -237,7 +237,7 @@
       "hubraum_ccm": "2962",
       "leistung_kw": "215",
       "geschwindigkeit_km_h": "256",
-      "0-100_km_h_sec_": "6,5",
+      "0-100_km_h_sec": "6,5",
       "gewicht_kg": "1695",
       "tuning": "STEINMETZ",
       "info_right": "Unverb. Preisempfehlung: 110.000,- DM"
@@ -249,7 +249,7 @@
       "hubraum_ccm": "3600",
       "leistung_kw": "340",
       "geschwindigkeit_km_h": "306",
-      "0-100_km_h_sec_": "4",
+      "0-100_km_h_sec": "4",
       "gewicht_kg": "1420",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 198.000,- DM"
@@ -261,7 +261,7 @@
       "hubraum_ccm": "3600",
       "leistung_kw": "329",
       "geschwindigkeit_km_h": "304",
-      "0-100_km_h_sec_": "4,5",
+      "0-100_km_h_sec": "4,5",
       "gewicht_kg": "1500",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 304.000,- DM"
@@ -273,7 +273,7 @@
       "hubraum_ccm": "3400",
       "leistung_kw": "220",
       "geschwindigkeit_km_h": "280",
-      "0-100_km_h_sec_": "5,2",
+      "0-100_km_h_sec": "5,2",
       "gewicht_kg": "1395",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 198.000,- DM"
@@ -285,7 +285,7 @@
       "hubraum_ccm": "2500",
       "leistung_kw": "169",
       "geschwindigkeit_km_h": "247",
-      "0-100_km_h_sec_": "6,3",
+      "0-100_km_h_sec": "6,3",
       "gewicht_kg": "1325",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 125.000,- DM"
@@ -297,7 +297,7 @@
       "hubraum_ccm": "1300",
       "leistung_kw": "51",
       "geschwindigkeit_km_h": "162",
-      "0-100_km_h_sec_": "14,3",
+      "0-100_km_h_sec": "14,3",
       "gewicht_kg": "1310",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 28.950.- DM"
@@ -309,7 +309,7 @@
       "hubraum_ccm": "1900",
       "leistung_kw": "95",
       "geschwindigkeit_km_h": "182",
-      "0-100_km_h_sec_": "14,9",
+      "0-100_km_h_sec": "14,9",
       "gewicht_kg": "2500",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 48.950.- DM"
@@ -321,7 +321,7 @@
       "hubraum_ccm": "1679",
       "leistung_kw": "110",
       "geschwindigkeit_km_h": "215",
-      "0-100_km_h_sec_": "8,1",
+      "0-100_km_h_sec": "8,1",
       "gewicht_kg": "1400",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 43.500.- DM"
@@ -333,7 +333,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "220",
       "geschwindigkeit_km_h": "258",
-      "0-100_km_h_sec_": "4,8",
+      "0-100_km_h_sec": "4,8",
       "gewicht_kg": "1680",
       "tuning": "WOLF-CONCEPT",
       "info_right": "Unverb. Preisempfehlung: 85.850.- DM"
@@ -345,7 +345,7 @@
       "hubraum_ccm": "3201",
       "leistung_kw": "257",
       "geschwindigkeit_km_h": "282",
-      "0-100_km_h_sec_": "5",
+      "0-100_km_h_sec": "5",
       "gewicht_kg": "1385",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 154.000,- DM"
@@ -357,7 +357,7 @@
       "hubraum_ccm": "6120",
       "leistung_kw": "331",
       "geschwindigkeit_km_h": "311",
-      "0-100_km_h_sec_": "4,7",
+      "0-100_km_h_sec": "4,7",
       "gewicht_kg": "1680",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 285.000,- DM"
@@ -369,7 +369,7 @@
       "hubraum_ccm": "3201",
       "leistung_kw": "257",
       "geschwindigkeit_km_h": "284",
-      "0-100_km_h_sec_": "5,1",
+      "0-100_km_h_sec": "5,1",
       "gewicht_kg": "1345",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 145.000,- DM"
@@ -381,7 +381,7 @@
       "hubraum_ccm": "3190",
       "leistung_kw": "194",
       "geschwindigkeit_km_h": "267",
-      "0-100_km_h_sec_": "6",
+      "0-100_km_h_sec": "6",
       "gewicht_kg": "1445",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 98.400,- DM"

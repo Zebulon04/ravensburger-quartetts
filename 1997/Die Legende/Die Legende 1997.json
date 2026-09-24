@@ -10,7 +10,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "162",
       "tempo_km_h": "240",
-      "0-100_km_h_sec_": "6,9",
+      "0-100_km_h_sec": "6,9",
       "country": "I",
       "info_right": "Baujahr: 1954-1955"
     },
@@ -22,7 +22,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "176",
       "tempo_km_h": "203",
-      "0-100_km_h_sec_": "6",
+      "0-100_km_h_sec": "6",
       "country": "I",
       "info_right": "Baujahr: 1956"
     },
@@ -34,7 +34,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "176",
       "tempo_km_h": "240",
-      "0-100_km_h_sec_": "7,3",
+      "0-100_km_h_sec": "7,3",
       "country": "I",
       "info_right": "Baujahr: 1962-1964"
     },
@@ -46,7 +46,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "206",
       "tempo_km_h": "250",
-      "0-100_km_h_sec_": "5,6",
+      "0-100_km_h_sec": "5,6",
       "country": "I",
       "info_right": "Baujahr: 1962-1964"
     },
@@ -58,7 +58,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "259",
       "tempo_km_h": "274",
-      "0-100_km_h_sec_": "6,1",
+      "0-100_km_h_sec": "6,1",
       "country": "I",
       "info_right": "Baujahr: 1968-1973"
     },
@@ -70,7 +70,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "259",
       "tempo_km_h": "270",
-      "0-100_km_h_sec_": "6,3",
+      "0-100_km_h_sec": "6,3",
       "country": "I",
       "info_right": "Baujahr: 1969-1973"
     },
@@ -82,7 +82,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "259",
       "tempo_km_h": "280",
-      "0-100_km_h_sec_": "5,2",
+      "0-100_km_h_sec": "5,2",
       "country": "I",
       "info_right": "Baujahr: 1970"
     },
@@ -94,7 +94,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "294",
       "tempo_km_h": "290",
-      "0-100_km_h_sec_": "5,6",
+      "0-100_km_h_sec": "5,6",
       "country": "I",
       "info_right": "Baujahr: 1971-1973"
     },
@@ -106,7 +106,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "81",
       "tempo_km_h": "190",
-      "0-100_km_h_sec_": "9,5",
+      "0-100_km_h_sec": "9,5",
       "country": "I",
       "info_right": "Baujahr: 1948-1951"
     },
@@ -118,7 +118,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "99",
       "tempo_km_h": "190",
-      "0-100_km_h_sec_": "10",
+      "0-100_km_h_sec": "10",
       "country": "I",
       "info_right": "Baujahr: 1950"
     },
@@ -130,7 +130,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "125",
       "tempo_km_h": "190",
-      "0-100_km_h_sec_": "8,2",
+      "0-100_km_h_sec": "8,2",
       "country": "I",
       "info_right": "Baujahr: 1952"
     },
@@ -142,7 +142,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "96",
       "tempo_km_h": "190",
-      "0-100_km_h_sec_": "9,1",
+      "0-100_km_h_sec": "9,1",
       "country": "I",
       "info_right": "Baujahr: 1952"
     },
@@ -154,7 +154,7 @@
       "zylinder": "4, Reihe",
       "leistung_kw": "129",
       "tempo_km_h": "240",
-      "0-100_km_h_sec_": "6,9",
+      "0-100_km_h_sec": "6,9",
       "country": "I",
       "info_right": "Baujahr: 1952-1953"
     },
@@ -166,7 +166,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "331",
       "tempo_km_h": "300",
-      "0-100_km_h_sec_": "4,2",
+      "0-100_km_h_sec": "4,2",
       "country": "I",
       "info_right": "Baujahr: 1967"
     },
@@ -178,7 +178,7 @@
       "zylinder": "V 12, 65°",
       "leistung_kw": "515",
       "tempo_km_h": "330",
-      "0-100_km_h_sec_": "3",
+      "0-100_km_h_sec": "3",
       "country": "I",
       "info_right": "Baujahr: 1990"
     },
@@ -190,7 +190,7 @@
       "zylinder": "V 10, 72°",
       "leistung_kw": "528",
       "tempo_km_h": "338",
-      "0-100_km_h_sec_": "2,2",
+      "0-100_km_h_sec": "2,2",
       "country": "I",
       "info_right": "Baujahr: 1996"
     },
@@ -202,7 +202,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "176",
       "tempo_km_h": "225",
-      "0-100_km_h_sec_": "8,3",
+      "0-100_km_h_sec": "8,3",
       "country": "I",
       "info_right": "Baujahr: 1957"
     },
@@ -214,7 +214,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "191",
       "tempo_km_h": "235",
-      "0-100_km_h_sec_": "8",
+      "0-100_km_h_sec": "8",
       "country": "I",
       "info_right": "Baujahr: 1964-1966"
     },
@@ -226,7 +226,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "235",
       "tempo_km_h": "244",
-      "0-100_km_h_sec_": "7,3",
+      "0-100_km_h_sec": "7,3",
       "country": "I",
       "info_right": "Baujahr: 1969-1970"
     },
@@ -238,7 +238,7 @@
       "zylinder": "V 8, 90°",
       "leistung_kw": "221",
       "tempo_km_h": "255",
-      "0-100_km_h_sec_": "7",
+      "0-100_km_h_sec": "7",
       "country": "I",
       "info_right": "Baujahr: 1989-1993"
     },
@@ -250,7 +250,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "221",
       "tempo_km_h": "250",
-      "0-100_km_h_sec_": "7,2",
+      "0-100_km_h_sec": "7,2",
       "country": "I",
       "info_right": "Baujahr: 1963-1964"
     },
@@ -262,7 +262,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "221",
       "tempo_km_h": "250",
-      "0-100_km_h_sec_": "7,2",
+      "0-100_km_h_sec": "7,2",
       "country": "I",
       "info_right": "Baujahr: 1964-1966"
     },
@@ -274,7 +274,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "221",
       "tempo_km_h": "245",
-      "0-100_km_h_sec_": "7,4",
+      "0-100_km_h_sec": "7,4",
       "country": "I",
       "info_right": "Baujahr: 1966-1967"
     },
@@ -286,7 +286,7 @@
       "zylinder": "V 12, 60°",
       "leistung_kw": "235",
       "tempo_km_h": "243",
-      "0-100_km_h_sec_": "6,4",
+      "0-100_km_h_sec": "6,4",
       "country": "I",
       "info_right": "Baujahr: 1966-1968"
     },
@@ -298,7 +298,7 @@
       "zylinder": "V 6, 65°",
       "leistung_kw": "147",
       "tempo_km_h": "250",
-      "0-100_km_h_sec_": "6,2",
+      "0-100_km_h_sec": "6,2",
       "country": "I",
       "info_right": "Baujahr: 1967"
     },
@@ -310,7 +310,7 @@
       "zylinder": "V 6, 60°",
       "leistung_kw": "143",
       "tempo_km_h": "240",
-      "0-100_km_h_sec_": "7,2",
+      "0-100_km_h_sec": "7,2",
       "country": "I",
       "info_right": "Baujahr: 1969-1973"
     },
@@ -322,7 +322,7 @@
       "zylinder": "V 6, 65°",
       "leistung_kw": "143",
       "tempo_km_h": "238",
-      "0-100_km_h_sec_": "7,4",
+      "0-100_km_h_sec": "7,4",
       "country": "I",
       "info_right": "Baujahr: 1972-1973"
     },
@@ -334,7 +334,7 @@
       "zylinder": "V 8, 90°",
       "leistung_kw": "187",
       "tempo_km_h": "240",
-      "0-100_km_h_sec_": "6",
+      "0-100_km_h_sec": "6",
       "country": "I",
       "info_right": "Baujahr: 1973-1979"
     },
@@ -346,7 +346,7 @@
       "zylinder": "V 12, 65°",
       "leistung_kw": "325",
       "tempo_km_h": "310",
-      "0-100_km_h_sec_": "5,2",
+      "0-100_km_h_sec": "5,2",
       "country": "I",
       "info_right": "Baujahr: seit 1992"
     },
@@ -358,7 +358,7 @@
       "zylinder": "V 8, 90°",
       "leistung_kw": "279",
       "tempo_km_h": "295",
-      "0-100_km_h_sec_": "4,7",
+      "0-100_km_h_sec": "4,7",
       "country": "I",
       "info_right": "Baujahr: seit 1994"
     },
@@ -370,7 +370,7 @@
       "zylinder": "V 12, 65°",
       "leistung_kw": "382",
       "tempo_km_h": "325",
-      "0-100_km_h_sec_": "3,9",
+      "0-100_km_h_sec": "3,9",
       "country": "I",
       "info_right": "Baujahr: seit 1995"
     },
@@ -382,7 +382,7 @@
       "zylinder": "V 12, 65°",
       "leistung_kw": "357",
       "tempo_km_h": "320",
-      "0-100_km_h_sec_": "4,4",
+      "0-100_km_h_sec": "4,4",
       "country": "I",
       "info_right": "Baujahr: seit 1996"
     }

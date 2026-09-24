@@ -9,7 +9,7 @@
       "hubraum_ccm": "6233",
       "leistung_kw": "537",
       "geschwindigkeit_km_h": "362",
-      "0-100_km_h_sec_": "4",
+      "0-100_km_h_sec": "4",
       "gewicht_kg": "1982",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 348.000.- EUR"
@@ -21,7 +21,7 @@
       "hubraum_ccm": "6034",
       "leistung_kw": "327",
       "geschwindigkeit_km_h": "262",
-      "0-100_km_h_sec_": "5,5",
+      "0-100_km_h_sec": "5,5",
       "gewicht_kg": "2210",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 165.000.- EUR"
@@ -33,7 +33,7 @@
       "hubraum_ccm": "5439",
       "leistung_kw": "404",
       "geschwindigkeit_km_h": "335",
-      "0-100_km_h_sec_": "4,3",
+      "0-100_km_h_sec": "4,3",
       "gewicht_kg": "1955",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 197.000.- EUR"
@@ -45,7 +45,7 @@
       "hubraum_ccm": "6298",
       "leistung_kw": "471",
       "geschwindigkeit_km_h": "300",
-      "0-100_km_h_sec_": "4,9",
+      "0-100_km_h_sec": "4,9",
       "gewicht_kg": "2735",
       "tuning": "BRABUS",
       "info_right": "Unverb. Preisempfehlung: 564.780.- EUR"
@@ -57,7 +57,7 @@
       "hubraum_ccm": "1781",
       "leistung_kw": "195",
       "geschwindigkeit_km_h": "250",
-      "0-100_km_h_sec_": "5,9",
+      "0-100_km_h_sec": "5,9",
       "gewicht_kg": "1380",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 57.500.- EUR"
@@ -69,7 +69,7 @@
       "hubraum_ccm": "4921",
       "leistung_kw": "274",
       "geschwindigkeit_km_h": "237",
-      "0-100_km_h_sec_": "7,2",
+      "0-100_km_h_sec": "7,2",
       "gewicht_kg": "2611",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 81.500.- EUR"
@@ -81,7 +81,7 @@
       "hubraum_ccm": "1984",
       "leistung_kw": "169",
       "geschwindigkeit_km_h": "241",
-      "0-100_km_h_sec_": "6,7",
+      "0-100_km_h_sec": "6,7",
       "gewicht_kg": "1416",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 37.300.- EUR"
@@ -93,7 +93,7 @@
       "hubraum_ccm": "4172",
       "leistung_kw": "371",
       "geschwindigkeit_km_h": "280",
-      "0-100_km_h_sec_": "4,6",
+      "0-100_km_h_sec": "4,6",
       "gewicht_kg": "1950",
       "tuning": "ABT SPORTLINE",
       "info_right": "Unverb. Preisempfehlung: 132.000.- EUR"
@@ -105,7 +105,7 @@
       "hubraum_ccm": "3498",
       "leistung_kw": "226",
       "geschwindigkeit_km_h": "260",
-      "0-100_km_h_sec_": "5,7",
+      "0-100_km_h_sec": "5,7",
       "gewicht_kg": "1530",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 40.900.- EUR"
@@ -117,7 +117,7 @@
       "hubraum_ccm": "1598",
       "leistung_kw": "162",
       "geschwindigkeit_km_h": "235",
-      "0-100_km_h_sec_": "5,6",
+      "0-100_km_h_sec": "5,6",
       "gewicht_kg": "1070",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 34.200.- EUR"
@@ -129,7 +129,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "146",
       "geschwindigkeit_km_h": "231",
-      "0-100_km_h_sec_": "6,1",
+      "0-100_km_h_sec": "6,1",
       "gewicht_kg": "930",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 32.470.- EUR"
@@ -141,7 +141,7 @@
       "hubraum_ccm": "1998",
       "leistung_kw": "146",
       "geschwindigkeit_km_h": "230",
-      "0-100_km_h_sec_": "7",
+      "0-100_km_h_sec": "7",
       "gewicht_kg": "1200",
       "tuning": "ELIA",
       "info_right": "Unverb. Preisempfehlung: 25.060.- EUR"
@@ -153,7 +153,7 @@
       "hubraum_ccm": "5654",
       "leistung_kw": "250",
       "geschwindigkeit_km_h": "250",
-      "0-100_km_h_sec_": "6,4",
+      "0-100_km_h_sec": "6,4",
       "gewicht_kg": "1970",
       "tuning": "STARTECH",
       "info_right": "Unverb. Preisempfehlung: 80.500.- EUR"
@@ -165,7 +165,7 @@
       "hubraum_ccm": "2987",
       "leistung_kw": "193",
       "geschwindigkeit_km_h": "210",
-      "0-100_km_h_sec_": "8,5",
+      "0-100_km_h_sec": "8,5",
       "gewicht_kg": "2210",
       "tuning": "STARTECH",
       "info_right": "Unverb. Preisempfehlung: 90.000.- EUR"
@@ -177,7 +177,7 @@
       "hubraum_ccm": "6034",
       "leistung_kw": "313",
       "geschwindigkeit_km_h": "300",
-      "0-100_km_h_sec_": "4,7",
+      "0-100_km_h_sec": "4,7",
       "gewicht_kg": "1480",
       "tuning": "STARTECH",
       "info_right": "Unverb. Preisempfehlung: 89.320.- EUR"
@@ -189,7 +189,7 @@
       "hubraum_ccm": "8277",
       "leistung_kw": "372",
       "geschwindigkeit_km_h": "315",
-      "0-100_km_h_sec_": "3,9",
+      "0-100_km_h_sec": "3,9",
       "gewicht_kg": "1620",
       "tuning": "STARTECH",
       "info_right": "Unverb. Preisempfehlung: 179.000.- EUR"
@@ -201,7 +201,7 @@
       "hubraum_ccm": "1781",
       "leistung_kw": "140",
       "geschwindigkeit_km_h": "226",
-      "0-100_km_h_sec_": "7,7",
+      "0-100_km_h_sec": "7,7",
       "gewicht_kg": "1200",
       "tuning": "JE DESIGN",
       "info_right": "Unverb. Preisempfehlung: 21.500.- EUR"
@@ -213,7 +213,7 @@
       "hubraum_ccm": "1984",
       "leistung_kw": "179",
       "geschwindigkeit_km_h": "242",
-      "0-100_km_h_sec_": "6,4",
+      "0-100_km_h_sec": "6,4",
       "gewicht_kg": "1420",
       "tuning": "JE DESIGN",
       "info_right": "Unverb. Preisempfehlung: 38.000.- EUR"
@@ -225,7 +225,7 @@
       "hubraum_ccm": "4172",
       "leistung_kw": "368",
       "geschwindigkeit_km_h": "303",
-      "0-100_km_h_sec_": "5,2",
+      "0-100_km_h_sec": "5,2",
       "gewicht_kg": "1875",
       "tuning": "JE DESIGN",
       "info_right": "Unverb. Preisempfehlung: 136.000.- EUR"
@@ -237,7 +237,7 @@
       "hubraum_ccm": "3189",
       "leistung_kw": "368",
       "geschwindigkeit_km_h": "301",
-      "0-100_km_h_sec_": "4,1",
+      "0-100_km_h_sec": "4,1",
       "gewicht_kg": "1550",
       "tuning": "JE DESIGN",
       "info_right": "Unverb. Preisempfehlung: 95.000.- EUR"
@@ -249,7 +249,7 @@
       "hubraum_ccm": "4511",
       "leistung_kw": "375",
       "geschwindigkeit_km_h": "274",
-      "0-100_km_h_sec_": "4,9",
+      "0-100_km_h_sec": "4,9",
       "gewicht_kg": "2430",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 170.000.- EUR"
@@ -261,7 +261,7 @@
       "hubraum_ccm": "3600",
       "leistung_kw": "475",
       "geschwindigkeit_km_h": "341",
-      "0-100_km_h_sec_": "3,7",
+      "0-100_km_h_sec": "3,7",
       "gewicht_kg": "1440",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 250.000.- EUR"
@@ -273,7 +273,7 @@
       "hubraum_ccm": "3824",
       "leistung_kw": "283",
       "geschwindigkeit_km_h": "285",
-      "0-100_km_h_sec_": "4,9",
+      "0-100_km_h_sec": "4,9",
       "gewicht_kg": "1345",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 100.000.- EUR"
@@ -285,7 +285,7 @@
       "hubraum_ccm": "3400",
       "leistung_kw": "228",
       "geschwindigkeit_km_h": "278",
-      "0-100_km_h_sec_": "5,1",
+      "0-100_km_h_sec": "5,1",
       "gewicht_kg": "1359",
       "tuning": "TECHART",
       "info_right": "Unverb. Preisempfehlung: 78.000.- EUR"
@@ -297,7 +297,7 @@
       "hubraum_ccm": "4496",
       "leistung_kw": "353",
       "geschwindigkeit_km_h": "260",
-      "0-100_km_h_sec_": "5,9",
+      "0-100_km_h_sec": "5,9",
       "gewicht_kg": "2572",
       "tuning": "ARDEN",
       "info_right": "Unverb. Preisempfehlung: Auf Anfrage"
@@ -309,7 +309,7 @@
       "hubraum_ccm": "3996",
       "leistung_kw": "221",
       "geschwindigkeit_km_h": "245",
-      "0-100_km_h_sec_": "6,9",
+      "0-100_km_h_sec": "6,9",
       "gewicht_kg": "1750",
       "tuning": "ARDEN",
       "info_right": "Unverb. Preisempfehlung: Auf Anfrage"
@@ -321,7 +321,7 @@
       "hubraum_ccm": "4499",
       "leistung_kw": "353",
       "geschwindigkeit_km_h": "295",
-      "0-100_km_h_sec_": "4,3",
+      "0-100_km_h_sec": "4,3",
       "gewicht_kg": "1735",
       "tuning": "ARDEN",
       "info_right": "Unverb. Preisempfehlung: Auf Anfrage"
@@ -333,7 +333,7 @@
       "hubraum_ccm": "4498",
       "leistung_kw": "353",
       "geschwindigkeit_km_h": "280",
-      "0-100_km_h_sec_": "4,6",
+      "0-100_km_h_sec": "4,6",
       "gewicht_kg": "1795",
       "tuning": "ARDEN",
       "info_right": "Unverb. Preisempfehlung: Auf Anfrage"
@@ -345,7 +345,7 @@
       "hubraum_ccm": "4961",
       "leistung_kw": "388",
       "geschwindigkeit_km_h": "310",
-      "0-100_km_h_sec_": "4",
+      "0-100_km_h_sec": "4",
       "gewicht_kg": "1440",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 190.000.- EUR"
@@ -357,7 +357,7 @@
       "hubraum_ccm": "4941",
       "leistung_kw": "357",
       "geschwindigkeit_km_h": "315",
-      "0-100_km_h_sec_": "4",
+      "0-100_km_h_sec": "4",
       "gewicht_kg": "1600",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 280.000.- EUR"
@@ -369,7 +369,7 @@
       "hubraum_ccm": "4308",
       "leistung_kw": "456",
       "geschwindigkeit_km_h": "340",
-      "0-100_km_h_sec_": "3,7",
+      "0-100_km_h_sec": "3,7",
       "gewicht_kg": "1525",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 205.000.- EUR"
@@ -381,7 +381,7 @@
       "hubraum_ccm": "1598",
       "leistung_kw": "143",
       "geschwindigkeit_km_h": "227",
-      "0-100_km_h_sec_": "6,9",
+      "0-100_km_h_sec": "6,9",
       "gewicht_kg": "1100",
       "tuning": "HAMANN",
       "info_right": "Unverb. Preisempfehlung: 25.800.- EUR"

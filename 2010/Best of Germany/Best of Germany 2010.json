@@ -10,7 +10,7 @@
       "leistung_kw": "155",
       "max._drehmoment_nm": "350",
       "geschwindigkeit_km_h": "222",
-      "verbrauch_ece_l_100_km_": "8,5",
+      "verbrauch_ece_l_100_km": "8,5",
       "country": "D",
       "info_right": "Kaufpreis ab 45.330,- EUR"
     },
@@ -22,7 +22,7 @@
       "leistung_kw": "250",
       "max._drehmoment_nm": "450",
       "geschwindigkeit_km_h": "280",
-      "verbrauch_ece_l_100_km_": "9,2",
+      "verbrauch_ece_l_100_km": "9,2",
       "country": "D",
       "info_right": "Kaufpreis ab 55.800,- EUR"
     },
@@ -34,7 +34,7 @@
       "leistung_kw": "245",
       "max._drehmoment_nm": "440",
       "geschwindigkeit_km_h": "250",
-      "verbrauch_ece_l_100_km_": "9,7",
+      "verbrauch_ece_l_100_km": "9,7",
       "country": "D",
       "info_right": "Kaufpreis ab 61.950,- EUR"
     },
@@ -46,7 +46,7 @@
       "leistung_kw": "77",
       "max._drehmoment_nm": "250",
       "geschwindigkeit_km_h": "190",
-      "verbrauch_ece_l_100_km_": "3,8",
+      "verbrauch_ece_l_100_km": "3,8",
       "country": "D",
       "info_right": "Kaufpreis ab 24.000,- EUR"
     },
@@ -58,7 +58,7 @@
       "leistung_kw": "130",
       "max._drehmoment_nm": "350",
       "geschwindigkeit_km_h": "213",
-      "verbrauch_ece_l_100_km_": "5,8",
+      "verbrauch_ece_l_100_km": "5,8",
       "country": "D",
       "info_right": "Kaufpreis ab 34.400,- EUR"
     },
@@ -70,7 +70,7 @@
       "leistung_kw": "225",
       "max._drehmoment_nm": "400",
       "geschwindigkeit_km_h": "250",
-      "verbrauch_ece_l_100_km_": "9,4",
+      "verbrauch_ece_l_100_km": "9,4",
       "country": "D",
       "info_right": "Kaufpreis ab 47.450,- EUR"
     },
@@ -82,7 +82,7 @@
       "leistung_kw": "120",
       "max._drehmoment_nm": "360",
       "geschwindigkeit_km_h": "225",
-      "verbrauch_ece_l_100_km_": "4,1",
+      "verbrauch_ece_l_100_km": "4,1",
       "country": "D",
       "info_right": "Kaufpreis ab 33.800,- EUR"
     },
@@ -94,7 +94,7 @@
       "leistung_kw": "300",
       "max._drehmoment_nm": "500",
       "geschwindigkeit_km_h": "250",
-      "verbrauch_ece_l_100_km_": "11,2",
+      "verbrauch_ece_l_100_km": "11,2",
       "country": "D",
       "info_right": "Kaufpreis ab 75.300,- EUR"
     },
@@ -106,7 +106,7 @@
       "leistung_kw": "224",
       "max._drehmoment_nm": "440",
       "geschwindigkeit_km_h": "263",
-      "verbrauch_ece_l_100_km_": "9,4",
+      "verbrauch_ece_l_100_km": "9,4",
       "country": "D",
       "info_right": "Kaufpreis ab 34.900,- EUR"
     },
@@ -118,7 +118,7 @@
       "leistung_kw": "66",
       "max._drehmoment_nm": "200",
       "geschwindigkeit_km_h": "178",
-      "verbrauch_ece_l_100_km_": "3,7",
+      "verbrauch_ece_l_100_km": "3,7",
       "country": "D",
       "info_right": "Kaufpreis ab 15.750,- EUR"
     },
@@ -130,7 +130,7 @@
       "leistung_kw": "92",
       "max._drehmoment_nm": "165",
       "geschwindigkeit_km_h": "195",
-      "verbrauch_ece_l_100_km_": "7,1",
+      "verbrauch_ece_l_100_km": "7,1",
       "country": "D",
       "info_right": "Kaufpreis ab 20.350,- EUR"
     },
@@ -142,7 +142,7 @@
       "leistung_kw": "51",
       "max._drehmoment_nm": "102",
       "geschwindigkeit_km_h": "159",
-      "verbrauch_ece_l_100_km_": "5,1",
+      "verbrauch_ece_l_100_km": "5,1",
       "country": "D",
       "info_right": "Kaufpreis ab 9.950,- EUR"
     },
@@ -154,7 +154,7 @@
       "leistung_kw": "70",
       "max._drehmoment_nm": "140",
       "geschwindigkeit_km_h": "175",
-      "verbrauch_ece_l_100_km_": "5,9",
+      "verbrauch_ece_l_100_km": "5,9",
       "country": "D",
       "info_right": "Kaufpreis ab 19.430,- EUR"
     },
@@ -166,7 +166,7 @@
       "leistung_kw": "150",
       "max._drehmoment_nm": "500",
       "geschwindigkeit_km_h": "238",
-      "verbrauch_ece_l_100_km_": "5,3",
+      "verbrauch_ece_l_100_km": "5,3",
       "country": "D",
       "info_right": "Kaufpreis ab 38.500,- EUR"
     },
@@ -178,7 +178,7 @@
       "leistung_kw": "215",
       "max._drehmoment_nm": "365",
       "geschwindigkeit_km_h": "250",
-      "verbrauch_ece_l_100_km_": "8,6",
+      "verbrauch_ece_l_100_km": "8,6",
       "country": "D",
       "info_right": "Kaufpreis ab 57.100,- EUR"
     },
@@ -190,7 +190,7 @@
       "leistung_kw": "285",
       "max._drehmoment_nm": "530",
       "geschwindigkeit_km_h": "250",
-      "verbrauch_ece_l_100_km_": "11,9",
+      "verbrauch_ece_l_100_km": "11,9",
       "country": "D",
       "info_right": "Kaufpreis ab 111.100,- EUR"
     },
@@ -202,7 +202,7 @@
       "leistung_kw": "132",
       "max._drehmoment_nm": "230",
       "geschwindigkeit_km_h": "221",
-      "verbrauch_ece_l_100_km_": "6,8",
+      "verbrauch_ece_l_100_km": "6,8",
       "country": "D",
       "info_right": "Kaufpreis ab 22.100,- EUR"
     },
@@ -214,7 +214,7 @@
       "leistung_kw": "55",
       "max._drehmoment_nm": "170",
       "geschwindigkeit_km_h": "168",
-      "verbrauch_ece_l_100_km_": "4,1",
+      "verbrauch_ece_l_100_km": "4,1",
       "country": "D",
       "info_right": "Kaufpreis ab 13.950,- EUR"
     },
@@ -226,7 +226,7 @@
       "leistung_kw": "239",
       "max._drehmoment_nm": "435",
       "geschwindigkeit_km_h": "250",
-      "verbrauch_ece_l_100_km_": "10,9",
+      "verbrauch_ece_l_100_km": "10,9",
       "country": "D",
       "info_right": "Kaufpreis ab 48.090,- EUR"
     },
@@ -238,7 +238,7 @@
       "leistung_kw": "92",
       "max._drehmoment_nm": "280",
       "geschwindigkeit_km_h": "189",
-      "verbrauch_ece_l_100_km_": "5,7",
+      "verbrauch_ece_l_100_km": "5,7",
       "country": "D",
       "info_right": "Kaufpreis ab 22.600,- EUR"
     },
@@ -250,7 +250,7 @@
       "leistung_kw": "368",
       "max._drehmoment_nm": "700",
       "geschwindigkeit_km_h": "303",
-      "verbrauch_ece_l_100_km_": "12,2",
+      "verbrauch_ece_l_100_km": "12,2",
       "country": "D",
       "info_right": "Kaufpreis ab 141.390,- EUR"
     },
@@ -262,7 +262,7 @@
       "leistung_kw": "320",
       "max._drehmoment_nm": "430",
       "geschwindigkeit_km_h": "312",
-      "verbrauch_ece_l_100_km_": "12,6",
+      "verbrauch_ece_l_100_km": "12,6",
       "country": "D",
       "info_right": "Kaufpreis ab 116.950,- EUR"
     },
@@ -274,7 +274,7 @@
       "leistung_kw": "368",
       "max._drehmoment_nm": "650",
       "geschwindigkeit_km_h": "312",
-      "verbrauch_ece_l_100_km_": "11,7",
+      "verbrauch_ece_l_100_km": "11,7",
       "country": "D",
       "info_right": "Kaufpreis ab 157.060,- EUR"
     },
@@ -286,7 +286,7 @@
       "leistung_kw": "228",
       "max._drehmoment_nm": "360",
       "geschwindigkeit_km_h": "274",
-      "verbrauch_ece_l_100_km_": "9,8",
+      "verbrauch_ece_l_100_km": "9,8",
       "country": "D",
       "info_right": "Kaufpreis ab 56.400,- EUR"
     },
@@ -298,7 +298,7 @@
       "leistung_kw": "51",
       "max._drehmoment_nm": "112",
       "geschwindigkeit_km_h": "165",
-      "verbrauch_ece_l_100_km_": "5,5",
+      "verbrauch_ece_l_100_km": "5,5",
       "country": "D",
       "info_right": "Kaufpreis ab 13.410,- EUR"
     },
@@ -310,7 +310,7 @@
       "leistung_kw": "118",
       "max._drehmoment_nm": "240",
       "geschwindigkeit_km_h": "218",
-      "verbrauch_ece_l_100_km_": "6,6",
+      "verbrauch_ece_l_100_km": "6,6",
       "country": "D",
       "info_right": "Kaufpreis ab 23.500,- EUR"
     },
@@ -322,7 +322,7 @@
       "leistung_kw": "199",
       "max._drehmoment_nm": "350",
       "geschwindigkeit_km_h": "250",
-      "verbrauch_ece_l_100_km_": "8,5",
+      "verbrauch_ece_l_100_km": "8,5",
       "country": "D",
       "info_right": "Kaufpreis ab 36.400,- EUR"
     },
@@ -334,7 +334,7 @@
       "leistung_kw": "77",
       "max._drehmoment_nm": "250",
       "geschwindigkeit_km_h": "193",
-      "verbrauch_ece_l_100_km_": "4,5",
+      "verbrauch_ece_l_100_km": "4,5",
       "country": "D",
       "info_right": "Kaufpreis ab 27.130,- EUR"
     },
@@ -346,7 +346,7 @@
       "leistung_kw": "220",
       "max._drehmoment_nm": "350",
       "geschwindigkeit_km_h": "273",
-      "verbrauch_ece_l_100_km_": "9,1",
+      "verbrauch_ece_l_100_km": "9,1",
       "country": "D",
       "info_right": "Kaufpreis ab 79.950,- EUR"
     },
@@ -358,7 +358,7 @@
       "leistung_kw": "198",
       "max._drehmoment_nm": "260",
       "geschwindigkeit_km_h": "250",
-      "verbrauch_ece_l_100_km_": "9,8",
+      "verbrauch_ece_l_100_km": "9,8",
       "country": "D",
       "info_right": "Kaufpreis ab 107.500,- EUR"
     },
@@ -370,7 +370,7 @@
       "leistung_kw": "40",
       "max._drehmoment_nm": "130",
       "geschwindigkeit_km_h": "135",
-      "verbrauch_ece_l_100_km_": "3,4",
+      "verbrauch_ece_l_100_km": "3,4",
       "country": "D",
       "info_right": "Kaufpreis ab 11.790,- EUR"
     },
@@ -382,7 +382,7 @@
       "leistung_kw": "373",
       "max._drehmoment_nm": "520",
       "geschwindigkeit_km_h": "310",
-      "verbrauch_ece_l_100_km_": "13,1",
+      "verbrauch_ece_l_100_km": "13,1",
       "country": "D",
       "info_right": "Kaufpreis ab 179.800,- EUR"
     }

@@ -10,7 +10,7 @@
       "leistung_kw": "180",
       "geschwindigkeit_km_h": "230",
       "leergewicht_kg": "1795",
-      "verbrauch_ece_l_100_km_": "7,5",
+      "verbrauch_ece_l_100_km": "7,5",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 46.500,- EUR"
@@ -23,7 +23,7 @@
       "leistung_kw": "224",
       "geschwindigkeit_km_h": "210",
       "leergewicht_kg": "1961",
-      "verbrauch_ece_l_100_km_": "8,5",
+      "verbrauch_ece_l_100_km": "8,5",
       "country": "S",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 46.750,- EUR"
@@ -36,7 +36,7 @@
       "leistung_kw": "110",
       "geschwindigkeit_km_h": "187",
       "leergewicht_kg": "1460",
-      "verbrauch_ece_l_100_km_": "6,6",
+      "verbrauch_ece_l_100_km": "6,6",
       "country": "J",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 23.700,- EUR"
@@ -49,7 +49,7 @@
       "leistung_kw": "155",
       "geschwindigkeit_km_h": "218",
       "leergewicht_kg": "1661",
-      "verbrauch_ece_l_100_km_": "8,4",
+      "verbrauch_ece_l_100_km": "8,4",
       "country": "E",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 30.990,- EUR"
@@ -62,7 +62,7 @@
       "leistung_kw": "120",
       "geschwindigkeit_km_h": "195",
       "leergewicht_kg": "1672",
-      "verbrauch_ece_l_100_km_": "6",
+      "verbrauch_ece_l_100_km": "6",
       "country": "D",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 30.700,- EUR"
@@ -75,7 +75,7 @@
       "leistung_kw": "135",
       "geschwindigkeit_km_h": "194",
       "leergewicht_kg": "1515",
-      "verbrauch_ece_l_100_km_": "6,1",
+      "verbrauch_ece_l_100_km": "6,1",
       "country": "ROK",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 33.010,- EUR"
@@ -88,7 +88,7 @@
       "leistung_kw": "96",
       "geschwindigkeit_km_h": "193",
       "leergewicht_kg": "1485",
-      "verbrauch_ece_l_100_km_": "5,1",
+      "verbrauch_ece_l_100_km": "5,1",
       "country": "D",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 25.520,- EUR"
@@ -101,7 +101,7 @@
       "leistung_kw": "145",
       "geschwindigkeit_km_h": "190",
       "leergewicht_kg": "1843",
-      "verbrauch_ece_l_100_km_": "6,1",
+      "verbrauch_ece_l_100_km": "6,1",
       "country": "ROK",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 39.200,- EUR"
@@ -114,7 +114,7 @@
       "leistung_kw": "150",
       "geschwindigkeit_km_h": "210",
       "leergewicht_kg": "1925",
-      "verbrauch_ece_l_100_km_": "6,1",
+      "verbrauch_ece_l_100_km": "6,1",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 46.143,- EUR"
@@ -127,7 +127,7 @@
       "leistung_kw": "225",
       "geschwindigkeit_km_h": "236",
       "leergewicht_kg": "2185",
-      "verbrauch_ece_l_100_km_": "7,5",
+      "verbrauch_ece_l_100_km": "7,5",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 62.600,- EUR"
@@ -140,7 +140,7 @@
       "leistung_kw": "110",
       "geschwindigkeit_km_h": "200",
       "leergewicht_kg": "1630",
-      "verbrauch_ece_l_100_km_": "5,3",
+      "verbrauch_ece_l_100_km": "5,3",
       "country": "J",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 32.690,- EUR"
@@ -153,7 +153,7 @@
       "leistung_kw": "96",
       "geschwindigkeit_km_h": "190",
       "leergewicht_kg": "1540",
-      "verbrauch_ece_l_100_km_": "5,1",
+      "verbrauch_ece_l_100_km": "5,1",
       "country": "J",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 28.090,- EUR"
@@ -166,7 +166,7 @@
       "leistung_kw": "194",
       "geschwindigkeit_km_h": "222",
       "leergewicht_kg": "1640",
-      "verbrauch_ece_l_100_km_": "8,8",
+      "verbrauch_ece_l_100_km": "8,8",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis auf Anfrage"
@@ -179,7 +179,7 @@
       "leistung_kw": "199",
       "geschwindigkeit_km_h": "240",
       "leergewicht_kg": "1630",
-      "verbrauch_ece_l_100_km_": "9",
+      "verbrauch_ece_l_100_km": "9",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 55.000,- EUR"
@@ -192,7 +192,7 @@
       "leistung_kw": "485",
       "geschwindigkeit_km_h": "305",
       "leergewicht_kg": "2170",
-      "verbrauch_ece_l_100_km_": "14,9",
+      "verbrauch_ece_l_100_km": "14,9",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 245.000,- EUR"
@@ -205,7 +205,7 @@
       "leistung_kw": "375",
       "geschwindigkeit_km_h": "225",
       "leergewicht_kg": "2380",
-      "verbrauch_ece_l_100_km_": "13,8",
+      "verbrauch_ece_l_100_km": "13,8",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 185.000,- EUR"
@@ -218,7 +218,7 @@
       "leistung_kw": "386",
       "geschwindigkeit_km_h": "250",
       "leergewicht_kg": "2345",
-      "verbrauch_ece_l_100_km_": "11,8",
+      "verbrauch_ece_l_100_km": "11,8",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 108.885,- EUR"
@@ -231,7 +231,7 @@
       "leistung_kw": "250",
       "geschwindigkeit_km_h": "242",
       "leergewicht_kg": "2485",
-      "verbrauch_ece_l_100_km_": "9,2",
+      "verbrauch_ece_l_100_km": "9,2",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 75.000,- EUR"
@@ -244,7 +244,7 @@
       "leistung_kw": "308",
       "geschwindigkeit_km_h": "300",
       "leergewicht_kg": "2074",
-      "verbrauch_ece_l_100_km_": "13,3",
+      "verbrauch_ece_l_100_km": "13,3",
       "country": "J",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 125.000,- EUR"
@@ -257,7 +257,7 @@
       "leistung_kw": "281",
       "geschwindigkeit_km_h": "252",
       "leergewicht_kg": "2195",
-      "verbrauch_ece_l_100_km_": "8,3",
+      "verbrauch_ece_l_100_km": "8,3",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 77.684,- EUR"
@@ -270,7 +270,7 @@
       "leistung_kw": "130",
       "geschwindigkeit_km_h": "182",
       "leergewicht_kg": "1390",
-      "verbrauch_ece_l_100_km_": "1,1",
+      "verbrauch_ece_l_100_km": "1,1",
       "country": "D",
       "info_left": "Plug-in-Hybrid-Antrieb",
       "info_right": "Vorstellung im Jahr 2012"
@@ -283,7 +283,7 @@
       "leistung_kw": "257",
       "geschwindigkeit_km_h": "220",
       "leergewicht_kg": "1900",
-      "verbrauch_ece_l_100_km_": "2,3",
+      "verbrauch_ece_l_100_km": "2,3",
       "country": "S",
       "info_left": "Plug-in-Hybrid-Antrieb",
       "info_right": "Vorstellung im Jahr 2012"
@@ -296,7 +296,7 @@
       "leistung_kw": "225",
       "geschwindigkeit_km_h": "220",
       "leergewicht_kg": "1858",
-      "verbrauch_ece_l_100_km_": "1,8",
+      "verbrauch_ece_l_100_km": "1,8",
       "country": "D",
       "info_left": "Plug-in-Hybrid-Antrieb",
       "info_right": "Vorstellung im Jahr 2012"
@@ -309,7 +309,7 @@
       "leistung_kw": "186",
       "geschwindigkeit_km_h": "235",
       "leergewicht_kg": "1200",
-      "verbrauch_ece_l_100_km_": "6,9",
+      "verbrauch_ece_l_100_km": "6,9",
       "country": "ROK",
       "info_left": "Allradantrieb",
       "info_right": "Vorstellung im Jahr 2012"
@@ -322,7 +322,7 @@
       "leistung_kw": "180",
       "geschwindigkeit_km_h": "225",
       "leergewicht_kg": "1985",
-      "verbrauch_ece_l_100_km_": "6,9",
+      "verbrauch_ece_l_100_km": "6,9",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 53.900,- EUR"
@@ -335,7 +335,7 @@
       "leistung_kw": "220",
       "geschwindigkeit_km_h": "200",
       "leergewicht_kg": "2185",
-      "verbrauch_ece_l_100_km_": "6,3",
+      "verbrauch_ece_l_100_km": "6,3",
       "country": "J",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 73.550,- EUR"
@@ -348,7 +348,7 @@
       "leistung_kw": "279",
       "geschwindigkeit_km_h": "240",
       "leergewicht_kg": "2315",
-      "verbrauch_ece_l_100_km_": "8,2",
+      "verbrauch_ece_l_100_km": "8,2",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 76.450,- EUR"
@@ -361,7 +361,7 @@
       "leistung_kw": "147",
       "geschwindigkeit_km_h": "191",
       "leergewicht_kg": "1808",
-      "verbrauch_ece_l_100_km_": "3,8",
+      "verbrauch_ece_l_100_km": "3,8",
       "country": "F",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 34.150,- EUR"
@@ -374,7 +374,7 @@
       "leistung_kw": "130",
       "geschwindigkeit_km_h": "200",
       "leergewicht_kg": "1675",
-      "verbrauch_ece_l_100_km_": "6,7",
+      "verbrauch_ece_l_100_km": "6,7",
       "country": "J",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 36.150,- EUR"
@@ -387,7 +387,7 @@
       "leistung_kw": "160",
       "geschwindigkeit_km_h": "230",
       "leergewicht_kg": "1660",
-      "verbrauch_ece_l_100_km_": "5,9",
+      "verbrauch_ece_l_100_km": "5,9",
       "country": "D",
       "info_left": "Allradantrieb permanent",
       "info_right": "Kaufpreis ab 38.500,- EUR"
@@ -400,7 +400,7 @@
       "leistung_kw": "103",
       "geschwindigkeit_km_h": "186",
       "leergewicht_kg": "1661",
-      "verbrauch_ece_l_100_km_": "6",
+      "verbrauch_ece_l_100_km": "6",
       "country": "D",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 29.950,- EUR"
@@ -413,7 +413,7 @@
       "leistung_kw": "125",
       "geschwindigkeit_km_h": "212",
       "leergewicht_kg": "1630",
-      "verbrauch_ece_l_100_km_": "7,7",
+      "verbrauch_ece_l_100_km": "7,7",
       "country": "D",
       "info_left": "Allradantrieb zuschaltbar",
       "info_right": "Kaufpreis ab 33.800,- EUR"

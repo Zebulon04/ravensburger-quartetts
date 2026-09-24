@@ -9,7 +9,7 @@
       "leistung_kw": "300",
       "max._drehmoment_nm": "760",
       "geschwindigkeit_km_h": "180",
-      "verbrauch_kwh_100_km_": "22,1",
+      "verbrauch_kwh_100_km": "22,1",
       "reichweite_km": "454",
       "country": "D",
       "info_right": "Kaufpreis ab 69.484,- EUR"
@@ -21,7 +21,7 @@
       "leistung_kw": "294",
       "max._drehmoment_nm": "696",
       "geschwindigkeit_km_h": "200",
-      "verbrauch_kwh_100_km_": "22",
+      "verbrauch_kwh_100_km": "22",
       "reichweite_km": "470",
       "country": "GB",
       "info_right": "Kaufpreis ab 75.351,- EUR"
@@ -33,7 +33,7 @@
       "leistung_kw": "210",
       "max._drehmoment_nm": "400",
       "geschwindigkeit_km_h": "180",
-      "verbrauch_kwh_100_km_": "18,5",
+      "verbrauch_kwh_100_km": "18,5",
       "reichweite_km": "520",
       "country": "D",
       "info_right": "Kaufpreis ab 68.040,- EUR"
@@ -45,7 +45,7 @@
       "leistung_kw": "300",
       "max._drehmoment_nm": "664",
       "geschwindigkeit_km_h": "200",
-      "verbrauch_kwh_100_km_": "21,8",
+      "verbrauch_kwh_100_km": "21,8",
       "reichweite_km": "447",
       "country": "D",
       "info_right": "Kaufpreis ab 83.150,- EUR"
@@ -57,7 +57,7 @@
       "leistung_kw": "20",
       "max._drehmoment_nm": "52,5",
       "geschwindigkeit_km_h": "90",
-      "verbrauch_kwh_100_km_": "9,8",
+      "verbrauch_kwh_100_km": "9,8",
       "reichweite_km": "240",
       "country": "D",
       "info_right": "Kaufpreis ab 17.995,- EUR"
@@ -69,7 +69,7 @@
       "leistung_kw": "61",
       "max._drehmoment_nm": "212",
       "geschwindigkeit_km_h": "130",
-      "verbrauch_kwh_100_km_": "12,8",
+      "verbrauch_kwh_100_km": "12,8",
       "reichweite_km": "258",
       "country": "CZ",
       "info_right": "Kaufpreis ab 24.990,- EUR"
@@ -81,7 +81,7 @@
       "leistung_kw": "57",
       "max._drehmoment_nm": "200",
       "geschwindigkeit_km_h": "130",
-      "verbrauch_kwh_100_km_": "15,5",
+      "verbrauch_kwh_100_km": "15,5",
       "reichweite_km": "139",
       "country": "D",
       "info_right": "Kaufpreis ab 21.900,- EUR"
@@ -93,7 +93,7 @@
       "leistung_kw": "60",
       "max._drehmoment_nm": "160",
       "geschwindigkeit_km_h": "130",
-      "verbrauch_kwh_100_km_": "15,6",
+      "verbrauch_kwh_100_km": "15,6",
       "reichweite_km": "135",
       "country": "D",
       "info_right": "Kaufpreis ab 21.940,- EUR"
@@ -105,7 +105,7 @@
       "leistung_kw": "100",
       "max._drehmoment_nm": "395",
       "geschwindigkeit_km_h": "155",
-      "verbrauch_kwh_100_km_": "14,3",
+      "verbrauch_kwh_100_km": "14,3",
       "reichweite_km": "305",
       "country": "ROK",
       "info_right": "Kaufpreis ab 33.971,- EUR"
@@ -117,7 +117,7 @@
       "leistung_kw": "210",
       "max._drehmoment_nm": "415",
       "geschwindigkeit_km_h": "180",
-      "verbrauch_kwh_100_km_": "16,5",
+      "verbrauch_kwh_100_km": "16,5",
       "reichweite_km": "600",
       "country": "D",
       "info_right": "Kaufpreis ab 45.475,- EUR"
@@ -129,7 +129,7 @@
       "leistung_kw": "150",
       "max._drehmoment_nm": "395",
       "geschwindigkeit_km_h": "167",
-      "verbrauch_kwh_100_km_": "15,9",
+      "verbrauch_kwh_100_km": "15,9",
       "reichweite_km": "455",
       "country": "ROK",
       "info_right": "Kaufpreis ab 39.090,- EUR"
@@ -141,7 +141,7 @@
       "leistung_kw": "107",
       "max._drehmoment_nm": "271",
       "geschwindigkeit_km_h": "140",
-      "verbrauch_kwh_100_km_": "19",
+      "verbrauch_kwh_100_km": "19",
       "reichweite_km": "200",
       "country": "J",
       "info_right": "Kaufpreis ab 33.490,- EUR"
@@ -153,7 +153,7 @@
       "leistung_kw": "100",
       "max._drehmoment_nm": "260",
       "geschwindigkeit_km_h": "150",
-      "verbrauch_kwh_100_km_": "17,8",
+      "verbrauch_kwh_100_km": "17,8",
       "reichweite_km": "320",
       "country": "F",
       "info_right": "Kaufpreis ab 35.250,- EUR"
@@ -165,7 +165,7 @@
       "leistung_kw": "100",
       "max._drehmoment_nm": "260",
       "geschwindigkeit_km_h": "150",
-      "verbrauch_kwh_100_km_": "18,3",
+      "verbrauch_kwh_100_km": "18,3",
       "reichweite_km": "320",
       "country": "F",
       "info_right": "Kaufpreis ab 38.390,- EUR"
@@ -177,7 +177,7 @@
       "leistung_kw": "300",
       "max._drehmoment_nm": "660",
       "geschwindigkeit_km_h": "180",
-      "verbrauch_kwh_100_km_": "22",
+      "verbrauch_kwh_100_km": "22",
       "reichweite_km": "400",
       "country": "S",
       "info_right": "Kaufpreis ab 62.000,- EUR"
@@ -189,7 +189,7 @@
       "leistung_kw": "150",
       "max._drehmoment_nm": "300",
       "geschwindigkeit_km_h": "160",
-      "verbrauch_kwh_100_km_": "19,3",
+      "verbrauch_kwh_100_km": "19,3",
       "reichweite_km": "300",
       "country": "J",
       "info_right": "Kaufpreis noch nicht bekannt"
@@ -201,7 +201,7 @@
       "leistung_kw": "100",
       "max._drehmoment_nm": "260",
       "geschwindigkeit_km_h": "150",
-      "verbrauch_kwh_100_km_": "16,8",
+      "verbrauch_kwh_100_km": "16,8",
       "reichweite_km": "337",
       "country": "D",
       "info_right": "Kaufpreis ab 29.900,- EUR"
@@ -213,7 +213,7 @@
       "leistung_kw": "160",
       "max._drehmoment_nm": "340",
       "geschwindigkeit_km_h": "157",
-      "verbrauch_kwh_100_km_": "18,5",
+      "verbrauch_kwh_100_km": "18,5",
       "reichweite_km": "385",
       "country": "J",
       "info_right": "Kaufpreis ab 37.237,- EUR"
@@ -225,7 +225,7 @@
       "leistung_kw": "135",
       "max._drehmoment_nm": "270",
       "geschwindigkeit_km_h": "150",
-      "verbrauch_kwh_100_km_": "14,8",
+      "verbrauch_kwh_100_km": "14,8",
       "reichweite_km": "270",
       "country": "D",
       "info_right": "Kaufpreis ab 31.681,- EUR"
@@ -237,7 +237,7 @@
       "leistung_kw": "150",
       "max._drehmoment_nm": "310",
       "geschwindigkeit_km_h": "160",
-      "verbrauch_kwh_100_km_": "14,5",
+      "verbrauch_kwh_100_km": "14,5",
       "reichweite_km": "420",
       "country": "D",
       "info_right": "Kaufpreis ab 35.575,- EUR"
@@ -249,7 +249,7 @@
       "leistung_kw": "560",
       "max._drehmoment_nm": "1050",
       "geschwindigkeit_km_h": "260",
-      "verbrauch_kwh_100_km_": "28,5",
+      "verbrauch_kwh_100_km": "28,5",
       "reichweite_km": "416",
       "country": "D",
       "info_right": "Kaufpreis ab 185.456,- EUR"
@@ -261,7 +261,7 @@
       "leistung_kw": "300",
       "max._drehmoment_nm": "660",
       "geschwindigkeit_km_h": "205",
-      "verbrauch_kwh_100_km_": "19,2",
+      "verbrauch_kwh_100_km": "19,2",
       "reichweite_km": "470",
       "country": "S",
       "info_right": "Kaufpreis ab 57.900,- EUR"
@@ -273,7 +273,7 @@
       "leistung_kw": "239",
       "max._drehmoment_nm": "420",
       "geschwindigkeit_km_h": "261",
-      "verbrauch_kwh_100_km_": "14,9",
+      "verbrauch_kwh_100_km": "14,9",
       "reichweite_km": "560",
       "country": "USA",
       "info_right": "Kaufpreis ab 43.990,- EUR"
@@ -285,7 +285,7 @@
       "leistung_kw": "400",
       "max._drehmoment_nm": "800",
       "geschwindigkeit_km_h": "300",
-      "verbrauch_kwh_100_km_": "20",
+      "verbrauch_kwh_100_km": "20",
       "reichweite_km": "820",
       "country": "D",
       "info_right": "Kaufpreis ab 407.000,- EUR"
@@ -297,7 +297,7 @@
       "leistung_kw": "480",
       "max._drehmoment_nm": "840",
       "geschwindigkeit_km_h": "200",
-      "verbrauch_kwh_100_km_": "19,7",
+      "verbrauch_kwh_100_km": "19,7",
       "reichweite_km": "355",
       "country": "CN",
       "info_right": "Kaufpreis ab 59.000,- EUR"
@@ -309,7 +309,7 @@
       "leistung_kw": "458",
       "max._drehmoment_nm": "933",
       "geschwindigkeit_km_h": "160",
-      "verbrauch_kwh_100_km_": "-",
+      "verbrauch_kwh_100_km": "-",
       "reichweite_km": "321",
       "country": "USA",
       "info_right": "Kaufpreis ab 114.200,- EUR"
@@ -321,7 +321,7 @@
       "leistung_kw": "133",
       "max._drehmoment_nm": "310",
       "geschwindigkeit_km_h": "160",
-      "verbrauch_kwh_100_km_": "17",
+      "verbrauch_kwh_100_km": "17",
       "reichweite_km": "410",
       "country": "CN",
       "info_right": "Kaufpreis ab 37.990,- EUR"
@@ -333,7 +333,7 @@
       "leistung_kw": "120",
       "max._drehmoment_nm": "270",
       "geschwindigkeit_km_h": "140",
-      "verbrauch_kwh_100_km_": "14",
+      "verbrauch_kwh_100_km": "14",
       "reichweite_km": "255",
       "country": "D",
       "info_right": "Kaufpreis ab 25.500,- EUR"
@@ -345,7 +345,7 @@
       "leistung_kw": "87",
       "max._drehmoment_nm": "200",
       "geschwindigkeit_km_h": "150",
-      "verbrauch_kwh_100_km_": "13,2",
+      "verbrauch_kwh_100_km": "13,2",
       "reichweite_km": "320",
       "country": "I",
       "info_right": "Kaufpreis ab 34.900,- EUR"
@@ -357,7 +357,7 @@
       "leistung_kw": "61",
       "max._drehmoment_nm": "212",
       "geschwindigkeit_km_h": "130",
-      "verbrauch_kwh_100_km_": "14,4",
+      "verbrauch_kwh_100_km": "14,4",
       "reichweite_km": "260",
       "country": "E",
       "info_right": "Kaufpreis ab 21.226,- EUR"
@@ -369,7 +369,7 @@
       "leistung_kw": "113",
       "max._drehmoment_nm": "315",
       "geschwindigkeit_km_h": "145",
-      "verbrauch_kwh_100_km_": "17,2",
+      "verbrauch_kwh_100_km": "17,2",
       "reichweite_km": "222",
       "country": "J",
       "info_right": "Kaufpreis ab 33.850,- EUR"
@@ -381,7 +381,7 @@
       "leistung_kw": "80",
       "max._drehmoment_nm": "225",
       "geschwindigkeit_km_h": "135",
-      "verbrauch_kwh_100_km_": "17,2",
+      "verbrauch_kwh_100_km": "17,2",
       "reichweite_km": "316",
       "country": "F",
       "info_right": "Kaufpreis ab 29.990,- EUR"

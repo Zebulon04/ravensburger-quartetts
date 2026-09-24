@@ -317,41 +317,41 @@
     {
       "card": "7A",
       "category": "Spezialschiffe",
-      "name": "Forbin",
-      "einsatzverdrängung_t": "6600",
-      "geschwindigkeit_kn": "29",
-      "leistung_kw": "58200",
-      "länge_m": "152,8",
-      "tiefgang_m_": "5,4",
-      "country": "F",
-      "info_left": "Fregatte der Horizon-Klasse",
-      "info_right": "Besatzung: 220"
+      "name": "Independence",
+      "einsatzverdrängung_t": "2800",
+      "geschwindigkeit_kn": "45",
+      "leistung_kw": "62200",
+      "länge_m": "127,4",
+      "tiefgang_m_": "4,5",
+      "country": "USA",
+      "info_left": "Littoral Combat Triamaran (LCS-2)",
+      "info_right": "Besatzung: 40"
     },
     {
       "card": "7B",
       "category": "Spezialschiffe",
-      "name": "Al Damman",
-      "einsatzverdrängung_t": "4725",
-      "geschwindigkeit_kn": "24,5",
-      "leistung_kw": "22800",
-      "länge_m": "133",
-      "tiefgang_m_": "4",
-      "country": "KSA",
-      "info_left": "Fregatte der Al Riyadh-Klasse (F3000S Sawari II)",
-      "info_right": "Besatzung: 164"
+      "name": "Wave Knight",
+      "einsatzverdrängung_t": "31500",
+      "geschwindigkeit_kn": "18",
+      "leistung_kw": "32000",
+      "länge_m": "196,5",
+      "tiefgang_m_": "9,9",
+      "country": "GB",
+      "info_left": "Tanker der Wave-Klasse",
+      "info_right": "Besatzung: 80"
     },
     {
       "card": "7C",
       "category": "Spezialschiffe",
-      "name": "Hamburg",
-      "einsatzverdrängung_t": "5600",
-      "geschwindigkeit_kn": "29",
-      "leistung_kw": "38000",
-      "länge_m": "143",
-      "tiefgang_m_": "4,4",
+      "name": "Berlin",
+      "einsatzverdrängung_t": "18637",
+      "geschwindigkeit_kn": "20",
+      "leistung_kw": "10680",
+      "länge_m": "173,7",
+      "tiefgang_m_": "7,6",
       "country": "D",
-      "info_left": "Fregatte der Sachsen-Klasse (124)",
-      "info_right": "Besatzung: 255"
+      "info_left": "Einsatzgruppenversorger der Berlin-Klasse",
+      "info_right": "Besatzung: 139"
     },
     {
       "card": "7D",
@@ -417,10 +417,6 @@
       "country": "IND",
       "info_left": "Fregatte der Shivalik-Klasse",
       "info_right": "Besatzung: 257"
-    },
-    {},
-    {
-      "geschwindigkeit_kn": "* U-Boote - Getaucht"
     }
   ]
 }

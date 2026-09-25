@@ -17,7 +17,7 @@
     {
       "card": "1B",
       "category": "Transport-Panzer",
-      "name": "AMV 8x8",
+      "name": "AMV8x8",
       "leistung_kw": "360",
       "geschwindigkeit_km_h": "100",
       "reichweite_km": "800",

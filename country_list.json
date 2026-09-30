@@ -72,6 +72,10 @@
     "Country": "Germany"
   },
   {
+    "Code": "DDR",
+    "Country": "DDR"
+  },
+  {
     "Code": "D/F",
     "Country": "Germany/France"
   },

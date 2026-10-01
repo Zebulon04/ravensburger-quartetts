@@ -258,6 +258,7 @@
       "zylinder": "10",
       "gewicht_kg": "525",
       "geschwindigkeit_km_h": "343",
+      "country": "GB",
       "info_left": "Fahrer: Ralf Schumacher",
       "info_right": "Jahr: 2000"
     },

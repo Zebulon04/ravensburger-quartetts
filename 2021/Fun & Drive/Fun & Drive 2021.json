@@ -385,12 +385,6 @@
       "länge_m": "3,36",
       "country": "GB",
       "info_right": "Antrieb: Verbrennungsmotor, Kaufpreis ab 66.000,- EUR"
-    },
-    {},
-    {
-      "leistung_kw": "*2B - im Fahrmodus",
-      "geschwindigkeit_km_h": "*2B - im Fahrmodus",
-      "länge_m": "*2B - im Fahrmodus"
     }
   ]
 }

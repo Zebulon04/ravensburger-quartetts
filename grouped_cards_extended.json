@@ -1,5 +1,1231 @@
 [
   {
+    "year": 0,
+    "collection": "Cabrios",
+    "cards": [
+      {
+        "card": "1A",
+        "name": "BMW M roadster",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 5,4 sec"
+      },
+      {
+        "card": "1B",
+        "name": "Audi TT",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 6,7 sec"
+      },
+      {
+        "card": "1C",
+        "name": "Alfa Romeo Spider 3.0 V6",
+        "country": "I",
+        "info_right": "Beschleunigung 0-100 km/h: 7,3 sec"
+      },
+      {
+        "card": "1D",
+        "name": "Porsche Boxter",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 6,9 sec"
+      },
+      {
+        "card": "2A",
+        "name": "Hauser H1",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 5,7 sec"
+      },
+      {
+        "card": "2B",
+        "name": "Rinspeed E-GO Rocket",
+        "country": "CH",
+        "info_right": "Beschleunigung 0-100 km/h: 4,8 sec"
+      },
+      {
+        "card": "2C",
+        "name": "Ford Indigo",
+        "country": "USA",
+        "info_right": "Beschleunigung 0-100 km/h: 3,9 sec"
+      },
+      {
+        "card": "2D",
+        "name": "Sbarro Be-Twin",
+        "country": "CH",
+        "info_right": "Beschleunigung 0-100 km/h: 6,8 sec"
+      },
+      {
+        "card": "3A",
+        "name": "Toyota Paseo",
+        "country": "J",
+        "info_right": "Beschleunigung 0-100 km/h: 11,0 sec"
+      },
+      {
+        "card": "3B",
+        "name": "Renault Megane",
+        "country": "F",
+        "info_right": "Beschleunigung 0-100 km/h: 8,7 sec"
+      },
+      {
+        "card": "3C",
+        "name": "Peugeot 206",
+        "country": "F",
+        "info_right": "Beschleunigung 0-100 km/h: 11,7 sec"
+      },
+      {
+        "card": "3D",
+        "name": "VW Golf",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 10,5 sec"
+      },
+      {
+        "card": "4A",
+        "name": "Morgan Plus 8 4.6",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 5,9 sec"
+      },
+      {
+        "card": "4B",
+        "name": "MG A",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 15 sec"
+      },
+      {
+        "card": "4C",
+        "name": "Mercedes-Benz 300 SL",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 10 sec"
+      },
+      {
+        "card": "4D",
+        "name": "VW Käfer",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 24 sec"
+      },
+      {
+        "card": "5A",
+        "name": "Dodge Viper RT/10",
+        "country": "USA",
+        "info_right": "Beschleunigung 0-100 km/h: 4,5 sec"
+      },
+      {
+        "card": "5B",
+        "name": "Jaguar XKR",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 5,6 sec"
+      },
+      {
+        "card": "5C",
+        "name": "Ferrari F355 GTS",
+        "country": "I",
+        "info_right": "Beschleunigung 0-100 km/h: 4,7 sec"
+      },
+      {
+        "card": "5D",
+        "name": "BMW Z8",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 4,8 sec"
+      },
+      {
+        "card": "6A",
+        "name": "Zender Progetto Cinque",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 8,5 sec"
+      },
+      {
+        "card": "6B",
+        "name": "Plymouth Pronto Spider",
+        "country": "USA",
+        "info_right": "Beschleunigung 0-100 km/h: 9,5 sec"
+      },
+      {
+        "card": "6C",
+        "name": "Seat Formula",
+        "country": "E",
+        "info_right": "Beschleunigung 0-100 km/h: 4,7 sec"
+      },
+      {
+        "card": "6D",
+        "name": "ItalDesign Formula 4",
+        "country": "I",
+        "info_right": "Beschleunigung 0-100 km/h: 8,7 sec"
+      },
+      {
+        "card": "7A",
+        "name": "Honda S2000",
+        "country": "J",
+        "info_right": "Beschleunigung 0-100 km/h: 6,2 sec"
+      },
+      {
+        "card": "7B",
+        "name": "Lotus Elise",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 5,9 sec"
+      },
+      {
+        "card": "7C",
+        "name": "Mazda MX-5",
+        "country": "J",
+        "info_right": "Beschleunigung 0-100 km/h: 8,7 sec"
+      },
+      {
+        "card": "7D",
+        "name": "MGF",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 7,7 sec"
+      },
+      {
+        "card": "8A",
+        "name": "GP-Spyder",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 7,5 sec"
+      },
+      {
+        "card": "8B",
+        "name": "Rush V8",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 4,5 sec"
+      },
+      {
+        "card": "8C",
+        "name": "H.M.C. Silverstone",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 5,6 sec"
+      },
+      {
+        "card": "8D",
+        "name": "Stallion Cobra",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 5,8 sec"
+      }
+    ]
+  },
+  {
+    "year": 0,
+    "collection": "Das Schleimbagger",
+    "cards": [
+      {
+        "card": "1A",
+        "name": "Amman-Yanmar C 80 R",
+        "country": "J",
+        "info_right": "Raupenkipper"
+      },
+      {
+        "card": "1B",
+        "name": "Euclid R 65",
+        "country": "USA",
+        "info_right": "Skw/Muldenkipper"
+      },
+      {
+        "card": "1C",
+        "name": "John Deere 762 B",
+        "country": "USA",
+        "info_right": "Schürfzug"
+      },
+      {
+        "card": "1D",
+        "name": "Volvo BM A 40",
+        "country": "S",
+        "info_right": "Dumper"
+      },
+      {
+        "card": "2A",
+        "name": "P&H Harnischfeger 2250 SD",
+        "country": "USA",
+        "info_right": "Raupenbagger"
+      },
+      {
+        "card": "2B",
+        "name": "JCB JS 450 LC",
+        "country": "GB",
+        "info_right": "Raupenbagger"
+      },
+      {
+        "card": "2C",
+        "name": "Kaiser Popstar",
+        "country": "FL",
+        "info_right": "Schreitbagger"
+      },
+      {
+        "card": "2D",
+        "name": "Liebherr R 996 Litronic",
+        "country": "D",
+        "info_right": "Raupenbagger"
+      },
+      {
+        "card": "3A",
+        "name": "Liebherr LR 631 C",
+        "country": "D",
+        "info_right": "Laderaupe"
+      },
+      {
+        "card": "3B",
+        "name": "Caterpillar 994",
+        "country": "USA",
+        "info_right": "Radlader"
+      },
+      {
+        "card": "3C",
+        "name": "Komatsu WA 800-2",
+        "country": "J",
+        "info_right": "Radlader"
+      },
+      {
+        "card": "3D",
+        "name": "O&K L35 Serie B",
+        "country": "D",
+        "info_right": "Radlader"
+      },
+      {
+        "card": "4A",
+        "name": "Tiger 690 D",
+        "country": "AUS",
+        "info_right": "Raddozer"
+      },
+      {
+        "card": "4B",
+        "name": "Aveling Barford ASG 13",
+        "country": "GB",
+        "info_right": "Grader"
+      },
+      {
+        "card": "4C",
+        "name": "Fiat-Hitachi FD 175",
+        "country": "I",
+        "info_right": "Planierraupe"
+      },
+      {
+        "card": "4D",
+        "name": "Komatsu D 65 EX-12",
+        "country": "J",
+        "info_right": "Planierraupe"
+      },
+      {
+        "card": "5A",
+        "name": "Hellmich Luna AT-120/47",
+        "country": "D",
+        "info_right": "Fahrzeugdrehkran"
+      },
+      {
+        "card": "5B",
+        "name": "PPM ATT 1190",
+        "country": "F",
+        "info_right": "Fahrzeugdrehkran"
+      },
+      {
+        "card": "5C",
+        "name": "Ormig 70 TTV",
+        "country": "I",
+        "info_right": "Fahrzeugdrehkran"
+      },
+      {
+        "card": "5D",
+        "name": "Grove AT 740 C",
+        "country": "USA",
+        "info_right": "Fahrzeugdrehkran"
+      },
+      {
+        "card": "6A",
+        "name": "Bomag BW 213 PDH-2",
+        "country": "D",
+        "info_right": "Walzenzug"
+      },
+      {
+        "card": "6B",
+        "name": "Bitelli TS - 12",
+        "country": "I",
+        "info_right": "Dreiradwalze"
+      },
+      {
+        "card": "6C",
+        "name": "Ingersoll-Rand-ABG DD 74",
+        "country": "D",
+        "info_right": "Tandemwalze"
+      },
+      {
+        "card": "6D",
+        "name": "Caterpillar PS - 300 B",
+        "country": "USA",
+        "info_right": "Gummiradwalze"
+      },
+      {
+        "card": "7A",
+        "name": "John Deere 8970",
+        "country": "USA",
+        "info_right": "Knicklenker-Schlepper"
+      },
+      {
+        "card": "7B",
+        "name": "Kirovets K - 744 DS",
+        "country": "RF",
+        "info_right": "Knicklenker-Schlepper"
+      },
+      {
+        "card": "7C",
+        "name": "Fendt Xylon 524",
+        "country": "D",
+        "info_right": "Allradschlepper"
+      },
+      {
+        "card": "7D",
+        "name": "Horsch TT 350 VS",
+        "country": "D",
+        "info_right": "Sonderschlepper"
+      },
+      {
+        "card": "8A",
+        "name": "Fendt Favorit 926 Vario",
+        "country": "D",
+        "info_right": "Großschlepper"
+      },
+      {
+        "card": "8B",
+        "name": "New Holland - Fiatagri M 160",
+        "country": "I",
+        "info_right": "Allradschlepper"
+      },
+      {
+        "card": "8C",
+        "name": "New Holland - Ford 8970",
+        "country": "USA",
+        "info_right": "Großschlepper"
+      },
+      {
+        "card": "8D",
+        "name": "Lamborghini Traction 265",
+        "country": "I",
+        "info_right": "Großschlepper"
+      }
+    ]
+  },
+  {
+    "year": 0,
+    "collection": "Grand Prix",
+    "cards": [
+      {
+        "card": "1A",
+        "name": "Aprilia 125"
+      },
+      {
+        "card": "1B",
+        "name": "Honda NSR 125"
+      },
+      {
+        "card": "1C",
+        "name": "Honda NSR 125"
+      },
+      {
+        "card": "1D",
+        "name": "Honda 125 RS"
+      },
+      {
+        "card": "2A",
+        "name": "Honda NSR 250"
+      },
+      {
+        "card": "2B",
+        "name": "Aprilia RSV 250"
+      },
+      {
+        "card": "2C",
+        "name": "Honda NSR 250"
+      },
+      {
+        "card": "2D",
+        "name": "Aprilia RSV 250"
+      },
+      {
+        "card": "3A",
+        "name": "Honda NSR 500"
+      },
+      {
+        "card": "3B",
+        "name": "Yamaha Y2R 500"
+      },
+      {
+        "card": "3C",
+        "name": "Aprilia RSV 500"
+      },
+      {
+        "card": "3D",
+        "name": "MuZ Weber"
+      },
+      {
+        "card": "4A",
+        "name": "Yamaha R7"
+      },
+      {
+        "card": "4B",
+        "name": "Kawasaki ZX-7RR"
+      },
+      {
+        "card": "4C",
+        "name": "Ducati 996 Corse"
+      },
+      {
+        "card": "4D",
+        "name": "Honda RC"
+      },
+      {
+        "card": "5A",
+        "name": "Windle Honda"
+      },
+      {
+        "card": "5B",
+        "name": "LCR Swissauto"
+      },
+      {
+        "card": "5C",
+        "name": "LCR FM"
+      },
+      {
+        "card": "5D",
+        "name": "LCR Suzuki"
+      },
+      {
+        "card": "6A",
+        "name": "Honda CR 250"
+      },
+      {
+        "card": "6B",
+        "name": "Yamaha YZ 250"
+      },
+      {
+        "card": "6C",
+        "name": "Suzuki RM 250"
+      },
+      {
+        "card": "6D",
+        "name": "Kawasaki 500"
+      },
+      {
+        "card": "7A",
+        "name": "JS-Jawa Typ 894"
+      },
+      {
+        "card": "7B",
+        "name": "GR-Jawa Typ 894"
+      },
+      {
+        "card": "7C",
+        "name": "AW-Jawa 894"
+      },
+      {
+        "card": "7D",
+        "name": "TD-Jawa 894"
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      }
+    ]
+  },
+  {
+    "year": 0,
+    "collection": "Helicopter",
+    "cards": [
+      {
+        "card": "1A",
+        "name": "Boeing Vertol 234",
+        "country": "USA",
+        "info_left": "Größter US-Hubschrauber",
+        "info_right": "Leistung 5590 kW"
+      },
+      {
+        "card": "1B",
+        "name": "Kaman K-Max",
+        "country": "USA",
+        "info_left": "Doppelrotor-Technologie",
+        "info_right": "Leistung 2240 kW"
+      },
+      {
+        "card": "1C",
+        "name": "Mil Mi-26",
+        "country": "RF",
+        "info_left": "Größter im Einsatz stehender Hubschrauber",
+        "info_right": "Leistung 16750 kW"
+      },
+      {
+        "card": "1D",
+        "name": "Eurocopter AS 332 L1 „Super Puma“",
+        "country": "F",
+        "info_left": "Transportgroßhubschrauber",
+        "info_right": "Leistung 2720 kW"
+      },
+      {
+        "card": "2A",
+        "name": "Bell 430",
+        "country": "USA",
+        "info_left": "Bei der Prominenz beliebt",
+        "info_right": "Leistung 1206 kW"
+      },
+      {
+        "card": "2B",
+        "name": "Bell 206 L-1 Longranger II",
+        "country": "USA",
+        "info_left": "Inselhüpfer",
+        "info_right": "Leistung 630 kW"
+      },
+      {
+        "card": "2C",
+        "name": "Boeing Helicopter Services MD 600 N",
+        "country": "USA",
+        "info_left": "Leiser dank Notar-Technologie",
+        "info_right": "Leistung 447 kW"
+      },
+      {
+        "card": "2D",
+        "name": "Eurocopter Bo-105",
+        "country": "D",
+        "info_left": "Erfolgreichster MBB-Hubschrauber",
+        "info_right": "Leistung 630 kW"
+      },
+      {
+        "card": "3A",
+        "name": "EH Industries Heliner EH-101",
+        "country": "I/GB",
+        "info_left": "Neuentwicklung eines Großhubschraubers",
+        "info_right": "Leistung 4470 kW"
+      },
+      {
+        "card": "3B",
+        "name": "Mil Mi-8",
+        "country": "RF",
+        "info_left": "Erfolgreichster Hubschrauber aus der GUS",
+        "info_right": "Leistung 2910 kW"
+      },
+      {
+        "card": "3C",
+        "name": "Sikorsky S-61L",
+        "country": "USA",
+        "info_left": "Erfolgreicher Großhubschraubers",
+        "info_right": "Leistung 2014 kW"
+      },
+      {
+        "card": "3D",
+        "name": "Eurocopter EC-120",
+        "country": "D/F",
+        "info_left": "Nachfolger der BO-105/BK-117",
+        "info_right": "Leistung 844 kW"
+      },
+      {
+        "card": "4A",
+        "name": "Westland „Sea King“",
+        "country": "GB",
+        "info_left": "Vielzweck-Rettunghubschrauber",
+        "info_right": "Leistung 2476 kW"
+      },
+      {
+        "card": "4B",
+        "name": "Eurocopter AS-355F „Ecureuil 2“",
+        "country": "F",
+        "info_left": "Mehrzweckhubschrauber",
+        "info_right": "Leistung 630 kW"
+      },
+      {
+        "card": "4C",
+        "name": "PZL W-3 Sokol „Falcon“",
+        "country": "PL",
+        "info_left": "Transporthubschrauber as Polen",
+        "info_right": "Leistung 1330 kW"
+      },
+      {
+        "card": "4D",
+        "name": "Eurocopter Kawasaki BK-117",
+        "country": "D/J",
+        "info_left": "Deutsch-japanissche Entwicklung",
+        "info_right": "Leistung 880 kW"
+      },
+      {
+        "card": "5A",
+        "name": "ASI Ultrasport 254",
+        "country": "USA",
+        "info_left": "Grashüpfer",
+        "info_right": "Leistung 82 kW"
+      },
+      {
+        "card": "5B",
+        "name": "Enstrom 480",
+        "country": "USA",
+        "info_left": "Kleinhubschrauber",
+        "info_right": "Leistung 210 kW"
+      },
+      {
+        "card": "5C",
+        "name": "Robinson R-22 „Beta“",
+        "country": "USA",
+        "info_left": "4-Sitzer-Klasse",
+        "info_right": "Leistung 95 kW"
+      },
+      {
+        "card": "5D",
+        "name": "Schweizer 330",
+        "country": "USA",
+        "info_left": "Kleinhubschrauber",
+        "info_right": "Leistung 140 kW"
+      },
+      {
+        "card": "6A",
+        "name": "Bell 412",
+        "country": "USA/CDN",
+        "info_left": "Mehrzweckhubschrauber",
+        "info_right": "Leistung 2684 kW"
+      },
+      {
+        "card": "6B",
+        "name": "Bell 230",
+        "country": "USA",
+        "info_left": "Marinehubschrauber",
+        "info_right": "Leistung 1040 kW"
+      },
+      {
+        "card": "6C",
+        "name": "Eurocopter AS365N2 „Dauphin“",
+        "country": "F",
+        "info_left": "Mehrzweckhubschrauber",
+        "info_right": "Leistung 1100 kW"
+      },
+      {
+        "card": "6D",
+        "name": "Bell 427",
+        "country": "USA",
+        "info_left": "Neuester Erfolg aus den USA",
+        "info_right": "Leistung 1060 kW"
+      },
+      {
+        "card": "7A",
+        "name": "Sikorsky S-76C",
+        "country": "USA",
+        "info_left": "Schneller VIP-Transporter",
+        "info_right": "Leistung 1276 kW"
+      },
+      {
+        "card": "7B",
+        "name": "Agusta A-109K2",
+        "country": "I",
+        "info_left": "Beliebter Transporthelikopter",
+        "info_right": "Leistung 1250 kW"
+      },
+      {
+        "card": "7C",
+        "name": "Kamov KA-26",
+        "country": "RF",
+        "info_left": "Lastenhubschrauber",
+        "info_right": "Leistung 480 kW"
+      },
+      {
+        "card": "7D",
+        "name": "Kamov KA-226",
+        "country": "RF",
+        "info_left": "Kleinlast-Helicopter",
+        "info_right": "Leistung 626 kW"
+      },
+      {
+        "card": "8A",
+        "name": "Kamov KA-32",
+        "country": "RF",
+        "info_left": "Weltweiter Einsatz als Lastenhubschrauber",
+        "info_right": "Leistung 3266 kW"
+      },
+      {
+        "card": "8B",
+        "name": "PZL / Mil Mi-2",
+        "country": "PL",
+        "info_left": "Als Vorgänger der Mil Mi-8 noch im Einsatz",
+        "info_right": "Leistung 600 kW"
+      },
+      {
+        "card": "8C",
+        "name": "Bell UH-1",
+        "country": "USA",
+        "info_left": "Mehrzweckhubschrauber",
+        "info_right": "Leistung 1848 kW"
+      },
+      {
+        "card": "8D",
+        "name": "Eurocopter AS-565 „Panther“",
+        "country": "F",
+        "info_left": "Kampfhubschrauber",
+        "info_right": "Leistung 1140 kW"
+      }
+    ]
+  },
+  {
+    "year": 0,
+    "collection": "Jets",
+    "cards": [
+      {
+        "card": "1A",
+        "name": "Cessna Citation Jet"
+      },
+      {
+        "card": "1B",
+        "name": "Swearigen SJ 30"
+      },
+      {
+        "card": "1C",
+        "name": "IAI 1124 „Westwind“"
+      },
+      {
+        "card": "1D",
+        "name": "Beech Beechjet 400"
+      },
+      {
+        "card": "2A",
+        "name": "Canadair CRJ 700"
+      },
+      {
+        "card": "2B",
+        "name": "British Aerospace 146-200"
+      },
+      {
+        "card": "2C",
+        "name": "Fokker 100"
+      },
+      {
+        "card": "2D",
+        "name": "Fairchild 328 Jet"
+      },
+      {
+        "card": "3A",
+        "name": "Boeing 737-700"
+      },
+      {
+        "card": "3B",
+        "name": "Airbus A319-100"
+      },
+      {
+        "card": "3C",
+        "name": "Yakoklev Yak-42"
+      },
+      {
+        "card": "3D",
+        "name": "Airbus A330-300"
+      },
+      {
+        "card": "4A",
+        "name": "Airbus A340-600"
+      },
+      {
+        "card": "4B",
+        "name": "Boeing 747-400"
+      },
+      {
+        "card": "4C",
+        "name": "BAe/Aerospatiale „Concorde“"
+      },
+      {
+        "card": "4D",
+        "name": "Ilyushin IL-96"
+      },
+      {
+        "card": "5A",
+        "name": "McDonnell Douglas DC-8-73F"
+      },
+      {
+        "card": "5B",
+        "name": "Airbus A310-200F"
+      },
+      {
+        "card": "5C",
+        "name": "Boeing 757-200PF"
+      },
+      {
+        "card": "5D",
+        "name": "Boeing 767-300F (ER)"
+      },
+      {
+        "card": "6A",
+        "name": "Airbus A300-600SAT „Beluga“"
+      },
+      {
+        "card": "6B",
+        "name": "Ilyushin IL-76MF"
+      },
+      {
+        "card": "6C",
+        "name": "Boeing 747-100"
+      },
+      {
+        "card": "6D",
+        "name": "Antonov An-225"
+      },
+      {
+        "card": "7A",
+        "name": "Dassault „Rafale“"
+      },
+      {
+        "card": "7B",
+        "name": "Sukhoi S-37"
+      },
+      {
+        "card": "7C",
+        "name": "AMX International „AMX-1“"
+      },
+      {
+        "card": "7D",
+        "name": "Saab JAS39 „Gripen“"
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      }
+    ]
+  },
+  {
+    "year": 0,
+    "collection": "Power Trucks",
+    "cards": [
+      {
+        "card": "1A",
+        "name": "Liaz 250"
+      },
+      {
+        "card": "1B",
+        "name": "DAF FTR 85"
+      },
+      {
+        "card": "1C",
+        "name": "Leyland Roadtrain"
+      },
+      {
+        "card": "1D",
+        "name": "MAN 18.423"
+      },
+      {
+        "card": "2A",
+        "name": "Iveco Eurostar 440ES47"
+      },
+      {
+        "card": "2B",
+        "name": "Mercedes Actros 1848"
+      },
+      {
+        "card": "2C",
+        "name": "DAF 95XF 480"
+      },
+      {
+        "card": "2D",
+        "name": "Renault Magnum AE 430 ti"
+      },
+      {
+        "card": "3A",
+        "name": "Ford Aeromax"
+      },
+      {
+        "card": "3B",
+        "name": "Peterbilt Conventional"
+      },
+      {
+        "card": "3C",
+        "name": "Kenworth W600"
+      },
+      {
+        "card": "3D",
+        "name": "Freightliner Cabover"
+      },
+      {
+        "card": "4A",
+        "name": "Fuso Super Great X"
+      },
+      {
+        "card": "4B",
+        "name": "Nissan ATP 4"
+      },
+      {
+        "card": "4C",
+        "name": "Renault Virage VR 20"
+      },
+      {
+        "card": "4D",
+        "name": "Volvo ECT"
+      },
+      {
+        "card": "5A",
+        "name": "Ford"
+      },
+      {
+        "card": "5B",
+        "name": "Detroit Diesel Double D"
+      },
+      {
+        "card": "5C",
+        "name": "„Shock Wave“"
+      },
+      {
+        "card": "5D",
+        "name": "Kenworth"
+      },
+      {
+        "card": "6A",
+        "name": "Zil Caterpillar"
+      },
+      {
+        "card": "6B",
+        "name": "Volvo N10"
+      },
+      {
+        "card": "6C",
+        "name": "Sisu SR 340"
+      },
+      {
+        "card": "6D",
+        "name": "Scania 111"
+      },
+      {
+        "card": "7A",
+        "name": "MAN M2000"
+      },
+      {
+        "card": "7B",
+        "name": "DAF 55/210"
+      },
+      {
+        "card": "7C",
+        "name": "Iveco Eurocargo"
+      },
+      {
+        "card": "7D",
+        "name": "Mercedes LK"
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      }
+    ]
+  },
+  {
+    "year": 0,
+    "collection": "Top Roadster",
+    "cards": [
+      {
+        "card": "1A",
+        "name": "BMW M roadster",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 5,4 sec"
+      },
+      {
+        "card": "1B",
+        "name": "Audi TT",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 6,7 sec"
+      },
+      {
+        "card": "1C",
+        "name": "Alfa Romeo Spider 3.0 V6",
+        "country": "I",
+        "info_right": "Beschleunigung 0-100 km/h: 7,3 sec"
+      },
+      {
+        "card": "1D",
+        "name": "Porsche Boxter",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 6,9 sec"
+      },
+      {
+        "card": "2A",
+        "name": "Hauser H1",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 5,7 sec"
+      },
+      {
+        "card": "2B",
+        "name": "Rinspeed E-GO Rocket",
+        "country": "CH",
+        "info_right": "Beschleunigung 0-100 km/h: 4,8 sec"
+      },
+      {
+        "card": "2C",
+        "name": "Ford Indigo",
+        "country": "USA",
+        "info_right": "Beschleunigung 0-100 km/h: 3,9 sec"
+      },
+      {
+        "card": "2D",
+        "name": "Sbarro Be-Twin",
+        "country": "CH",
+        "info_right": "Beschleunigung 0-100 km/h: 6,8 sec"
+      },
+      {
+        "card": "3A",
+        "name": "Toyota Paseo",
+        "country": "J",
+        "info_right": "Beschleunigung 0-100 km/h: 11,0 sec"
+      },
+      {
+        "card": "3B",
+        "name": "Renault Megane",
+        "country": "F",
+        "info_right": "Beschleunigung 0-100 km/h: 8,7 sec"
+      },
+      {
+        "card": "3C",
+        "name": "Peugeot 206",
+        "country": "F",
+        "info_right": "Beschleunigung 0-100 km/h: 11,7 sec"
+      },
+      {
+        "card": "3D",
+        "name": "VW Golf",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 10,5 sec"
+      },
+      {
+        "card": "4A",
+        "name": "Morgan Plus 8 4.6",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 5,9 sec"
+      },
+      {
+        "card": "4B",
+        "name": "MG A",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 15 sec"
+      },
+      {
+        "card": "4C",
+        "name": "Mercedes-Benz 300 SL",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 10 sec"
+      },
+      {
+        "card": "4D",
+        "name": "VW Käfer",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 24 sec"
+      },
+      {
+        "card": "5A",
+        "name": "Dodge Viper RT/10",
+        "country": "USA",
+        "info_right": "Beschleunigung 0-100 km/h: 4,5 sec"
+      },
+      {
+        "card": "5B",
+        "name": "Jaguar XKR",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 5,6 sec"
+      },
+      {
+        "card": "5C",
+        "name": "Ferrari F355 GTS",
+        "country": "I",
+        "info_right": "Beschleunigung 0-100 km/h: 4,7 sec"
+      },
+      {
+        "card": "5D",
+        "name": "BMW Z8",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 4,8 sec"
+      },
+      {
+        "card": "6A",
+        "name": "Zender Progetto Cinque",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 8,5 sec"
+      },
+      {
+        "card": "6B",
+        "name": "Plymouth Pronto Spider",
+        "country": "USA",
+        "info_right": "Beschleunigung 0-100 km/h: 9,5 sec"
+      },
+      {
+        "card": "6C",
+        "name": "Seat Formula",
+        "country": "E",
+        "info_right": "Beschleunigung 0-100 km/h: 4,7 sec"
+      },
+      {
+        "card": "6D",
+        "name": "ItalDesign Formula 4",
+        "country": "I",
+        "info_right": "Beschleunigung 0-100 km/h: 8,7 sec"
+      },
+      {
+        "card": "7A",
+        "name": "Honda S2000",
+        "country": "J",
+        "info_right": "Beschleunigung 0-100 km/h: 6,2 sec"
+      },
+      {
+        "card": "7B",
+        "name": "Lotus Elise",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 5,9 sec"
+      },
+      {
+        "card": "7C",
+        "name": "Mazda MX-5",
+        "country": "J",
+        "info_right": "Beschleunigung 0-100 km/h: 8,7 sec"
+      },
+      {
+        "card": "7D",
+        "name": "MGF",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 7,7 sec"
+      },
+      {
+        "card": "8A",
+        "name": "GP-Spyder",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 7,5 sec"
+      },
+      {
+        "card": "8B",
+        "name": "Rush V8",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 4,5 sec"
+      },
+      {
+        "card": "8C",
+        "name": "H.M.C. Silverstone",
+        "country": "GB",
+        "info_right": "Beschleunigung 0-100 km/h: 5,6 sec"
+      },
+      {
+        "card": "8D",
+        "name": "Stallion Cobra",
+        "country": "D",
+        "info_right": "Beschleunigung 0-100 km/h: 5,8 sec"
+      }
+    ]
+  },
+  {
     "year": 1997,
     "collection": "Achtung Polizei!",
     "cards": [
@@ -194,118 +1420,6 @@
         "name": "Ford Transit FT 100",
         "country": "GB",
         "info_right": "Fahrzeug der Londoner Polizei"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -560,7 +1674,7 @@
       },
       {
         "card": "9D",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -1668,7 +2782,7 @@
         "name": "McDonnell Douglas AH-64 „Apache“",
         "country": "USA",
         "info_left": "Angriffshubschrauber",
-        "info_right": "Lesitung 2680 kW"
+        "info_right": "Leistung 2680 kW"
       },
       {
         "card": "2D",
@@ -1766,7 +2880,7 @@
         "name": "Sikorsky S-76B",
         "country": "USA",
         "info_left": "Beliebter Cityhubschrauber",
-        "info_right": "Lesitung 1430 kW"
+        "info_right": "Leistung 1430 kW"
       },
       {
         "card": "6B",
@@ -2272,6 +3386,540 @@
         "name": "Lamborghini Traction 265",
         "country": "I",
         "info_right": "Großschlepper"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "collection": "Lufthansa",
+    "cards": [
+      {
+        "card": "1A",
+        "name": "Boeing 747-400",
+        "country": "USA",
+        "info_left": "Größtes Passagierflugzeug weltweit",
+        "info_right": "Leistung 1004 kN"
+      },
+      {
+        "card": "1B",
+        "name": "Airbus A319",
+        "country": "EU",
+        "info_left": "Kleinster Airbus „Baby-Bus“",
+        "info_right": "Leistung 212 kN"
+      },
+      {
+        "card": "1C",
+        "name": "Airbus A310-300",
+        "country": "EU",
+        "info_left": "Bewährt auf Mittelstrecke",
+        "info_right": "Leistung 474 kN"
+      },
+      {
+        "card": "1D",
+        "name": "Airbus A321",
+        "country": "EU",
+        "info_left": "Großer Bruder des A320",
+        "info_right": "Leistung 276 kN"
+      },
+      {
+        "card": "2A",
+        "name": "McDonnell Douglas DC-8-73F",
+        "country": "USA",
+        "info_left": "Weltweit bewährtes Frachtflugzeug",
+        "info_right": "Leistung 392 kN"
+      },
+      {
+        "card": "2B",
+        "name": "Boeing 757",
+        "country": "USA",
+        "info_left": "Idealer Ferienflieger",
+        "info_right": "Leistung 370 kN"
+      },
+      {
+        "card": "2C",
+        "name": "AI(R) Avro RJ85",
+        "country": "GB",
+        "info_left": "Vierstrahliger Regionaljet",
+        "info_right": "Leistung 124 kN"
+      },
+      {
+        "card": "2D",
+        "name": "Piper PA-42-720 Cheyenne",
+        "country": "USA",
+        "info_left": "Schulungsflugzeug ab Bremen",
+        "info_right": "Leistung 1860 kW"
+      },
+      {
+        "card": "3A",
+        "name": "Antonov An-32",
+        "country": "RF",
+        "info_left": "Aviatrans: Russischer Frachtpartner",
+        "info_right": "Leistung 7520 kW"
+      },
+      {
+        "card": "3B",
+        "name": "Douglas DC-9-41",
+        "country": "USA",
+        "info_left": "Finnland-Connection",
+        "info_right": "Leistung 142 kN"
+      },
+      {
+        "card": "3C",
+        "name": "AI(R) ATR-42-300",
+        "country": "I/F",
+        "info_left": "Cimber Air: Dänischer Regionalpartner",
+        "info_right": "Leistung 2980 kW"
+      },
+      {
+        "card": "3D",
+        "name": "McDonnell Douglas DC-9-21",
+        "country": "USA",
+        "info_left": "SAS: Partner für Skandinavien",
+        "info_right": "Leistung 109 kN"
+      },
+      {
+        "card": "4A",
+        "name": "Boeing 777 „Triple Seven“",
+        "country": "USA",
+        "info_left": "Größte Allianz mit „United“",
+        "info_right": "Leistung 802 kN"
+      },
+      {
+        "card": "4B",
+        "name": "Airbus A300C4-203",
+        "country": "EU",
+        "info_left": "Partner für Südafrika",
+        "info_right": "Leistung 466 kN"
+      },
+      {
+        "card": "4C",
+        "name": "Boeing 767-200ER",
+        "country": "USA",
+        "info_left": "Zweite Nordamerika-Allianz",
+        "info_right": "Leistung 528 kN"
+      },
+      {
+        "card": "4D",
+        "name": "Airbus A330-300",
+        "country": "EU",
+        "info_left": "Fernost-Beziehung: Thai International",
+        "info_right": "Leistung 616 kN"
+      },
+      {
+        "card": "5A",
+        "name": "Embraer EMB-120 „Brasilia“",
+        "country": "BR",
+        "info_left": "Zubringer aus Luxemburg",
+        "info_right": "Leistung 2680 kW"
+      },
+      {
+        "card": "5B",
+        "name": "Saab 340A",
+        "country": "S",
+        "info_left": "Partner für Schottland",
+        "info_right": "Leistung 2600 kW"
+      },
+      {
+        "card": "5C",
+        "name": "De Havilland DHC-7 „Dash 7“",
+        "country": "CDN",
+        "info_left": "Slowenien Allianz",
+        "info_right": "Leistung 3340 kW"
+      },
+      {
+        "card": "5D",
+        "name": "AI(R) ATR-42-500",
+        "country": "I/F",
+        "info_left": "Alpenachse ab München",
+        "info_right": "Leistung 3580 kW"
+      },
+      {
+        "card": "6A",
+        "name": "McDonnell Douglas MD-11",
+        "country": "USA",
+        "info_left": "Partner bei Kurierdiensten",
+        "info_right": "Leistung 801 kN"
+      },
+      {
+        "card": "6B",
+        "name": "McDonnell Douglas DC-10-30",
+        "country": "USA",
+        "info_left": "Südamerika-Partner",
+        "info_right": "Leistung 702 kN"
+      },
+      {
+        "card": "6C",
+        "name": "Airbus A340-300",
+        "country": "EU",
+        "info_left": "Mauritius-Kooperation",
+        "info_right": "Leistung 616 kN"
+      },
+      {
+        "card": "6D",
+        "name": "British Aerospace 146-200",
+        "country": "GB",
+        "info_left": "Partner für Inneraustralien",
+        "info_right": "Leistung 125 kN"
+      },
+      {
+        "card": "7A",
+        "name": "Canadair Regional Jet 100ER",
+        "country": "CDN",
+        "info_left": "Lauda als Partner in Österreich",
+        "info_right": "Leistung 80 kN"
+      },
+      {
+        "card": "7B",
+        "name": "Bombardier „DHC-8-300“",
+        "country": "CDN",
+        "info_left": "Deutscher Regionalpartner",
+        "info_right": "Leistung 3210 kW"
+      },
+      {
+        "card": "7C",
+        "name": "Convair 580",
+        "country": "USA",
+        "info_left": "Kurierdienst-Beteiligung",
+        "info_right": "Leistung 5590 kW"
+      },
+      {
+        "card": "7D",
+        "name": "Boeing 737-400",
+        "country": "USA",
+        "info_left": "Türkische Chartergesellschaft",
+        "info_right": "Leistung 208 kN"
+      },
+      {
+        "card": "8A",
+        "name": "CASA-Junkers JU-52",
+        "country": "E",
+        "info_left": "Lufthansa-Traditionsflug",
+        "info_right": "Leistung 1356 kW"
+      },
+      {
+        "card": "8B",
+        "name": "Lockheed L1049 Constellation",
+        "country": "USA",
+        "info_left": "Fernstrecke in der 50er Jahren",
+        "info_right": "Leistung 9692 kW"
+      },
+      {
+        "card": "8C",
+        "name": "Boeing 727-200",
+        "country": "USA",
+        "info_left": "Jahrzehntelang im Europadienst",
+        "info_right": "Leistung 232 kN"
+      },
+      {
+        "card": "8D",
+        "name": "Boeing 707-300",
+        "country": "USA",
+        "info_left": "Vorläufer des Jumbo-Jets",
+        "info_right": "Leistung 311 kN"
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
+      },
+      {
+        "card": null,
+        "name": null
       }
     ]
   },
@@ -4398,7 +6046,7 @@
         "name": "McDonnell Douglas AH-64 „Apache“",
         "country": "USA",
         "info_left": "Angriffshubschrauber",
-        "info_right": "Lesitung 2680 kW"
+        "info_right": "Leistung 2680 kW"
       },
       {
         "card": "2D",
@@ -7507,7 +9155,7 @@
         "card": "3B",
         "name": "DB / Baureihe 01",
         "country": "D",
-        "info_right": "Erste Schnellzuglok derEinheitsbauart"
+        "info_right": "Erste Schnellzuglok der Einheitsbauart"
       },
       {
         "card": "3C",
@@ -8036,6 +9684,236 @@
         "card": "8D",
         "name": "Fact 4 Biturbo",
         "info_right": "Prototyp-Einzelstück"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "collection": "Airliner",
+    "cards": [
+      {
+        "card": "1A",
+        "name": "BAe/Aerospatiale „Concorde“",
+        "country": "GB/F",
+        "info_left": "Schnellster Passagier-Jet",
+        "info_right": "Leistung 676 kN"
+      },
+      {
+        "card": "1B",
+        "name": "Boeing 737-800",
+        "country": "USA",
+        "info_left": "Neu in Deutschland",
+        "info_right": "Leistung 233 kN"
+      },
+      {
+        "card": "1C",
+        "name": "McDonnell Douglas MD-90-30",
+        "country": "USA",
+        "info_left": "Japanische Farbimpressionen",
+        "info_right": "Leistung 222 kN"
+      },
+      {
+        "card": "1D",
+        "name": "Tupolev TU-154M",
+        "country": "RF",
+        "info_left": "Erfolgreichstes Passagierflugzeug der GUS",
+        "info_right": "Leistung 309 kN"
+      },
+      {
+        "card": "2A",
+        "name": "Airbus A300-600SAT „Beluga“",
+        "country": "EU",
+        "info_left": "Volumengrößtes Frachtflugzeug weltweit",
+        "info_right": "Leistung 525 kN"
+      },
+      {
+        "card": "2B",
+        "name": "Ilyushin IL-76MF",
+        "country": "RF/USB",
+        "info_left": "Fortsetzung der IL-76 Erfolgsstory",
+        "info_right": "Leistung 628 kN"
+      },
+      {
+        "card": "2C",
+        "name": "Antonov An-124",
+        "country": "UKR",
+        "info_left": "Weltweit gefragter Superfrachter",
+        "info_right": "Leistung 918 kN"
+      },
+      {
+        "card": "2D",
+        "name": "Antonov An-225",
+        "country": "UKR",
+        "info_left": "Größtes Frachtflugzeug der Welt",
+        "info_right": "Leistung 1374 kN"
+      },
+      {
+        "card": "3A",
+        "name": "Tupolev TU-204",
+        "country": "RF",
+        "info_left": "Neuentwicklung aus der GUS",
+        "info_right": "Leistung 314 kN"
+      },
+      {
+        "card": "3B",
+        "name": "Boeing 757-200PF",
+        "country": "USA",
+        "info_left": "Frachtversion der beliebten B757",
+        "info_right": "Leistung 356 kN"
+      },
+      {
+        "card": "3C",
+        "name": "Boeing 767-300F (ER)",
+        "country": "USA",
+        "info_left": "Speziell für umgerüstet",
+        "info_right": "Leistung 536 kN"
+      },
+      {
+        "card": "3D",
+        "name": "Airbus A310-200F",
+        "country": "EU",
+        "info_left": "Fedex läßt A310 zu Frachtern umrüsten",
+        "info_right": "Leistung 474 kN"
+      },
+      {
+        "card": "4A",
+        "name": "Yakoklev Yak-40",
+        "country": "RF",
+        "info_left": "Kleinster dreistrahliger Verkehrsjet",
+        "info_right": "Leistung 44 kN"
+      },
+      {
+        "card": "4B",
+        "name": "Boeing 727-200",
+        "country": "USA",
+        "info_left": "Mit Kundenwerbung verzeit",
+        "info_right": "Leistung 216 kN"
+      },
+      {
+        "card": "4C",
+        "name": "Tupolev TU-134B",
+        "country": "RF",
+        "info_left": "Erfolg aus der ehem. Sowjetunion",
+        "info_right": "Leistung 133 kN"
+      },
+      {
+        "card": "4D",
+        "name": "McDonnell Douglas DC-9-15",
+        "country": "USA",
+        "info_left": "Vorläufer der heutigen MD-90",
+        "info_right": "Leistung 109 kN"
+      },
+      {
+        "card": "5A",
+        "name": "Boeing 737-200",
+        "country": "USA",
+        "info_left": "Seit 1967 weltweit im Einsatz",
+        "info_right": "Leistung 142 kN"
+      },
+      {
+        "card": "5B",
+        "name": "British Aerospace 146-200",
+        "country": "GB",
+        "info_left": "Erfolg aus England",
+        "info_right": "Leistung 125 kN"
+      },
+      {
+        "card": "5C",
+        "name": "Yakovlev Yak-42",
+        "country": "RF",
+        "info_left": "Russischer 150-Sitzer",
+        "info_right": "Leistung 191 kN"
+      },
+      {
+        "card": "5D",
+        "name": "Fokker 100",
+        "country": "NL",
+        "info_left": "Junge Airline aus Macedonien",
+        "info_right": "Leistung 124 kN"
+      },
+      {
+        "card": "6A",
+        "name": "Airbus A319",
+        "country": "EU",
+        "info_left": "Kleinster Airbus, „Baby-Bus“",
+        "info_right": "Leistung 213 kN"
+      },
+      {
+        "card": "6B",
+        "name": "McDonnell Douglas MD-83",
+        "country": "USA",
+        "info_left": "Wirbt für Wäscheunternehmen",
+        "info_right": "Leistung 193 kN"
+      },
+      {
+        "card": "6C",
+        "name": "Airbus A320",
+        "country": "EU",
+        "info_left": "Erfolgreichster Airbus",
+        "info_right": "Leistung 244 kN"
+      },
+      {
+        "card": "6D",
+        "name": "Boeing 737-700",
+        "country": "USA",
+        "info_left": "City Jet der dritten Generation",
+        "info_right": "Leistung 214 kN"
+      },
+      {
+        "card": "7A",
+        "name": "Airbus A330-300",
+        "country": "EU",
+        "info_left": "Größter Airbus als Strecken-Allrounder",
+        "info_right": "Leistung 664 kN"
+      },
+      {
+        "card": "7B",
+        "name": "Ilyushin IL-96",
+        "country": "RF",
+        "info_left": "Großraumflugzeug für Langstrecken",
+        "info_right": "Leistung 628 kN"
+      },
+      {
+        "card": "7C",
+        "name": "Boeing 747SP",
+        "country": "USA",
+        "info_left": "Kurzer Jumbo-Jet mit größterer Reichweite",
+        "info_right": "Leistung 920 kN"
+      },
+      {
+        "card": "7D",
+        "name": "Airbus A3XX-200",
+        "country": "EU",
+        "info_left": "Euro-Jumbo in Entwicklung",
+        "info_right": "Leistung 1332 kN"
+      },
+      {
+        "card": "8A",
+        "name": "Ilyushin IL-86",
+        "country": "RF",
+        "info_left": "Russischer Jumbo",
+        "info_right": "Leistung 508 kN"
+      },
+      {
+        "card": "8B",
+        "name": "Lockheed L1011-500",
+        "country": "USA",
+        "info_left": "Beliebtes Langstreckenflugzeug",
+        "info_right": "Leistung 666 kN"
+      },
+      {
+        "card": "8C",
+        "name": "British Aerospace BAC 1-11",
+        "country": "GB",
+        "info_left": "Auf kurzstrecken bewährter 100-Sitzer",
+        "info_right": "Leistung 124 kN"
+      },
+      {
+        "card": "8D",
+        "name": "Boeing 767-200ER",
+        "country": "USA",
+        "info_left": "Erster Zweistrahler über dem Atlantik",
+        "info_right": "Leistung 508 kN"
       }
     ]
   },
@@ -10969,7 +12847,7 @@
         "card": "3B",
         "name": "DB / Baureihe 01",
         "country": "D",
-        "info_right": "Erste Schnellzuglok derEinheitsbauart"
+        "info_right": "Erste Schnellzuglok der Einheitsbauart"
       },
       {
         "card": "3C",
@@ -14686,136 +16564,6 @@
         "name": "DB / Baureihe 411",
         "country": "D",
         "info_right": "ICT mit Neigetechnik"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": "8D",
-        "name": "DB / Baureihe 411",
-        "country": "D",
-        "info_right": "ICT mit Neigetechnik"
       }
     ]
   },
@@ -15149,7 +16897,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -16819,7 +18567,7 @@
       },
       {
         "card": "8C",
-        "name": "Braugells-Jawa",
+        "name": "Braguells-Jawa",
         "country": "RF",
         "info_right": "Fahrer: Vitali Lumpov"
       },
@@ -17961,6 +19709,7 @@
       {
         "card": "5D",
         "name": "Williams-BMW FW22",
+        "country": "GB",
         "info_left": "Fahrer: Ralf Schumacher",
         "info_right": "Jahr: 2000"
       },
@@ -18904,7 +20653,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -21661,7 +23410,7 @@
         "card": "3D",
         "name": "McLaren-Mercedes MP4/16",
         "country": "GB",
-        "info_left": "Fahrer: Mika Häkkinen",
+        "info_left": "Fahrer: David Coulthard",
         "info_right": "Jahr: 2001"
       },
       {
@@ -21709,6 +23458,7 @@
       {
         "card": "5C",
         "name": "Williams-BMW FW22",
+        "country": "GB",
         "info_left": "Fahrer: Ralf Schumacher",
         "info_right": "Jahr: 2000"
       },
@@ -22531,7 +24281,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -26159,7 +27909,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -26484,134 +28234,6 @@
         "country": "EU",
         "info_left": "Such- und Rettungsdienst-Neuentwicklung",
         "info_right": "Leistung 2520 kW"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -30311,7 +31933,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -33711,7 +35333,7 @@
       },
       {
         "card": "5A",
-        "name": "AMV 8x8",
+        "name": "AMV8x8",
         "country": "SF",
         "info_right": "Besatzung: 1 + 8 Personen"
       },
@@ -34533,7 +36155,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -37991,7 +39613,7 @@
       },
       {
         "card": "5A",
-        "name": "AMV 8x8",
+        "name": "AMV8x8",
         "country": "SF",
         "info_right": "Besatzung: 1 + 8 Personen"
       },
@@ -38813,7 +40435,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -40764,7 +42386,7 @@
       {
         "card": "5A",
         "name": "MAX SX 2000",
-        "country": "AUS",
+        "country": "A",
         "info_right": "Truck des KTM-Racing-Teams bei der Dakar-Rallye 2006"
       },
       {
@@ -41099,7 +42721,7 @@
       },
       {
         "card": "2C",
-        "name": "Xtreme XRV 627",
+        "name": "Xtreme XRV627",
         "country": "AUS",
         "info_right": "Freizeit-Buggy der Xtremen Art"
       },
@@ -42268,14 +43890,6 @@
         "country": "D",
         "info_left": "In der mittelachse aufklappbares Ölauffangschiff",
         "info_right": "Besatzung: 6"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -42291,7 +43905,7 @@
       },
       {
         "card": "1B",
-        "name": "AMV 8x8",
+        "name": "AMV8x8",
         "country": "SF",
         "info_right": "Besatzung: 1 + 8 Personen"
       },
@@ -42484,6 +44098,7 @@
       {
         "card": "1A",
         "name": "UTY / Bauhreihe O'zbekiston",
+        "country": "UZ",
         "info_right": "Elektrische Mehrzwecklok für die Eisenbahn Usbekistans"
       },
       {
@@ -42671,150 +44286,6 @@
         "name": "DB / Baureihe 445",
         "country": "D",
         "info_right": "Doppelstock-Triebwagen der Bombardier Transportation"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -42950,7 +44421,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -44856,7 +46327,7 @@
       },
       {
         "card": "2C",
-        "name": "Xtreme XRV 627",
+        "name": "Xtreme XRV627",
         "country": "AUS",
         "info_right": "Freizeit-Buggy der Xtremen Art"
       },
@@ -46110,14 +47581,6 @@
         "country": "D",
         "info_left": "In der mittelachse aufklappbares Ölauffangschiff",
         "info_right": "Besatzung: 6"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -46847,7 +48310,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -48921,7 +50384,7 @@
       },
       {
         "card": "2C",
-        "name": "Xtreme XRV 627",
+        "name": "Xtreme XRV627",
         "country": "AUS",
         "info_right": "Freizeit-Buggy der Xtremen Art"
       },
@@ -50495,7 +51958,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -52510,214 +53973,6 @@
         "card": "8D",
         "name": "Komatsu PC8000",
         "country": "D"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -54427,14 +55682,6 @@
         "country": "J",
         "info_left": "Zerstörer der Kongo-Klasse",
         "info_right": "Besatzung: 307"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -54831,22 +56078,6 @@
         "name": "DB / Baureihe 411",
         "country": "D",
         "info_right": "Hochgeschwindigkeits-Triebwagenzug der Deutschen Bahn AG"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -54982,7 +56213,7 @@
       },
       {
         "card": "5C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -55260,296 +56491,6 @@
         "name": "Elia/Renault Megane RS Biofuel24",
         "country": "D/F",
         "info_right": "Prototyp / Elia-Biofuel24 Technik"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": "Ford Focus FCEV",
-        "country": "D",
-        "info_right": "Prototyp / Antrieb Brennstoffzelle"
-      },
-      {
-        "card": null,
-        "name": "Opel HydroGen3 „liquid“",
-        "country": "D",
-        "info_right": "Prototyp / Antrieb Brennstoffzelle"
-      },
-      {
-        "card": null,
-        "name": "Esoro HyCar",
-        "country": "CH",
-        "info_right": "Prototyp / Antrieb Brennstoffzelle"
       }
     ]
   },
@@ -56070,7 +57011,7 @@
       {
         "card": "5D",
         "name": "Iveco Magirus DUFFY",
-        "country": "CN",
+        "country": "I",
         "info_right": "2-Wege-Löschfahrzeug Tunnel - 30 km/h auf Schiene"
       },
       {
@@ -56144,14 +57085,6 @@
         "name": "Mercedes/THW GKW 1",
         "country": "D",
         "info_right": "Neueste Gerätekraftwagen-Generation auf Axor-Basis"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -57098,214 +58031,6 @@
         "card": "8D",
         "name": "Komatsu PC8000",
         "country": "D"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -58900,7 +59625,7 @@
       },
       {
         "card": "7B",
-        "name": "TMV 6x6",
+        "name": "TMV6x6",
         "country": "GB",
         "info_right": "Besatzung: bis zu 8 Personen"
       },
@@ -58962,7 +59687,7 @@
       },
       {
         "card": "1C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -60085,7 +60810,7 @@
       {
         "card": "5D",
         "name": "Iveco Magirus DUFFY",
-        "country": "CN",
+        "country": "I",
         "info_right": "2-Wege-Löschfahrzeug Tunnel - 30 km/h auf Schiene"
       },
       {
@@ -60159,14 +60884,6 @@
         "name": "Mercedes/THW GKW 1",
         "country": "D",
         "info_right": "Neueste Gerätekraftwagen-Generation auf Axor-Basis"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -61357,214 +62074,6 @@
         "card": "8D",
         "name": "Komatsu PC8000",
         "country": "D"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -61763,14 +62272,6 @@
         "name": "Mercedes CLS 500 Shooting Brake",
         "country": "D",
         "info_right": "Kaufpreis ab 82.229- EUR"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -62724,24 +63225,24 @@
       },
       {
         "card": "7A",
-        "name": "Forbin",
-        "country": "F",
-        "info_left": "Fregatte der Horizon-Klasse",
-        "info_right": "Besatzung: 220"
+        "name": "Independence",
+        "country": "USA",
+        "info_left": "Littoral Combat Triamaran (LCS-2)",
+        "info_right": "Besatzung: 40"
       },
       {
         "card": "7B",
-        "name": "Al Damman",
-        "country": "KSA",
-        "info_left": "Fregatte der Al Riyadh-Klasse (F3000S Sawari II)",
-        "info_right": "Besatzung: 164"
+        "name": "Wave Knight",
+        "country": "GB",
+        "info_left": "Tanker der Wave-Klasse",
+        "info_right": "Besatzung: 80"
       },
       {
         "card": "7C",
-        "name": "Hamburg",
+        "name": "Berlin",
         "country": "D",
-        "info_left": "Fregatte der Sachsen-Klasse (124)",
-        "info_right": "Besatzung: 255"
+        "info_left": "Einsatzgruppenversorger der Berlin-Klasse",
+        "info_right": "Besatzung: 139"
       },
       {
         "card": "7D",
@@ -62777,14 +63278,6 @@
         "country": "IND",
         "info_left": "Fregatte der Shivalik-Klasse",
         "info_right": "Besatzung: 257"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -62944,7 +63437,7 @@
       },
       {
         "card": "7B",
-        "name": "TMV 6x6",
+        "name": "TMV6x6",
         "country": "GB",
         "info_right": "Besatzung: bis zu 8 Personen"
       },
@@ -63288,7 +63781,7 @@
       },
       {
         "card": "4C",
-        "name": "BAe-Aerospatiale „Concorde“",
+        "name": "BAe/Aerospatiale „Concorde“",
         "country": "GB/F",
         "info_left": "Schnellster Passagier-Jet",
         "info_right": "Leistung 676 kN"
@@ -64379,14 +64872,6 @@
         "name": "Mercedes CLS 500 Shooting Brake",
         "country": "D",
         "info_right": "Kaufpreis ab 82.229- EUR"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -66573,214 +67058,6 @@
         "card": "8D",
         "name": "Komatsu PC8000",
         "country": "D"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -66979,22 +67256,6 @@
         "name": "Mercedes CLS 500 Shooting Brake",
         "country": "D",
         "info_right": "Kaufpreis ab 82.229- EUR"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -67605,14 +67866,6 @@
         "country": "J",
         "info_left": "Zerstörer der Kongo-Klasse",
         "info_right": "Besatzung: 307"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -68804,7 +69057,7 @@
       },
       {
         "card": "3C",
-        "name": "»Toyota AI-Anabi«",
+        "name": "»Toyota Al-Anabi«",
         "country": "Q",
         "info_right": "Die Viertelmeile (402,34 m) in 4,13 Sekunden"
       },
@@ -70744,14 +70997,6 @@
         "name": "MINI Cooper S E Countryman All4",
         "country": "GB",
         "info_right": "Antrieb: Hybrid, Kaufpreis: 36.500,- EUR"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -70918,214 +71163,6 @@
         "card": "8D",
         "name": "Komatsu 960E-2K",
         "country": "USA"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -71324,22 +71361,6 @@
         "name": "Mercedes-Benz CLS 500 Shooting Brake",
         "country": "D",
         "info_right": "Kaufpreis ab 82.229- EUR"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -74994,214 +75015,6 @@
         "card": "8D",
         "name": "Volvo R100E",
         "country": "GB"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -75400,22 +75213,6 @@
         "name": "Mercedes-Maybach GLS 600 4MATIC",
         "country": "D",
         "info_right": "Kaufpreis ab 156.078- EUR"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -78088,214 +77885,6 @@
         "card": "8D",
         "name": "Volvo R100E",
         "country": "GB"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },
@@ -78494,22 +78083,6 @@
         "name": "Mercedes-Maybach GLS 600 4MATIC",
         "country": "D",
         "info_right": "Kaufpreis ab 156.078- EUR"
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
-      },
-      {
-        "card": null,
-        "name": null
       }
     ]
   },

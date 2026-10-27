@@ -67477,6 +67477,204 @@
   },
   {
     "year": 2016,
+    "collection": "Auto Monster",
+    "cards": [
+      {
+        "card": "1A",
+        "name": "»Ghe-O PREDATOR«",
+        "country": "RO",
+        "info_right": "Entwickelt für die extreme Offroad-Klasse"
+      },
+      {
+        "card": "1B",
+        "name": "»RockZilla by JD3«",
+        "country": "USA",
+        "info_right": "Basis: Ford Excursion mit V10-Moto, Kaufpreis ca. 75.000 US$"
+      },
+      {
+        "card": "1C",
+        "name": "»Peugeot 2008 DKR«",
+        "country": "F",
+        "info_right": "Dakar-Bolide mit Zweirad-Antrieb und 200 km/h Spitze"
+      },
+      {
+        "card": "1D",
+        "name": "»Local Motors Rally Fighter«",
+        "country": "USA",
+        "info_right": "Offroad-Kit Car mit Fiberglaskonstruktion und 225 km/h Vmax"
+      },
+      {
+        "card": "2A",
+        "name": "»Toyota Tacoma«",
+        "country": "NZ",
+        "info_right": "Fahrer: Rod Millen im Jahr 2000"
+      },
+      {
+        "card": "2B",
+        "name": "»Suzuki XL7 Hill Climb Special«",
+        "country": "J",
+        "info_right": "Fahrer: Nobuhiro „Monster“ Taijma im Jahr 2007"
+      },
+      {
+        "card": "2C",
+        "name": "»Dallenbach PVA 4«",
+        "country": "USA",
+        "info_right": "Fahrer: Paul Dallenbach im Jahr 2008"
+      },
+      {
+        "card": "2D",
+        "name": "»Peugeot 208 T16 Pikes Peak«",
+        "country": "F",
+        "info_right": "Fahrer: Sébastian Loeb im Jahr 2013"
+      },
+      {
+        "card": "3A",
+        "name": "»Dodge Charger 007«",
+        "country": "USA",
+        "info_right": "Die Viertelmeile (402,34 m) in 4,72 Sekunden"
+      },
+      {
+        "card": "3B",
+        "name": "»Caterpillar«",
+        "country": "USA",
+        "info_right": "Die Viertelmeile (402,34 m) in 4,49 Sekunden"
+      },
+      {
+        "card": "3C",
+        "name": "»Toyota Al-Anabi«",
+        "country": "Q",
+        "info_right": "Die Viertelmeile (402,34 m) in 4,13 Sekunden"
+      },
+      {
+        "card": "3D",
+        "name": "»Vergotz Camaro«",
+        "country": "USA",
+        "info_right": "Die Viertelmeile (402,34 m) in 4,03 Sekunden"
+      },
+      {
+        "card": "4A",
+        "name": "»Mean Streak«",
+        "country": "USA",
+        "info_right": "Schlamm-Kreuzer auf Jeep-Basis"
+      },
+      {
+        "card": "4B",
+        "name": "»Kryptonite«",
+        "country": "USA",
+        "info_right": "Schlamm-Kreuzer auf Jeep-Basis"
+      },
+      {
+        "card": "4C",
+        "name": "»Insanity«",
+        "country": "USA",
+        "info_right": "Schlamm-Kreuzer auf Basis eines Jeep-Chrysler"
+      },
+      {
+        "card": "4D",
+        "name": "»Defender«",
+        "country": "IS",
+        "info_right": "Schlamm-Kreuzer auf Land Rover-Basis"
+      },
+      {
+        "card": "5A",
+        "name": "»El Toro Loco«",
+        "country": "USA",
+        "info_right": "Basis: Custom Concept"
+      },
+      {
+        "card": "5B",
+        "name": "»Madusa«",
+        "country": "USA",
+        "info_right": "Basis: Ford F-150 Crew Cab"
+      },
+      {
+        "card": "5C",
+        "name": "»Jurassic Attack«",
+        "country": "USA",
+        "info_right": "Basis: 2001 Ford Custom GTS"
+      },
+      {
+        "card": "5D",
+        "name": "»Max-D«",
+        "country": "USA",
+        "info_right": "Basis: Custom Concept Futuristic SUV"
+      },
+      {
+        "card": "6A",
+        "name": "»Smart forfun?«",
+        "country": "GR",
+        "info_right": "3,70 m hoher Monster-Mix aus Smart und Unimog"
+      },
+      {
+        "card": "6B",
+        "name": "»WaterCar Panther«",
+        "country": "USA",
+        "info_right": "Höchstgeschwindigkeit zu Land 160 km/h, zu Wasser 72 km/h"
+      },
+      {
+        "card": "6C",
+        "name": "»Mopar Jeep Lower Forty«",
+        "country": "USA",
+        "info_right": "Offroader auf Riesenfüßen (Reifengröße 40 x 13,5 Zoll)"
+      },
+      {
+        "card": "6D",
+        "name": "»Fornasari Buggy«",
+        "country": "I",
+        "info_right": "Racing-Performance pur: 0-100 km/h in 3,8 sec; Vmax 280 km/h"
+      },
+      {
+        "card": "7A",
+        "name": "»Devolro Diablo«",
+        "country": "USA",
+        "info_right": "Höchstgeschwindigkeit: 257 km/h"
+      },
+      {
+        "card": "7B",
+        "name": "»BRABUS 700 6x6«",
+        "country": "D",
+        "info_right": "Höchstgeschwindigkeit: 160 km/h"
+      },
+      {
+        "card": "7C",
+        "name": "»Conquest Knight XV«",
+        "country": "CDN",
+        "info_right": "Höchstgeschwindigkeit: 248 km/h"
+      },
+      {
+        "card": "7D",
+        "name": "»IceCool 6x6«",
+        "country": "IS",
+        "info_right": "Höchstgeschwindigkeit: 120 km/h"
+      },
+      {
+        "card": "8A",
+        "name": "»Avtoros Z-83«",
+        "country": "RUS",
+        "info_right": "Auf 8 angetriebenen Rädern durch die Eiswüste Sibiriens"
+      },
+      {
+        "card": "8B",
+        "name": "»BRABUS Unimog Black Edition«",
+        "country": "D",
+        "info_right": "Höchste Geländegängigkeit gepaart mit luxuriöser Eleganz"
+      },
+      {
+        "card": "8C",
+        "name": "»Geigercars H2-Bomber«",
+        "country": "D",
+        "info_right": "In jedem Gelände perfekte Traktion mit Mattracks-Kettenantrieb"
+      },
+      {
+        "card": "8D",
+        "name": "»Rhino RTV-RC«",
+        "country": "USA",
+        "info_right": "Voller Spassfaktor bei 85 km/h garantiert"
+      }
+    ]
+  },
+  {
+    "year": 2016,
     "collection": "Car Tuning",
     "cards": [
       {

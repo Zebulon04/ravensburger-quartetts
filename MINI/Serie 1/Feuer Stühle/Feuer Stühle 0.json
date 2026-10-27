@@ -1,0 +1,230 @@
+{
+  "year": 0,
+  "collection": "Feuer Stühle",
+  "cards": [
+    {
+      "card": "1A",
+      "name": "Yamaha XJ 900S Diversion",
+      "hubraum_ccm": "892",
+      "leistung_kw": "66",
+      "drehzahl__u_min": "8250",
+      "tempo_km_h": "205"
+    },
+    {
+      "card": "1B",
+      "name": "Cagiva River 600",
+      "hubraum_ccm": "601",
+      "leistung_kw": "25",
+      "drehzahl__u_min": "5000",
+      "tempo_km_h": "153"
+    },
+    {
+      "card": "1C",
+      "name": "BMW K1200 RS",
+      "hubraum_ccm": "1171",
+      "leistung_kw": "96",
+      "drehzahl__u_min": "8750",
+      "tempo_km_h": "225"
+    },
+    {
+      "card": "1D",
+      "name": "Buell S3T Thunderbolt",
+      "hubraum_ccm": "1189",
+      "leistung_kw": "64",
+      "drehzahl__u_min": "5900",
+      "tempo_km_h": "205"
+    },
+    {
+      "card": "2A",
+      "name": "Honda Gold Wing SE",
+      "hubraum_ccm": "1520",
+      "leistung_kw": "74",
+      "drehzahl__u_min": "5200",
+      "tempo_km_h": "184"
+    },
+    {
+      "card": "2B",
+      "name": "Moto Guzzi California",
+      "hubraum_ccm": "942",
+      "leistung_kw": "51",
+      "drehzahl__u_min": "3600",
+      "tempo_km_h": "180"
+    },
+    {
+      "card": "2C",
+      "name": "Harley Heritage Springer",
+      "hubraum_ccm": "1338",
+      "leistung_kw": "41",
+      "drehzahl__u_min": "5000",
+      "tempo_km_h": "155"
+    },
+    {
+      "card": "2D",
+      "name": "BMW K1100 LT SE",
+      "hubraum_ccm": "1092",
+      "leistung_kw": "74",
+      "drehzahl__u_min": "7500",
+      "tempo_km_h": "207"
+    },
+    {
+      "card": "3A",
+      "name": "Moto Guzzi V10 Centauro",
+      "hubraum_ccm": "992",
+      "leistung_kw": "70",
+      "drehzahl__u_min": "8200",
+      "tempo_km_h": "217"
+    },
+    {
+      "card": "3B",
+      "name": "BMW R1100 R",
+      "hubraum_ccm": "1085",
+      "leistung_kw": "59",
+      "drehzahl__u_min": "6750",
+      "tempo_km_h": "200"
+    },
+    {
+      "card": "3C",
+      "name": "Kawasaki Zephyr 1100",
+      "hubraum_ccm": "1062",
+      "leistung_kw": "66",
+      "drehzahl__u_min": "8000",
+      "tempo_km_h": "211"
+    },
+    {
+      "card": "3D",
+      "name": "Suzuki GSF 1200 Bandit",
+      "hubraum_ccm": "1157",
+      "leistung_kw": "72",
+      "drehzahl__u_min": "8500",
+      "tempo_km_h": "220"
+    },
+    {
+      "card": "4A",
+      "name": "Strahm Space Racing D10",
+      "hubraum_ccm": "1188",
+      "leistung_kw": "72",
+      "drehzahl__u_min": "7950",
+      "tempo_km_h": "222"
+    },
+    {
+      "card": "4B",
+      "name": "Bimota Mantra",
+      "hubraum_ccm": "904",
+      "leistung_kw": "59",
+      "drehzahl__u_min": "7000",
+      "tempo_km_h": "194"
+    },
+    {
+      "card": "4C",
+      "name": "Ecomobile Turbo",
+      "hubraum_ccm": "987",
+      "leistung_kw": "100",
+      "drehzahl__u_min": "7000",
+      "tempo_km_h": "275"
+    },
+    {
+      "card": "4D",
+      "name": "BMW C1",
+      "hubraum_ccm": "125",
+      "leistung_kw": "11",
+      "drehzahl__u_min": "6500",
+      "tempo_km_h": "100"
+    },
+    {
+      "card": "5A",
+      "name": "Kawasaki VN-15 SE",
+      "hubraum_ccm": "1471",
+      "leistung_kw": "47",
+      "drehzahl__u_min": "5000",
+      "tempo_km_h": "178"
+    },
+    {
+      "card": "5B",
+      "name": "Suzuki VS 1400 Intruder",
+      "hubraum_ccm": "1360",
+      "leistung_kw": "45",
+      "drehzahl__u_min": "5000",
+      "tempo_km_h": "159"
+    },
+    {
+      "card": "5C",
+      "name": "BMW R1200 C",
+      "hubraum_ccm": "1170",
+      "leistung_kw": "45",
+      "drehzahl__u_min": "5000",
+      "tempo_km_h": "168"
+    },
+    {
+      "card": "5D",
+      "name": "Honda VT1100 C2 Shadow",
+      "hubraum_ccm": "1099",
+      "leistung_kw": "37",
+      "drehzahl__u_min": "4500",
+      "tempo_km_h": "157"
+    },
+    {
+      "card": "6A",
+      "name": "Bimota YB9 SR",
+      "hubraum_ccm": "599",
+      "leistung_kw": "74",
+      "drehzahl__u_min": "11500",
+      "tempo_km_h": "225"
+    },
+    {
+      "card": "6B",
+      "name": "Kawasaki Ninja ZX-7R",
+      "hubraum_ccm": "748",
+      "leistung_kw": "72",
+      "drehzahl__u_min": "12000",
+      "tempo_km_h": "246"
+    },
+    {
+      "card": "6C",
+      "name": "Suzuki TL 1000S",
+      "hubraum_ccm": "996",
+      "leistung_kw": "72",
+      "drehzahl__u_min": "8500",
+      "tempo_km_h": "225"
+    },
+    {
+      "card": "6D",
+      "name": "Ducati 916 Strada Biposto",
+      "hubraum_ccm": "916",
+      "leistung_kw": "80",
+      "drehzahl__u_min": "9000",
+      "tempo_km_h": "256"
+    },
+    {
+      "card": "7A",
+      "name": "MuZ 660 Baghira",
+      "hubraum_ccm": "660",
+      "leistung_kw": "37",
+      "drehzahl__u_min": "6500",
+      "tempo_km_h": "155"
+    },
+    {
+      "card": "7B",
+      "name": "BMW F650",
+      "hubraum_ccm": "652",
+      "leistung_kw": "35",
+      "drehzahl__u_min": "6500",
+      "tempo_km_h": "163"
+    },
+    {
+      "card": "7C",
+      "name": "Honda NX 650 Dominator",
+      "hubraum_ccm": "644",
+      "leistung_kw": "32",
+      "drehzahl__u_min": "6000",
+      "tempo_km_h": "159"
+    },
+    {
+      "card": "7D",
+      "name": "Suzuki DR 800S",
+      "hubraum_ccm": "779",
+      "leistung_kw": "37",
+      "drehzahl__u_min": "6600",
+      "tempo_km_h": "167"
+    }
+  ]
+}

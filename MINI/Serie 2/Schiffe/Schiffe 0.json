@@ -1,0 +1,230 @@
+{
+  "year": 0,
+  "collection": "Schiffe",
+  "cards": [
+    {
+      "card": "1A",
+      "name": "C. Columbus",
+      "brt_brz": "14903",
+      "geschwindigkeit_kn": "18,5",
+      "leistung_ps": "14362",
+      "länge_m": "144"
+    },
+    {
+      "card": "1B",
+      "name": "Bremen",
+      "brt_brz": "6752",
+      "geschwindigkeit_kn": "16,9",
+      "leistung_ps": "6600",
+      "länge_m": "111,5"
+    },
+    {
+      "card": "1C",
+      "name": "Vistamar",
+      "brt_brz": "7478",
+      "geschwindigkeit_kn": "17",
+      "leistung_ps": "5299",
+      "länge_m": "117,4"
+    },
+    {
+      "card": "1D",
+      "name": "Renaissance Three",
+      "brt_brz": "4077",
+      "geschwindigkeit_kn": "15",
+      "leistung_ps": "6850",
+      "länge_m": "88,3"
+    },
+    {
+      "card": "2A",
+      "name": "Aida",
+      "brt_brz": "38531",
+      "geschwindigkeit_kn": "22",
+      "leistung_ps": "29540",
+      "länge_m": "193,3"
+    },
+    {
+      "card": "2B",
+      "name": "Oriana",
+      "brt_brz": "69153",
+      "geschwindigkeit_kn": "25",
+      "leistung_ps": "54060",
+      "länge_m": "260"
+    },
+    {
+      "card": "2C",
+      "name": "Horizon",
+      "brt_brz": "46811",
+      "geschwindigkeit_kn": "21,4",
+      "leistung_ps": "27181",
+      "länge_m": "207,6"
+    },
+    {
+      "card": "2D",
+      "name": "Queen Elizabeth 2",
+      "brt_brz": "70327",
+      "geschwindigkeit_kn": "28,5",
+      "leistung_ps": "130003",
+      "länge_m": "294"
+    },
+    {
+      "card": "3A",
+      "name": "Yuan He",
+      "brt_brz": "48311",
+      "geschwindigkeit_kn": "24",
+      "leistung_ps": "46740",
+      "länge_m": "275,1"
+    },
+    {
+      "card": "3B",
+      "name": "Ever Reach",
+      "brt_brz": "53359",
+      "geschwindigkeit_kn": "23",
+      "leistung_ps": "42066",
+      "länge_m": "294"
+    },
+    {
+      "card": "3C",
+      "name": "Cap Finisterre",
+      "brt_brz": "29841",
+      "geschwindigkeit_kn": "18,5",
+      "leistung_ps": "22114",
+      "länge_m": "200,2"
+    },
+    {
+      "card": "3D",
+      "name": "Regina Maersk",
+      "brt_brz": "81488",
+      "geschwindigkeit_kn": "25",
+      "leistung_ps": "54840",
+      "länge_m": "318,2"
+    },
+    {
+      "card": "4A",
+      "name": "STENA Empereur",
+      "brt_brz": "15811",
+      "geschwindigkeit_kn": "22",
+      "leistung_ps": "74582",
+      "länge_m": "152,2"
+    },
+    {
+      "card": "4B",
+      "name": "Superfast II",
+      "brt_brz": "23663",
+      "geschwindigkeit_kn": "27,5",
+      "leistung_ps": "43086",
+      "länge_m": "173,7"
+    },
+    {
+      "card": "4C",
+      "name": "Ulysse",
+      "brt_brz": "17000",
+      "geschwindigkeit_kn": "20",
+      "leistung_ps": "19040",
+      "länge_m": "161,5"
+    },
+    {
+      "card": "4D",
+      "name": "Schleswig Hoistein",
+      "brt_brz": "15000",
+      "geschwindigkeit_kn": "18,5",
+      "leistung_ps": "23501",
+      "länge_m": "142"
+    },
+    {
+      "card": "5A",
+      "name": "Glorious Future",
+      "brt_brz": "22147",
+      "geschwindigkeit_kn": "14,5",
+      "leistung_ps": "7923",
+      "länge_m": "180,8"
+    },
+    {
+      "card": "5B",
+      "name": "Golar Freeze",
+      "brt_brz": "95879",
+      "geschwindigkeit_kn": "20",
+      "leistung_ps": "40000",
+      "länge_m": "287,5"
+    },
+    {
+      "card": "5C",
+      "name": "Sarita",
+      "brt_brz": "70434",
+      "geschwindigkeit_kn": "14",
+      "leistung_ps": "18620",
+      "länge_m": "252,5"
+    },
+    {
+      "card": "5D",
+      "name": "Tian Long Xing",
+      "brt_brz": "24964",
+      "geschwindigkeit_kn": "14,5",
+      "leistung_ps": "8337",
+      "länge_m": "186,6"
+    },
+    {
+      "card": "6A",
+      "name": "Hansa Visby",
+      "brt_brz": "10842",
+      "geschwindigkeit_kn": "21",
+      "leistung_ps": "16620",
+      "länge_m": "156,5"
+    },
+    {
+      "card": "6B",
+      "name": "Tasman Mermaid",
+      "brt_brz": "9829",
+      "geschwindigkeit_kn": "19",
+      "leistung_ps": "11213",
+      "länge_m": "141,8"
+    },
+    {
+      "card": "6C",
+      "name": "Pierre Doux",
+      "brt_brz": "9438",
+      "geschwindigkeit_kn": "20,5",
+      "leistung_ps": "12069",
+      "länge_m": "138,1"
+    },
+    {
+      "card": "6D",
+      "name": "Hornbay",
+      "brt_brz": "12887",
+      "geschwindigkeit_kn": "20",
+      "leistung_ps": "8874",
+      "länge_m": "153,5"
+    },
+    {
+      "card": "7A",
+      "name": "Heincke",
+      "brt_brz": "1322",
+      "geschwindigkeit_kn": "12,8",
+      "leistung_ps": "4665",
+      "länge_m": "55,2"
+    },
+    {
+      "card": "7B",
+      "name": "Walther Herwig",
+      "brt_brz": "3824",
+      "geschwindigkeit_kn": "14",
+      "leistung_ps": "3430",
+      "länge_m": "77,5"
+    },
+    {
+      "card": "7C",
+      "name": "C.S. Monarch",
+      "brt_brz": "3795",
+      "geschwindigkeit_kn": "15",
+      "leistung_ps": "5200",
+      "länge_m": "97,3"
+    },
+    {
+      "card": "7D",
+      "name": "Oceanic",
+      "brt_brz": "2294",
+      "geschwindigkeit_kn": "20,5",
+      "leistung_ps": "13195",
+      "länge_m": "87,6"
+    }
+  ]
+}
